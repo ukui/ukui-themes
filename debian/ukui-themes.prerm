@@ -1,0 +1,14 @@
+#!/bin/sh -e
+
+set -e
+
+if [ "x$1" = xremove ]; then
+	update-alternatives \
+		--remove default.plymouth /usr/share/plymouth/themes/ukui-logo/ukui-logo.plymouth
+
+	update-alternatives \
+		--remove text.plymouth /usr/share/plymouth/themes/ukui-text/ukui-text.plymouth
+fi
+
+
+#DEBHELPER#

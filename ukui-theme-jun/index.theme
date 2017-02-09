@@ -1,0 +1,15 @@
+
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ukui-theme-jun
+Comment=ukui-theme-jun GTK3 theme
+Encoding=UTF-8
+
+Name[en]=ukui-theme-jun
+
+[X-GNOME-Metatheme]
+GtkTheme=ukui-theme-jun
+MetacityTheme=ukui-theme-jun
+IconTheme=ukui-icon-theme
+CursorTheme=ukui-icon-theme
+ButtonLayout=:minimize,maximize,close

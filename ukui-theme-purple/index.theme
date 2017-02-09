@@ -1,0 +1,15 @@
+
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ukui-theme-purple
+Comment=ukui-theme-purple GTK3 theme
+Encoding=UTF-8
+
+Name[en]=ukui-theme-purple
+
+[X-GNOME-Metatheme]
+GtkTheme=ukui-theme-purple
+MetacityTheme=ukui-theme-purple
+IconTheme=ukui-icon-theme
+CursorTheme=ukui-icon-theme
+ButtonLayout=:minimize,maximize,close

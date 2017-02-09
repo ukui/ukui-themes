@@ -1,0 +1,16 @@
+debian/25_ukui-themes.gschema.override /usr/share/glib-2.0/schemas
+debian/chinese /usr/share/initramfs-tools/hooks/
+usr/share/plymouth/themes/
+ukui-grub-theme/ukui_grub_bg.tga /boot/grub/
+ukui-grub-theme/06_ukui_theme /etc/grub.d/
+ukui-icon-theme usr/share/icons/
+Faba usr/share/icons/
+ukui-theme usr/share/themes/
+ukui-theme-black usr/share/themes/
+ukui-theme-green usr/share/themes/
+ukui-theme-jun usr/share/themes/
+ukui-theme-orange usr/share/themes/
+ukui-theme-purple usr/share/themes/
+ukui-theme-red usr/share/themes/
+ukui-theme-yellow usr/share/themes/
+

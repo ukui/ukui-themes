@@ -1,0 +1,60 @@
+# ==============================================================================
+# Kylin startup-menu settings
+# ==============================================================================
+style "startupmenu-container" = "murrine-notebook-bg" {
+        xthickness = 0 # Width of tabs and notebook borders.
+        ythickness = 0 # Height of tabs and notebook borders.
+}
+
+style "startupmenu-viewport" = "murrine-notebook-bg" {
+        xthickness = 0 # Width of tabs and notebook borders.
+        ythickness = 1 # Height of tabs and notebook borders.
+}
+
+style "startupmenu-button" = "murrine-notebook-bg" {
+        xthickness = 1 # Width of tabs and notebook borders.
+        ythickness = 1 # Height of tabs and notebook borders.
+}
+
+style "startupmenu-shutbutton" = "murrine-notebook-bg" {
+        xthickness = 1 # Width of tabs and notebook borders.
+        ythickness = 1 # Height of tabs and notebook borders.
+        bg[NORMAL] = "#bfdffd"
+}
+
+style "startupmenu-viewport1" = "murrine-notebook-bg" {
+        xthickness = 0 # Width of tabs and notebook borders.
+        ythickness = 0 # Height of tabs and notebook borders.
+        bg[PRELIGHT]      = "#f3f3f3"
+        bg[ACTIVE]	  = "#ffffff"
+        bg[SELECTED]	  = "#ffffff"
+        bg[INSENSITIVE]	  = "#ffffff"
+}
+
+style "myEntry"
+{
+   base[NORMAL] = "#ffffff"    # or whatever
+}
+widget "*myGtkEntry*" style "myEntry"
+
+style "myButton"
+{
+   bg[NORMAL] = "#dceef3"
+}
+widget "*myGtkButton*" style "myButton"
+
+style "startupmenu-user" = "murrine-notebook-bg" {
+        xthickness = 2 # Width of tabs and notebook borders.
+        ythickness = 2 # Height of tabs and notebook borders.
+}
+
+widget "*startup-viewport*"     style "startupmenu-container"
+widget "*startup-box*"          style "startupmenu-container"
+widget "*startup-scrolledwindow*"  style "startupmenu-container"
+widget "*startup-layout*"        style "startupmenu-container"
+widget "*startup-notebook*"        style "startupmenu-container"
+widget "*user-box*"        style "startupmenu-user"
+widget "*startup-ukui*"     style "startupmenu-viewport"
+widget "*startup-button*"     style "startupmenu-button"
+widget "*startup-shutbutton*"     style "startupmenu-shutbutton"
+widget "*startup-left*"	    style "startupmenu-viewport1"
