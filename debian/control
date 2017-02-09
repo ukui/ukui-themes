@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Kylin Team <ukui@kylinos.cn>
 Uploaders: Pishuilu <pishuilu@kylinos.cn>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.5
+Standards-Version: 3.9.8
 Homepage: https://www.ukui.org
 
 Package: ukui-themes
