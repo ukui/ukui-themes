@@ -214,6 +214,22 @@ statusbar frame button.flat {
 	border-radius: 0;
 }
 
+/*************
+ * separator *
+ *************/
+/*separator {
+    min-width: 1px;
+    min-height: 1px;
+    border-top-width: 1px;
+    border-left-width: 1px;
+
+    border-style: solid;
+    border-image: none;
+    border-color: shade (@theme_bg_color, 0.92);
+    border-bottom-color: alpha (shade (@theme_bg_color, 1.26), 0.6);
+    border-right-color: alpha (shade (@theme_bg_color, 1.26), 0.6);
+}*/
+
 treeview.view separator,
 treeview.view.separator,
 treeview separator,
@@ -221,8 +237,26 @@ separator,
 separator:hover,
 .separator,
 .separator:hover {
-	color: @view_separators;
-	background-color: @view_separators;
+    min-width: 1px;
+    min-height: 1px;
+    border-top-width: 1px;
+    border-left-width: 1px;
+
+    border-style: solid;
+    border-image: none;
+    border-color: shade (@theme_bg_color, 0.9);
+    border-bottom-color: alpha (shade (@theme_bg_color, 1.26), 0.6);
+    border-right-color: alpha (shade (@theme_bg_color, 1.26), 0.6);
+/*	color: @view_separators;*/
+/*	background-color: @view_separators;*/
+}
+
+separator.horizontal {
+    border-width: 1px 0 1px 0;
+}
+
+separator.vertical {
+    border-width: 0 1px 0 1px;
 }
 
 /*Keep treeviews from jumping, separators drawn at 0 by default until hovered*/
@@ -2525,11 +2559,8 @@ filechooserbutton button.file image:last-child {
  **************/
 
 scrollbar {
-	background-image: none;
-	border-style: solid;
-	border-color: shade (@theme_bg_color, 0.94);
-	-GtkScrollbar-has-backward-stepper: true;
-	-GtkScrollbar-has-forward-stepper: true;
+	-GtkScrollbar-has-backward-stepper: false;
+	-GtkScrollbar-has-forward-stepper: false;
 }
 
 scrollbar.vertical {
@@ -2548,43 +2579,31 @@ scrollbar trough.vertical,
 .sidebar scrollbar trough.vertical,
 placessidebar scrollbar.trough,
 placessidebar scrollbar.trough.vertical {
-    min-width: 13px;
-	background-image: linear-gradient(to right,
-		@scrollbar_trough,
-		shade (@scrollbar_trough, 1.08));
-	border-width: 1px 0px 1px 0px;
-	border-style: solid;
-	border-color: shade (@theme_bg_color, 0.94);
-	border-radius: 0;
-	border-image: none;
+    min-width: 10px;
+	background-image: none;
+	border:none
 }
 
 scrollbar trough.horizontal,
 .sidebar scrollbar trough.horizontal,
 placessidebar scrollbar trough.horizontal {
-    min-width: 13px;
-	background-image: linear-gradient(to bottom,
-		@scrollbar_trough,
-		shade (@scrollbar_trough, 1.08));
-	border-width: 0px 1px 0px 1px;
-	border-style: solid;
-	border-color: shade (@theme_bg_color, 0.94);
-	border-radius: 0;
-	border-image: none;
+    min-height: 10px;
+	background-image: none;
+	border:none
 }
 
 /* Buttons */
 scrollbar.vertical button,
 scrollbar.vertical .button {
-    min-width:13px;
-    min-height: 16px;
+    min-width:10px;
+    min-height: 15px;
     padding: 1px 0px;
 }
 
 scrollbar.horizontal button,
 scrollbar.horizontal .button {
-    min-width:16px;
-    min-height: 13px;
+    min-width:15px;
+    min-height: 10px;
     padding: 0px 1px;
 }
 
@@ -2677,42 +2696,51 @@ scrollbar .button:checked {
 
 scrollbar.vertical slider,
 scrollbar.vertical .slider {
-    min-width: 12px;
-    min-height: 42px;
-    margin: 0px -1px 0px -1px;
-	background-image: linear-gradient(to right,
+    min-width: 5px;
+    min-height: 15px;
+/*    margin: 0px -1px 0px -1px;*/
+    margin-left: 5px;
+/*	background-image: linear-gradient(to right,
 		shade(@scrollbar_slider, 0.95),
-		shade(@scrollbar_slider, 0.8));
-	border-radius: 20px;
-	border-style: solid;
+		shade(@scrollbar_slider, 0.8));*/
+/*	background-image: linear-gradient(to right,
+		@scrollbar_trough,
+		shade (@scrollbar_trough, 1.08));*/
+	background-color: alpha (@scrollbar_trough, 0.98);
+	border-radius: 0px;
+	border-style: none;
 	border-image: none;
 	border-color: shade(@scrollbar_slider, 0.65);
-	border-width: 1px;
+	border-width: 0px;
 }
 
 scrollbar.vertical slider:hover,
 scrollbar.vertical slider:hover:active,
 scrollbar.vertical .slider:hover,
 scrollbar.vertical .slider:hover:active {
-	background-image: linear-gradient(to right,
-		shade(@scrollbar_slider, 0.85),
-		shade(@scrollbar_slider, 0.7));
+	min-width: 10px;
+	background-color: @scrollbar_slider;
 	border-style: solid;
 	border-image: none;
 	border-color: shade(@scrollbar_slider, 0.65);
-	border-width: 1px;
+	border-width: 0px;
 }
 
 scrollbar.horizontal slider,
 scrollbar.horizontal .slider {
-    min-width: 42px;
-    min-height: 12px;
-    margin: -1px 0px -1px 0px;
-	background-image: linear-gradient(to bottom,
+    min-width: 15px;
+    min-height: 5px;
+/*    margin: -1px 0px -1px 0px;*/
+    margin-top: 5px;
+/*	background-image: linear-gradient(to bottom,
 		shade(@scrollbar_slider, 0.95),
-		shade(@scrollbar_slider, 0.8));
-	border-radius: 20px;
-	border-style: solid;
+		shade(@scrollbar_slider, 0.8));*/
+/*	background-image: linear-gradient(to bottom,
+		@scrollbar_trough,
+		shade (@scrollbar_trough, 1.08));*/
+	background-color: alpha (@scrollbar_trough, 0.98);
+	border-radius: 0px;
+	border-style: none;
 	border-image: none;
 	border-color: shade(@scrollbar_slider, 0.65);
 	border-width: 1px;
@@ -2722,13 +2750,12 @@ scrollbar.horizontal slider:hover,
 scrollbar.horizontal slider:hover:active,
 scrollbar.horizontal .slider:hover,
 scrollbar.horizontal .slider:hover:active {
-	background-image: linear-gradient(to bottom,
-		shade(@scrollbar_slider, 0.85),
-		shade(@scrollbar_slider, 0.7));
+	min-height: 10px;
+	background-color: @scrollbar_slider;
 	border-style: solid;
 	border-image: none;
 	border-color: shade(@scrollbar_slider, 0.65);
-	border-width: 1px;
+	border-width: 0px;
 }
 
 scrollbar slider:disabled,
@@ -4319,6 +4346,13 @@ treeview.view:selected:focus {
 	outline-color: mix(@theme_selected_fg_color, @theme_selected_bg_color, 0.30);
 }
 
+/************
+ * viewport *
+ ************/
+viewport.frame {
+    border-width: 0;
+}
+
 iconview,
 viewport {
     /* avoid resizing theme thumbnails in ukui-appearance-properties */
@@ -5410,8 +5444,8 @@ paned > separator:backdrop {
 paned > separator.wide {
     margin: 0;
     padding: 0;
-    min-width: 5px;
-    min-height: 5px;
+    min-width: 0px;
+    min-height: 0px;
     background-size: 1px 1px, 1px 1px;
 }
 

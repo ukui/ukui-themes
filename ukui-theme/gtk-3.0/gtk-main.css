@@ -61,10 +61,10 @@
 
 @define-color infobar_bg_color rgb (138, 173, 212);
 
-@define-color scrollbar_trough shade(@theme_bg_color, 0.98);
+@define-color scrollbar_trough shade(@scrollbar_slider, 0.98);
 @define-color scrollbar_trough_insensitive shade(@theme_bg_color, 1.0);
 @define-color scrollbar_trough_unfocused shade(@theme_unfocused_bg_color, 0.9);
-@define-color scrollbar_slider @theme_selected_bg_color;
+@define-color scrollbar_slider #528ebe;
 @define-color scrollbar_slider_prelight mix(@scrollbar_trough, @theme_fg_color, 0.5);
 @define-color scrollbar_slider_active @theme_selected_bg_color;
 @define-color scrollbar_slider_insensitive alpha(black, 0); /* FIXME should be transparent */
@@ -135,7 +135,7 @@
 
 @define-color treeview_focus_border #2a79cb;
 
-@define-color view_separators shade(@borders, 1.1);
+@define-color view_separators shade(@borders, 0.4);
 @define-color view_symbolic_color shade(@internal_element_color, 0.80);
 
 @define-color expander_row_selected_color shade(@theme_selected_bg_color, 1.2);
