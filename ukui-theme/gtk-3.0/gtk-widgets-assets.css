@@ -161,18 +161,18 @@ switch:checked:disabled {
 
 scale.horizontal contents:only-child > trough > slider,
 scale slider {
-	background-image: url("assets/slider.svg");
+	background-image: url("assets/slider.png");
     background-repeat: no-repeat;
 }
 
 scale slider:hover {
-	background-image: url("assets/slider-hover.svg");
+	background-image: url("assets/slider-hover.png");
     background-repeat: no-repeat;
 }
 
 scale slider:disabled,
 scale slider:disabled:hover {
-	background-image: url("assets/slider-ins.svg");
+	background-image: url("assets/slider-ins.png");
     background-repeat: no-repeat;
 }
 
