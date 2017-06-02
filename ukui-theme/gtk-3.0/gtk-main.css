@@ -5,6 +5,8 @@
 @define-color theme_text_color #2c2c2c;
 @define-color theme_fg_color @theme_text_color;
 @define-color theme_selected_fg_color #ffffff;
+@define-color ukuimenu_color #3b9dc5;
+@define-color ukuiside_color #155670;
 
 @define-color placeholder_text_color shade(@text_color, 3.5);
 

@@ -115,9 +115,10 @@ toolbar combobox button.combo:checked:disabled {
 entry,
 toolbar.primary-toolbar combobox entry.combo,
 levelbar trough {
-	background-image: linear-gradient(to bottom,
+/*	background-image: linear-gradient(to bottom,
 		@entry_background_a,
-		@entry_background_b);
+		@entry_background_b);*/
+	background-color: transparent;
 	box-shadow: inset 0 1px @entry_inset, 
 		inset 0 2px alpha(@entry_inset, 0.4);
 }

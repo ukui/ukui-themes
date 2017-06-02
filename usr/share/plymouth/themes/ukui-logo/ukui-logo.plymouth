@@ -1,8 +1,0 @@
-[Plymouth Theme]
-Name=Diamond
-Description=theme for Ukui
-ModuleName=script
-
-[script]
-ImageDir=/usr/share/plymouth/themes/ukui-logo
-ScriptFile=/usr/share/plymouth/themes/ukui-logo/ukui-logo.script

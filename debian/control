@@ -2,22 +2,15 @@ Source: ukui-themes
 Section: gnome
 Priority: optional
 Maintainer: Kylin Team <ukui@kylinos.cn>
-Uploaders: Pishuilu <pishuilu@kylinos.cn>
+Uploaders: handsome_feng <jianfengli@ubuntukylin.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.8
 Homepage: https://www.ukui.org
 
 Package: ukui-themes
 Architecture: all
-Depends: gnome-icon-theme,
-         hicolor-icon-theme,
-         plymouth,
-         ubuntu-mono,
-         fonts-droid-fallback,
-         gtk2-engines-murrine,
+Depends: gtk2-engines-murrine,
          gtk2-engines-pixbuf,
-         overlay-scrollbar,
          ${misc:Depends},
-         ${shlibs:Depends}
 Description: UKUI themes
  This package contains the default theme for UKUI.
