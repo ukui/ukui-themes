@@ -12,6 +12,7 @@ Architecture: all
 Depends: gtk2-engines-murrine,
          gtk2-engines-pixbuf,
          ${misc:Depends},
+Conflicts: ubuntukylin-theme,
 Description: Official themes for the UKUI desktop
  This package contains the official desktop themes of the UKUI desktop
  environment.
