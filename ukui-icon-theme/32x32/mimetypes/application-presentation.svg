@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<polygon opacity="0.08" enable-background="new    " points="5.077,32 5.077,1 28.923,1 28.923,23.249 20.172,32 "/>
+<polygon opacity="0.1" enable-background="new    " points="5.577,31.5 5.577,1.5 28.423,1.5 28.423,23.042 19.965,31.5 "/>
+<polygon opacity="0.2" enable-background="new    " points="5.077,31 5.077,1 27.923,1 27.923,22.542 19.465,31 "/>
+<polygon fill="#E65100" points="5.512,30.5 5.512,1.604 27.488,1.604 27.488,22.364 19.274,30.5 "/>
+<g>
+	<g>
+		<g>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="58.1006" y1="-161.9526" x2="58.1006" y2="-133.9526" gradientTransform="matrix(1 0 0 -1 -41.6001 -131.9004)">
+				<stop  offset="0" style="stop-color:#EE6F0B"/>
+				<stop  offset="1" style="stop-color:#FFB74D"/>
+			</linearGradient>
+			<polygon fill="url(#SVGID_1_)" points="6.011,30.053 6.011,2.052 26.989,2.052 26.989,22.178 19.114,30.053 			"/>
+		</g>
+		<polygon fill="#E65100" fill-opacity="0.3922" points="26.989,22.178 26.989,21.838 18.683,21.838 18.683,30.053 19.114,30.053 		
+			"/>
+		<path fill="#FFFFFF" fill-opacity="0.3922" d="M19.102,22.178l7.888,0.01l-7.875,7.865L19.102,22.178z"/>
+	</g>
+	<g opacity="0.8">
+		<rect x="8.741" y="9.577" fill="#FFFFFF" width="2.241" height="11.224"/>
+		<rect x="12.476" y="15.177" fill="#FFFFFF" width="2.239" height="5.61"/>
+		<rect x="16.198" y="17.463" fill="#FFFFFF" width="2.239" height="3.361"/>
+		<g>
+			<path fill="#FFFFFF" d="M19.242,7.594l0.023,4.469l4.468-0.025c0.013,2.475-1.983,4.48-4.457,4.492
+				c-2.472,0.012-4.479-1.982-4.491-4.455C14.773,9.612,16.769,7.604,19.242,7.594z"/>
+			<path fill="#FFFFFF" d="M19.767,7.08c2.475-0.01,4.48,1.983,4.491,4.457L19.79,11.56L19.767,7.08z"/>
+		</g>
+	</g>
+</g>
+</svg>

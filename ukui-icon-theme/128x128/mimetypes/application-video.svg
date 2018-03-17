@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<g id="surface1">
+	<polygon opacity="0.2" points="18.5,124 18.5,4 109.5,4 109.5,90.203 75.703,124 	"/>
+	<polygon opacity="0.08" points="18.5,128 18.5,4 113.5,4 113.5,93.031 78.531,128 	"/>
+	<polygon opacity="0.1" points="20.5,126 20.5,6 111.5,6 111.5,92.203 77.703,126 	"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="272.001" y1="-1327.9512" x2="272.001" y2="-1211.9512" gradientTransform="matrix(1 0 0 -1 -208.0005 -1205.9512)">
+		<stop  offset="0" style="stop-color:#512DA8"/>
+		<stop  offset="0.008" style="stop-color:#532EA8"/>
+		<stop  offset="0.2103" style="stop-color:#7843B4"/>
+		<stop  offset="0.4127" style="stop-color:#9553BD"/>
+		<stop  offset="0.6129" style="stop-color:#A95FC3"/>
+		<stop  offset="0.8099" style="stop-color:#B666C7"/>
+		<stop  offset="1" style="stop-color:#BA68C8"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M74.875,122L107.5,89.375V6h-87v116H74.875z"/>
+	<polygon fill="#673AB7" fill-opacity="0.3922" points="73.063,87.563 73.063,122 74.875,122 107.5,89.375 107.5,87.563 	"/>
+	<path fill="#FFFFFF" fill-opacity="0.3922" d="M74.875,89.375h32.597L74.875,122V89.375z"/>
+	<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M89.375,54.943c0-13.976-11.399-25.382-25.375-25.382
+		c-13.976,0-25.374,11.406-25.374,25.382c0,13.975,11.398,25.367,25.374,25.367C77.976,80.311,89.375,68.918,89.375,54.943z
+		 M44.976,54.943c0-10.555,8.481-19.032,19.024-19.032c10.544,0,19.023,8.477,19.023,19.032c0,10.543-8.479,19.033-19.023,19.033
+		C53.458,73.977,44.976,65.486,44.976,54.943z M74.875,54.943L56.75,44.068v21.76L74.875,54.943z"/>
+	<g>
+		<path fill="#311B92" d="M106.5,7v81.961L74.461,121H49.5h-28V7H106.5 M107.5,6h-87v116h29h25.375L107.5,89.375V6L107.5,6z"/>
+	</g>
+</g>
+</svg>

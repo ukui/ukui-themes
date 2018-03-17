@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-ydpi="270" inkscape:export-xdpi="270" sodipodi:docname="user-home.svg" inkscape:version="0.48.4 r9939"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px"
+	 viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<polygon opacity="8.000000e-002" enable-background="new    " points="2,60.2 2,17.2 5.8,17.2 5.8,5.8 21.7,5.8 25.4,9.6 60.2,9.6 
+	60.2,17.2 64,17.2 64,60.2 "/>
+<polygon opacity="0.1" enable-background="new    " points="3,59.2 3,18.2 6.8,18.2 6.8,6.8 21.3,6.8 25,10.6 59.2,10.6 59.2,18.2 
+	63,18.2 63,59.2 "/>
+<polygon opacity="0.2" enable-background="new    " points="2,58.2 2,17.2 5.8,17.2 5.8,5.8 20.3,5.8 24,9.6 58.2,9.6 58.2,17.2 
+	62,17.2 62,58.2 "/>
+<polygon fill="#F57F17" points="3,57.2 3,18.2 6.8,18.2 6.8,6.8 19.8,6.8 23.6,10.6 57.2,10.6 57.2,18.2 61,18.2 61,57.2 "/>
+<sodipodi:namedview  id="base" inkscape:window-maximized="1" pagecolor="#ffffff" borderopacity="1.0" inkscape:zoom="5.6530318" bordercolor="#666666" showgrid="true" inkscape:cx="35.66124" inkscape:cy="21.321632" showguides="true" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:window-height="1023" inkscape:current-layer="layer1" inkscape:guide-bbox="true" inkscape:window-y="28" inkscape:window-x="0" inkscape:window-width="1920" inkscape:document-units="px">
+	<inkscape:grid  type="xygrid" enabled="true" visible="true" id="grid2985" snapvisiblegridlinesonly="true" empspacing="5">
+		</inkscape:grid>
+</sodipodi:namedview>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="32" y1="-81.5523" x2="32" y2="-67.3" gradientTransform="matrix(1 0 0 -1 0 -60)">
+		<stop  offset="0" style="stop-color:#F57C00"/>
+		<stop  offset="0.1638" style="stop-color:#F58F09"/>
+		<stop  offset="0.3598" style="stop-color:#F59D11"/>
+		<stop  offset="0.5982" style="stop-color:#F5A515"/>
+		<stop  offset="0.9946" style="stop-color:#F5A816"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M56.7,11.1H23.4l-3.8-3.8H7.3v3.8v3.8v4.8c0,1,0.9,1.9,1.9,1.9h45.6c1,0,1.9,0.1,1.9-0.9
+		C56.7,18.7,56.7,11.1,56.7,11.1z"/>
+	
+		<linearGradient id="rect2990_1_" gradientUnits="userSpaceOnUse" x1="32" y1="-78.7" x2="32" y2="-116.7" gradientTransform="matrix(1 0 0 -1 0 -60)">
+		<stop  offset="0" style="stop-color:#FADD60"/>
+		<stop  offset="0.9946" style="stop-color:#F5A816"/>
+	</linearGradient>
+	<polyline id="rect2990_2_" fill="url(#rect2990_1_)" points="60.5,18.7 60.5,56.7 3.5,56.7 3.5,18.7 	"/>
+	<path id="rect3004_1_" inkscape:connector-curvature="0" opacity="0.25" fill="#FDEFBA" enable-background="new    " d="M3.5,18.7
+		V26c0-2.5,1.7-4.6,3.8-4.6h49.4c2.1,0,3.8,2,3.8,4.6v-7.3H3.5z"/>
+	<path id="path3801_1_" inkscape:connector-curvature="0" opacity="0.1" fill="#E65100" enable-background="new    " d="M7.3,7.3
+		c0,0,0,0.9,0,2.9v1.9c0-1.9,0.9-2.9,1.7-2.9h9.9c0.7,0,1.5,0,3.1,0.9c0.4,0.3,0.9,0.6,1.4,1l-3.8-3.8C19.6,7.3,7.3,7.3,7.3,7.3z"/>
+	<polygon opacity="0.1" fill="#E65100" enable-background="new    " points="23.4,11.1 56.7,11.1 56.7,13.9 26.3,13.9 	"/>
+	<rect x="7.3" y="17" opacity="5.000000e-002" fill="#E65100" enable-background="new    " width="49.4" height="1.7"/>
+</g>
+<path fill="#F57F17" fill-opacity="0.39" d="M41.5,43c0-0.1,0.1-0.1,0.1-0.2c0-0.1,0.1-0.2,0.2-0.3c0,0,0,0,0,0
+	c0.3-0.6,0.5-1.3,0.7-1.9h2.5v-5.2h-2.6c-0.3-1.1-0.7-2.1-1.3-3l1.8-1.8l-3.7-3.7l-1.8,1.8c-0.9-0.6-1.9-1-3.1-1.3h0v-2.6h-5.2v2.6
+	h0c-1.1,0.3-2.1,0.7-3.1,1.3l-1.8-1.8l-3.6,3.7l1.8,1.8c-0.5,0.9-1,1.9-1.3,3h-2.6v5.2h2.6c0.3,1.1,0.7,2.1,1.3,3l0,0l-1.8,1.8
+	l3.7,3.7l1.8-1.8c0.9,0.6,1.9,1,3,1.3V51h5.2v-2.6l0,0l0,0c1.1-0.3,2.1-0.7,3-1.3l1.8,1.8l3.7-3.7l-1.8-1.8l0,0
+	c0.1-0.1,0.1-0.2,0.2-0.3C41.5,43.2,41.5,43.1,41.5,43z M32,46.2c-4.6,0-8.2-3.7-8.2-8.2s3.7-8.2,8.2-8.2c0.9,0,1.8,0.1,2.6,0.4l0,0
+	c3.3,1.1,5.7,4.2,5.7,7.8c0,0.2,0,0.5,0,0.7v0c0,0.7-0.2,1.3-0.4,1.9c0,0,0,0,0,0c-0.1,0.4-0.3,0.8-0.5,1.1c0,0,0,0,0,0.1
+	c-0.1,0.2-0.2,0.3-0.3,0.5c0,0,0,0,0,0c-0.1,0.2-0.2,0.3-0.3,0.5l0,0c-0.1,0.2-0.2,0.3-0.4,0.5c0,0,0,0-0.1,0.1
+	c-0.3,0.3-0.5,0.6-0.8,0.8c0,0,0,0-0.1,0.1c-0.1,0.1-0.3,0.3-0.5,0.3c0,0,0,0-0.1,0c-0.1,0.1-0.3,0.2-0.4,0.3c0,0,0,0-0.1,0
+	c-0.2,0.1-0.3,0.2-0.5,0.3c0,0-0.1,0-0.1,0.1c-0.2,0.1-0.3,0.2-0.5,0.2c0,0,0,0-0.1,0c-0.2,0.1-0.3,0.1-0.5,0.2
+	C33.8,46,32.9,46.2,32,46.2z"/>
+</svg>

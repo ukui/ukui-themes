@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-ydpi="270" inkscape:export-xdpi="270" sodipodi:docname="user-home.svg" inkscape:version="0.48.4 r9939"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22px" height="22px"
+	 viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
+<polygon fill="#F57F17" points="0,20.6 0,8.2 1.4,8.2 1.4,1.4 6.4,1.4 7.7,2.8 20.6,2.8 20.6,8.2 22,8.2 22,20.6 "/>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="152" y1="101.9193" x2="152" y2="84.4417" gradientTransform="matrix(0.5 0 0 0.5 -65 -40.5)">
+		<stop  offset="0" style="stop-color:#F57C00"/>
+		<stop  offset="0.1638" style="stop-color:#F58F09"/>
+		<stop  offset="0.3598" style="stop-color:#F59D11"/>
+		<stop  offset="0.5982" style="stop-color:#F5A515"/>
+		<stop  offset="0.9946" style="stop-color:#F5A816"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M20.3,3.1H7.7L6.3,1.7H1.7v8.7h18.6L20.3,3.1L20.3,3.1z"/>
+	<path id="path3801" inkscape:connector-curvature="0" opacity="0.1" fill="#E65100" enable-background="new    " d="M1.7,1.7
+		c0,0,0,0.4,0,1.1v0.8c0-0.8,0.3-1.1,0.7-1.1H6c0.2,0,0.6,0,1.1,0.4C7.4,3,7.5,3.1,7.7,3.3L6.4,1.7C6.3,1.7,1.7,1.7,1.7,1.7z"/>
+	<polygon opacity="0.1" fill="#E65100" enable-background="new    " points="7.8,3.1 7.7,3.1 8.8,4.2 8.9,4.2 20.3,4.2 20.3,3.1 	
+		"/>
+	<g>
+		<polygon fill="#F5F5F5" points="17.2,3.9 3.6,3.9 3.6,9 3.6,9.9 3.6,10.3 3.9,10.3 18.1,10.3 18.4,10.3 18.4,9.9 18.4,9 18.4,5.1 
+					"/>
+		<path id="path3757" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" fill="#FFFFFF" d="M17.2,3.9v1.2h1.2L17.2,3.9z"
+			/>
+		<path id="path3759" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" opacity="0.2" enable-background="new    " d="
+			M18.4,6.3V5.1h-1.2L18.4,6.3z"/>
+		<rect x="5.4" y="7.2" fill="#9E9E9E" width="11.2" height="0.6"/>
+		<rect x="5.4" y="6" fill="#9E9E9E" width="11.2" height="0.6"/>
+		<rect x="5.4" y="4.8" fill="#9E9E9E" width="9.7" height="0.6"/>
+		<polygon opacity="0.1" enable-background="new    " points="20.3,7 18.4,5.1 18.4,9 20.3,9 		"/>
+	</g>
+	
+		<linearGradient id="rect2990_1_" gradientUnits="userSpaceOnUse" x1="152" y1="98.0264" x2="152" y2="121.5437" gradientTransform="matrix(0.5 0 0 0.5 -65 -40.5)">
+		<stop  offset="0" style="stop-color:#FADD60"/>
+		<stop  offset="0.9946" style="stop-color:#F5A816"/>
+	</linearGradient>
+	<polyline id="rect2990_2_" fill="url(#rect2990_1_)" points="21.6,8.5 21.6,20.3 0.4,20.3 0.4,8.5 	"/>
+	<path id="rect3004" inkscape:connector-curvature="0" opacity="0.25" fill="#FDEFBA" enable-background="new    " d="M0.4,8.5v2.7
+		c0-0.9,0.6-1.7,1.4-1.7h18.4c0.8,0,1.4,0.8,1.4,1.7V8.5C21.6,8.5,0.4,8.5,0.4,8.5z"/>
+	<rect x="1.7" y="7.9" opacity="5.000000e-002" enable-background="new    " width="16.8" height="0.6"/>
+</g>
+</svg>

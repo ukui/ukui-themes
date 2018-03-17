@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<g id="surface1">
+	<polygon opacity="0.08" enable-background="new    " points="34.5,256 34.5,4 225.5,4 225.5,185.031 154.531,256 	"/>
+	<polygon opacity="0.1" enable-background="new    " points="36.5,254 36.5,6 223.5,6 223.5,184.203 153.703,254 	"/>
+	<polygon opacity="0.2" enable-background="new    " points="34.5,252 34.5,4 221.5,4 221.5,182.203 151.703,252 	"/>
+</g>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="294.4004" y1="1803.9609" x2="294.4004" y2="1559.9609" gradientTransform="matrix(1 0 0 1 -166.4004 -1553.9609)">
+	<stop  offset="0" style="stop-color:#FF5722"/>
+	<stop  offset="0.2433" style="stop-color:#FF5B20"/>
+	<stop  offset="0.4954" style="stop-color:#FF6819"/>
+	<stop  offset="0.7506" style="stop-color:#FF7C0F"/>
+	<stop  offset="1" style="stop-color:#FF9800"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M150.875,250l68.625-68.625V6h-183v244H150.875z"/>
+<polygon fill="#BF360C" fill-opacity="0.3922" points="147.063,177.563 147.063,250 150.875,250 219.5,181.375 219.5,177.563 "/>
+<path fill="#FFFFFF" fill-opacity="0.3922" d="M150.875,181.375h68.567L150.875,250V181.375z"/>
+<path opacity="0.8" fill="#FFFFFF" d="M70.805,150.588c0-3.295,1.134-6.048,3.409-8.267c2.252-2.251,5.004-3.394,8.282-3.394
+	c3.201,0,5.912,1.143,8.131,3.394c2.264,2.219,3.381,4.972,3.381,8.267c0,3.188-1.117,5.899-3.381,8.191
+	c-2.219,2.219-4.93,3.303-8.131,3.303c-3.278,0-6.03-1.084-8.282-3.303C71.938,156.561,70.805,153.8,70.805,150.588 M70.122,97.956
+	v19.387c24.765,0,44.899,20.14,44.899,44.962h19.449C134.471,126.76,105.609,97.956,70.122,97.956z M70.151,55.554v21.42
+	c47.027,0,85.197,38.24,85.197,85.305h21.523C176.872,103.334,129.035,55.554,70.151,55.554z"/>
+<g>
+	<path fill="#BF360C" d="M217.5,8v172.547L150.047,248H97.5h-59V8H217.5 M219.5,6h-183v244h61h53.375l68.625-68.625V6L219.5,6z"/>
+</g>
+</svg>

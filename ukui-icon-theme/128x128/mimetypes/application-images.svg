@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<polygon opacity="0.08" enable-background="new    " points="18.31,128 18.31,4 113.689,4 113.689,92.995 78.686,128 "/>
+<polygon display="none" opacity="0.08" enable-background="new    " points="22.31,126 22.31,6 113.689,6 113.689,92.167 
+	79.857,126 "/>
+<polygon opacity="0.1" enable-background="new    " points="20.31,126 20.31,6 111.689,6 111.689,92.167 77.857,126 "/>
+<polygon opacity="0.2" enable-background="new    " points="18.31,124 18.31,4 109.689,4 109.689,90.167 75.857,124 "/>
+<polygon fill="#01579B" points="20.298,122 20.298,6 107.702,6 107.702,89.339 75.033,122 "/>
+<g>
+	<g>
+		<g>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="105.5996" y1="539.9004" x2="105.5996" y2="425.9004" gradientTransform="matrix(1 0 0 1 -41.6001 -418.9004)">
+				<stop  offset="0" style="stop-color:#2196F3"/>
+				<stop  offset="0.5828" style="stop-color:#3DBAE8"/>
+				<stop  offset="1" style="stop-color:#4DD0E1"/>
+			</linearGradient>
+			<polygon fill="url(#SVGID_1_)" points="21.292,121 21.292,7 106.708,7 106.708,88.938 74.645,121 			"/>
+		</g>
+		<polygon fill="#01579B" fill-opacity="0.39" points="106.708,88.938 106.708,87.559 72.885,87.559 72.885,121 74.645,121 		"/>
+		<path fill="#FFFFFF" fill-opacity="0.3922" d="M74.592,88.938l32.116,0.043L74.645,121L74.592,88.938z"/>
+	</g>
+	<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M79.156,42.53c3.329,0,6.033,2.701,6.033,6.033
+		s-2.704,6.033-6.033,6.033c-3.334,0-6.033-2.701-6.033-6.033S75.822,42.53,79.156,42.53z"/>
+	<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M34.313,35.975v38.951h59.375V35.975H34.313z M89.415,40.25
+		v30.398l0,0l-13.778-9.782l-9.835,6.028L53.169,51.65L38.585,70.648V40.25H89.415z"/>
+</g>
+</svg>

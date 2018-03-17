@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<polygon fill="#455A64" points="1.881,16 1.881,0 14.119,0 14.119,11.495 9.545,16 "/>
+<g>
+	<g>
+		<g>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="91.2012" y1="825.2998" x2="91.2012" y2="840.3008" gradientTransform="matrix(1 0 0 1 -83.2002 -824.8008)">
+				<stop  offset="0" style="stop-color:#90A4AE"/>
+				<stop  offset="0.1378" style="stop-color:#849AA5"/>
+				<stop  offset="0.4226" style="stop-color:#708A97"/>
+				<stop  offset="0.7096" style="stop-color:#64808E"/>
+				<stop  offset="1" style="stop-color:#607D8B"/>
+			</linearGradient>
+			<polygon fill="url(#SVGID_1_)" points="2.381,15.5 2.381,0.5 13.619,0.5 13.619,11.281 9.4,15.5 			"/>
+		</g>
+		<polygon fill="#455A64" fill-opacity="0.39" points="13.619,11.281 13.619,11.1 9.169,11.1 9.169,15.5 9.4,15.5 		"/>
+		<path fill="#FFFFFF" fill-opacity="0.39" d="M9.395,11.281l4.226,0.006L9.4,15.5L9.395,11.281z"/>
+	</g>
+	<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M10.831,7.331c0.25,0,0.476,0.1,0.638,0.262V6.187H9.288
+		C9.45,6.025,9.55,5.793,9.55,5.543c0-0.5-0.405-0.906-0.905-0.906c-0.5,0-0.907,0.406-0.907,0.906c0,0.25,0.1,0.476,0.262,0.644
+		H5.825v1.414C5.663,7.437,5.438,7.337,5.188,7.337c-0.5,0-0.906,0.406-0.906,0.906s0.406,0.906,0.906,0.906
+		c0.25,0,0.475-0.1,0.638-0.264v1.413h2.181c-0.163-0.162-0.263-0.394-0.263-0.644c0-0.5,0.406-0.906,0.906-0.906
+		c0.5,0,0.906,0.406,0.906,0.906c0,0.25-0.102,0.476-0.264,0.645h2.182V8.888c-0.162,0.162-0.388,0.262-0.638,0.262
+		c-0.5,0-0.905-0.406-0.905-0.906C9.925,7.737,10.331,7.331,10.831,7.331z"/>
+</g>
+<rect x="2.381" y="0.5" opacity="0.8" fill="#FFFFFF" width="11.244" height="2.875"/>
+<text transform="matrix(1.0526 0 0 1 4.5874 3.0576)" fill="#455A64" font-family="'Ubuntu-Bold'" font-size="3.2332">OXT</text>
+</svg>

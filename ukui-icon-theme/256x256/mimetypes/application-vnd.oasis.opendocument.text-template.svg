@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<g>
+	<rect x="34.1" y="4" opacity="0.08" enable-background="new    " width="191.8" height="252"/>
+	<rect x="36.1" y="6" opacity="0.1" enable-background="new    " width="187.8" height="248"/>
+	<rect x="34.1" y="4" opacity="0.2" enable-background="new    " width="187.8" height="248"/>
+</g>
+<rect x="36.1" y="6" fill="#0D47A1" width="183.8" height="244"/>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="128.0054" y1="8" x2="128.0054" y2="248.0005">
+		<stop  offset="0" style="stop-color:#64B5F6"/>
+		<stop  offset="1" style="stop-color:#3F51B5"/>
+	</linearGradient>
+	<rect x="38.103" y="8" fill="url(#SVGID_1_)" width="179.807" height="240"/>
+	<g opacity="0.8">
+		<rect x="61.306" y="102.922" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="133.298" height="6.579"/>
+		<rect x="61.306" y="82.313" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="133.298" height="6.599"/>
+		<rect x="124.92" y="122.309" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="69.602" height="69.634"/>
+		<g opacity="0.8">
+			<rect x="61.306" y="123.51" fill="#FFFFFF" width="57.916" height="6.604"/>
+			<rect x="61.306" y="144.131" fill="#FFFFFF" width="57.916" height="6.6"/>
+			<rect x="61.306" y="164.801" fill="#FFFFFF" width="57.916" height="6.6"/>
+			<rect x="61.306" y="185.418" fill="#FFFFFF" width="57.916" height="6.57"/>
+		</g>
+	</g>
+	<g>
+		<rect x="38.07" y="8" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="179.859" height="46.001"/>
+		<g enable-background="new    ">
+			<path fill="#236FB7" d="M112.457,30.969c0,3.082-0.469,5.779-1.438,8.106c-0.975,2.325-2.295,4.27-3.939,5.841
+				c-1.686,1.585-3.66,2.757-5.975,3.551c-2.311,0.783-4.778,1.188-7.43,1.188c-2.566,0-5.005-0.405-7.282-1.188
+				c-2.312-0.793-4.285-1.965-6.004-3.551c-1.714-1.571-3.051-3.516-4.025-5.841c-0.97-2.327-1.464-5.024-1.464-8.106
+				c0-3.063,0.494-5.744,1.534-8.086c0.987-2.327,2.377-4.283,4.091-5.876c1.739-1.587,3.718-2.775,5.991-3.563
+				c2.282-0.793,4.654-1.19,7.159-1.19c2.59,0,4.995,0.396,7.311,1.19c2.273,0.788,4.28,1.976,5.966,3.563
+				c1.724,1.593,3.06,3.549,4.03,5.876C111.988,25.225,112.457,27.905,112.457,30.969z M83.67,30.969c0,1.76,0.23,3.361,0.662,4.768
+				c0.469,1.423,1.123,2.636,1.978,3.635c0.835,1.037,1.892,1.813,3.109,2.379c1.254,0.533,2.66,0.818,4.256,0.818
+				c1.558,0,2.964-0.286,4.219-0.818c1.245-0.565,2.307-1.342,3.153-2.379c0.876-0.999,1.497-2.212,1.966-3.635
+				c0.436-1.406,0.687-3.008,0.687-4.768c0-1.756-0.251-3.345-0.687-4.784c-0.469-1.425-1.09-2.644-1.966-3.655
+				c-0.847-1.018-1.908-1.809-3.153-2.362c-1.255-0.549-2.661-0.835-4.219-0.835c-1.596,0-3.002,0.29-4.256,0.857
+				c-1.218,0.582-2.274,1.367-3.109,2.379c-0.854,1.02-1.509,2.243-1.978,3.678C83.9,27.688,83.67,29.248,83.67,30.969z"/>
+			<path fill="#236FB7" d="M146.257,13.076v6.879h-11.386v28.98h-8.487v-28.98h-11.369v-6.879H146.257z"/>
+			<path fill="#236FB7" d="M181.101,13.076v6.879h-11.382v28.98h-8.508v-28.98h-11.356v-6.879H181.101z"/>
+		</g>
+	</g>
+</g>
+</svg>

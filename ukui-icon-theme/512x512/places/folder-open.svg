@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-xdpi="270" inkscape:version="0.48.4 r9939" sodipodi:docname="folder.svg" inkscape:export-ydpi="270"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<polygon opacity="8.000000e-002" enable-background="new    " points="8,481.5 8,193.8 38.3,193.8 38.3,38.5 157.1,38.5 189.2,70.7 
+	481.8,70.7 481.8,193.8 512,193.8 512,481.5 "/>
+<polygon opacity="0.1" enable-background="new    " points="12,477.5 12,197.8 42.3,197.8 42.3,42.5 155.4,42.5 187.5,74.7 
+	477.8,74.7 477.8,197.8 508,197.8 508,477.5 "/>
+<polygon opacity="0.2" enable-background="new    " points="8,473.5 8,193.8 38.3,193.8 38.3,38.5 151.4,38.5 183.5,70.7 
+	473.8,70.7 473.8,193.8 504,193.8 504,473.5 "/>
+<polygon fill="#F57F17" points="12,469.5 12,197.8 42.3,197.8 42.3,42.5 149.7,42.5 181.9,74.7 469.8,74.7 469.8,197.8 500,197.8 
+	500,469.5 "/>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="320" y1="216.6" x2="320" y2="614.8" gradientTransform="matrix(0.5 0 0 -0.5 96 352)">
+		<stop  offset="0" style="stop-color:#F57C00"/>
+		<stop  offset="0.1638" style="stop-color:#F58F09"/>
+		<stop  offset="0.3598" style="stop-color:#F59D11"/>
+		<stop  offset="0.5982" style="stop-color:#F5A515"/>
+		<stop  offset="0.9946" style="stop-color:#F5A816"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M467.9,76.9h-287l-32.3-32.3H44.1v199.1h423.7L467.9,76.9L467.9,76.9z"/>
+	<path id="path3801_1_" inkscape:connector-curvature="0" opacity="0.1" fill="#E65100" enable-background="new    " d="M44.1,44.6
+		c0,0,0,8.1,0,24.2V85c0-16.1,7.2-24.2,14.9-24.2h83.6c5.5,0,13.2,0,26.3,8.1c3.8,2.1,7.6,4.7,11.9,8.1l-32.3-32.3
+		C149,44.6,44.1,44.6,44.1,44.6z"/>
+	<polygon opacity="0.1" fill="#E65100" enable-background="new    " points="183.4,76.9 180.9,76.9 205.1,100.7 207.6,100.7 
+		467.9,100.7 467.9,76.9 	"/>
+	<g>
+		<polygon fill="#F5F5F5" points="398,93.9 86.4,93.9 86.4,209.7 86.4,232.4 86.4,240.3 94.3,240.3 417.7,240.3 425.6,240.3 
+			425.6,232.4 425.6,209.7 425.6,121.5 		"/>
+		<path id="path3757_1_" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" fill="#FFFFFF" d="M397.9,93.9v27.6h27.6
+			L397.9,93.9z"/>
+		
+			<path id="path3759_1_" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" opacity="0.2" enable-background="new    " d="
+			M425.6,149.1v-27.6H398L425.6,149.1z"/>
+		<rect x="128.6" y="170.3" fill="#9E9E9E" width="254.7" height="14"/>
+		<rect x="128.6" y="142.3" fill="#9E9E9E" width="254.7" height="14"/>
+		<rect x="128.6" y="113.8" fill="#9E9E9E" width="222.7" height="14"/>
+		<polygon opacity="0.1" enable-background="new    " points="467.9,163.5 425.6,121.5 425.6,208.5 467.9,208.5 		"/>
+	</g>
+	
+		<linearGradient id="rect2990_2_" gradientUnits="userSpaceOnUse" x1="320" y1="304.8" x2="320" y2="-231" gradientTransform="matrix(0.5 0 0 -0.5 96 352)">
+		<stop  offset="0" style="stop-color:#FADD60"/>
+		<stop  offset="0.9946" style="stop-color:#F5A816"/>
+	</linearGradient>
+	<polyline id="rect2990_1_" fill="url(#rect2990_2_)" points="498,199.6 498,467.5 14,467.5 14,199.6 	"/>
+	<path id="rect3004_1_" inkscape:connector-curvature="0" opacity="0.25" fill="#FDEFBA" enable-background="new    " d="M14,199.6
+		v62c0-21.2,14.4-38.6,32.3-38.6h419.5c17.8,0,32.3,17.4,32.3,38.6v-62H14z"/>
+	<rect x="44.1" y="185.2" opacity="5.000000e-002" enable-background="new    " width="381.4" height="14.4"/>
+</g>
+</svg>

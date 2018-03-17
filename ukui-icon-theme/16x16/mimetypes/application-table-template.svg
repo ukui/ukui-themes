@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<rect x="1.881" fill="#1B5E20" width="12.238" height="16"/>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="49.6006" y1="-163.3999" x2="49.6006" y2="-148.4004" gradientTransform="matrix(1 0 0 -1 -41.6001 -147.9004)">
+		<stop  offset="0" style="stop-color:#388E3C"/>
+		<stop  offset="0.0757" style="stop-color:#43953E"/>
+		<stop  offset="0.3246" style="stop-color:#62A943"/>
+		<stop  offset="0.5665" style="stop-color:#79B747"/>
+		<stop  offset="0.796" style="stop-color:#86C049"/>
+		<stop  offset="1" style="stop-color:#8BC34A"/>
+	</linearGradient>
+	<rect x="2.381" y="0.5" fill="url(#SVGID_1_)" width="11.238" height="15"/>
+	<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M8.287,3.263V3.25H7.713v0.013H4V10.5h8V3.263H8.287z
+		 M4.575,5.412h1.787v1.156H4.575V5.412z M4.575,7.144h1.787V8.3H4.575V7.144z M6.956,7.144h4.469V8.3H6.956V7.144z M6.956,6.568
+		V5.412h4.469v1.156H6.956z M11.425,3.844v0.994H6.956V3.844H11.425z M6.362,3.844v0.994H4.575V3.844H6.362z M4.575,8.881h1.787
+		v1.038H4.575V8.881z M6.956,9.919V8.881h4.469v1.038H6.956z"/>
+</g>
+</svg>

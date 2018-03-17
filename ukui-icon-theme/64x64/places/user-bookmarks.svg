@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+	<polygon style="opacity:0.1;enable-background:new    ;" points="10.058,2.496 55.442,2.496 55.442,62.983 32.725,44.954 
+		10.058,62.983 	"/>
+	<polygon style="opacity:0.08;enable-background:new    ;" points="10.062,2 56.438,2 56.438,64 33.225,45.574 10.062,64 	"/>
+	<polygon style="opacity:0.2;enable-background:new    ;" points="9.562,2 54.946,2 54.946,62.487 32.229,44.458 9.562,62.487 	"/>
+</g>
+<polygon style="fill:#B71C1C;" points="10.591,3.268 54.25,3.268 54.25,61.268 32.396,43.902 10.591,61.268 "/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="32.4155" y1="-124.236" x2="32.4155" y2="-67.759" gradientTransform="matrix(1 0 0 1 0 128)">
+	<stop  offset="0" style="stop-color:#FF5722"/>
+	<stop  offset="0.2225" style="stop-color:#FF5B27"/>
+	<stop  offset="0.4924" style="stop-color:#FF6636"/>
+	<stop  offset="0.7856" style="stop-color:#FF794E"/>
+	<stop  offset="1" style="stop-color:#FF8A65"/>
+</linearGradient>
+<path style="fill:url(#SVGID_1_);" d="M11.087,3.764h42.657v56.477L32.391,43.3L11.087,60.241V3.764z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="32.415" y1="-113.828" x2="32.415" y2="-124.114" gradientTransform="matrix(1 0 0 1 0 128)">
+	<stop  offset="0.2527" style="stop-color:#FF8A65"/>
+	<stop  offset="0.8441" style="stop-color:#FF5722"/>
+</linearGradient>
+<polygon style="fill:url(#SVGID_2_);fill-opacity:0.77;" points="53.743,3.886 11.087,3.886 11.111,14.172 53.743,14.172 "/>
+<path style="fill:#D32F2F;fill-opacity:0.48;" d="M46.65,3.788V54.61l7.093,5.631V3.788L46.65,3.788L46.65,3.788z M11.087,3.764
+	v56.477l7.118-5.679V3.764H11.087z"/>
+</svg>

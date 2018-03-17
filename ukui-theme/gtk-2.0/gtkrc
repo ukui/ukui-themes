@@ -811,8 +811,8 @@ widget_class "*MozContainer*"		style "performance-fix" # Firefox (Not sure if th
 ### EXTERNAL FILES ###
 #include "apps/chromium.rc"	# Chromium styling
 #include "apps/thunar.rc"	# PCManFM styling
-#include "apps/caja.rc"		# Caja styling
+include "apps/caja.rc"		# Caja styling
 #include "apps/pluma.rc"		# Pluma styling
-#include "apps/ukuimenu.rc"     # Kylin startup-menu styling
+include "apps/ukuimenu.rc"     # Kylin startup-menu styling
 include "apps/mate-terminal.rc"
 include "apps/ukuicc.rc"     # Kylin control center styling

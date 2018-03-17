@@ -1,0 +1,76 @@
+/* CSS for applications */
+/*
+ * Panel
+ */
+.ukui-panel-menu-bar {
+	button {
+		border-width: 1px;
+		color: white;
+	}
+}
+
+
+/*
+ * Calendar
+ */
+#ukui-time-button {
+	border-width: 0px;
+}
+
+
+/*
+ * Control Center
+ */
+/* left side bar */
+#viewport11 {
+	background-color: $ukcc_sidebar_normal_bg_color;
+	button {
+		color: blue;
+	}
+	/* viewport>button that is selected will be disabled in UKCC */
+	viewport:disabled {
+		button:disabled {
+			background-image: $base_active_bg_image;
+			label:disabled {
+				color: $base_normal_fg_color;
+				font-weight: bold;
+			}
+		}
+	}
+}
+
+#default_app_scroll_window {
+	border-width: 0px;
+}
+
+#shortcut_treeview.view {
+	header {
+		button {
+			min-height: 35px;
+		}
+	}
+}
+
+
+/*
+ * Terminal
+ */
+notebook {
+	> header {
+		tab {
+			border-style: solid none solid solid;
+		}
+	}
+}
+
+
+/*
+ * Peony
+ */
+.peony-navigation-window {
+	treeview {
+		&.view {
+			border-style: none;
+		}
+	}
+}

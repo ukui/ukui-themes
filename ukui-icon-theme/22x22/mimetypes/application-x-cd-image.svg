@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="22px" height="22px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
+<polygon fill="#455A64" points="2.634,22 2.634,0 19.366,0 19.366,15.806 13.111,22 "/>
+<g>
+	<g>
+		<g>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="52.6016" y1="419.3994" x2="52.6016" y2="440.4004" gradientTransform="matrix(1 0 0 1 -41.6001 -418.9004)">
+				<stop  offset="0" style="stop-color:#90A4AE"/>
+				<stop  offset="0.1378" style="stop-color:#849AA5"/>
+				<stop  offset="0.4226" style="stop-color:#708A97"/>
+				<stop  offset="0.7096" style="stop-color:#64808E"/>
+				<stop  offset="1" style="stop-color:#607D8B"/>
+			</linearGradient>
+			<polygon fill="url(#SVGID_1_)" points="3.134,21.5 3.134,0.5 18.867,0.5 18.867,15.594 12.961,21.5 			"/>
+		</g>
+		<polygon fill="#455A64" fill-opacity="0.39" points="18.867,15.594 18.867,15.34 12.637,15.34 12.637,21.5 12.961,21.5 		"/>
+		<path fill="#FFFFFF" fill-opacity="0.39" d="M12.951,15.594l5.916,0.008L12.961,21.5L12.951,15.594z"/>
+	</g>
+	<g opacity="0.8">
+		<g>
+			<path fill="#FFFFFF" d="M11,4.796c2.555,0,4.629,2.074,4.629,4.629c0,2.556-2.074,4.63-4.629,4.63s-4.629-2.074-4.629-4.63
+				C6.371,6.87,8.445,4.796,11,4.796 M11,4.306c-2.826,0-5.119,2.293-5.119,5.119c0,2.826,2.293,5.119,5.119,5.119
+				s5.119-2.293,5.119-5.119C16.119,6.599,13.826,4.306,11,4.306L11,4.306z"/>
+		</g>
+		<g>
+			<path fill="#FFFFFF" d="M11,8.471c0.525,0,0.954,0.429,0.954,0.954c0,0.525-0.429,0.955-0.954,0.955s-0.954-0.429-0.954-0.955
+				C10.046,8.9,10.475,8.471,11,8.471 M11,7.981c-0.796,0-1.443,0.648-1.443,1.443c0,0.796,0.647,1.444,1.443,1.444
+				c0.797,0,1.443-0.648,1.443-1.444C12.443,8.629,11.797,7.981,11,7.981L11,7.981z"/>
+		</g>
+	</g>
+</g>
+</svg>

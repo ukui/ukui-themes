@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<polygon opacity="0.06" points="5.077,32 5.077,1 28.923,1 28.923,23.249 20.172,32 "/>
+<polygon opacity="0.06" points="5.577,31.5 5.577,1.5 28.423,1.5 28.423,23.042 19.965,31.5 "/>
+<polygon opacity="0.1" points="5.577,31.5 5.577,1.5 28.423,1.5 28.423,23.042 19.965,31.5 "/>
+<polygon opacity="0.2" points="5.078,31 5.078,1 27.923,1 27.923,22.542 19.465,31 "/>
+<polygon fill="#2D2183" points="5.578,30.5 5.578,1.5 27.423,1.5 27.423,22.335 19.258,30.5 "/>
+<g>
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="303.1006" y1="-405.8999" x2="303.1006" y2="-377.9009" gradientTransform="matrix(1 0 0 -1 -286.5996 -375.9004)">
+			<stop  offset="0" style="stop-color:#4A3591"/>
+			<stop  offset="0.008" style="stop-color:#4C3591"/>
+			<stop  offset="0.1976" style="stop-color:#6A4498"/>
+			<stop  offset="0.4086" style="stop-color:#82529E"/>
+			<stop  offset="0.6159" style="stop-color:#965EA3"/>
+			<stop  offset="0.8158" style="stop-color:#A165A7"/>
+			<stop  offset="1" style="stop-color:#A567A8"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_1_)" points="6.012,30 6.012,2 26.988,2 26.988,22.125 19.113,30 		"/>
+	</g>
+	<polygon fill="#5A4096" fill-opacity="0.3922" points="26.988,22.125 26.988,21.787 18.682,21.787 18.682,30 19.113,30 	"/>
+	<path fill="#FFFFFF" fill-opacity="0.3922" d="M19.102,22.125l7.887,0.012L19.113,30L19.102,22.125z"/>
+</g>
+<g opacity="0.8">
+	<g>
+		<rect x="14.727" y="9.047" fill="#FFFFFF" width="9.531" height="1.12"/>
+	</g>
+	<g>
+		<rect x="14.727" y="11.158" fill="#FFFFFF" width="9.531" height="1.12"/>
+	</g>
+	<g>
+		<rect x="14.727" y="13.282" fill="#FFFFFF" width="9.531" height="1.12"/>
+	</g>
+	<g>
+		<rect x="14.727" y="15.51" fill="#FFFFFF" width="9.531" height="1.12"/>
+	</g>
+	<g>
+		<rect x="14.727" y="17.622" fill="#FFFFFF" width="9.531" height="1.119"/>
+	</g>
+</g>
+<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M12.72,12.465l-1.307-0.281v-1.621l1.773,0.385V9.711
+	l-2.66-0.571v1.237l0,0v6.417c-0.14-0.035-0.291-0.059-0.455-0.059c-0.735,0-1.33,0.455-1.33,1.015s0.595,1.015,1.33,1.015
+	c0.735,0,1.33-0.454,1.33-1.003l0,0v-4.678l1.307,0.28L12.72,12.465L12.72,12.465z"/>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<polygon opacity="8.000000e-002" enable-background="new    " points="34.1,256 34.1,4 225.9,4 225.9,185 154.9,256 "/>
+<polygon opacity="9.999999e-002" enable-background="new    " points="36.1,254 36.1,6 223.9,6 223.9,184.2 154,254 "/>
+<polygon opacity="0.2" enable-background="new    " points="34.1,252 34.1,4 221.9,4 221.9,182.2 152,252 "/>
+<polygon fill="#311B92" points="36.1,250 36.1,6 219.9,6 219.9,181.3 151.2,250 "/>
+<g>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="128" y1="248" x2="128" y2="8">
+			<stop  offset="0" style="stop-color:#512DA8"/>
+			<stop  offset="8.000000e-003" style="stop-color:#532EA8"/>
+			<stop  offset="0.1976" style="stop-color:#7541B2"/>
+			<stop  offset="0.4086" style="stop-color:#9352BC"/>
+			<stop  offset="0.6159" style="stop-color:#A95EC3"/>
+			<stop  offset="0.8158" style="stop-color:#B666C7"/>
+			<stop  offset="1" style="stop-color:#BA68C8"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_1_)" points="38.1,248 38.1,8 217.9,8 217.9,180.5 150.4,248 		"/>
+	</g>
+	<polygon fill="#673AB7" fill-opacity="0.3922" points="217.9,180.5 217.9,177.6 146.7,177.6 146.7,248 150.4,248 	"/>
+	<path fill="#FFFFFF" fill-opacity="0.3922" d="M150.3,180.5l67.6,0.1L150.4,248L150.3,180.5z"/>
+</g>
+<g opacity="0.8">
+	<g>
+		<rect x="112.8" y="68.4" fill="#FFFFFF" width="81.7" height="9.6"/>
+	</g>
+	<g>
+		<rect x="112.8" y="86.5" fill="#FFFFFF" width="81.7" height="9.6"/>
+	</g>
+	<g>
+		<rect x="112.8" y="104.7" fill="#FFFFFF" width="81.7" height="9.6"/>
+	</g>
+	<g>
+		<rect x="112.8" y="123.8" fill="#FFFFFF" width="81.7" height="9.6"/>
+	</g>
+	<g>
+		<rect x="112.8" y="141.9" fill="#FFFFFF" width="81.7" height="9.6"/>
+	</g>
+</g>
+<path opacity="0.8" fill="#FFFFFF" d="M95.6,97.7l-11.2-2.4V81.4l15.2,3.3V74.1l-22.8-4.9v10.6h0v55c-1.2-0.3-2.5-0.5-3.9-0.5
+	c-6.3,0-11.4,3.9-11.4,8.7c0,4.8,5.1,8.7,11.4,8.7c6.3,0,11.4-3.9,11.4-8.6h0v-40.1l11.2,2.4L95.6,97.7L95.6,97.7z"/>
+</svg>

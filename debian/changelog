@@ -1,3 +1,11 @@
+ukui-themes (1.0.1) unstable; urgency=medium
+
+  * Add ukui-blue
+  * Remove obsolete themes
+  * update icon theme
+
+ -- lihao <lihao@ubuntukylin.com>  Sat, 17 Mar 2018 14:41:02 +0800
+
 ukui-themes (1.0.0) unstable; urgency=medium
 
   * Initial release. (Closes: #nnnnn)

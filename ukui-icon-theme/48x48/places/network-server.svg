@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-ydpi="270" inkscape:export-xdpi="270" sodipodi:docname="user-home.svg" inkscape:version="0.48.4 r9939"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<rect x="2" y="3.7" opacity="8.000000e-002" width="46" height="42.6"/>
+<rect x="3" y="4.7" opacity="9.999999e-002" width="44" height="40.6"/>
+<rect x="2" y="3.7" opacity="0.2" width="44" height="40.6"/>
+<rect x="3" y="4.7" fill="#90A4AE" width="42" height="38.6"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="24" y1="188.7917" x2="24" y2="151.2083" gradientTransform="matrix(1 0 0 -1 0 194)">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.529" style="stop-color:#ECECEC"/>
+	<stop  offset="1" style="stop-color:#E0E0E0"/>
+</linearGradient>
+<rect x="3.5" y="5.2" fill="url(#SVGID_1_)" width="41" height="37.6"/>
+<g>
+	<polygon fill="#CFD8DC" points="5.9,39.6 5.9,30.5 22.7,30.5 22.7,28.6 5.9,28.6 5.9,19.4 22.7,19.4 22.7,17.5 5.9,17.5 5.9,8.4 
+		42.1,8.4 42.1,17.5 25.3,17.5 25.3,19.4 42.1,19.4 42.1,28.6 25.3,28.6 25.3,30.5 42.1,30.5 42.1,39.6 	"/>
+	<rect id="rect3804" x="23" y="26.9" fill="#FF6E40" width="2" height="4.7"/>
+	<rect id="rect3802" x="23" y="15.9" fill="#FF6E40" width="2" height="4.7"/>
+	
+		<linearGradient id="rect3000_1_" gradientUnits="userSpaceOnUse" x1="23.9996" y1="163.2177" x2="23.9996" y2="154.7444" gradientTransform="matrix(1 0 0 -1 0 194)">
+		<stop  offset="0" style="stop-color:#4FC3F7"/>
+		<stop  offset="0.1101" style="stop-color:#3EBDF6"/>
+		<stop  offset="0.3181" style="stop-color:#24B4F5"/>
+		<stop  offset="0.5326" style="stop-color:#12AEF5"/>
+		<stop  offset="0.7555" style="stop-color:#07AAF4"/>
+		<stop  offset="1" style="stop-color:#03A9F4"/>
+	</linearGradient>
+	<rect id="rect3000" x="6.2" y="30.8" fill="url(#rect3000_1_)" width="35.6" height="8.5"/>
+	
+		<linearGradient id="rect2998_1_" gradientUnits="userSpaceOnUse" x1="23.9996" y1="165.7633" x2="23.9996" y2="174.2367" gradientTransform="matrix(1 0 0 -1 0 194)">
+		<stop  offset="0" style="stop-color:#E64A19"/>
+		<stop  offset="0.2192" style="stop-color:#F04F1D"/>
+		<stop  offset="0.5912" style="stop-color:#FB5521"/>
+		<stop  offset="1" style="stop-color:#FF5722"/>
+	</linearGradient>
+	<rect id="rect2998" x="6.2" y="19.8" fill="url(#rect2998_1_)" width="35.6" height="8.5"/>
+	
+		<linearGradient id="rect2992_1_" gradientUnits="userSpaceOnUse" x1="23.9996" y1="185.2383" x2="23.9996" y2="176.765" gradientTransform="matrix(1 0 0 -1 0 194)">
+		<stop  offset="0" style="stop-color:#4FC3F7"/>
+		<stop  offset="0.1101" style="stop-color:#3EBDF6"/>
+		<stop  offset="0.3181" style="stop-color:#24B4F5"/>
+		<stop  offset="0.5326" style="stop-color:#12AEF5"/>
+		<stop  offset="0.7555" style="stop-color:#07AAF4"/>
+		<stop  offset="1" style="stop-color:#03A9F4"/>
+	</linearGradient>
+	<rect id="rect2992" x="6.2" y="8.8" fill="url(#rect2992_1_)" width="35.6" height="8.5"/>
+	<rect id="rect3806" x="8.8" y="11.3" fill="#BBDEFB" width="17.8" height="3.4"/>
+	<path id="path3808" sodipodi:rx="2" sodipodi:type="arc" sodipodi:cy="17" sodipodi:ry="2" sodipodi:cx="-7" fill="#BBDEFB" d="
+		M33.3,13c0,0.9-0.8,1.7-1.7,1.7c-0.9,0-1.7-0.8-1.7-1.7c0-0.9,0.8-1.7,1.7-1.7C32.6,11.3,33.3,12.1,33.3,13z"/>
+	<path id="path3810" sodipodi:rx="2" sodipodi:type="arc" sodipodi:cy="17" sodipodi:ry="2" sodipodi:cx="-7" fill="#BBDEFB" d="
+		M39.2,13c0,0.9-0.8,1.7-1.7,1.7c-0.9,0-1.7-0.8-1.7-1.7c0-0.9,0.8-1.7,1.7-1.7C38.5,11.3,39.2,12.1,39.2,13z"/>
+	<rect id="rect3812" x="8.8" y="33.3" fill="#BBDEFB" width="17.8" height="3.4"/>
+	<path id="path3814" sodipodi:rx="2" sodipodi:type="arc" sodipodi:cy="17" sodipodi:ry="2" sodipodi:cx="-7" fill="#BBDEFB" d="
+		M33.3,35c0,0.9-0.8,1.7-1.7,1.7c-0.9,0-1.7-0.8-1.7-1.7c0-0.9,0.8-1.7,1.7-1.7C32.6,33.3,33.3,34.1,33.3,35z"/>
+	<path id="path3816" sodipodi:rx="2" sodipodi:type="arc" sodipodi:cy="17" sodipodi:ry="2" sodipodi:cx="-7" fill="#BBDEFB" d="
+		M39.2,35c0,0.9-0.8,1.7-1.7,1.7c-0.9,0-1.7-0.8-1.7-1.7c0-0.9,0.8-1.7,1.7-1.7C38.5,33.3,39.2,34.1,39.2,35z"/>
+	<rect id="rect3818" x="8.8" y="22.3" fill="#FF8A65" width="17.8" height="3.4"/>
+	<path id="path3820" sodipodi:rx="2" sodipodi:type="arc" sodipodi:cy="17" sodipodi:ry="2" sodipodi:cx="-7" fill="#FF8A65" d="
+		M33.3,24c0,0.9-0.8,1.7-1.7,1.7c-0.9,0-1.7-0.8-1.7-1.7c0-0.9,0.8-1.7,1.7-1.7C32.6,22.3,33.3,23.1,33.3,24z"/>
+	<path id="path3822" sodipodi:rx="2" sodipodi:type="arc" sodipodi:cy="17" sodipodi:ry="2" sodipodi:cx="-7" fill="#FF8A65" d="
+		M39.2,24c0,0.9-0.8,1.7-1.7,1.7c-0.9,0-1.7-0.8-1.7-1.7c0-0.9,0.8-1.7,1.7-1.7C38.5,22.3,39.2,23.1,39.2,24z"/>
+	<rect x="8.8" y="11.6" fill="#F5F5F5" width="17.8" height="3.1"/>
+	<path fill="#F5F5F5" d="M31.6,11.6c-0.9,0-1.6,0.7-1.7,1.5c0.1,0.9,0.8,1.5,1.7,1.5s1.6-0.7,1.7-1.5C33.2,12.3,32.5,11.6,31.6,11.6
+		z"/>
+	<path fill="#F5F5F5" d="M37.5,11.6c-0.9,0-1.6,0.7-1.7,1.5c0.1,0.9,0.8,1.5,1.7,1.5c0.9,0,1.6-0.7,1.7-1.5
+		C39.2,12.3,38.4,11.6,37.5,11.6z"/>
+	<rect x="8.8" y="22.6" fill="#F5F5F5" width="17.8" height="3.1"/>
+	<path fill="#F5F5F5" d="M31.6,22.6c-0.9,0-1.6,0.7-1.7,1.5c0.1,0.9,0.8,1.5,1.7,1.5s1.6-0.7,1.7-1.5C33.2,23.3,32.5,22.6,31.6,22.6
+		z"/>
+	<path fill="#F5F5F5" d="M37.5,22.6c-0.9,0-1.6,0.7-1.7,1.5c0.1,0.9,0.8,1.5,1.7,1.5c0.9,0,1.6-0.7,1.7-1.5
+		C39.2,23.3,38.4,22.6,37.5,22.6z"/>
+	<rect x="8.8" y="33.6" fill="#F5F5F5" width="17.8" height="3.1"/>
+	<path fill="#F5F5F5" d="M31.6,33.6c-0.9,0-1.6,0.7-1.7,1.5c0.1,0.9,0.8,1.5,1.7,1.5s1.6-0.7,1.7-1.5C33.2,34.3,32.5,33.6,31.6,33.6
+		z"/>
+	<path fill="#F5F5F5" d="M37.5,33.6c-0.9,0-1.6,0.7-1.7,1.5c0.1,0.9,0.8,1.5,1.7,1.5c0.9,0,1.6-0.7,1.7-1.5
+		C39.2,34.3,38.4,33.6,37.5,33.6z"/>
+</g>
+</svg>

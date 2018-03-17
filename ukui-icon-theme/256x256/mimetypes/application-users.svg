@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<g id="surface1">
+	<polygon opacity="0.08" enable-background="new    " points="34.5,256 34.5,4 225.5,4 225.5,185.031 154.531,256 	"/>
+	<polygon opacity="0.1" enable-background="new    " points="36.5,254 36.5,6 223.5,6 223.5,184.203 153.703,254 	"/>
+	<polygon opacity="0.2" enable-background="new    " points="34.5,252 34.5,4 221.5,4 221.5,182.203 151.703,252 	"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="336.001" y1="-1711.9512" x2="336.001" y2="-1467.9512" gradientTransform="matrix(1 0 0 -1 -208.0005 -1461.9512)">
+		<stop  offset="0" style="stop-color:#1976D2"/>
+		<stop  offset="0.0626" style="stop-color:#227DD6"/>
+		<stop  offset="0.3018" style="stop-color:#3F96E4"/>
+		<stop  offset="0.5397" style="stop-color:#53A7EE"/>
+		<stop  offset="0.7739" style="stop-color:#60B1F4"/>
+		<stop  offset="1" style="stop-color:#64B5F6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M150.875,250l68.625-68.625V6h-183v244H150.875z"/>
+	<polygon fill="#0D47A1" fill-opacity="0.3922" points="147.063,177.563 147.063,250 150.875,250 219.5,181.375 219.5,177.563 	"/>
+	<path fill="#FFFFFF" fill-opacity="0.3922" d="M150.875,181.375h68.566L150.875,250V181.375z"/>
+	<g>
+		<path fill="#0D47A1" d="M217.5,8v172.547L150.047,248H97.5h-59V8H217.5 M219.5,6h-183v244h61h53.375l68.625-68.625V6L219.5,6z"/>
+	</g>
+	<path opacity="0.8" fill="#FFFFFF" d="M143.25,63.845h15.25c15.25,0,15.25,15.25,15.25,15.25v22.875
+		c0,5.986-7.625,15.25-7.625,15.25v7.625l15.25,10.903v11.972H112.75v-10.842l22.875-12.033v-7.625c0,0-7.653-9.264-7.625-15.25
+		V79.095C128,79.095,128,63.845,143.25,63.845z M104.262,75.818l8.488,0.357v23.53c0,6.002,7.625,17.514,7.625,17.514l-15.25,12.539
+		v10.336h-30.5v-4.544L97.5,124.845v-6.643c0,0-11.051-12.612-10.99-18.615v-5.792C86.51,75.818,104.262,75.818,104.262,75.818z"/>
+</g>
+</svg>

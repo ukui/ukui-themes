@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="22px" height="22px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
+<polygon fill="#5F7B89" points="2.634,22 2.634,0 19.366,0 19.366,15.806 13.112,22 "/>
+<g>
+	<g>
+		<g>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="52.6006" y1="419.3994" x2="52.6006" y2="440.4004" gradientTransform="matrix(1 0 0 1 -41.5996 -418.9004)">
+				<stop  offset="0" style="stop-color:#F6F5F5"/>
+				<stop  offset="0.341" style="stop-color:#F1F2F3"/>
+				<stop  offset="0.6434" style="stop-color:#E7EAEB"/>
+				<stop  offset="0.9302" style="stop-color:#D5DBDF"/>
+				<stop  offset="1" style="stop-color:#CFD7DB"/>
+			</linearGradient>
+			<polygon fill="url(#SVGID_1_)" points="3.133,21.5 3.133,0.5 18.867,0.5 18.867,15.594 12.96,21.5 			"/>
+		</g>
+		<polygon fill="#455963" fill-opacity="0.7" points="18.867,15.594 18.867,15.34 12.637,15.34 12.637,21.5 12.96,21.5 		"/>
+		<path fill="#8DA1AC" d="M12.951,15.594l5.916,0.008L12.96,21.5L12.951,15.594z"/>
+	</g>
+	<g>
+		<rect x="5.163" y="6.905" opacity="0.8" fill="#5F7B89" enable-background="new    " width="11.665" height="0.577"/>
+		<rect x="5.163" y="5.102" opacity="0.8" fill="#5F7B89" enable-background="new    " width="11.665" height="0.578"/>
+		<rect x="10.729" y="8.602" opacity="0.8" fill="#5F7B89" enable-background="new    " width="6.089" height="6.09"/>
+		<g opacity="0.8">
+			<rect x="5.163" y="8.707" fill="#5F7B89" width="5.067" height="0.579"/>
+			<rect x="5.163" y="10.511" fill="#5F7B89" width="5.067" height="0.577"/>
+			<rect x="5.163" y="12.32" fill="#5F7B89" width="5.067" height="0.578"/>
+			<rect x="5.163" y="14.124" fill="#5F7B89" width="5.067" height="0.577"/>
+		</g>
+	</g>
+</g>
+</svg>

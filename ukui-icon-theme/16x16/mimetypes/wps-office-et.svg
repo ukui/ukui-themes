@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<polygon fill="#1B5E20" points="1.881,16 1.881,0 14.119,0 14.119,11.495 9.545,16 "/>
+<g>
+	<g>
+		<g>
+			<g>
+				<g>
+					
+						<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="91.2012" y1="-582.3003" x2="91.2012" y2="-567.3008" gradientTransform="matrix(1 0 0 -1 -83.2002 -566.8008)">
+						<stop  offset="0" style="stop-color:#388E3C"/>
+						<stop  offset="0.0757" style="stop-color:#43953E"/>
+						<stop  offset="0.3246" style="stop-color:#62A943"/>
+						<stop  offset="0.5665" style="stop-color:#79B747"/>
+						<stop  offset="0.796" style="stop-color:#86C049"/>
+						<stop  offset="1" style="stop-color:#8BC34A"/>
+					</linearGradient>
+					<polygon fill="url(#SVGID_1_)" points="2.381,15.5 2.381,0.5 13.619,0.5 13.619,11.281 9.4,15.5 					"/>
+				</g>
+				<polygon fill="#1B5E20" fill-opacity="0.39" points="13.619,11.281 13.619,11.1 9.169,11.1 9.169,15.5 9.4,15.5 				"/>
+				<path fill="#FFFFFF" fill-opacity="0.3922" d="M9.395,11.281l4.226,0.006L9.4,15.5L9.395,11.281z"/>
+			</g>
+			<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M8.278,3.813V3.8H7.723v0.013H4.138V10.8h7.725V3.813H8.278z
+				 M4.693,5.887h1.725v1.116H4.693V5.887z M4.693,7.56h1.725v1.115H4.693V7.56z M6.992,7.56h4.314v1.115H6.992V7.56z M6.992,7.003
+				V5.887h4.314v1.116H6.992z M11.307,4.374v0.959H6.992V4.374H11.307z M6.418,4.374v0.959H4.693V4.374H6.418z M4.693,9.236h1.725
+				v1.003H4.693V9.236z M6.992,10.239V9.236h4.314v1.003H6.992z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<rect x="2.378" y="0.5" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="11.245" height="2.875"/>
+	<g enable-background="new    ">
+		<path fill="#38883B" d="M5.687,3.041v-2.24h1.592v0.424H6.217v0.439H7.16v0.414H6.217v0.54h1.14v0.423H5.687z"/>
+		<path fill="#38883B" d="M10.314,0.801v0.43H9.604v1.811H9.072V1.23H8.361v-0.43H10.314z"/>
+	</g>
+</g>
+</svg>

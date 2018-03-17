@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="surface1_2_">
+	<polygon opacity="0.08" enable-background="new    " points="9.25,64 9.25,2 56.75,2 56.75,46.516 39.266,64 	"/>
+	<polygon opacity="0.1" enable-background="new    " points="10.25,63 10.25,3 55.75,3 55.75,46.102 38.852,63 	"/>
+	<polygon opacity="0.2" enable-background="new    " points="9.25,62 9.25,2 54.75,2 54.75,45.102 37.852,62 	"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="240.001" y1="-1714.9512" x2="240.001" y2="-1656.9512" gradientTransform="matrix(1 0 0 -1 -208.0005 -1653.9512)">
+		<stop  offset="0" style="stop-color:#1976D2"/>
+		<stop  offset="0.0626" style="stop-color:#227DD6"/>
+		<stop  offset="0.3018" style="stop-color:#3F96E4"/>
+		<stop  offset="0.5397" style="stop-color:#53A7EE"/>
+		<stop  offset="0.7739" style="stop-color:#60B1F4"/>
+		<stop  offset="1" style="stop-color:#64B5F6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M37.438,61L53.75,44.688V3h-43.5v58H37.438z"/>
+	<polygon fill="#0D47A1" fill-opacity="0.3922" points="36.531,43.781 36.531,61 37.438,61 53.75,44.688 53.75,43.781 	"/>
+	<path fill="#FFFFFF" fill-opacity="0.3922" d="M37.438,44.688h16.299L37.438,61V44.688z"/>
+	<g>
+		<path fill="#0D47A1" d="M53.25,3.5v40.98L37.23,60.5H24.75h-14v-57H53.25 M53.75,3h-43.5v58h14.5h12.688L53.75,44.688V3L53.75,3z"
+			/>
+	</g>
+	<path opacity="0.8" fill="#FFFFFF" d="M32,12.602c-7.676,0-13.898,6.223-13.898,13.898S24.324,40.398,32,40.398
+		S45.898,34.176,45.898,26.5S39.676,12.602,32,12.602z M33.875,36.938h-4.25v-13h4.25V36.938z M31.75,22.313
+		c-1.726,0-3.125-1.399-3.125-3.125s1.399-3.125,3.125-3.125c1.726,0,3.125,1.399,3.125,3.125S33.476,22.313,31.75,22.313z"/>
+</g>
+</svg>

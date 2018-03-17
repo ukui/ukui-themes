@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<polygon fill="#3E2723" points="1.881,16 1.881,0 14.119,0 14.119,11.496 9.544,16 "/>
+<g>
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="49.5996" y1="-148.4004" x2="49.5996" y2="-163.4009" gradientTransform="matrix(1 0 0 -1 -41.6001 -147.9004)">
+			<stop  offset="0" style="stop-color:#785548"/>
+			<stop  offset="1" style="stop-color:#9F9E9F"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_1_)" points="2.38,15.5 2.38,0.5 13.619,0.5 13.619,11.275 9.441,15.5 		"/>
+		<polygon fill="#795548" fill-opacity="0.7" points="13.619,11.281 13.619,11.1 9.17,11.1 9.17,15.5 9.4,15.5 		"/>
+		<path opacity="0.39" fill="#FFFFFF" enable-background="new    " d="M9.395,11.281l4.225,0.006L9.4,15.5L9.395,11.281z"/>
+	</g>
+	<path fill="#FFFFFF" d="M6.396,3.392h-0.38v4.871H5.728V3.392H5.35v4.871H5.063V3.392H4.684v4.871H4.396V3.392H4.018v4.871H3.918
+		v2.063h2.607V8.263h-0.13V3.392z M6.146,9.727h-1.85V8.53h1.85V9.727z"/>
+	<g>
+		<rect x="2.378" y="0.5" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="11.243" height="2.875"/>
+		<g enable-background="new    ">
+			<path fill="#5D4037" d="M6.518,2.625v0.433H4.941V0.817h0.531v1.808H6.518z"/>
+			<path fill="#5D4037" d="M8.28,0.817h0.53v2.241H8.28V2.107H7.389v0.951H6.857V0.817h0.531v0.857H8.28V0.817z"/>
+			<path fill="#5D4037" d="M11.02,1.167c-0.072,0.071-0.158,0.164-0.258,0.277c-0.101,0.113-0.203,0.236-0.311,0.37
+				c-0.106,0.133-0.212,0.271-0.316,0.414C10.03,2.37,9.938,2.505,9.855,2.635h1.202v0.423H9.203V2.757
+				c0.063-0.11,0.141-0.232,0.232-0.367S9.623,2.12,9.723,1.983c0.101-0.137,0.202-0.269,0.305-0.397
+				c0.104-0.128,0.199-0.243,0.288-0.344H9.257V0.817h1.763V1.167z"/>
+		</g>
+	</g>
+</g>
+</svg>

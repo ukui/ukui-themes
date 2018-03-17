@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<g id="surface1">
+	<polygon opacity="0.08" enable-background="new    " points="34.5,256 34.5,4 225.5,4 225.5,185.031 154.531,256 	"/>
+	<polygon opacity="0.1" enable-background="new    " points="36.5,254 36.5,6 223.5,6 223.5,184.203 153.703,254 	"/>
+	<polygon opacity="0.2" enable-background="new    " points="34.5,252 34.5,4 221.5,4 221.5,182.203 151.703,252 	"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="294.4004" y1="1803.9609" x2="294.4004" y2="1559.9609" gradientTransform="matrix(1 0 0 1 -166.4004 -1553.9609)">
+		<stop  offset="0" style="stop-color:#512DA8"/>
+		<stop  offset="0.008" style="stop-color:#D32F2F"/>
+		<stop  offset="0.0898" style="stop-color:#DA352D"/>
+		<stop  offset="0.3994" style="stop-color:#EE4827"/>
+		<stop  offset="0.705" style="stop-color:#FB5323"/>
+		<stop  offset="1" style="stop-color:#FF5722"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M150.875,250l68.625-68.625V6h-183v244H150.875z"/>
+	<polygon fill="#B71C1C" fill-opacity="0.3922" points="147.063,177.563 147.063,250 150.875,250 219.5,181.375 219.5,177.563 	"/>
+	<path fill="#FFFFFF" fill-opacity="0.3922" d="M150.875,181.375h68.567L150.875,250V181.375z"/>
+	<path opacity="0.8" fill="#FFFFFF" d="M79.927,141.36l2.667,20.418c0,0,35.146,11.093,52.793-39.259h30.738v-22.489h-19.153
+		c0,0,8.936-23.44,28.729-25.435c0-0.493-2.145-19.437-2.145-19.437s-32.615-4.496-52.453,43.86
+		C103.993,146.348,79.927,141.36,79.927,141.36z"/>
+	<g>
+		<path fill="#B71C1C" d="M218.5,7v173.961L150.461,249H97.5h-60V7H218.5 M219.5,6h-183v244h61h53.375l68.625-68.625V6L219.5,6z"/>
+	</g>
+</g>
+</svg>

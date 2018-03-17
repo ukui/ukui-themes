@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<polygon opacity="0.08" enable-background="new    " points="34.1,256 34.1,4 225.9,4 225.9,185 154.9,256 "/>
+<polygon opacity="0.1" enable-background="new    " points="36.1,254 36.1,6 223.9,6 223.9,184.2 154,254 "/>
+<polygon opacity="0.2" enable-background="new    " points="34.1,252 34.1,4 221.9,4 221.9,182.2 152,252 "/>
+<polygon fill="#607D8B" points="36.1,250 36.1,6 219.9,6 219.9,181.3 151.2,250 "/>
+<g>
+	<g>
+		<g>
+			<g>
+				<g>
+					
+						<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="252.793" y1="1251.7002" x2="252.793" y2="1491.7012" gradientTransform="matrix(1 0 0 1 -124.7998 -1243.7012)">
+						<stop  offset="0" style="stop-color:#F6F5F5"/>
+						<stop  offset="0.341" style="stop-color:#F1F2F3"/>
+						<stop  offset="0.6434" style="stop-color:#E7EAEB"/>
+						<stop  offset="0.9302" style="stop-color:#D5DBDF"/>
+						<stop  offset="1" style="stop-color:#CFD7DB"/>
+					</linearGradient>
+					<polygon fill="url(#SVGID_1_)" points="38.086,248 38.086,8 217.898,8 217.898,180.5 150.398,248 					"/>
+				</g>
+				<polygon fill="#455963" fill-opacity="0.7" points="217.898,180.5 217.898,177.594 146.695,177.594 146.695,248 150.398,248 
+									"/>
+				<path fill="#8DA1AC" d="M150.305,180.5l67.609,0.109L150.398,248L150.305,180.5z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="#607D8B" d="M74.399,110.719l31.5,20.281l-2.313,10.703l-38.313-25.438v-11.109l38.313-25.422l2.313,10.688
+				L74.399,110.719z"/>
+			<path fill="#607D8B" d="M150.086,90.422l2.313-10.688l38.328,25.422v11.109l-38.328,25.438L150.086,131l31.5-20.281
+				L150.086,90.422z"/>
+		</g>
+		<polygon fill="#607D8B" points="122.383,154.875 142.008,66.547 133.742,66.547 113.993,154.875 		"/>
+	</g>
+</g>
+</svg>

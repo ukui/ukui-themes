@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-ydpi="270" inkscape:export-xdpi="270" sodipodi:docname="user-home.svg" inkscape:version="0.48.4 r9939"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22px" height="22px"
+	 viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
+<polygon fill="#616161" points="3.7,1 20.3,1 20.3,23 12,16.4 3.7,23 "/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="12.05" y1="94.7286" x2="12.05" y2="73.7286" gradientTransform="matrix(1 0 0 -1 0 96)">
+	<stop  offset="0" style="stop-color:#9E9E9E"/>
+	<stop  offset="0.2245" style="stop-color:#A3A3A3"/>
+	<stop  offset="0.4967" style="stop-color:#B2B2B2"/>
+	<stop  offset="0.7925" style="stop-color:#CACACA"/>
+	<stop  offset="1" style="stop-color:#E0E0E0"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M4.1,1.3H20v21L12,16l-7.9,6.3V1.3z"/>
+<path fill="#616161" fill-opacity="0.48" d="M17.3,1.3v18.9l2.6,2.1v-21L17.3,1.3L17.3,1.3z M4.1,1.3v21l2.7-2.1V1.3H4.1z"/>
+</svg>

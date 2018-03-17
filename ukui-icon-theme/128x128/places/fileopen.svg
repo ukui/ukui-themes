@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:version="0.48.5 r10040" sodipodi:docname="fileopen.svg" inkscape:export-xdpi="270" inkscape:export-ydpi="270"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="128px" height="128px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<polygon style="opacity:0.08;enable-background:new    ;" points="4,120.875 4,46.702 11.125,46.702 11.125,11.125 109.87,11.125 
+	120.875,22.13 120.875,46.702 128,46.702 128,120.875 "/>
+<polygon style="opacity:0.1;enable-background:new    ;" points="6,118.875 6,48.702 13.125,48.702 13.125,13.125 109.042,13.125 
+	118.875,22.958 118.875,48.702 126,48.702 126,118.875 "/>
+<polygon style="opacity:0.2;enable-background:new    ;" points="4,116.875 4,46.702 11.125,46.702 11.125,11.125 107.042,11.125 
+	116.875,20.958 116.875,46.702 124,46.702 124,116.875 "/>
+<polygon style="fill:#F57F17;" points="6,114.875 6,48.702 13.125,48.702 13.125,13.125 106.214,13.125 114.875,21.786 
+	114.875,48.702 122,48.702 122,114.875 "/>
+<polygon style="fill:#E0E0E0;" points="105.8,14.125 14.125,14.125 14.125,48.23 14.125,57.255 113.875,57.255 113.875,48.23 
+	113.875,22.2 "/>
+<rect x="14.125" y="47.327" style="opacity:0.2;enable-background:new    ;" width="99.75" height="2.375"/>
+<linearGradient id="rect2990_1_" gradientUnits="userSpaceOnUse" x1="-2.881279e-009" y1="28.596" x2="2.881019e-009" y2="-99.75" gradientTransform="matrix(0.5 0 0 -0.5 64 64)">
+	<stop  offset="0" style="stop-color:#FADD60"/>
+	<stop  offset="0.9946" style="stop-color:#F5A816"/>
+</linearGradient>
+<polyline id="rect2990_2_" style="fill:url(#rect2990_1_);" points="121,49.702 121,113.875 7,113.875 7,49.702 "/>
+<path id="rect3004_2_" inkscape:connector-curvature="0" style="opacity:0.25;fill:#FDEFBA;enable-background:new    ;" d="
+	M7,49.702v14.583c0-4.988,3.42-9.12,7.6-9.12h98.8c4.18,0,7.6,4.085,7.6,9.12V49.702H7z"/>
+<rect x="26" y="40.725" style="fill:#9E9E9E;" width="76" height="4.75"/>
+<rect x="26" y="31.178" style="fill:#9E9E9E;" width="76" height="4.75"/>
+<rect x="26" y="21.678" style="fill:#9E9E9E;" width="66.5" height="4.75"/>
+<polygon style="fill:#FFFFFF;" points="113.875,22.2 105.8,22.2 105.8,14.125 "/>
+<polygon style="opacity:0.2;enable-background:new    ;" points="105.8,22.2 113.875,22.2 113.875,30.275 "/>
+</svg>

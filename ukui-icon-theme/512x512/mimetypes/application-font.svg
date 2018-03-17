@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<polygon opacity="0.08" enable-background="new    " points="68.2,512 68.2,8 451.801,8 451.801,369.913 309.714,512 "/>
+<polygon opacity="0.1" enable-background="new    " points="72.2,508 72.2,12 447.801,12 447.801,368.256 308.057,508 "/>
+<polygon opacity="0.2" enable-background="new    " points="68.2,504 68.2,8 443.801,8 443.801,364.256 304.058,504 "/>
+<g>
+	<polygon fill="#445962" points="72.199,500 72.199,12 438.793,12 438.793,362.75 301.167,500 	"/>
+</g>
+<g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<g>
+							
+								<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="380.2795" y1="1257.7" x2="380.2795" y2="1741.7009" gradientTransform="matrix(1 0 0 1 -124.7998 -1243.7012)">
+								<stop  offset="0" style="stop-color:#F6F5F5"/>
+								<stop  offset="0.341" style="stop-color:#F1F2F3"/>
+								<stop  offset="0.6434" style="stop-color:#E7EAEB"/>
+								<stop  offset="0.9302" style="stop-color:#D5DBDF"/>
+								<stop  offset="1" style="stop-color:#CFD7DB"/>
+							</linearGradient>
+							<polygon fill="url(#SVGID_1_)" points="74.169,498 74.169,14 436.789,14 436.789,361.875 300.664,498 							"/>
+						</g>
+						<polygon fill="#455963" fill-opacity="0.7" points="436.789,361.875 436.789,356.017 293.202,356.017 293.202,498 
+							300.664,498 						"/>
+						<path fill="#8DA1AC" d="M300.462,361.875l136.361,0.219L300.664,498L300.462,361.875z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 151.0579 305.1716)" fill="#607D8B" font-family="'Ubuntu-Italic'" font-size="274.2667">A</text>
+</g>
+</svg>

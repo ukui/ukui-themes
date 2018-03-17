@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<polygon opacity="8.000000e-002" enable-background="new    " points="34.1,256 34.1,4 225.9,4 225.9,185 154.9,256 "/>
+<polygon opacity="9.999999e-002" enable-background="new    " points="36.1,254 36.1,6 223.9,6 223.9,184.2 154,254 "/>
+<polygon opacity="0.2" enable-background="new    " points="34.1,252 34.1,4 221.9,4 221.9,182.2 152,252 "/>
+<polygon fill="#1B5E20" points="36.1,250 36.1,6 219.9,6 219.9,181.3 151.2,250 "/>
+<g>
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="128" y1="10" x2="128" y2="250" gradientTransform="matrix(1 0 0 -1 0 258)">
+			<stop  offset="0" style="stop-color:#388E3C"/>
+			<stop  offset="7.565451e-002" style="stop-color:#43953E"/>
+			<stop  offset="0.3246" style="stop-color:#62A943"/>
+			<stop  offset="0.5665" style="stop-color:#79B747"/>
+			<stop  offset="0.796" style="stop-color:#86C049"/>
+			<stop  offset="1" style="stop-color:#8BC34A"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_1_)" points="38.1,248 38.1,8 217.9,8 217.9,180.5 150.4,248 		"/>
+	</g>
+	<polygon fill="#1B5E20" fill-opacity="0.39" points="217.9,180.5 217.9,177.6 146.7,177.6 146.7,248 150.4,248 	"/>
+	<path fill="#FFFFFF" fill-opacity="0.3922" d="M150.3,180.5l67.6,0.1L150.4,248L150.3,180.5z"/>
+</g>
+<path opacity="0.8" fill="#FFFFFF" d="M132.6,52.2V52h-9.2v0.2H64V168h128V52.2H132.6z M73.2,86.6h28.6v18.5H73.2V86.6z M73.2,114.3
+	h28.6v18.5H73.2V114.3z M111.3,114.3h71.5v18.5h-71.5V114.3z M111.3,105.1V86.6h71.5v18.5H111.3z M182.8,61.5v15.9h-71.5V61.5H182.8
+	z M101.8,61.5v15.9H73.2V61.5H101.8z M73.2,142.1h28.6v16.6H73.2V142.1z M111.3,158.7v-16.6h71.5v16.6H111.3z"/>
+</svg>

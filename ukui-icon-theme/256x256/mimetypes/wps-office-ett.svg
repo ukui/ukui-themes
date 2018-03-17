@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<rect x="34.1" y="4" opacity="0.08" enable-background="new    " width="191.8" height="252"/>
+<rect x="36.1" y="6" opacity="0.1" enable-background="new    " width="187.8" height="248"/>
+<rect x="34.1" y="4" opacity="0.2" enable-background="new    " width="187.8" height="248"/>
+<rect x="36.1" y="6" fill="#1B5E20" width="183.8" height="244"/>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="211.2002" y1="1072.8008" x2="211.2002" y2="832.8008" gradientTransform="matrix(1 0 0 1 -83.2002 -824.8008)">
+		<stop  offset="0" style="stop-color:#388E3C"/>
+		<stop  offset="0.0757" style="stop-color:#43953E"/>
+		<stop  offset="0.3246" style="stop-color:#62A943"/>
+		<stop  offset="0.5665" style="stop-color:#79B747"/>
+		<stop  offset="0.796" style="stop-color:#86C049"/>
+		<stop  offset="1" style="stop-color:#8BC34A"/>
+	</linearGradient>
+	<rect x="38.09" y="8" fill="url(#SVGID_1_)" width="179.82" height="240"/>
+	<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M132.598,84.228v-0.212h-9.196v0.212H64.005v115.804h127.99
+		V84.228H132.598z M73.201,118.608h28.582v18.499H73.201V118.608z M73.201,146.326h28.582v18.504H73.201V146.326z M111.292,146.326
+		h71.507v18.504h-71.507V146.326z M111.292,137.107v-18.499h71.507v18.499H111.292z M182.799,93.524v15.898h-71.507V93.524H182.799z
+		 M101.783,93.524v15.898H73.201V93.524H101.783z M73.201,174.127h28.582v16.607H73.201V174.127z M111.292,190.734v-16.607h71.507
+		v16.607H111.292z"/>
+	<g>
+		<rect x="38.045" y="8" opacity="0.8" fill="#FFFFFF" width="179.91" height="45.999"/>
+		<g>
+			<path fill="#388E3C" d="M81.717,48.664V12.81h25.49v6.786H90.221v7.031h15.078v6.624H90.221v8.639h18.248v6.774H81.717z"/>
+			<path fill="#388E3C" d="M142.721,12.81v6.886h-11.395v28.968h-8.482V19.696h-11.396V12.81H142.721z"/>
+			<path fill="#388E3C" d="M177.564,12.81v6.886h-11.373v28.968h-8.504V19.696h-11.373V12.81H177.564z"/>
+		</g>
+	</g>
+</g>
+</svg>

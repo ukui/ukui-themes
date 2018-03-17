@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<polygon opacity="0.08" enable-background="new    " points="18.31,128 18.31,4 113.689,4 113.689,92.995 78.686,128 "/>
+<polygon display="none" opacity="0.08" enable-background="new    " points="22.31,126 22.31,6 113.689,6 113.689,92.167 
+	79.857,126 "/>
+<polygon opacity="0.1" enable-background="new    " points="20.31,126 20.31,6 111.689,6 111.689,92.167 77.857,126 "/>
+<polygon opacity="0.2" enable-background="new    " points="18.31,124 18.31,4 109.689,4 109.689,90.167 75.857,124 "/>
+<polygon fill="#3E2723" points="20.298,122 20.298,6 107.702,6 107.702,89.34 75.033,122 "/>
+<g>
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="105.6035" y1="-42.9004" x2="105.6035" y2="-156.9009" gradientTransform="matrix(1 0 0 -1 -41.6001 -35.9004)">
+			<stop  offset="0" style="stop-color:#785548"/>
+			<stop  offset="1" style="stop-color:#9F9E9F"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_1_)" points="21.298,121 21.298,7 106.709,7 106.709,88.893 74.959,121 		"/>
+		<polygon fill="#795548" fill-opacity="0.7" points="106.709,88.938 106.709,87.557 72.895,87.557 72.895,121 74.646,121 		"/>
+		<path opacity="0.39" fill="#FFFFFF" enable-background="new    " d="M74.602,88.938l32.107,0.045L74.646,121L74.602,88.938z"/>
+	</g>
+	<path fill="#FFFFFF" d="M51.817,28.976h-2.895v37.02H46.74v-37.02h-2.879v37.02h-2.182v-37.02h-2.88v37.02h-2.182v-37.02h-2.88
+		v37.02H32.98v15.683h19.816V65.996h-0.98V28.976z M49.917,77.122H35.86V68.03h14.057V77.122z"/>
+	<g>
+		<rect x="21.276" y="7" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="85.449" height="21.85"/>
+		<g enable-background="new    ">
+			<path fill="#5D4037" d="M51.03,23.15v3.292H39.051V9.412h4.038V23.15H51.03z"/>
+			<path fill="#5D4037" d="M64.426,9.412h4.031v17.029h-4.031v-7.225h-6.775v7.225h-4.038V9.412h4.038v6.513h6.775V9.412z"/>
+			<path fill="#5D4037" d="M84.621,26.441c-0.193-0.59-0.408-1.198-0.639-1.822c-0.229-0.624-0.459-1.247-0.682-1.863h-7.006
+				c-0.223,0.62-0.453,1.243-0.684,1.866c-0.223,0.624-0.43,1.232-0.631,1.818h-4.193c0.676-1.833,1.32-3.529,1.922-5.087
+				c0.602-1.555,1.195-3.021,1.773-4.397c0.58-1.377,1.158-2.683,1.715-3.919c0.564-1.236,1.15-2.445,1.752-3.625h3.822
+				c0.594,1.18,1.172,2.39,1.744,3.625s1.15,2.542,1.729,3.919c0.58,1.376,1.174,2.842,1.781,4.397
+				c0.609,1.559,1.248,3.254,1.924,5.087H84.621z M79.783,13.271c-0.098,0.245-0.223,0.583-0.402,1.009
+				c-0.17,0.427-0.371,0.917-0.594,1.473c-0.223,0.561-0.467,1.173-0.742,1.845c-0.266,0.671-0.549,1.373-0.83,2.111h5.121
+				c-0.268-0.738-0.535-1.443-0.795-2.119c-0.26-0.671-0.496-1.288-0.734-1.844c-0.23-0.56-0.43-1.05-0.609-1.477
+				C80.027,13.847,79.887,13.513,79.783,13.271z"/>
+		</g>
+	</g>
+</g>
+</svg>

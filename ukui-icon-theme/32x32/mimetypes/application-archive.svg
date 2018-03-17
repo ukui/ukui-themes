@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<polygon opacity="0.08" fill="#040000" points="5.578,32 5.578,1 29.422,1 29.422,23.249 20.672,32 "/>
+<polygon opacity="0.08" fill="#040000" points="6.078,31.5 6.078,1.5 28.922,1.5 28.922,23.042 20.465,31.5 "/>
+<polygon opacity="0.1" fill="#040000" points="6.078,31.5 6.078,1.5 28.922,1.5 28.922,23.042 20.465,31.5 "/>
+<polygon opacity="0.2" fill="#040000" points="5.578,31 5.578,1 28.422,1 28.422,22.542 19.965,31 "/>
+<polygon fill="#3D2723" points="6.078,30.5 6.078,1.5 27.922,1.5 27.922,22.335 19.758,30.5 "/>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="172.8711" y1="-276.6294" x2="172.8711" y2="-248.6304" gradientTransform="matrix(1 0 0 -1 -155.8701 -246.6299)">
+		<stop  offset="0" style="stop-color:#785548"/>
+		<stop  offset="1" style="stop-color:#9F9E9F"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_1_)" points="6.511,30 6.511,2 27.488,2 27.488,22.126 19.613,30 	"/>
+</g>
+<polygon fill="#5D4037" fill-opacity="0.3922" points="27.488,22.126 27.488,21.787 19.182,21.787 19.182,30 19.613,30 "/>
+<path fill="#FFFFFF" fill-opacity="0.3922" d="M19.602,22.126l7.887,0.011L19.613,30L19.602,22.126z"/>
+<g opacity="0.8">
+	<path fill="#FFFFFF" d="M13.829,14.722V2h-0.738v12.721H12.53V2h-0.738v12.721h-0.561V2h-0.738v12.721H9.932V2H9.194v12.721H9
+		v4.025h5.084v-4.025H13.829z M13.346,17.576H9.738v-2.331h3.608V17.576L13.346,17.576z"/>
+	<rect x="10.425" y="15.504" fill="#FFFFFF" width="2.234" height="1.414"/>
+</g>
+<image overflow="visible" width="223" height="29" xlink:href="965951C.jpg"  transform="matrix(1 0 0 1 -95 -8176)">
+</image>
+<image overflow="visible" width="223" height="29" xlink:href="965951D.jpg"  transform="matrix(1 0 0 1 -8176 -8176)">
+</image>
+</svg>

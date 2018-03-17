@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-ydpi="270" inkscape:export-xdpi="270" sodipodi:docname="user-home.svg" inkscape:version="0.48.4 r9939"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22px" height="22px"
+	 viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
+<rect y="0.9" fill="#607D8B" width="22" height="20.3"/>
+<g>
+	<rect id="rect3804" x="10.4" y="12.7" fill="#FF6E40" width="1.2" height="2.8"/>
+	<rect id="rect3802" x="10.4" y="6.2" fill="#FF6E40" width="1.2" height="2.8"/>
+	
+		<linearGradient id="rect3000_1_" gradientUnits="userSpaceOnUse" x1="11" y1="-183.2698" x2="11" y2="-177.7825" gradientTransform="matrix(1 0 0 1 0 198)">
+		<stop  offset="0" style="stop-color:#4FC3F7"/>
+		<stop  offset="0.1101" style="stop-color:#3EBDF6"/>
+		<stop  offset="0.3181" style="stop-color:#24B4F5"/>
+		<stop  offset="0.5326" style="stop-color:#12AEF5"/>
+		<stop  offset="0.7555" style="stop-color:#07AAF4"/>
+		<stop  offset="1" style="stop-color:#03A9F4"/>
+	</linearGradient>
+	<rect id="rect3000" x="0.5" y="14.8" fill="url(#rect3000_1_)" width="21" height="5.5"/>
+	
+		<linearGradient id="rect2998_1_" gradientUnits="userSpaceOnUse" x1="11" y1="-184.3063" x2="11" y2="-189.7937" gradientTransform="matrix(1 0 0 1 0 198)">
+		<stop  offset="0" style="stop-color:#E64A19"/>
+		<stop  offset="0.2192" style="stop-color:#F04F1D"/>
+		<stop  offset="0.5912" style="stop-color:#FB5521"/>
+		<stop  offset="1" style="stop-color:#FF5722"/>
+	</linearGradient>
+	<rect id="rect2998" x="0.5" y="8.3" fill="url(#rect2998_1_)" width="21" height="5.5"/>
+	
+		<linearGradient id="rect2992_1_" gradientUnits="userSpaceOnUse" x1="11" y1="-196.3063" x2="11" y2="-190.819" gradientTransform="matrix(1 0 0 1 0 198)">
+		<stop  offset="0" style="stop-color:#4FC3F7"/>
+		<stop  offset="0.1101" style="stop-color:#3EBDF6"/>
+		<stop  offset="0.3181" style="stop-color:#24B4F5"/>
+		<stop  offset="0.5326" style="stop-color:#12AEF5"/>
+		<stop  offset="0.7555" style="stop-color:#07AAF4"/>
+		<stop  offset="1" style="stop-color:#03A9F4"/>
+	</linearGradient>
+	<rect id="rect2992" x="0.5" y="1.8" fill="url(#rect2992_1_)" width="21" height="5.5"/>
+	<rect id="rect3806" x="2" y="3.5" fill="#FFFFFF" width="10.5" height="2"/>
+	<path id="path3808" sodipodi:cx="-7" sodipodi:rx="2" sodipodi:cy="17" sodipodi:ry="2" sodipodi:type="arc" fill="#FFFFFF" d="
+		M16.5,4.5c0,0.5-0.4,1-1,1c-0.5,0-1-0.4-1-1s0.4-1,1-1S16.5,4,16.5,4.5z"/>
+	<path id="path3810" sodipodi:cx="-7" sodipodi:rx="2" sodipodi:cy="17" sodipodi:ry="2" sodipodi:type="arc" fill="#FFFFFF" d="
+		M20,4.5c0,0.5-0.4,1-1,1c-0.5,0-1-0.4-1-1s0.4-1,1-1S20,4,20,4.5z"/>
+	<rect id="rect3812" x="2" y="16.5" fill="#FFFFFF" width="10.5" height="2"/>
+	<path id="path3814" sodipodi:cx="-7" sodipodi:rx="2" sodipodi:cy="17" sodipodi:ry="2" sodipodi:type="arc" fill="#FFFFFF" d="
+		M16.5,17.5c0,0.5-0.4,1-1,1c-0.5,0-1-0.4-1-1s0.4-1,1-1S16.5,17,16.5,17.5z"/>
+	<path id="path3816" sodipodi:cx="-7" sodipodi:rx="2" sodipodi:cy="17" sodipodi:ry="2" sodipodi:type="arc" fill="#FFFFFF" d="
+		M20,17.5c0,0.5-0.4,1-1,1c-0.5,0-1-0.4-1-1s0.4-1,1-1S20,17,20,17.5z"/>
+	<rect id="rect3818" x="2" y="10" fill="#FFFFFF" width="10.5" height="2"/>
+	<path id="path3820" sodipodi:cx="-7" sodipodi:rx="2" sodipodi:cy="17" sodipodi:ry="2" sodipodi:type="arc" fill="#FFFFFF" d="
+		M16.5,11c0,0.5-0.4,1-1,1c-0.5,0-1-0.4-1-1c0-0.5,0.4-1,1-1S16.5,10.5,16.5,11z"/>
+	<path id="path3822" sodipodi:cx="-7" sodipodi:rx="2" sodipodi:cy="17" sodipodi:ry="2" sodipodi:type="arc" fill="#FFFFFF" d="
+		M20,11c0,0.5-0.4,1-1,1c-0.5,0-1-0.4-1-1c0-0.5,0.4-1,1-1S20,10.5,20,11z"/>
+</g>
+</svg>

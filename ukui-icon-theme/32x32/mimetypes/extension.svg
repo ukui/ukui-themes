@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<polygon opacity="0.08" enable-background="new    " points="5.077,32 5.077,1 28.923,1 28.923,23.249 20.172,32 "/>
+<polygon opacity="0.1" enable-background="new    " points="5.577,31.5 5.577,1.5 28.423,1.5 28.423,23.042 19.965,31.5 "/>
+<polygon opacity="0.2" enable-background="new    " points="5.077,31 5.077,1 27.923,1 27.923,22.542 19.465,31 "/>
+<polygon fill="#455A64" points="5.512,30.5 5.512,1.5 27.488,1.5 27.488,22.335 19.274,30.5 "/>
+<g>
+	<g>
+		<g>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="58.0996" y1="-133.9004" x2="58.0996" y2="-161.9009" gradientTransform="matrix(1 0 0 -1 -41.6001 -131.9004)">
+				<stop  offset="0" style="stop-color:#90A4AE"/>
+				<stop  offset="0.1378" style="stop-color:#849AA5"/>
+				<stop  offset="0.4226" style="stop-color:#708A97"/>
+				<stop  offset="0.7096" style="stop-color:#64808E"/>
+				<stop  offset="1" style="stop-color:#607D8B"/>
+			</linearGradient>
+			<polygon fill="url(#SVGID_1_)" points="6.011,30 6.011,2 26.989,2 26.989,22.125 19.114,30 			"/>
+		</g>
+		<polygon fill="#455A64" fill-opacity="0.39" points="26.989,22.125 26.989,21.786 18.683,21.786 18.683,30 19.114,30 		"/>
+		<path fill="#FFFFFF" fill-opacity="0.39" d="M19.102,22.125l7.888,0.011L19.114,30L19.102,22.125z"/>
+	</g>
+	<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M21.784,13.656c0.466,0,0.888,0.186,1.189,0.489V11.52h-4.07
+		c0.303-0.303,0.49-0.735,0.49-1.202c0-0.933-0.761-1.691-1.693-1.691c-0.932,0-1.689,0.758-1.689,1.691
+		c0,0.467,0.188,0.888,0.489,1.202h-4.061v2.637c-0.304-0.304-0.724-0.49-1.19-0.49c-0.934,0-1.692,0.759-1.692,1.691
+		c0,0.934,0.758,1.691,1.692,1.691c0.467,0,0.886-0.184,1.19-0.488v2.637h4.071c-0.303-0.305-0.49-0.736-0.49-1.203
+		c0-0.934,0.761-1.691,1.693-1.691c0.932,0,1.692,0.758,1.692,1.691c0,0.467-0.19,0.887-0.492,1.203h4.073v-2.637
+		c-0.305,0.305-0.725,0.488-1.19,0.488c-0.933,0-1.692-0.757-1.692-1.691C20.091,14.414,20.852,13.656,21.784,13.656z"/>
+</g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<polygon opacity="0.08" enable-background="new    " points="68.2,512 68.2,8 451.801,8 451.801,369.913 309.714,512 "/>
+<polygon opacity="0.1" enable-background="new    " points="72.2,508 72.2,12 447.801,12 447.801,368.256 308.057,508 "/>
+<polygon opacity="0.2" enable-background="new    " points="68.2,504 68.2,8 443.801,8 443.801,364.256 304.058,504 "/>
+<polygon fill="#607D8B" points="72.199,500 72.199,12 438.793,12 438.793,362.597 301.776,500 "/>
+<g>
+	<g>
+		<g>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="297.0959" y1="80.0994" x2="297.0959" y2="-403.9011" gradientTransform="matrix(1 0 0 -1 -41.6001 94.0991)">
+				<stop  offset="0" style="stop-color:#F5F5F5"/>
+				<stop  offset="0.341" style="stop-color:#F1F2F3"/>
+				<stop  offset="0.6434" style="stop-color:#E7EAEC"/>
+				<stop  offset="0.9302" style="stop-color:#D5DCE0"/>
+				<stop  offset="1" style="stop-color:#CFD8DC"/>
+			</linearGradient>
+			<polygon fill="url(#SVGID_1_)" points="74.176,498 74.176,14 436.817,14 436.817,361.875 300.692,498 			"/>
+		</g>
+		<polygon fill="#455A64" fill-opacity="0.7" points="436.817,361.875 436.817,356.023 293.219,356.023 293.219,498 300.692,498 		
+			"/>
+		<path fill="#90A4AE" d="M300.466,361.875l136.351,0.18L300.692,498L300.466,361.875z"/>
+	</g>
+	<g opacity="0.8" enable-background="new    ">
+		<rect x="122.207" y="83.39" fill="#607D8B" width="268.221" height="28.607"/>
+		<rect x="122.207" y="160.613" fill="#607D8B" width="268.221" height="13.302"/>
+		<rect x="122.207" y="202.365" fill="#607D8B" width="268.221" height="13.302"/>
+		<rect x="122.207" y="244.307" fill="#607D8B" width="268.221" height="13.302"/>
+		<rect x="122.207" y="286.07" fill="#607D8B" width="268.221" height="13.279"/>
+		<rect x="122.207" y="328.002" fill="#607D8B" width="165.768" height="13.301"/>
+	</g>
+</g>
+</svg>

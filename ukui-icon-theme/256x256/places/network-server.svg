@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:export-ydpi="270" inkscape:export-xdpi="270" inkscape:version="0.48.5 r10040" sodipodi:docname="network-server.svg" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:cc="http://creativecommons.org/ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="256px" height="256px"
+	 viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<rect x="4" y="14" opacity="8.000000e-002" width="252" height="232"/>
+<rect x="6" y="16" opacity="9.999999e-002" width="248" height="228"/>
+<rect x="4" y="14" opacity="0.2" width="248" height="228"/>
+<rect x="6" y="16" fill="#90A4AE" width="244" height="224"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="128" y1="18" x2="128" y2="238">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.3658" style="stop-color:#F9F9F9"/>
+	<stop  offset="1" style="stop-color:#F5F5F5"/>
+</linearGradient>
+<rect x="8" y="18" fill="url(#SVGID_1_)" width="240" height="220"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="128" y1="18" x2="128" y2="238">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.529" style="stop-color:#ECECEC"/>
+	<stop  offset="1" style="stop-color:#E0E0E0"/>
+</linearGradient>
+<rect x="8" y="18" fill="url(#SVGID_2_)" width="240" height="220"/>
+<sodipodi:namedview  id="base" inkscape:window-maximized="1" bordercolor="#666666" pagecolor="#ffffff" inkscape:cy="163.34804" borderopacity="1.0" showgrid="true" inkscape:cx="103.69753" inkscape:zoom="2.1940139" showguides="true" inkscape:window-width="1920" inkscape:document-units="px" inkscape:window-x="0" inkscape:pageopacity="0.0" inkscape:guide-bbox="true" inkscape:current-layer="layer1" inkscape:pageshadow="2" inkscape:window-y="28" inkscape:window-height="1023">
+	<inkscape:grid  type="xygrid" id="grid2985" enabled="true" visible="true" snapvisiblegridlinesonly="true" empspacing="5">
+		</inkscape:grid>
+</sodipodi:namedview>
+<g>
+	<polygon fill="#CFD8DC" points="22,219.1 22,165.8 120.2,165.8 120.2,154.7 22,154.7 22,101.3 120.2,101.3 120.2,90.2 22,90.2 
+		22,36.9 234,36.9 234,90.2 135.8,90.2 135.8,101.3 234,101.3 234,154.7 135.8,154.7 135.8,165.8 234,165.8 234,219.1 	"/>
+	<rect id="rect3804" x="122.1" y="144.9" fill="#FF6E40" width="11.9" height="27.8"/>
+	<rect id="rect3802" x="122.1" y="80.4" fill="#FF6E40" width="11.9" height="27.8"/>
+	<linearGradient id="rect3000_1_" gradientUnits="userSpaceOnUse" x1="128" y1="167.6599" x2="128" y2="217.2347">
+		<stop  offset="0" style="stop-color:#4FC3F7"/>
+		<stop  offset="0.1101" style="stop-color:#3EBDF6"/>
+		<stop  offset="0.3181" style="stop-color:#24B4F5"/>
+		<stop  offset="0.5326" style="stop-color:#12AEF5"/>
+		<stop  offset="0.7555" style="stop-color:#07AAF4"/>
+		<stop  offset="1" style="stop-color:#03A9F4"/>
+	</linearGradient>
+	<rect id="rect3000" x="23.9" y="167.7" fill="url(#rect3000_1_)" width="208.2" height="49.6"/>
+	<linearGradient id="rect2998_1_" gradientUnits="userSpaceOnUse" x1="128" y1="152.7874" x2="128" y2="103.2126">
+		<stop  offset="0" style="stop-color:#E64A19"/>
+		<stop  offset="0.2192" style="stop-color:#F04F1D"/>
+		<stop  offset="0.5912" style="stop-color:#FB5521"/>
+		<stop  offset="1" style="stop-color:#FF5722"/>
+	</linearGradient>
+	<rect id="rect2998" x="23.9" y="103.2" fill="url(#rect2998_1_)" width="208.2" height="49.6"/>
+	<linearGradient id="rect2992_1_" gradientUnits="userSpaceOnUse" x1="128" y1="38.7653" x2="128" y2="88.3401">
+		<stop  offset="0" style="stop-color:#4FC3F7"/>
+		<stop  offset="0.1101" style="stop-color:#3EBDF6"/>
+		<stop  offset="0.3181" style="stop-color:#24B4F5"/>
+		<stop  offset="0.5326" style="stop-color:#12AEF5"/>
+		<stop  offset="0.7555" style="stop-color:#07AAF4"/>
+		<stop  offset="1" style="stop-color:#03A9F4"/>
+	</linearGradient>
+	<rect id="rect2992" x="23.9" y="38.8" fill="url(#rect2992_1_)" width="208.2" height="49.6"/>
+	<rect id="rect3806" x="38.8" y="53.6" fill="#BBDEFB" width="104.1" height="19.8"/>
+	<path id="path3808" sodipodi:type="arc" sodipodi:ry="2" sodipodi:rx="2" sodipodi:cx="-7" sodipodi:cy="17" fill="#BBDEFB" d="
+		M182.5,63.6c0,5.5-4.4,9.9-9.9,9.9c-5.5,0-9.9-4.4-9.9-9.9s4.4-9.9,9.9-9.9C178.1,53.6,182.5,58.1,182.5,63.6z"/>
+	<path id="path3810" sodipodi:type="arc" sodipodi:ry="2" sodipodi:rx="2" sodipodi:cx="-7" sodipodi:cy="17" fill="#BBDEFB" d="
+		M217.2,63.6c0,5.5-4.4,9.9-9.9,9.9c-5.5,0-9.9-4.4-9.9-9.9s4.4-9.9,9.9-9.9C212.8,53.6,217.2,58.1,217.2,63.6z"/>
+	<rect id="rect3812" x="38.8" y="182.5" fill="#BBDEFB" width="104.1" height="19.8"/>
+	<path id="path3814" sodipodi:type="arc" sodipodi:ry="2" sodipodi:rx="2" sodipodi:cx="-7" sodipodi:cy="17" fill="#BBDEFB" d="
+		M182.5,192.4c0,5.5-4.4,9.9-9.9,9.9c-5.5,0-9.9-4.4-9.9-9.9s4.4-9.9,9.9-9.9C178.1,182.5,182.5,187,182.5,192.4z"/>
+	<path id="path3816" sodipodi:type="arc" sodipodi:ry="2" sodipodi:rx="2" sodipodi:cx="-7" sodipodi:cy="17" fill="#BBDEFB" d="
+		M217.2,192.4c0,5.5-4.4,9.9-9.9,9.9c-5.5,0-9.9-4.4-9.9-9.9s4.4-9.9,9.9-9.9C212.8,182.5,217.2,187,217.2,192.4z"/>
+	<rect id="rect3818" x="38.8" y="118.1" fill="#FF8A65" width="104.1" height="19.8"/>
+	<path id="path3820" sodipodi:type="arc" sodipodi:ry="2" sodipodi:rx="2" sodipodi:cx="-7" sodipodi:cy="17" fill="#FF8A65" d="
+		M182.5,128c0,5.5-4.4,9.9-9.9,9.9c-5.5,0-9.9-4.4-9.9-9.9s4.4-9.9,9.9-9.9C178.1,118.1,182.5,122.5,182.5,128z"/>
+	<path id="path3822" sodipodi:type="arc" sodipodi:ry="2" sodipodi:rx="2" sodipodi:cx="-7" sodipodi:cy="17" fill="#FF8A65" d="
+		M217.2,128c0,5.5-4.4,9.9-9.9,9.9c-5.5,0-9.9-4.4-9.9-9.9s4.4-9.9,9.9-9.9C212.8,118.1,217.2,122.5,217.2,128z"/>
+	<rect x="38.8" y="55.5" fill="#F5F5F5" width="104.1" height="17.9"/>
+	<path fill="#F5F5F5" d="M172.6,55.5c-5.2,0-9.4,3.9-9.9,9c0.5,5,4.7,9,9.9,9c5.2,0,9.4-3.9,9.9-9C182,59.5,177.8,55.5,172.6,55.5z"
+		/>
+	<path fill="#F5F5F5" d="M207.3,55.5c-5.2,0-9.4,3.9-9.9,9c0.5,5,4.7,9,9.9,9s9.4-3.9,9.9-9C216.7,59.5,212.5,55.5,207.3,55.5z"/>
+	<rect x="38.8" y="120" fill="#F5F5F5" width="104.1" height="17.9"/>
+	<path fill="#F5F5F5" d="M172.6,120c-5.2,0-9.4,3.9-9.9,9c0.5,5,4.7,9,9.9,9c5.2,0,9.4-3.9,9.9-9C182,123.9,177.8,120,172.6,120z"/>
+	<path fill="#F5F5F5" d="M207.3,120c-5.2,0-9.4,3.9-9.9,9c0.5,5,4.7,9,9.9,9s9.4-3.9,9.9-9C216.7,123.9,212.5,120,207.3,120z"/>
+	<rect x="38.8" y="184.4" fill="#F5F5F5" width="104.1" height="17.9"/>
+	<path fill="#F5F5F5" d="M172.6,184.4c-5.2,0-9.4,3.9-9.9,9c0.5,5,4.7,9,9.9,9c5.2,0,9.4-3.9,9.9-9
+		C182,188.4,177.8,184.4,172.6,184.4z"/>
+	<path fill="#F5F5F5" d="M207.3,184.4c-5.2,0-9.4,3.9-9.9,9c0.5,5,4.7,9,9.9,9s9.4-3.9,9.9-9C216.7,188.4,212.5,184.4,207.3,184.4z"
+		/>
+</g>
+</svg>

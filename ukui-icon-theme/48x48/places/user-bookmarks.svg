@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-ydpi="270" inkscape:export-xdpi="270" sodipodi:docname="user-home.svg" inkscape:version="0.48.4 r9939"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<polygon opacity="0.2" enable-background="new    " points="7.5,2.2 41.7,2.2 41.7,48 24.5,34.5 7.5,48 "/>
+<polygon opacity="0.2" enable-background="new    " points="8.2,2.8 41,2.8 41,46.8 24.6,33.7 8.2,46.8 "/>
+<polygon opacity="0.2" enable-background="new    " points="7.5,2.2 40.3,2.2 40.3,46.2 23.9,33.1 7.5,46.2 "/>
+<polygon fill="#B71C1C" points="8.2,2.8 39.8,2.8 39.8,44.8 24,32.2 8.2,44.8 "/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="23.95" y1="-50.9" x2="23.95" y2="-9.9" gradientTransform="matrix(1 0 0 1 0 54)">
+	<stop  offset="0" style="stop-color:#FF5722"/>
+	<stop  offset="0.2225" style="stop-color:#FF5B27"/>
+	<stop  offset="0.4924" style="stop-color:#FF6636"/>
+	<stop  offset="0.7856" style="stop-color:#FF794E"/>
+	<stop  offset="1" style="stop-color:#FF8A65"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M8.5,3.1h31v41L24,31.8L8.5,44.1V3.1z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="23.95" y1="-43.3442" x2="23.95" y2="-50.8114" gradientTransform="matrix(1 0 0 1 0 54)">
+	<stop  offset="0.2527" style="stop-color:#FF8A65"/>
+	<stop  offset="0.8441" style="stop-color:#FF5722"/>
+</linearGradient>
+<polygon fill="url(#SVGID_2_)" fill-opacity="0.77" points="39.5,3.2 8.5,3.2 8.5,10.7 39.5,10.7 "/>
+<path fill="#D32F2F" fill-opacity="0.48" d="M34.3,3.1V40l5.1,4.1v-41L34.3,3.1L34.3,3.1z M8.5,3.1v41l5.2-4.1V3.1H8.5z"/>
+</svg>

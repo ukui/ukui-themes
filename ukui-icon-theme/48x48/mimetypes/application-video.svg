@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g id="surface1">
+	<polygon opacity="0.2" points="7.25,46 7.25,2 40.75,2 40.75,33.602 28.352,46 	"/>
+	<polygon opacity="0.08" points="7.25,48 7.25,2 42.75,2 42.75,35.016 29.766,48 	"/>
+	<polygon opacity="0.1" points="8.25,47 8.25,3 41.75,3 41.75,34.602 29.352,47 	"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="148.8008" y1="-937.9707" x2="148.8008" y2="-895.9707" gradientTransform="matrix(1 0 0 -1 -124.8003 -892.9707)">
+		<stop  offset="0" style="stop-color:#512DA8"/>
+		<stop  offset="0.008" style="stop-color:#532EA8"/>
+		<stop  offset="0.2103" style="stop-color:#7843B4"/>
+		<stop  offset="0.4127" style="stop-color:#9553BD"/>
+		<stop  offset="0.6129" style="stop-color:#A95FC3"/>
+		<stop  offset="0.8099" style="stop-color:#B666C7"/>
+		<stop  offset="1" style="stop-color:#BA68C8"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M27.938,45L39.75,33.188V3H8.25v42H27.938z"/>
+	<polygon fill="#673AB7" fill-opacity="0.3922" points="27.281,32.531 27.281,45 27.938,45 39.75,33.188 39.75,32.531 	"/>
+	<path fill="#FFFFFF" fill-opacity="0.3922" d="M27.938,33.188h11.802L27.938,45V33.188z"/>
+	<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M33.188,20.72c0-5.061-4.128-9.189-9.188-9.189
+		c-5.06,0-9.188,4.129-9.188,9.189S18.94,29.904,24,29.904C29.06,29.906,33.188,25.78,33.188,20.72z M17.112,20.72
+		c0-3.821,3.07-6.89,6.888-6.89s6.888,3.069,6.888,6.89c0,3.817-3.07,6.892-6.888,6.892S17.112,24.539,17.112,20.72z M27.938,20.72
+		l-6.563-3.938v7.877L27.938,20.72z"/>
+	<g>
+		<path fill="#311B92" d="M39.25,3.5v29.48L27.73,44.5h-8.98h-10v-41H39.25 M39.75,3H8.25v42h10.5h9.188L39.75,33.188V3L39.75,3z"/>
+	</g>
+</g>
+</svg>

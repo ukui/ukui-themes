@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<g id="surface1">
+	<polygon opacity="0.2" enable-background="new    " points="18.5,124 18.5,4 109.5,4 109.5,90.203 75.703,124 	"/>
+	<polygon opacity="0.08" enable-background="new    " points="18.5,128 18.5,4 113.5,4 113.5,93.031 78.531,128 	"/>
+	<polygon opacity="0.1" enable-background="new    " points="20.5,126 20.5,6 111.5,6 111.5,92.203 77.703,126 	"/>
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="272.001" y1="-1711.9512" x2="272.001" y2="-1595.9512" gradientTransform="matrix(1 0 0 -1 -208.0005 -1589.9512)">
+			<stop  offset="0" style="stop-color:#512DA8"/>
+			<stop  offset="0.008" style="stop-color:#D32F2F"/>
+			<stop  offset="0.3041" style="stop-color:#E33932"/>
+			<stop  offset="0.6579" style="stop-color:#F04035"/>
+			<stop  offset="1" style="stop-color:#F44336"/>
+		</linearGradient>
+		<path fill="url(#SVGID_1_)" d="M74.875,122L107.5,89.375V6h-87v116H74.875z"/>
+		<polygon fill="#B71C1C" fill-opacity="0.3922" points="73.063,87.563 73.063,122 74.875,122 107.5,89.375 107.5,87.563 		"/>
+		<path fill="#FFFFFF" fill-opacity="0.3922" d="M74.875,89.375h32.598L74.875,122V89.375z"/>
+		<path opacity="0.8" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M74.913,68.277h-5.124v5.122h5.124V68.277z
+			 M67.693,54.569h-5.121v5.121h5.121V54.569z M74.913,61.423h-5.124v5.121h5.124V61.423z M82.125,54.569h-5.12v5.121h5.12V54.569z
+			 M67.693,61.423h-5.121v5.121h5.121V61.423z M74.913,54.569h-5.124v5.121h5.124V54.569z M82.125,61.423h-5.12v5.121h5.12V61.423z
+			 M53.263,68.277h-5.122v5.122h5.122V68.277z M53.263,61.423h-5.122v5.121h5.122V61.423z M80.808,36.513v2.248
+			c0.884,0.782,1.443,1.921,1.443,3.193c0,2.355-1.91,4.266-4.267,4.266s-4.266-1.911-4.266-4.266c0-1.273,0.56-2.412,1.443-3.193
+			v-2.248H55.227v2.248c0.884,0.782,1.443,1.921,1.443,3.193c0,2.355-1.91,4.266-4.266,4.266c-2.356,0-4.267-1.911-4.267-4.266
+			c0-1.273,0.56-2.412,1.443-3.193v-2.248h-9.507v45.399H89.93V36.513H80.808z M85.376,77.358H44.628V48.996h40.748V77.358z
+			 M60.481,54.569h-5.124v5.121h5.124V54.569z M60.481,68.277h-5.124v5.122h5.124V68.277z M67.693,68.277h-5.121v5.122h5.121V68.277
+			z M60.481,61.423h-5.124v5.121h5.124V61.423z M52.404,44.439c1.173,0,2.124-0.95,2.124-2.123v-7.65
+			c0-1.172-0.951-2.124-2.124-2.124s-2.124,0.951-2.124,2.124v7.65C50.28,43.489,51.231,44.439,52.404,44.439z M77.984,44.439
+			c1.174,0,2.124-0.95,2.124-2.123v-7.65c0-1.172-0.95-2.124-2.124-2.124c-1.173,0-2.123,0.951-2.123,2.124v7.65
+			C75.861,43.489,76.812,44.439,77.984,44.439z"/>
+		<g>
+			<path fill="#B71C1C" d="M106.5,7v81.961L74.461,121H49.5h-28V7H106.5 M107.5,6h-87v116h29h25.375L107.5,89.375V6L107.5,6z"/>
+		</g>
+	</g>
+</g>
+</svg>

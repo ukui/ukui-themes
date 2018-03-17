@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<rect x="3.634" y="1" fill="#0D47A1" width="16.732" height="22"/>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="11.9995" y1="1.5" x2="11.9995" y2="22.5005">
+		<stop  offset="0" style="stop-color:#64B5F6"/>
+		<stop  offset="1" style="stop-color:#3F51B5"/>
+	</linearGradient>
+	<rect x="4.133" y="1.5" fill="url(#SVGID_1_)" width="15.734" height="21"/>
+	<g opacity="0.8">
+		<rect x="6.163" y="7.905" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="11.665" height="0.576"/>
+		<rect x="6.163" y="6.102" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="11.665" height="0.578"/>
+		<rect x="11.729" y="9.602" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="6.091" height="6.092"/>
+		<g opacity="0.8">
+			<rect x="6.163" y="9.707" fill="#FFFFFF" width="5.067" height="0.579"/>
+			<rect x="6.163" y="11.511" fill="#FFFFFF" width="5.067" height="0.577"/>
+			<rect x="6.163" y="13.32" fill="#FFFFFF" width="5.067" height="0.577"/>
+			<rect x="6.163" y="15.123" fill="#FFFFFF" width="5.067" height="0.576"/>
+		</g>
+	</g>
+</g>
+</svg>

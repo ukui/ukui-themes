@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:version="0.48.4 r9939" sodipodi:docname="folder.svg" inkscape:export-xdpi="270" inkscape:export-ydpi="270"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<polygon style="opacity:0.08;enable-background:new    ;" points="2,60.4 2,23.85 5.55,23.85 5.55,5.6 21.45,5.6 25.2,9.4 
+	60.45,9.4 60.45,23.85 64,23.85 64,60.4 "/>
+<polygon style="opacity:0.1;enable-background:new    ;" points="3,59.4 3,24.85 6.55,24.85 6.55,6.6 21,6.6 24.8,10.4 59.45,10.4 
+	59.45,24.85 63,24.85 63,59.4 "/>
+<polygon style="opacity:0.2;enable-background:new    ;" points="2,58.4 2,23.85 5.55,23.85 5.55,5.6 20,5.6 23.8,9.4 58.45,9.4 
+	58.45,23.85 62,23.85 62,58.4 "/>
+<polygon style="fill:#F57F17;" points="3,57.4 3,24.85 6.55,24.85 6.55,6.6 19.6,6.6 23.35,10.4 57.45,10.4 57.45,24.85 61,24.85 
+	61,57.4 "/>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="126" y1="-57.1" x2="126" y2="-10.2" gradientTransform="matrix(0.5 0 0 -0.5 -31 2)">
+		<stop  offset="0" style="stop-color:#F57C00"/>
+		<stop  offset="0.1638" style="stop-color:#F58F09"/>
+		<stop  offset="0.3598" style="stop-color:#F59D11"/>
+		<stop  offset="0.5982" style="stop-color:#F5A515"/>
+		<stop  offset="0.9946" style="stop-color:#F5A816"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M56.95,10.9h-33.8l-3.8-3.8H7.05v23.45h49.9C56.95,30.55,56.95,10.9,56.95,10.9z"/>
+	<path id="path3801" inkscape:connector-curvature="0" style="opacity:0.1;fill:#E65100;enable-background:new    ;" d="M7.05,7.1
+		c0,0,0,0.95,0,2.85v1.9C7.05,9.95,7.9,9,8.8,9h9.85c0.65,0,1.55,0,3.1,0.95c0.45,0.25,0.9,0.55,1.4,0.95l-3.8-3.8
+		C19.4,7.1,7.05,7.1,7.05,7.1z"/>
+	<polygon style="opacity:0.1;fill:#E65100;enable-background:new    ;" points="23.45,10.9 23.15,10.9 26,13.7 26.3,13.7 
+		56.95,13.7 56.95,10.9 	"/>
+	<g>
+		<polygon style="fill:#F5F5F5;" points="48.7,12.9 12.05,12.9 12.05,26.55 12.05,29.2 12.05,30.15 12.95,30.15 51.05,30.15 
+			51.95,30.15 51.95,29.2 51.95,26.55 51.95,16.15 		"/>
+		<path id="path3757" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" style="fill:#FFFFFF;" d="M48.7,12.9v3.25h3.25
+			L48.7,12.9z"/>
+		
+			<path id="path3759" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" style="opacity:0.2;enable-background:new    ;" d="
+			M51.95,19.4v-3.25H48.7L51.95,19.4z"/>
+		<rect x="17" y="21.9" style="fill:#9E9E9E;" width="30" height="1.65"/>
+		<rect x="17" y="18.6" style="fill:#9E9E9E;" width="30" height="1.65"/>
+		<rect x="17" y="15.25" style="fill:#9E9E9E;" width="26.2" height="1.65"/>
+		<polygon style="opacity:0.1;enable-background:new    ;" points="56.95,21.1 51.95,16.15 51.95,26.4 56.95,26.4 		"/>
+	</g>
+	
+		<linearGradient id="rect2990_1_" gradientUnits="userSpaceOnUse" x1="126" y1="-46.7" x2="126" y2="-109.8" gradientTransform="matrix(0.5 0 0 -0.5 -31 2)">
+		<stop  offset="0" style="stop-color:#FADD60"/>
+		<stop  offset="0.9946" style="stop-color:#F5A816"/>
+	</linearGradient>
+	<polyline id="rect2990_2_" style="fill:url(#rect2990_1_);" points="60.5,25.35 60.5,56.9 3.5,56.9 3.5,25.35 	"/>
+	<path id="rect3004" inkscape:connector-curvature="0" style="opacity:0.25;fill:#FDEFBA;enable-background:new    ;" d="M3.5,25.35
+		v7.3c0-2.5,1.7-4.55,3.8-4.55h49.4c2.1,0,3.8,2.05,3.8,4.55v-7.3C60.5,25.35,3.5,25.35,3.5,25.35z"/>
+	<rect x="7.05" y="23.65" style="opacity:0.05;enable-background:new    ;" width="44.9" height="1.7"/>
+</g>
+</svg>
