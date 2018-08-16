@@ -1,9 +1,2 @@
 [org.gnome.desktop.wm.preferences]
 button-layout=":minimize,maximize,close"
-
-[org.compiz.unityshell]
-panel-opacity=1
-
-[org.compiz.gwd]
-metacity-theme-active-opacity=0.85
-metacity-theme-inactive-opacity=0.8

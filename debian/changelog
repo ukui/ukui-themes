@@ -1,13 +1,19 @@
-ukui-themes (1.0.1) unstable; urgency=medium
+ukui-themes (0+git20180816-1) unstable; urgency=medium
 
   * Add ukui-blue
   * Remove obsolete themes
   * update icon theme
 
- -- lihao <lihao@ubuntukylin.com>  Sat, 17 Mar 2018 14:41:02 +0800
+ -- handsome_feng <jianfengli@ubuntukylin.com>  Thu, 16 Aug 2018 15:05:05 +0800
 
-ukui-themes (1.0.0) unstable; urgency=medium
+ukui-themes (0+git20170606-2) unstable; urgency=medium
 
-  * Initial release. (Closes: #nnnnn)
+  * Use tracker.d.o team address (Closes: #899719)
 
- -- handsome_feng <jianfengli@ubuntukylin.com>  Sun, 12 Feb 2017 14:11:59 +0800
+ -- Aron Xu <aron@debian.org>  Mon, 09 Jul 2018 17:14:36 +0800
+
+ukui-themes (0+git20170606-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #872970)
+
+ -- Aron Xu <aron@debian.org>  Sun, 27 Aug 2017 14:11:59 +0800
