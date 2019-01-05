@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<polygon opacity="0.08" enable-background="new    " points="68.2,512 68.2,8 451.801,8 451.801,369.913 309.714,512 "/>
-<polygon opacity="0.1" enable-background="new    " points="72.2,508 72.2,12 447.801,12 447.801,368.256 308.057,508 "/>
-<polygon opacity="0.2" enable-background="new    " points="68.2,504 68.2,8 443.801,8 443.801,364.256 304.058,504 "/>
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.08;enable-background:new    ;}
+	.st1{opacity:0.1;enable-background:new    ;}
+	.st2{opacity:0.2;enable-background:new    ;}
+	.st3{fill:#445962;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{fill:#455963;fill-opacity:0.7;}
+	.st6{fill:#8DA1AC;}
+	.st7{fill:#607D8B;}
+	.st8{font-family:'Ubuntu-Regular';}
+	.st9{font-size:308.3494px;}
+	.st10{letter-spacing:-13;}
+</style>
+<polygon class="st0" points="68.2,512 68.2,8 451.8,8 451.8,369.9 309.7,512 "/>
+<polygon class="st1" points="72.2,508 72.2,12 447.8,12 447.8,368.3 308.1,508 "/>
+<polygon class="st2" points="68.2,504 68.2,8 443.8,8 443.8,364.3 304.1,504 "/>
 <g>
-	<polygon fill="#445962" points="72.199,500 72.199,12 438.793,12 438.793,362.75 301.167,500 	"/>
+	<polygon class="st3" points="72.2,500 72.2,12 438.8,12 438.8,362.8 301.2,500 	"/>
 </g>
 <g>
 	<g>
@@ -18,25 +30,23 @@
 						<g>
 							<g>
 								
-									<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="380.2737" y1="1257.7" x2="380.2737" y2="1741.7009" gradientTransform="matrix(1 0 0 1 -124.7998 -1243.7012)">
+									<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="380.2998" y1="1535.7012" x2="380.2998" y2="2019.7012" gradientTransform="matrix(1 0 0 1 -124.7998 -1521.7012)">
 									<stop  offset="0" style="stop-color:#F6F5F5"/>
 									<stop  offset="0.341" style="stop-color:#F1F2F3"/>
 									<stop  offset="0.6434" style="stop-color:#E7EAEB"/>
 									<stop  offset="0.9302" style="stop-color:#D5DBDF"/>
 									<stop  offset="1" style="stop-color:#CFD7DB"/>
 								</linearGradient>
-								<polygon fill="url(#SVGID_1_)" points="74.165,498 74.165,14 436.782,14 436.782,361.875 300.657,498 								"/>
+								<polygon class="st4" points="74.2,498 74.2,14 436.8,14 436.8,361.9 300.7,498 								"/>
 							</g>
-							<polygon fill="#455963" fill-opacity="0.7" points="436.782,361.875 436.782,356.023 293.185,356.023 293.185,498 
-								300.657,498 							"/>
-							<path fill="#8DA1AC" d="M300.454,361.875l136.373,0.225L300.657,498L300.454,361.875z"/>
+							<polygon class="st5" points="436.8,361.9 436.8,356 293.2,356 293.2,498 300.7,498 							"/>
+							<path class="st6" d="M300.5,361.9l136.4,0.2L300.7,498L300.5,361.9z"/>
 						</g>
 					</g>
 				</g>
 			</g>
 		</g>
 	</g>
-	
-		<text transform="matrix(1 0 0 1 197.074 313.0623)" fill="#607D8B" font-family="'Ubuntu-Regular'" font-size="308.3494" letter-spacing="-15">?</text>
+	<text transform="matrix(1 0 0 1 197.074 313.0623)" class="st7 st8 st9 st10">?</text>
 </g>
 </svg>

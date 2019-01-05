@@ -1,1 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256"><defs><style>.cls-1{opacity:0.08;}.cls-2{opacity:0.1;}.cls-3{opacity:0.2;}.cls-4{fill:#212121;}.cls-5{fill:url(#linear-gradient);}.cls-6{stroke:#01579b;stroke-miterlimit:10;stroke-width:4px;fill:url(#linear-gradient-2);}.cls-7{fill:url(#linear-gradient-3);}.cls-8{fill:#eee8d5;opacity:0.23;isolation:isolate;}.cls-9{fill:#1d272b;}.cls-10{fill:#455a64;}</style><linearGradient id="linear-gradient" x1="128" y1="248" x2="128" y2="8" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#263238"/><stop offset="1" stop-color="#455a64"/></linearGradient><linearGradient id="linear-gradient-2" x1="42.29" y1="115.14" x2="213.71" y2="115.14" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b3e5fc"/><stop offset="1" stop-color="#0288d1"/></linearGradient><linearGradient id="linear-gradient-3" x1="146.4" y1="33.43" x2="109.65" y2="196.62" xlink:href="#linear-gradient-2"/></defs><title>画板 18</title><g id="开始菜单应用图标"><g id="平板"><g id="_256" data-name="256"><path class="cls-1" d="M44.29,5H215.71a22.14,22.14,0,0,1,22.14,22.14V232.85A22.15,22.15,0,0,1,215.71,255H44.29a22.14,22.14,0,0,1-22.14-22.14V27.15A22.15,22.15,0,0,1,44.29,5Z"/><rect class="cls-2" x="24.14" y="7" width="211.71" height="246" rx="20.14" ry="20.14"/><path class="cls-3" d="M42.29,5H213.71a20.14,20.14,0,0,1,20.14,20.14V230.85A20.15,20.15,0,0,1,213.71,251H42.29a20.14,20.14,0,0,1-20.14-20.14V25.15A20.15,20.15,0,0,1,42.29,5Z"/><path class="cls-4" d="M42.29,7H213.71a18.14,18.14,0,0,1,18.14,18.14V230.86A18.14,18.14,0,0,1,213.71,249H42.29a18.15,18.15,0,0,1-18.15-18.15V25.14A18.14,18.14,0,0,1,42.29,7Z"/><path class="cls-5" d="M42.29,8H213.71a17.15,17.15,0,0,1,17.15,17.15V230.86A17.14,17.14,0,0,1,213.71,248H42.29a17.15,17.15,0,0,1-17.15-17.15V25.14A17.14,17.14,0,0,1,42.29,8Z"/><path class="cls-4" d="M213.71,7H42.29A18.17,18.17,0,0,0,24.14,25.14V230.86A18.17,18.17,0,0,0,42.29,249H213.71a18.17,18.17,0,0,0,18.15-18.14V25.14A18.17,18.17,0,0,0,213.71,7Zm16.15,223.86A16.16,16.16,0,0,1,213.71,247H42.29a16.16,16.16,0,0,1-16.15-16.14V25.14A16.16,16.16,0,0,1,42.29,9H213.71a16.16,16.16,0,0,1,16.15,16.14Z"/><rect class="cls-6" x="42.29" y="25.14" width="171.42" height="180"/><rect class="cls-7" x="48.61" y="31.34" width="158.78" height="167.6"/><polygon class="cls-8" points="207.55 199.28 97.12 199.28 142.33 31.68 207.55 31.68 207.55 199.28"/><circle class="cls-9" cx="128" cy="226.57" r="13.93"/><circle class="cls-10" cx="127.09" cy="227.48" r="11.23"/></g></g></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<title>画板 18</title>
+<g id="&#x5F00;&#x59CB;&#x83DC;&#x5355;&#x5E94;&#x7528;&#x56FE;&#x6807;">
+	<g id="&#x5E73;&#x677F;">
+		<g id="_256">
+			<path style="opacity:0.08;enable-background:new    ;" d="M44.29,5h171.42c12.228,0,22.14,9.912,22.14,22.14l0,0v205.71
+				c0,12.229-9.911,22.144-22.14,22.15H44.29c-12.228,0-22.14-9.912-22.14-22.14l0,0V27.15C22.15,14.921,32.061,5.006,44.29,5z"/>
+			<path style="opacity:0.1;enable-background:new    ;" d="M44.28,7h171.43c11.123,0,20.14,9.017,20.14,20.14v205.72
+				c0,11.123-9.017,20.14-20.14,20.14H44.28c-11.123,0-20.14-9.017-20.14-20.14V27.14C24.14,16.017,33.157,7,44.28,7z"/>
+			<path style="opacity:0.2;enable-background:new    ;" d="M42.29,5h171.42c11.123,0,20.14,9.017,20.14,20.14l0,0v205.71
+				c0,11.125-9.015,20.144-20.14,20.15H42.29c-11.123,0-20.14-9.017-20.14-20.14l0,0V25.15C22.15,14.025,31.165,5.006,42.29,5z"/>
+			<path style="fill:#212121;" d="M42.29,7h171.42c10.018,0,18.14,8.122,18.14,18.14l0,0v205.72c0,10.018-8.122,18.14-18.14,18.14
+				l0,0H42.29c-10.024,0-18.15-8.126-18.15-18.15V25.14C24.14,15.122,32.262,7,42.28,7C42.283,7,42.287,7,42.29,7z"/>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="128" y1="10" x2="128" y2="250" gradientTransform="matrix(1 0 0 -1 0 258)">
+				<stop  offset="0" style="stop-color:#263238"/>
+				<stop  offset="1" style="stop-color:#455A64"/>
+			</linearGradient>
+			<path style="fill:url(#SVGID_1_);" d="M42.29,8h171.42c9.472,0,17.15,7.678,17.15,17.15v205.71c0,9.466-7.674,17.14-17.14,17.14
+				c-0.003,0-0.007,0-0.01,0H42.29c-9.472,0-17.15-7.678-17.15-17.15V25.14C25.14,15.674,32.814,8,42.28,8
+				C42.283,8,42.287,8,42.29,8z"/>
+			<path style="fill:#212121;" d="M213.71,7H42.29c-10.016,0.011-18.133,8.125-18.15,18.14v205.72
+				c0.017,10.015,8.134,18.129,18.15,18.14h171.42c10.016-0.011,18.133-8.125,18.15-18.14V25.14
+				C231.843,15.125,223.726,7.011,213.71,7z M229.86,230.86c-0.011,8.913-7.237,16.134-16.15,16.14H42.29
+				c-8.913-0.006-16.139-7.227-16.15-16.14V25.14C26.151,16.227,33.377,9.006,42.29,9h171.42c8.913,0.006,16.139,7.227,16.15,16.14
+				V230.86z"/>
+			
+				<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="42.29" y1="142.86" x2="213.71" y2="142.86" gradientTransform="matrix(1 0 0 -1 0 258)">
+				<stop  offset="0" style="stop-color:#B3E5FC"/>
+				<stop  offset="1" style="stop-color:#0288D1"/>
+			</linearGradient>
+			
+				<rect x="42.29" y="25.14" style="fill:url(#SVGID_2_);stroke:#01579B;stroke-width:4;stroke-miterlimit:10;" width="171.42" height="180"/>
+			
+				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="146.4008" y1="224.5698" x2="109.6509" y2="61.3798" gradientTransform="matrix(1 0 0 -1 0 258)">
+				<stop  offset="0" style="stop-color:#B3E5FC"/>
+				<stop  offset="1" style="stop-color:#0288D1"/>
+			</linearGradient>
+			<rect x="48.61" y="31.34" style="fill:url(#SVGID_3_);" width="158.78" height="167.6"/>
+			<polygon style="opacity:0.23;fill:#EEE8D5;enable-background:new    ;" points="207.55,199.28 97.12,199.28 142.33,31.68 
+				207.55,31.68 			"/>
+			<circle style="fill:#1D272B;" cx="128" cy="226.57" r="13.93"/>
+			<circle style="fill:#455A64;" cx="127.09" cy="227.48" r="11.23"/>
+		</g>
+	</g>
+</g>
+</svg>

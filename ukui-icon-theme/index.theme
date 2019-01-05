@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=ukui-icon-theme
 Comment=Icon theme for UKUI ,from moka.
-Inherits=Faba,gnome,hicolor
+Inherits=Faba,gnome,hicolor,ukui-icon-theme-one
 
 # KDE Specifics
 

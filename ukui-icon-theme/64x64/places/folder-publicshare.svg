@@ -1,64 +1,61 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:version="0.48.4 r9939" sodipodi:docname="user-home.svg" inkscape:export-xdpi="270" inkscape:export-ydpi="270"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px"
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_39" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<polygon style="opacity:0.08;enable-background:new    ;" points="2,60.2 2,17.2 5.8,17.2 5.8,5.8 21.667,5.8 25.442,9.6 60.2,9.6 
-	60.2,17.2 64,17.2 64,60.2 "/>
-<polygon style="opacity:0.1;enable-background:new    ;" points="3,59.2 3,18.2 6.8,18.2 6.8,6.8 21.25,6.8 25.027,10.6 59.2,10.6 
-	59.2,18.2 63,18.2 63,59.2 "/>
-<polygon style="opacity:0.2;enable-background:new    ;" points="2,58.2 2,17.2 5.8,17.2 5.8,5.8 20.25,5.8 24.027,9.6 58.2,9.6 
-	58.2,17.2 62,17.2 62,58.2 "/>
-<polygon style="fill:#F57F17;" points="3,57.2 3,18.2 6.8,18.2 6.8,6.8 19.834,6.8 23.611,10.6 57.2,10.6 57.2,18.2 61,18.2 
-	61,57.2 "/>
-<sodipodi:namedview  id="base" inkscape:window-maximized="1" borderopacity="1.0" pagecolor="#ffffff" showguides="true" inkscape:cy="21.321632" inkscape:cx="35.66124" showgrid="true" bordercolor="#666666" inkscape:zoom="5.6530318" inkscape:document-units="px" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="28" inkscape:guide-bbox="true" inkscape:current-layer="layer1" inkscape:window-height="1023" inkscape:pageopacity="0.0" inkscape:pageshadow="2">
-	<inkscape:grid  type="xygrid" enabled="true" visible="true" id="grid2985" snapvisiblegridlinesonly="true" empspacing="5">
-		</inkscape:grid>
-</sodipodi:namedview>
-<g>
+<style type="text/css">
+	.st0{opacity:0.39;}
+	.st1{fill:#F57F17;}
+	.st2{opacity:0.1;enable-background:new    ;}
+	.st3{opacity:0.08;enable-background:new    ;}
+	.st4{opacity:0.2;enable-background:new    ;}
+	.st5{fill:url(#SVGID_1_);}
+	.st6{fill:url(#rect2990_1_);}
+	.st7{opacity:0.25;fill:#FDEFBA;enable-background:new    ;}
+	.st8{opacity:0.1;fill:#E65100;enable-background:new    ;}
+	.st9{opacity:0.05;fill:#E65100;enable-background:new    ;}
+</style>
+<symbol  id="新建符号_5" viewBox="-117.9 -98.2 235.8 196.4">
+	<g class="st0">
+		<path class="st1" d="M29.3,5.8c28.7,0,52-23.3,52-52s-23.3-52-52-52s-52,23.3-52,52S0.6,5.8,29.3,5.8z M-5.1-46.4
+			c0-19.2,15.5-34.7,34.7-34.7s34.7,15.5,34.7,34.7S48.8-11.7,29.6-11.7h-0.1C10.4-11.7-5.1-27.3-5.1-46.4L-5.1-46.4z"/>
+		<path class="st1" d="M65,0.4l-1-0.6l-1,0.8c-20.1,14.5-47.2,14.5-67.3,0l-1-0.8l-1,0.6c-32.3,15.9-53,52-53,91.6v6.2h15.5v-6
+			c0-30.9,14.5-59.1,37.9-74c10.8,5.9,23,9,35.3,9.1s24.4-3.1,35.1-9.1c23.4,14.9,37.9,43.2,37.9,74v6h15.5V92
+			C118.1,52.4,97.3,16.3,65,0.4z"/>
+		<path class="st1" d="M-37.8,12.9l0.6-0.6c3.8-4.2,8.1-8,12.7-11.3l8.1-5.8l-9.7,2.2c-3.8,0.9-7.8,1.3-11.7,1.4
+			c-10.8,0.1-21.4-3.3-30.3-9.5l-1-0.6l-1,0.6c-29,14.1-47.8,46-47.8,81.3v5.6h14.5v-5.6c0-27.2,12.9-52,33.9-65.1
+			c9.4,5.1,20,7.8,30.7,7.9L-37.8,12.9z"/>
+		<path class="st1" d="M-39.6-5.4h1.8c7.4,0.1,14.8-1.7,21.4-5l2.6-1.2l-2-2c-2.9-2.8-5.4-5.9-7.5-9.3l-0.8-1.4l-1.6,0.6
+			c-4.2,1.8-8.7,2.6-13.3,2.4c-17-0.7-30.5-15-29.7-31.5c0.6-16.7,14.9-29.6,32.1-29c5,0.2,9.9,1.6,14.3,4l1.4,0.8l1-1.4
+			c2.5-3.1,5.4-5.8,8.5-8.3l2.2-1.6l-2.4-1.6c-7.3-4.8-15.8-7.6-24.6-8.1C-62.4-99-84-79.1-85-53.6c-0.4,12.3,4.1,24.3,12.5,33.3
+			C-63.8-11.3-52.1-6-39.6-5.4z"/>
+	</g>
+</symbol>
+<title>064folder-publicshare</title>
+<g id="_64">
+	<polygon class="st2" points="3,59 3,18 6.5,18 6.5,6.5 21.5,6.5 25.5,10.5 59.5,10.5 59.5,18 63,18 63,59 	"/>
+	<polygon class="st3" points="2,60 2,17 5.5,17 5.5,6 22.5,6 26,9.5 60.5,9.5 60.5,17 64,17 64,60 	"/>
+	<polygon class="st4" points="2,58 2,17 5.5,17 5.5,6 21,6 24.5,9.5 58.5,9.5 58.5,17 62,17 62,58 	"/>
+	<polygon class="st1" points="3,57 3,18 6.5,18 6.5,7 20.5,7 24,10.5 57.5,10.5 57.5,18 61,18 61,57 	"/>
 	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="32" y1="-81.5523" x2="32" y2="-67.3" gradientTransform="matrix(1 0 0 -1 0 -60)">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-1013.5" y1="-608.18" x2="-1013.5" y2="-601.25" gradientTransform="matrix(2 0 0 -2 2059 -1195)">
 		<stop  offset="0" style="stop-color:#F57C00"/>
-		<stop  offset="0.1638" style="stop-color:#F58F09"/>
-		<stop  offset="0.3598" style="stop-color:#F59D11"/>
-		<stop  offset="0.5982" style="stop-color:#F5A515"/>
-		<stop  offset="0.9946" style="stop-color:#F5A816"/>
+		<stop  offset="0.16" style="stop-color:#F58F09"/>
+		<stop  offset="0.36" style="stop-color:#F59D11"/>
+		<stop  offset="0.6" style="stop-color:#F5A515"/>
+		<stop  offset="0.99" style="stop-color:#F5A816"/>
 	</linearGradient>
-	<path style="fill:url(#SVGID_1_);" d="M56.7,11.1H23.403l-3.776-3.8H7.3v3.8v3.8v4.75c0,1.045,0.903,1.9,1.9,1.9h45.6
-		c0.998,0,1.9,0.095,1.9-0.95C56.7,18.723,56.7,11.1,56.7,11.1z"/>
+	<path class="st5" d="M57,11H23.5L20,7.5H7v12c0,1.1,0.9,1.9,1.9,1.9l0,0h46.2c1,0,1.9,0.1,1.9-0.9V11z"/>
 	
-		<linearGradient id="rect2990_1_" gradientUnits="userSpaceOnUse" x1="32" y1="-78.7" x2="32" y2="-116.7" gradientTransform="matrix(1 0 0 -1 0 -60)">
+		<linearGradient id="rect2990_1_" gradientUnits="userSpaceOnUse" x1="-1013.5" y1="-606.75" x2="-1013.5" y2="-625.75" gradientTransform="matrix(2 0 0 -2 2059 -1195)">
 		<stop  offset="0" style="stop-color:#FADD60"/>
-		<stop  offset="0.9946" style="stop-color:#F5A816"/>
+		<stop  offset="0.99" style="stop-color:#F5A816"/>
 	</linearGradient>
-	<polyline id="rect2990_2_" style="fill:url(#rect2990_1_);" points="60.5,18.7 60.5,56.7 3.5,56.7 3.5,18.7 	"/>
-	<path id="rect3004_1_" inkscape:connector-curvature="0" style="opacity:0.25;fill:#FDEFBA;enable-background:new    ;" d="
-		M3.5,18.7v7.292c0-2.518,1.686-4.56,3.8-4.56h49.4c2.114,0,3.8,2.042,3.8,4.56V18.7H3.5z"/>
-	<path id="path3801_1_" inkscape:connector-curvature="0" style="opacity:0.1;fill:#E65100;enable-background:new    ;" d="M7.3,7.3
-		c0,0,0,0.95,0,2.85v1.9c0-1.9,0.855-2.85,1.734-2.85h9.856c0.665,0,1.544,0.024,3.087,0.926c0.427,0.261,0.903,0.57,1.425,0.974
-		l-3.776-3.8C19.626,7.3,7.3,7.3,7.3,7.3z"/>
-	<polygon style="opacity:0.1;fill:#E65100;enable-background:new    ;" points="23.403,11.1 56.7,11.1 56.7,13.95 26.253,13.95 	"/>
-	<rect x="7.3" y="17.014" style="opacity:0.05;fill:#E65100;enable-background:new    ;" width="49.4" height="1.686"/>
+	<polyline id="rect2990" class="st6" points="60.5,18.5 60.5,56.5 3.5,56.5 3.5,18.5 	"/>
+	<path id="rect3004" class="st7" d="M3.5,18.5v8c0-2.7,1.7-5,3.8-5h49.4c2.1,0,3.8,2.3,3.8,5v-8H3.5z"/>
+	<path id="path3801" class="st8" d="M7,7.7V11c0-1.7,1.1-1.7,2.1-1.7h10.3c0.9-0.1,1.9,0.2,2.6,0.7c0.5,0.3,0.9,0.7,1.5,1L20,7.5H7
+		V7.7z"/>
+	<polygon class="st8" points="23.5,11 57,11 57,14 26.5,14 	"/>
+	<rect x="7" y="16.5" class="st9" width="50" height="2"/>
 </g>
-<g style="opacity:0.39;">
-	<path style="fill:#F57F17;" d="M35.681,38.65c3.396,0,6.127-2.755,6.127-6.127c0-3.396-2.755-6.128-6.127-6.128
-		c-3.396,0-6.128,2.755-6.128,6.128C29.553,35.895,32.309,38.65,35.681,38.65z M31.62,32.499c0-2.256,1.829-4.085,4.085-4.085
-		s4.085,1.829,4.085,4.085c0,2.257-1.829,4.085-4.085,4.085S31.62,34.755,31.62,32.499z"/>
-	<path style="fill:#F57F17;" d="M39.885,38.008l-0.119-0.071l-0.119,0.095c-1.164,0.831-2.517,1.283-3.966,1.283
-		c-1.425,0-2.803-0.451-3.966-1.283l-0.118-0.095l-0.119,0.071c-3.8,1.876-6.247,6.128-6.247,10.783c0,0.166,0,0.333,0,0.499v0.237
-		h1.829V49.29c0-0.167,0-0.309,0-0.475c0-3.633,1.71-6.959,4.465-8.716c1.259,0.689,2.708,1.069,4.157,1.069
-		s2.874-0.356,4.132-1.069c2.755,1.758,4.465,5.083,4.465,8.716c0,0.166,0,0.309,0,0.475v0.237h1.829V49.29c0-0.167,0-0.333,0-0.499
-		C46.131,44.136,43.685,39.885,39.885,38.008z"/>
-	<path style="fill:#F57F17;" d="M27.772,39.481l0.072-0.071c0.451-0.499,0.974-0.95,1.497-1.33l0.95-0.689l-1.14,0.261
-		c-0.451,0.095-0.927,0.167-1.378,0.167c-1.282,0-2.517-0.38-3.563-1.117l-0.119-0.071l-0.118,0.071
-		c-3.42,1.663-5.628,5.415-5.628,9.572c0,0.143,0,0.285,0,0.428v0.237h1.71v-0.237c0-0.143,0-0.285,0-0.428
-		c0-3.206,1.52-6.128,3.99-7.672c1.093,0.594,2.351,0.926,3.61,0.926L27.772,39.481z"/>
-	<path style="fill:#F57F17;" d="M27.559,37.32c0.072,0,0.142,0,0.214,0c0.878,0,1.733-0.19,2.517-0.594l0.309-0.143l-0.237-0.238
-		c-0.333-0.333-0.642-0.689-0.878-1.092l-0.095-0.166l-0.19,0.072c-0.499,0.214-1.021,0.309-1.567,0.285
-		c-1.995-0.072-3.587-1.758-3.491-3.705c0.072-1.971,1.757-3.491,3.776-3.42c0.594,0.024,1.163,0.19,1.686,0.475l0.166,0.095
-		l0.119-0.166c0.285-0.356,0.642-0.689,0.997-0.974l0.261-0.19l-0.285-0.19c-0.855-0.57-1.876-0.902-2.897-0.95
-		c-3.087-0.118-5.628,2.232-5.747,5.225c-0.048,1.449,0.475,2.85,1.472,3.919C24.709,36.632,26.087,37.249,27.559,37.32z"/>
-</g>
+<use xlink:href="#新建符号_5"  width="235.8" height="196.4" id="新建符号_5-3" x="-117.9" y="-98.2" transform="matrix(0.13 0 0 0.13 32.327 39.266)" style="overflow:visible;"/>
 </svg>

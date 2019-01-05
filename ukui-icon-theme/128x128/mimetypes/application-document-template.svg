@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
-<rect x="18.298" y="4" opacity="0.2" width="91.404" height="120"/>
-<rect x="18.298" y="4" opacity="0.08" width="95.404" height="124"/>
-<rect x="20.298" y="6" opacity="0.1" width="91.404" height="120"/>
-<rect x="20.298" y="6" fill="#607D8B" width="87.404" height="116"/>
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.2;enable-background:new    ;}
+	.st1{opacity:0.08;enable-background:new    ;}
+	.st2{opacity:0.1;enable-background:new    ;}
+	.st3{fill:#607D8B;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{opacity:0.8;fill:#607D8B;enable-background:new    ;}
+	.st6{opacity:0.8;}
+</style>
+<rect x="18.3" y="4" class="st0" width="91.4" height="120"/>
+<rect x="18.3" y="4" class="st1" width="95.4" height="124"/>
+<rect x="20.3" y="6" class="st2" width="91.4" height="120"/>
+<rect x="20.3" y="6" class="st3" width="87.4" height="116"/>
 <g>
 	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="105.5996" y1="-42.9004" x2="105.5996" y2="-156.9009" gradientTransform="matrix(1 0 0 -1 -41.6001 -35.9004)">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="105.6001" y1="-680.9004" x2="105.6001" y2="-794.9004" gradientTransform="matrix(1 0 0 -1 -41.6001 -673.9004)">
 		<stop  offset="0" style="stop-color:#F5F5F5"/>
 		<stop  offset="0.341" style="stop-color:#F1F2F3"/>
 		<stop  offset="0.6434" style="stop-color:#E7EAEC"/>
 		<stop  offset="0.9302" style="stop-color:#D5DCE0"/>
 		<stop  offset="1" style="stop-color:#CFD8DC"/>
 	</linearGradient>
-	<rect x="21.292" y="7" fill="url(#SVGID_1_)" width="85.416" height="114"/>
+	<rect x="21.3" y="7" class="st4" width="85.4" height="114"/>
 	<g>
-		<rect x="32.313" y="41.771" opacity="0.8" fill="#607D8B" enable-background="new    " width="63.325" height="3.133"/>
-		<rect x="32.313" y="31.982" opacity="0.8" fill="#607D8B" enable-background="new    " width="63.325" height="3.139"/>
-		<rect x="62.531" y="50.982" opacity="0.8" fill="#607D8B" enable-background="new    " width="33.054" height="33.067"/>
-		<g opacity="0.8">
-			<rect x="32.313" y="51.552" fill="#607D8B" width="27.509" height="3.141"/>
-			<rect x="32.313" y="61.344" fill="#607D8B" width="27.509" height="3.133"/>
-			<rect x="32.313" y="71.168" fill="#607D8B" width="27.509" height="3.138"/>
-			<rect x="32.313" y="80.959" fill="#607D8B" width="27.509" height="3.133"/>
+		<rect x="32.3" y="41.8" class="st5" width="63.3" height="3.1"/>
+		<rect x="32.3" y="32" class="st5" width="63.3" height="3.1"/>
+		<rect x="62.5" y="51" class="st5" width="33.1" height="33.1"/>
+		<g class="st6">
+			<rect x="32.3" y="51.6" class="st3" width="27.5" height="3.1"/>
+			<rect x="32.3" y="61.3" class="st3" width="27.5" height="3.1"/>
+			<rect x="32.3" y="71.2" class="st3" width="27.5" height="3.1"/>
+			<rect x="32.3" y="81" class="st3" width="27.5" height="3.1"/>
 		</g>
 	</g>
 </g>

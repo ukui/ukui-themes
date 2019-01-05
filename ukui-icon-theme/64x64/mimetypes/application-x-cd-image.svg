@@ -1,39 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polygon opacity="0.1" enable-background="new    " points="9.155,64 9.155,2 56.846,2 56.846,46.498 39.343,64 "/>
-<polygon opacity="0.1" enable-background="new    " points="10.155,63 10.155,3 55.846,3 55.846,46.084 38.93,63 "/>
-<polygon opacity="0.2" enable-background="new    " points="9.155,62 9.155,2 54.846,2 54.846,45.084 37.93,62 "/>
-<polygon fill="#455A64" points="10.148,61 10.148,3 53.852,3 53.852,44.67 37.515,61 "/>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" inkscape:version="0.48.4 r9939" sodipodi:docname="computer.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
+	 style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.2;enable-background:new    ;}
+	.st1{opacity:0.08;enable-background:new    ;}
+	.st2{opacity:0.1;enable-background:new    ;}
+	.st3{fill:#01579B;}
+	.st4{fill:#0288D1;}
+	.st5{fill:url(#SVGID_1_);}
+	.st6{opacity:0.7;enable-background:new    ;}
+	.st7{fill:#FFFFFF;}
+	.st8{fill:#F5F5F5;}
+</style>
 <g>
-	<g>
-		<g>
-			
-				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="73.6006" y1="422.3994" x2="73.6006" y2="479.4004" gradientTransform="matrix(1 0 0 1 -41.6001 -418.9004)">
-				<stop  offset="0" style="stop-color:#90A4AE"/>
-				<stop  offset="0.1378" style="stop-color:#849AA5"/>
-				<stop  offset="0.4226" style="stop-color:#708A97"/>
-				<stop  offset="0.7096" style="stop-color:#64808E"/>
-				<stop  offset="1" style="stop-color:#607D8B"/>
-			</linearGradient>
-			<polygon fill="url(#SVGID_1_)" points="10.647,60.5 10.647,3.5 53.353,3.5 53.353,44.469 37.321,60.5 			"/>
-		</g>
-		<polygon fill="#455A64" fill-opacity="0.39" points="53.353,44.469 53.353,43.779 36.441,43.779 36.441,60.5 37.321,60.5 		"/>
-		<path fill="#FFFFFF" fill-opacity="0.39" d="M37.295,44.469l16.058,0.021L37.321,60.5L37.295,44.469z"/>
+	<path class="st0" d="M32,62C15.5,62,2,48.5,2,32S15.5,2,32,2s30,13.5,30,30S48.5,62,32,62z M32,29.7c-1.3,0-2.3,1-2.3,2.3
+		s1,2.3,2.3,2.3s2.3-1,2.3-2.3S33.3,29.7,32,29.7z"/>
+	<path class="st1" d="M33,64C15.9,64,2,50.1,2,33S15.9,2,33,2s31,13.9,31,31S50.1,64,33,64z M33,31.7c-0.7,0-1.3,0.6-1.3,1.3
+		s0.6,1.3,1.3,1.3s1.3-0.6,1.3-1.3S33.7,31.7,33,31.7z"/>
+	<path class="st2" d="M33,63C16.5,63,3,49.5,3,33S16.5,3,33,3s30,13.5,30,30S49.5,63,33,63z M33,30.7c-1.3,0-2.3,1-2.3,2.3
+		s1,2.3,2.3,2.3s2.3-1,2.3-2.3S34.3,30.7,33,30.7z"/>
+	<path class="st3" d="M32,61C16,61,3,48,3,32S16,3,32,3s29,13,29,29S48,61,32,61z M32,28.7c-1.8,0-3.3,1.5-3.3,3.3s1.5,3.3,3.3,3.3
+		s3.3-1.5,3.3-3.3S33.8,28.7,32,28.7z"/>
+	<path class="st4" d="M32,3.5C16.3,3.5,3.5,16.3,3.5,32S16.3,60.5,32,60.5S60.5,47.7,60.5,32S47.7,3.5,32,3.5z M32,59.7
+		C16.7,59.7,4.3,47.3,4.3,32S16.7,4.3,32,4.3S59.7,16.7,59.7,32S47.3,59.7,32,59.7z"/>
+	
+		<radialGradient id="SVGID_1_" cx="33.5913" cy="769.9344" r="24.1663" gradientTransform="matrix(0.9828 0 0 0.9828 -1.0135 -724.6902)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#4DD0E1"/>
+		<stop  offset="0.3925" style="stop-color:#40BEE7"/>
+		<stop  offset="0.6129" style="stop-color:#3FBDE7"/>
+		<stop  offset="0.6613" style="stop-color:#44C4E8"/>
+		<stop  offset="0.7527" style="stop-color:#2CBEE8"/>
+		<stop  offset="1" style="stop-color:#2196F3"/>
+	</radialGradient>
+	<path class="st5" d="M32,8.3C18.9,8.3,8.2,19,8.2,32.1S18.9,55.9,32,55.9s23.8-10.7,23.8-23.8S45.1,8.3,32,8.3z M32,40.3
+		c-4.6,0-8.3-3.7-8.3-8.3s3.7-8.3,8.3-8.3s8.3,3.7,8.3,8.3S36.6,40.3,32,40.3z"/>
+	<g class="st6">
+		<path class="st7" d="M40.3,32.5l14.6,1h0.8c0.2-3.4-0.3-6.8-1.5-9.9L39.8,29C40.2,30.2,40.4,31.3,40.3,32.5z"/>
+		<path class="st7" d="M23.7,31.5l-14.6-1H8.3c-0.2,3.4,0.3,6.8,1.5,9.9l14.4-5.5C23.8,33.8,23.6,32.7,23.7,31.5z"/>
 	</g>
-	<g opacity="0.8">
-		<g>
-			<path fill="#FFFFFF" d="M31.999,15.16c6.935,0,12.564,5.629,12.564,12.564c0,6.937-5.63,12.566-12.564,12.566
-				s-12.564-5.63-12.564-12.566C19.435,20.789,25.064,15.16,31.999,15.16 M31.999,13.831c-7.671,0-13.895,6.224-13.895,13.894
-				c0,7.671,6.224,13.895,13.895,13.895s13.895-6.224,13.895-13.895C45.894,20.055,39.67,13.831,31.999,13.831L31.999,13.831z"/>
-		</g>
-		<g>
-			<path fill="#FFFFFF" d="M31.999,25.135c1.426,0,2.59,1.165,2.59,2.59c0,1.426-1.164,2.589-2.59,2.589s-2.59-1.164-2.59-2.589
-				C29.409,26.3,30.573,25.135,31.999,25.135 M31.999,23.807c-2.16,0-3.918,1.759-3.918,3.918c0,2.16,1.758,3.92,3.918,3.92
-				c2.163,0,3.918-1.76,3.918-3.92C35.917,25.565,34.162,23.807,31.999,23.807L31.999,23.807z"/>
-		</g>
+	<g class="st6">
+		<path class="st7" d="M39.2,27.8l12.6-7.4l0.7-0.5c-1.7-2.9-4.1-5.4-6.8-7.4l-8.9,12.6C37.8,25.9,38.6,26.8,39.2,27.8z"/>
+		<path class="st7" d="M24.8,36.2l-12.6,7.4l-0.7,0.5c1.7,2.9,4.1,5.4,6.8,7.4l8.9-12.6C26.2,38.1,25.4,37.2,24.8,36.2z"/>
 	</g>
+	<path class="st8" d="M32,4.3C16.7,4.3,4.3,16.7,4.3,32S16.7,59.7,32,59.7S59.7,47.3,59.7,32S47.3,4.3,32,4.3z M32,55.8
+		C18.9,55.8,8.2,45.1,8.2,32S18.9,8.3,32,8.3S55.8,19,55.8,32.1S45.1,55.8,32,55.8z"/>
+	<path class="st4" d="M32,23.7c-4.6,0-8.3,3.7-8.3,8.3s3.7,8.3,8.3,8.3s8.3-3.7,8.3-8.3S36.6,23.7,32,23.7z M32,39.5
+		c-4.1,0-7.5-3.3-7.5-7.5s3.3-7.5,7.5-7.5s7.5,3.3,7.5,7.5S36.1,39.5,32,39.5z"/>
+	<path class="st8" d="M32,24.5c-4.1,0-7.5,3.3-7.5,7.5s3.3,7.5,7.5,7.5s7.5-3.3,7.5-7.5S36.1,24.5,32,24.5z M32,35.8
+		c-2.1,0-3.8-1.7-3.8-3.8s1.7-3.8,3.8-3.8s3.8,1.7,3.8,3.8S34.1,35.8,32,35.8z"/>
 </g>
 </svg>

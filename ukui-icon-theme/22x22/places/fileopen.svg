@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-ydpi="270" inkscape:export-xdpi="270" sodipodi:docname="user-home.svg" inkscape:version="0.48.4 r9939"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22px" height="22px"
-	 viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
-<polygon fill="#F57F17" points="0,20.6 0,8 1.4,8 1.4,1.4 19,1.4 20.6,3 20.6,8 22,8 22,20.6 "/>
-<g>
-	<polygon fill="#E0E0E0" points="18.7,1.8 1.8,1.8 1.8,8.1 1.8,9.8 20.2,9.8 20.2,8.1 20.2,3.3 	"/>
-	
-		<linearGradient id="rect2990_1_" gradientUnits="userSpaceOnUse" x1="-60" y1="-53.25" x2="-60" y2="-29.6069" gradientTransform="matrix(0.5 0 0 0.5 41 35)">
-		<stop  offset="0" style="stop-color:#FADD60"/>
-		<stop  offset="0.9946" style="stop-color:#F5A816"/>
-	</linearGradient>
-	<polyline id="rect2990_2_" fill="url(#rect2990_1_)" points="21.5,8.4 21.5,20.1 0.5,20.1 0.5,8.4 	"/>
-	<rect x="4" y="6.1" fill="#9E9E9E" width="14" height="0.8"/>
-	<rect x="1.9" y="7.6" fill="#9E9E9E" width="18.3" height="0.8"/>
-	<rect x="4" y="3.9" fill="#9E9E9E" width="12.2" height="0.8"/>
-	<polygon fill="#FFFFFF" points="20.2,3.3 18.7,3.3 18.7,1.8 	"/>
-	<polygon opacity="0.2" enable-background="new    " points="18.7,3.3 20.2,3.3 20.2,4.8 	"/>
-</g>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="document-open" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#808080;}
+</style>
+<title>22</title>
+<polygon class="st0" points="18,11 18,0 3,0 3,19 4,19 4,17 4,1 17,1 17,11 18,13 18,18 10,18 10,19 19,19 19,13 "/>
+<path class="st0" d="M3,0v19l8,3V3L3,0z M10,15v5.4l-6-2.2V1.6l6,2.2V15z"/>
 </svg>

@@ -1,40 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
-<polygon fill="#3E2723" points="1.881,16 1.881,0 14.119,0 14.119,11.496 9.544,16 "/>
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#3D2723;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#40220F;}
+	.st3{fill:#5D4037;fill-opacity:0.3922;}
+	.st4{fill:#FFFFFF;fill-opacity:0.3922;}
+	.st5{fill:#FFFFFF;}
+</style>
+<polygon class="st0" points="-90.9,137 -90.9,-107 92.9,-107 92.9,68.3 24.2,137 "/>
 <g>
 	<g>
 		
-			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="49.5996" y1="-148.4004" x2="49.5996" y2="-163.4009" gradientTransform="matrix(1 0 0 -1 -41.6001 -147.9004)">
-			<stop  offset="0" style="stop-color:#785548"/>
-			<stop  offset="1" style="stop-color:#9F9E9F"/>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="8" y1="789.5" x2="8" y2="774.5" gradientTransform="matrix(1 0 0 1 0 -774)">
+			<stop  offset="0" style="stop-color:#9F9E9F"/>
+			<stop  offset="1" style="stop-color:#785548"/>
 		</linearGradient>
-		<polygon fill="url(#SVGID_1_)" points="2.38,15.5 2.38,0.5 13.619,0.5 13.619,11.275 9.441,15.5 		"/>
-		<polygon fill="#795548" fill-opacity="0.7" points="13.619,11.281 13.619,11.1 9.17,11.1 9.17,15.5 9.4,15.5 		"/>
-		<path opacity="0.39" fill="#FFFFFF" enable-background="new    " d="M9.395,11.281l4.225,0.006L9.4,15.5L9.395,11.281z"/>
-	</g>
-	<path fill="#FFFFFF" d="M6.396,3.392h-0.38v4.871H5.728V3.392H5.35v4.871H5.063V3.392H4.684v4.871H4.396V3.392H4.018v4.871H3.918
-		v2.063h2.607V8.263h-0.13V3.392z M6.146,9.727h-1.85V8.53h1.85V9.727z"/>
-	<g>
-		<rect x="2.378" y="0.5" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="11.243" height="2.875"/>
-		<g enable-background="new    ">
-			<path fill="#5D4037" d="M6.813,0.817v0.43H6.101v1.811H5.57V1.248H4.858v-0.43H6.813z"/>
-			<path fill="#5D4037" d="M7.938,3.087c-0.13,0-0.259-0.004-0.386-0.012c-0.129-0.007-0.262-0.025-0.4-0.053V0.85
-				C7.262,0.831,7.381,0.816,7.51,0.806s0.25-0.015,0.36-0.015c0.149,0,0.288,0.01,0.413,0.031C8.41,0.843,8.518,0.878,8.609,0.927
-				c0.09,0.05,0.161,0.115,0.212,0.196c0.052,0.081,0.077,0.181,0.077,0.299c0,0.179-0.092,0.32-0.272,0.424
-				c0.149,0.054,0.251,0.127,0.306,0.22s0.082,0.197,0.082,0.313c0,0.235-0.09,0.412-0.271,0.53
-				C8.563,3.028,8.295,3.087,7.938,3.087z M7.67,1.697h0.258c0.164,0,0.281-0.02,0.352-0.06s0.105-0.104,0.105-0.192
-				c0-0.091-0.037-0.154-0.109-0.191s-0.18-0.055-0.32-0.055c-0.045,0-0.094,0-0.146,0.001C7.757,1.202,7.711,1.205,7.67,1.208
-				V1.697z M7.67,2.082v0.579C7.708,2.665,7.75,2.668,7.795,2.67c0.046,0.002,0.096,0.003,0.15,0.003
-				c0.158,0,0.287-0.021,0.385-0.064C8.428,2.565,8.477,2.486,8.477,2.37c0-0.104-0.041-0.177-0.123-0.222
-				C8.271,2.104,8.154,2.082,8.003,2.082H7.67z"/>
-			<path fill="#5D4037" d="M11.104,1.167c-0.072,0.071-0.159,0.164-0.259,0.277c-0.101,0.113-0.203,0.236-0.31,0.37
-				c-0.107,0.133-0.213,0.271-0.316,0.414c-0.105,0.143-0.198,0.278-0.279,0.408h1.201v0.423H9.286V2.757
-				C9.35,2.647,9.428,2.525,9.52,2.391S9.707,2.12,9.807,1.983c0.1-0.137,0.201-0.269,0.305-0.397s0.199-0.243,0.287-0.344H9.34
-				V0.817h1.764V1.167z"/>
-		</g>
+		<polygon class="st1" points="9.4,15.5 13.5,11.3 13.5,0.5 2.5,0.5 2.5,15.5 		"/>
+		<path class="st2" d="M13.5,0.5V11L9,15.5H2.5v-15H13.5 M14,0h-0.5h-11H2v0.5v15V16h0.5h6.8h0.2l0.1-0.1l4.2-4.2l0.1-0.1v-0.2V0.5
+			V0H14z"/>
 	</g>
 </g>
+<polygon class="st3" points="13.5,11 13.5,11 9,11 9,15.5 9,15.5 "/>
+<path class="st4" d="M9,11h4.5L9,15.5V11z"/>
+<rect x="4" y="0.5" class="st5" width="1" height="7.5"/>
+<rect x="6" y="0.5" class="st5" width="1" height="7.5"/>
+<path class="st5" d="M8,11H3V8h5V11z M7,9H4v1h3V9z"/>
 </svg>

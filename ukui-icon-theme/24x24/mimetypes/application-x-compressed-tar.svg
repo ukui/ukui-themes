@@ -1,40 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<polygon fill="#3E2723" points="3.634,23 3.634,1 20.366,1 20.366,16.807 14.111,23 "/>
-<g>
-	<g>
-		
-			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="53.5996" y1="-141.4004" x2="53.5996" y2="-162.4009" gradientTransform="matrix(1 0 0 -1 -41.6001 -139.9004)">
-			<stop  offset="0" style="stop-color:#785548"/>
-			<stop  offset="1" style="stop-color:#9F9E9F"/>
-		</linearGradient>
-		<polygon fill="url(#SVGID_1_)" points="4.133,22.5 4.133,1.5 19.867,1.5 19.867,16.586 14.019,22.5 		"/>
-		<polygon fill="#795548" fill-opacity="0.7" points="19.867,16.594 19.867,16.34 13.638,16.34 13.638,22.5 13.961,22.5 		"/>
-		<path opacity="0.39" fill="#FFFFFF" enable-background="new    " d="M13.952,16.594l5.915,0.008L13.961,22.5L13.952,16.594z"/>
-	</g>
-	<path fill="#FFFFFF" d="M9.755,5.548H9.223v6.819H8.819V5.548H8.291v6.819H7.889V5.548h-0.53v6.819H6.955V5.548h-0.53v6.819H6.286
-		v2.889h3.65v-2.889H9.755V5.548z M9.405,14.417h-2.59v-1.675h2.59V14.417z"/>
-	<g>
-		<rect x="4.13" y="1.5" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="15.74" height="4.025"/>
-		<g enable-background="new    ">
-			<path fill="#5D4037" d="M10.32,1.951v0.602H9.324v2.535H8.581V2.553H7.585V1.951H10.32z"/>
-			<path fill="#5D4037" d="M12.299,2.494c-0.348,0-0.597,0.091-0.752,0.273c-0.153,0.183-0.23,0.433-0.23,0.749
-				c0,0.154,0.02,0.294,0.058,0.42c0.038,0.124,0.096,0.232,0.17,0.322c0.076,0.092,0.172,0.162,0.287,0.211
-				c0.114,0.05,0.249,0.075,0.399,0.075c0.084,0,0.152-0.001,0.213-0.004c0.058-0.004,0.109-0.009,0.155-0.019V3.431h0.741v1.553
-				c-0.087,0.033-0.229,0.068-0.427,0.107c-0.199,0.037-0.439,0.056-0.729,0.056c-0.249,0-0.473-0.036-0.676-0.108
-				c-0.199-0.072-0.371-0.178-0.517-0.317C10.85,4.583,10.74,4.412,10.66,4.21c-0.076-0.203-0.117-0.434-0.117-0.693
-				c0-0.263,0.044-0.495,0.131-0.696c0.085-0.203,0.203-0.375,0.351-0.514c0.15-0.141,0.325-0.248,0.527-0.32
-				c0.202-0.073,0.416-0.108,0.646-0.108c0.156,0,0.295,0.009,0.421,0.028c0.126,0.021,0.235,0.042,0.325,0.068
-				c0.091,0.026,0.164,0.052,0.225,0.08c0.058,0.027,0.101,0.048,0.126,0.063l-0.217,0.566c-0.101-0.051-0.216-0.096-0.35-0.133
-				C12.597,2.513,12.454,2.494,12.299,2.494z"/>
-			<path fill="#5D4037" d="M16.361,2.439c-0.101,0.1-0.222,0.229-0.36,0.388c-0.143,0.157-0.285,0.331-0.436,0.518
-				c-0.15,0.186-0.298,0.38-0.442,0.578c-0.147,0.2-0.276,0.39-0.392,0.572h1.682v0.592h-2.595V4.667
-				c0.088-0.153,0.197-0.324,0.325-0.513c0.129-0.189,0.263-0.379,0.402-0.572c0.14-0.191,0.281-0.376,0.427-0.556
-				c0.145-0.179,0.278-0.34,0.401-0.481h-1.481V1.951h2.469V2.439z"/>
-		</g>
-	</g>
-</g>
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#40220F;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#5D4037;fill-opacity:0.39;}
+	.st3{fill:#FFFFFF;fill-opacity:0.39;}
+	.st4{opacity:0.8;fill:#FFFFFF;enable-background:new    ;}
+</style>
+<title>application-x-compressed-tar</title>
+<path class="st0" d="M20,2v14l-6,6H4V2H20 M21,1H3v22h11l7-7V1z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="12" y1="1534" x2="12" y2="1554" gradientTransform="matrix(1 0 0 1 0 -1532)">
+	<stop  offset="0" style="stop-color:#785548"/>
+	<stop  offset="1" style="stop-color:#9F9E9F"/>
+</linearGradient>
+<polygon class="st1" points="4,22 4,2 20,2 20,16 14,22 "/>
+<polygon class="st2" points="20,16 20,15 13,15 13,22 14,22 "/>
+<path class="st3" d="M14,16h6l-6,6V16z"/>
+<path class="st4" d="M10,2v9H9V2H8v9H7V2H6v13h5V2H10z M10,14H7v-2h3V14z"/>
 </svg>

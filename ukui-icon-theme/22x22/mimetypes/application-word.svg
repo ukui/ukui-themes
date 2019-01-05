@@ -1,34 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="22px" height="22px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
-<polygon fill="#0D47A1" points="2.634,22 2.634,0 19.366,0 19.366,15.807 13.111,22 "/>
-<g>
-	<g>
-		<g>
-			<g>
-				
-					<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="52.5996" y1="-163.3999" x2="52.5996" y2="-142.4004" gradientTransform="matrix(1 0 0 -1 -41.6001 -141.9004)">
-					<stop  offset="0" style="stop-color:#3F51B5"/>
-					<stop  offset="1" style="stop-color:#64B5F6"/>
-				</linearGradient>
-				<polygon fill="url(#SVGID_1_)" points="3.132,21.5 3.132,0.5 18.865,0.5 18.865,15.594 12.959,21.5 				"/>
-			</g>
-			<polygon fill="#2196F3" fill-opacity="0.7" points="18.865,15.594 18.865,15.34 12.635,15.34 12.635,21.5 12.959,21.5 			"/>
-			<path opacity="0.39" fill="#FFFFFF" enable-background="new    " d="M12.951,15.594l5.917,0.008L12.959,21.5L12.951,15.594z"/>
-		</g>
-	</g>
-	<g opacity="0.8">
-		<rect x="5.162" y="6.906" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="11.665" height="0.576"/>
-		<rect x="5.162" y="5.102" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="11.665" height="0.58"/>
-		<rect x="10.728" y="8.602" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="6.091" height="6.093"/>
-		<g opacity="0.8">
-			<rect x="5.162" y="8.707" fill="#FFFFFF" width="5.066" height="0.578"/>
-			<rect x="5.162" y="10.511" fill="#FFFFFF" width="5.066" height="0.577"/>
-			<rect x="5.162" y="12.32" fill="#FFFFFF" width="5.066" height="0.577"/>
-			<rect x="5.162" y="14.123" fill="#FFFFFF" width="5.066" height="0.576"/>
-		</g>
-	</g>
+	 viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0D47A1;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#2196F3;fill-opacity:0.7;}
+	.st3{opacity:0.39;fill:#FFFFFF;enable-background:new    ;}
+	.st4{opacity:0.8;}
+	.st5{fill:#FFFFFF;}
+</style>
+<title>application-word</title>
+<path class="st0" d="M19,1v14l-6,6H3V1H19 M20,0H2v22h11l7-7V0z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="11" y1="-1486.99" x2="11" y2="-1506.99" gradientTransform="matrix(1 0 0 -1 0 -1485.99)">
+	<stop  offset="0" style="stop-color:#64B5F6"/>
+	<stop  offset="0.29" style="stop-color:#5B9CE6"/>
+	<stop  offset="0.9" style="stop-color:#435CBC"/>
+	<stop  offset="1" style="stop-color:#3F51B5"/>
+</linearGradient>
+<polygon class="st1" points="3,21 3,1 19,1 19,15 13,21 "/>
+<polygon class="st2" points="19,15 19,14 12,14 12,21 13,21 "/>
+<path class="st3" d="M13,15h6l-6,6V15z"/>
+<g class="st4">
+	<rect x="5" y="4" class="st5" width="12" height="1"/>
+	<rect x="5" y="6" class="st5" width="12" height="1"/>
+	<rect x="5" y="8" class="st5" width="5" height="1"/>
+	<rect x="5" y="10" class="st5" width="5" height="1"/>
+	<rect x="5" y="12" class="st5" width="5" height="1"/>
+	<rect x="11" y="8" class="st5" width="6" height="5"/>
 </g>
 </svg>

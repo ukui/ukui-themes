@@ -1,49 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<rect x="5.012" y="1" opacity="0.1" enable-background="new    " width="23.976" height="31"/>
-<rect x="5.512" y="1.5" opacity="0.1" enable-background="new    " width="22.976" height="30"/>
-<rect x="5.012" y="1" opacity="0.2" enable-background="new    " width="22.976" height="30"/>
-<rect x="5.512" y="1.5" fill="#0D47A1" width="21.976" height="29"/>
-<g>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="16.501" y1="2" x2="16.501" y2="30.0005">
-		<stop  offset="0" style="stop-color:#64B5F6"/>
-		<stop  offset="1" style="stop-color:#3F51B5"/>
-	</linearGradient>
-	<rect x="6.012" y="2" fill="url(#SVGID_1_)" width="20.979" height="28"/>
-	<g opacity="0.8">
-		<rect x="8.719" y="13.074" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="15.553" height="0.768"/>
-		<rect x="8.719" y="10.67" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="15.553" height="0.771"/>
-		<rect x="16.14" y="15.336" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="8.122" height="8.123"/>
-		<g opacity="0.8">
-			<rect x="8.719" y="15.475" fill="#FFFFFF" width="6.756" height="0.773"/>
-			<rect x="8.719" y="17.881" fill="#FFFFFF" width="6.756" height="0.77"/>
-			<rect x="8.719" y="20.295" fill="#FFFFFF" width="6.756" height="0.77"/>
-			<rect x="8.719" y="22.697" fill="#FFFFFF" width="6.756" height="0.77"/>
-		</g>
-	</g>
-	<g>
-		<rect x="6.006" y="2" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="20.988" height="5.367"/>
-		<g enable-background="new    ">
-			<path fill="#236FB7" d="M12.918,3.039c0.052,0.164,0.108,0.35,0.17,0.558c0.061,0.208,0.126,0.423,0.197,0.644
-				c0.069,0.221,0.139,0.443,0.211,0.664c0.073,0.221,0.143,0.427,0.208,0.616c0.057-0.206,0.113-0.428,0.171-0.669
-				c0.057-0.243,0.109-0.492,0.161-0.749c0.051-0.257,0.102-0.514,0.151-0.771c0.049-0.255,0.095-0.5,0.137-0.738h1.029
-				c-0.149,0.7-0.32,1.411-0.514,2.131c-0.195,0.72-0.403,1.403-0.629,2.052h-0.908c-0.147-0.386-0.291-0.791-0.43-1.218
-				c-0.141-0.423-0.277-0.849-0.412-1.276c-0.137,0.427-0.273,0.853-0.408,1.276c-0.135,0.427-0.277,0.832-0.427,1.218h-0.904
-				c-0.226-0.649-0.436-1.333-0.629-2.052C9.9,4.003,9.729,3.292,9.579,2.592h1.074c0.044,0.239,0.09,0.483,0.141,0.738
-				c0.051,0.257,0.104,0.514,0.16,0.771c0.055,0.257,0.111,0.506,0.17,0.749c0.057,0.241,0.114,0.463,0.175,0.669
-				c0.076-0.199,0.149-0.406,0.223-0.629c0.072-0.221,0.142-0.441,0.211-0.664c0.065-0.221,0.13-0.434,0.187-0.638
-				c0.058-0.206,0.109-0.39,0.156-0.55H12.918z"/>
-			<path fill="#236FB7" d="M17.303,2.543c0.658,0,1.162,0.111,1.514,0.33c0.352,0.221,0.527,0.578,0.527,1.078
-				c0,0.503-0.178,0.866-0.535,1.09c-0.354,0.223-0.863,0.335-1.523,0.335h-0.311v1.4h-0.992V2.653
-				c0.216-0.041,0.445-0.069,0.685-0.084C16.91,2.552,17.121,2.543,17.303,2.543z M17.369,3.347c-0.074,0-0.145,0.002-0.213,0.005
-				c-0.072,0.004-0.131,0.007-0.182,0.013v1.207h0.311c0.342,0,0.602-0.044,0.775-0.133c0.172-0.087,0.26-0.253,0.26-0.496
-				c0-0.117-0.021-0.211-0.066-0.288c-0.043-0.077-0.109-0.139-0.191-0.184c-0.082-0.046-0.184-0.079-0.301-0.097
-				C17.643,3.356,17.512,3.347,17.369,3.347z"/>
-			<path fill="#236FB7" d="M23.42,2.592v0.804h-1.326v3.379h-0.992V3.396h-1.326V2.592H23.42z"/>
-		</g>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="svg2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.08;enable-background:new    ;}
+	.st1{opacity:0.1;enable-background:new    ;}
+	.st2{opacity:0.2;enable-background:new    ;}
+	.st3{fill:#0D47A1;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{opacity:0.8;}
+	.st6{opacity:0.8;fill:#FFFFFF;enable-background:new    ;}
+	.st7{fill:#FFFFFF;}
+</style>
+<title>wps-office-wpt</title>
+<polygon class="st0" points="5.1,32 5.1,1 28.9,1 28.9,23.2 28.9,32 "/>
+<polygon class="st1" points="5.6,31.5 5.6,1.5 28.4,1.5 28.4,23 28.4,31.5 "/>
+<polygon class="st2" points="5.1,31 5.1,1 27.9,1 27.9,22.5 27.9,31 "/>
+<polygon class="st3" points="5.5,30.5 5.5,1.5 27.5,1.5 27.5,22.3 27.5,30.5 "/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="16.5" y1="-2167.27" x2="16.5" y2="-2139.27" gradientTransform="matrix(1 0 0 -1 0 -2137.27)">
+	<stop  offset="0" style="stop-color:#3F51B5"/>
+	<stop  offset="1" style="stop-color:#64B5F6"/>
+</linearGradient>
+<polygon class="st4" points="6,30 6,2 27,2 27,22.1 27,30 "/>
+<g class="st5">
+	<rect x="9" y="11" class="st6" width="15" height="1"/>
+	<rect x="9" y="9" class="st6" width="15" height="1"/>
+	<rect x="16" y="13" class="st6" width="8" height="7"/>
+	<g class="st5">
+		<rect x="9" y="13" class="st7" width="6" height="1"/>
+		<rect x="9" y="15" class="st7" width="6" height="1"/>
+		<rect x="9" y="17" class="st7" width="6" height="1"/>
+		<rect x="9" y="19" class="st7" width="6" height="1"/>
 	</g>
 </g>
 </svg>

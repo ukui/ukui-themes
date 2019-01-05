@@ -1,31 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-ydpi="270" inkscape:export-xdpi="270" sodipodi:docname="user-home.svg" inkscape:version="0.48.4 r9939"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22px" height="22px"
-	 viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
-<g>
-	<g>
-		<path fill="#606061" d="M2.1,22V5.4H0.9V2h5.7V0h8.8v2h5.7v3.3l0,0h-1.3V22H2.1z M13.1,2V1.6H8.9V2H13.1z"/>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="&#x5176;&#x4ED6;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
+<title>画板 25</title>
+<g id="&#x5783;&#x573E;&#x6876;-&#x7A7A;">
+	<g id="_22">
+		<path style="fill:#606061;" d="M2.1,22V5.4H0.9V2h5.7V0h8.8v2h5.7v3.3h-1.3V22H2.1z M13.1,2V1.6H8.9V2H13.1z"/>
 		
-			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="2.6635" y1="-106.85" x2="19.3885" y2="-106.85" gradientTransform="matrix(1 0 0 1 0 120)">
-			<stop  offset="4.840000e-002" style="stop-color:#CED7DB"/>
-			<stop  offset="0.1017" style="stop-color:#C4CDD2"/>
-			<stop  offset="0.2688" style="stop-color:#A7B5BC"/>
-			<stop  offset="0.4093" style="stop-color:#94A6B0"/>
-			<stop  offset="0.5054" style="stop-color:#8DA1AB"/>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="2.66" y1="-194.85" x2="19.39" y2="-194.85" gradientTransform="matrix(1 0 0 1 0 208)">
+			<stop  offset="0.05" style="stop-color:#CED7DB"/>
+			<stop  offset="0.1" style="stop-color:#C4CDD2"/>
+			<stop  offset="0.27" style="stop-color:#A7B5BC"/>
+			<stop  offset="0.41" style="stop-color:#94A6B0"/>
+			<stop  offset="0.51" style="stop-color:#8DA1AB"/>
 			<stop  offset="1" style="stop-color:#CED7DB"/>
 		</linearGradient>
-		<rect x="2.6" y="4.8" fill="url(#SVGID_1_)" width="16.7" height="16.7"/>
-		<g>
-			<rect x="16.2" y="8" fill="#5E7B88" width="1.5" height="12.3"/>
-			<rect x="12.5" y="8" fill="#5E7B88" width="1.5" height="12.3"/>
-			<rect x="8" y="8" fill="#5E7B88" width="1.5" height="12.3"/>
-			<rect x="4.4" y="8" fill="#5E7B88" width="1.5" height="12.3"/>
-		</g>
+		<rect x="2.6" y="4.8" style="fill:url(#SVGID_1_);" width="16.7" height="16.7"/>
+		<rect x="16.2" y="8" style="fill:#5E7B88;" width="1.5" height="12.3"/>
+		<rect x="12.5" y="8" style="fill:#5E7B88;" width="1.5" height="12.3"/>
+		<rect x="8" y="8" style="fill:#5E7B88;" width="1.5" height="12.3"/>
+		<rect x="4.4" y="8" style="fill:#5E7B88;" width="1.5" height="12.3"/>
+		<path style="fill:#5E7B88;" d="M14.9,2.5v-2H7.1v2H1.4v2.3h19.2V2.5H14.9z M8.4,2.5V1.1h5.2v1.4H8.4z"/>
+		<rect x="1.4" y="4.4" style="fill:#445962;" width="19.2" height="0.4"/>
 	</g>
-	<path fill="#5E7B88" d="M14.9,2.5v-2H7.1v2H1.4v2.3h19.2V2.5H14.9z M8.4,2.5V1.1h5.2v1.4H8.4z"/>
-	<rect x="1.4" y="4.4" fill="#445962" width="19.2" height="0.4"/>
 </g>
 </svg>

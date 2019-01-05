@@ -1,1 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24"><defs><style>.cls-1{fill:#616161;}.cls-2{fill:#263238;}.cls-3,.cls-9{fill:#e0e0e0;}.cls-4{fill:#9e9e9e;opacity:0.25;}.cls-4,.cls-5,.cls-9{isolation:isolate;}.cls-5{fill:#fff;opacity:0.45;}.cls-6{fill:url(#linear-gradient);}.cls-7{fill:url(#linear-gradient-2);}.cls-8{fill:#949494;}.cls-9{opacity:0.86;}.cls-10{fill:#a5a5a5;}.cls-11{fill:none;stroke:red;stroke-miterlimit:10;}</style><linearGradient id="linear-gradient" x1="-3322" y1="2579.12" x2="-3322" y2="2578.16" gradientTransform="translate(3332.43 -2561.31)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#455a64"/><stop offset="0.21" stop-color="#36474f"/><stop offset="1"/></linearGradient><linearGradient id="linear-gradient-2" x1="-3311.96" y1="2579.12" x2="-3311.96" y2="2578.16" gradientTransform="translate(3332.43 -2561.31)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#38a3e7"/><stop offset="1" stop-color="#1976d2"/></linearGradient></defs><title>画板 24</title><g id="其他"><g id="光驱"><path class="cls-1" d="M10.41,23a8.25,8.25,0,0,1-6.78-3.6H1V15.91l.22-1.37L3.45,1H20l2.79,13.53L23,15.82V19.4h-5.8A8.25,8.25,0,0,1,10.41,23Z"/><g id="g4"><g id="g6"><path id="path10" class="cls-2" d="M1.5,15.91v3h21v-3Z"/><polygon class="cls-3" points="22.25 14.63 19.55 1.5 3.88 1.5 1.71 14.63 22.25 14.63"/><polygon class="cls-4" points="22.25 14.63 19.55 1.5 14.04 1.5 10.85 14.63 22.25 14.63"/><polygon class="cls-3" points="1.71 14.63 1.5 15.91 22.5 15.91 22.25 14.63 1.71 14.63"/><polygon class="cls-5" points="5.17 14.63 5.84 1.5 4.61 1.5 2.47 14.63 5.17 14.63"/></g><g id="g12"><path id="path14" class="cls-6" d="M18,17.81H2.83v-1H18v1Z"/><path id="path16" class="cls-7" d="M19.77,17.81h1.4v-1h-1.4Z"/></g></g><path class="cls-3" d="M10.41,22.32a7.67,7.67,0,0,0,7.29-5.47H16.51a6.49,6.49,0,0,1-8,4l-.09.24L6.25,20.6l.5-.59a6.78,6.78,0,0,1-1-.82l-.7.45L4,18.49,4.87,18a6.71,6.71,0,0,1-.58-1.18H3.11A7.68,7.68,0,0,0,10.41,22.32Z"/><path class="cls-8" d="M17.88,16.85H17.7a7.69,7.69,0,0,1-7.29,5.47,7.67,7.67,0,0,1-7.29-5.47H2.93a7.85,7.85,0,0,0,7.48,5.65A7.85,7.85,0,0,0,17.88,16.85Z"/><path class="cls-8" d="M7.16,16.85H4.3A7.54,7.54,0,0,0,4.88,18Z"/><path class="cls-8" d="M8.51,17.41,5.78,19.19a6.78,6.78,0,0,0,1,.82l2-2.43Z"/><path class="cls-8" d="M10.41,18a3.34,3.34,0,0,1-.89-.12l-1,3a6.46,6.46,0,0,0,1.94.3,6.54,6.54,0,0,0,6.11-4.3H13A3.42,3.42,0,0,1,10.41,18Z"/><path class="cls-3" d="M6.25,20.6l2.13.49.09-.24A6.54,6.54,0,0,1,6.75,20Z"/><path class="cls-9" d="M6.25,20.6l2.13.49.09-.24A6.54,6.54,0,0,1,6.75,20Z"/><path class="cls-8" d="M8.78,17.57,6.75,20a6.49,6.49,0,0,0,1.71.84l1-3A2.66,2.66,0,0,1,8.78,17.57Z"/><path class="cls-9" d="M8.78,17.57,6.75,20a6.49,6.49,0,0,0,1.71.84l1-3A2.66,2.66,0,0,1,8.78,17.57Z"/><path class="cls-3" d="M4,18.49l1.09,1.15.7-.45A6.44,6.44,0,0,1,4.88,18Z"/><path class="cls-9" d="M4,18.49l1.09,1.15.7-.45A6.44,6.44,0,0,1,4.88,18Z"/><path class="cls-8" d="M5.77,19.19,8.5,17.41a3.63,3.63,0,0,1-.65-.56h-.7L4.87,18A7.27,7.27,0,0,0,5.77,19.19Z"/><path class="cls-9" d="M5.77,19.19,8.5,17.41a3.63,3.63,0,0,1-.65-.56h-.7L4.87,18A7.27,7.27,0,0,0,5.77,19.19Z"/><path class="cls-10" d="M8.51,17.41l.27.17a3.43,3.43,0,0,0,.73.3,3.4,3.4,0,0,0,3.44-1h-.53a3.07,3.07,0,0,1-4,0H7.86A3.68,3.68,0,0,0,8.51,17.41Z"/><path class="cls-3" d="M10.41,17.6a3,3,0,0,0,2-.75h-4A3.09,3.09,0,0,0,10.41,17.6Z"/></g></g><g id="规范"><rect class="cls-11" x="-54.67" y="-32.3" width="90.61" height="84.25"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#01579B;}
+	.st1{fill:#0288D1;}
+	.st2{fill:url(#SVGID_1_);}
+	.st3{opacity:0.7;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:#F5F5F5;}
+	.st6{fill:none;stroke:#FF0000;stroke-miterlimit:10;}
+</style>
+<title>画板 24</title>
+<g id="其他">
+	<g id="光盘">
+		<path class="st0" d="M12,23C5.9,23,1,18.1,1,12S5.9,1,12,1s11,4.9,11,11S18.1,23,12,23z M12,11.1c-0.5,0-0.9,0.4-0.9,0.9
+			s0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9l0,0C12.9,11.5,12.5,11.1,12,11.1z"/>
+		<path class="st1" d="M12,1.5C6.2,1.5,1.5,6.2,1.5,12S6.2,22.5,12,22.5S22.5,17.8,22.5,12S17.8,1.5,12,1.5z M12,22.2
+			C6.4,22.2,1.8,17.6,1.8,12S6.4,1.8,12,1.8S22.2,6.4,22.2,12S17.6,22.2,12,22.2z"/>
+		
+			<radialGradient id="SVGID_1_" cx="62.255" cy="808.8967" r="9.16" gradientTransform="matrix(0.96 0 0 0.96 -47.67 -764.49)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#4DD0E1"/>
+			<stop  offset="0.39" style="stop-color:#40BEE7"/>
+			<stop  offset="0.61" style="stop-color:#3FBDE7"/>
+			<stop  offset="0.66" style="stop-color:#44C4E8"/>
+			<stop  offset="0.75" style="stop-color:#2CBEE8"/>
+			<stop  offset="1" style="stop-color:#2196F3"/>
+		</radialGradient>
+		<path class="st2" d="M12,3.3c-4.8,0-8.8,3.9-8.8,8.8s3.9,8.8,8.8,8.8s8.8-3.9,8.8-8.8C20.7,7.2,16.8,3.3,12,3.3z M12,15.1
+			c-1.7,0-3.1-1.4-3.1-3.1s1.4-3.1,3.1-3.1s3.1,1.4,3.1,3.1S13.7,15.1,12,15.1z"/>
+		<g class="st3">
+			<path class="st4" d="M15.1,12.2l5.4,0.4h0.3c0.1-1.2-0.1-2.5-0.6-3.7l-5.3,2C15,11.3,15.1,11.8,15.1,12.2z"/>
+			<path class="st4" d="M8.9,11.8l-5.4-0.4H3.3c-0.1,1.2,0.1,2.5,0.6,3.7l5.3-2C9,12.7,8.9,12.2,8.9,11.8z"/>
+		</g>
+		<g class="st3">
+			<path class="st4" d="M14.6,10.5l4.6-2.7l0.3-0.2c-0.6-1.1-1.5-2-2.5-2.7l-3.2,4.7C14.1,9.8,14.4,10.1,14.6,10.5z"/>
+			<path class="st4" d="M9.4,13.5l-4.7,2.7l-0.3,0.2c0.6,1.1,1.5,2,2.6,2.7l3.3-4.6C9.9,14.3,9.6,13.9,9.4,13.5z"/>
+		</g>
+		<path class="st5" d="M12,1.8C6.4,1.8,1.8,6.4,1.8,12S6.4,22.2,12,22.2S22.2,17.6,22.2,12S17.6,1.8,12,1.8z M12,20.8
+			c-4.8,0-8.8-3.9-8.8-8.8s4-8.7,8.8-8.7s8.8,3.9,8.8,8.8C20.7,16.8,16.8,20.7,12,20.8z"/>
+		<path class="st1" d="M12,8.9c-1.7,0-3.1,1.4-3.1,3.1s1.4,3.1,3.1,3.1s3.1-1.4,3.1-3.1S13.7,8.9,12,8.9z M12,14.8
+			c-1.5,0-2.8-1.2-2.8-2.8s1.2-2.8,2.8-2.8s2.8,1.2,2.8,2.8S13.5,14.8,12,14.8z"/>
+		<path class="st5" d="M12,9.3c-1.5,0-2.8,1.2-2.8,2.8s1.2,2.8,2.8,2.8s2.8-1.2,2.8-2.8S13.5,9.3,12,9.3z M12,13.4
+			c-0.8,0-1.4-0.6-1.4-1.4s0.6-1.4,1.4-1.4c0.8,0,1.4,0.6,1.4,1.4l0,0C13.4,12.8,12.8,13.4,12,13.4z"/>
+	</g>
+</g>
+<g id="规范">
+	<rect x="-54.7" y="-32.3" class="st6" width="90.6" height="84.3"/>
+</g>
+</svg>

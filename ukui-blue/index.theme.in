@@ -7,5 +7,5 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=ukui-blue
 MetacityTheme=ukui-blue
-IconTheme=ukui-icon-theme
-CursorTheme=ukui-icon-theme
+IconTheme=ukui-icon-theme-one
+CursorTheme=ukui-icon-theme-one

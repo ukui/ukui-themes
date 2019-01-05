@@ -1,39 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<polygon opacity="0.08" enable-background="new    " points="5.077,32 5.077,1 28.923,1 28.923,23.249 20.172,32 "/>
-<polygon opacity="0.1" enable-background="new    " points="5.577,31.5 5.577,1.5 28.423,1.5 28.423,23.042 19.965,31.5 "/>
-<polygon opacity="0.2" enable-background="new    " points="5.077,31 5.077,1 27.923,1 27.923,22.542 19.465,31 "/>
-<polygon fill="#607D8B" points="5.512,30.5 5.512,1.5 27.488,1.5 27.488,22.335 19.274,30.5 "/>
-<g>
-	<g>
-		
-			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="58.1006" y1="420.8994" x2="58.1006" y2="448.9004" gradientTransform="matrix(1 0 0 1 -41.6001 -418.9004)">
-			<stop  offset="0" style="stop-color:#F5F5F5"/>
-			<stop  offset="0.341" style="stop-color:#F1F2F3"/>
-			<stop  offset="0.6434" style="stop-color:#E7EAEC"/>
-			<stop  offset="0.9302" style="stop-color:#D5DCE0"/>
-			<stop  offset="1" style="stop-color:#CFD8DC"/>
-		</linearGradient>
-		<polygon fill="url(#SVGID_1_)" points="6.012,30 6.012,2 26.988,2 26.988,22.125 19.113,30 		"/>
-	</g>
-	<g>
-		<rect x="8.719" y="6.013" opacity="0.8" fill="#607D8B" enable-background="new    " width="2.893" height="1.657"/>
-		<rect x="12.452" y="6.013" opacity="0.8" fill="#607D8B" enable-background="new    " width="11.819" height="1.657"/>
-		<rect x="8.719" y="10.47" opacity="0.8" fill="#607D8B" enable-background="new    " width="2.893" height="0.77"/>
-		<rect x="12.452" y="10.47" opacity="0.8" fill="#607D8B" enable-background="new    " width="11.819" height="0.77"/>
-		<rect x="12.452" y="12.897" opacity="0.8" fill="#607D8B" enable-background="new    " width="11.819" height="0.77"/>
-		<rect x="8.719" y="12.897" opacity="0.8" fill="#607D8B" enable-background="new    " width="2.893" height="0.77"/>
-		<rect x="12.452" y="15.323" opacity="0.8" fill="#607D8B" enable-background="new    " width="11.819" height="0.771"/>
-		<rect x="8.719" y="15.323" opacity="0.8" fill="#607D8B" enable-background="new    " width="2.893" height="0.771"/>
-		<rect x="12.452" y="17.738" opacity="0.8" fill="#607D8B" enable-background="new    " width="11.819" height="0.77"/>
-		<rect x="8.719" y="17.738" opacity="0.8" fill="#607D8B" enable-background="new    " width="2.893" height="0.77"/>
-		<rect x="8.719" y="20.165" opacity="0.8" fill="#607D8B" enable-background="new    " width="2.893" height="0.77"/>
-		<rect x="12.452" y="20.165" opacity="0.8" fill="#607D8B" enable-background="new    " width="5.88" height="0.77"/>
-	</g>
-	<polygon fill="#455A64" fill-opacity="0.7" points="26.988,22.125 26.988,21.786 18.683,21.786 18.683,30 19.113,30 	"/>
-	<path fill="#90A4AE" d="M19.102,22.125l7.887,0.012L19.113,30L19.102,22.125z"/>
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.08;enable-background:new    ;}
+	.st1{opacity:0.2;enable-background:new    ;}
+	.st2{opacity:0.1;enable-background:new    ;}
+	.st3{fill:#5F7B89;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{fill:#455963;fill-opacity:0.7;}
+	.st6{fill:#8DA1AC;}
+	.st7{opacity:0.8;}
+	.st8{fill:#607D8B;}
+</style>
+<title>text-x-changelog</title>
+<polygon class="st0" points="4.5,32 4.5,1 28.5,1 28.5,23.1 19.6,32 "/>
+<polygon class="st1" points="5,31 5,1 28,1 28,22.4 19.4,31 "/>
+<polygon class="st2" points="5,31.5 5,1.5 28,1.5 28,22.9 19.4,31.5 "/>
+<polygon class="st3" points="5.5,30.5 5.5,1.5 27.5,1.5 27.5,22.2 19.2,30.5 "/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="58.1" y1="-1942.89" x2="58.1" y2="-1970.89" gradientTransform="matrix(1 0 0 -1 -41.6 -1940.89)">
+	<stop  offset="0" style="stop-color:#F6F5F5"/>
+	<stop  offset="0.34" style="stop-color:#F1F2F3"/>
+	<stop  offset="0.64" style="stop-color:#E7EAEB"/>
+	<stop  offset="0.93" style="stop-color:#D5DBDF"/>
+	<stop  offset="1" style="stop-color:#CFD7DB"/>
+</linearGradient>
+<polygon class="st4" points="6,30 6,2 27,2 27,22 19,30 "/>
+<polygon class="st5" points="27,22 27,21.6 18.6,21.6 18.6,30 19,30 "/>
+<path class="st6" d="M19,22h8l-8,8V22z"/>
+<g class="st7">
+	<rect x="13" y="6" class="st8" width="11" height="2"/>
+	<rect x="13" y="11" class="st8" width="11" height="1"/>
+	<rect x="13" y="13" class="st8" width="11" height="1"/>
+	<rect x="13" y="15" class="st8" width="11" height="1"/>
+	<rect x="13" y="17" class="st8" width="11" height="1"/>
+	<rect x="13" y="19" class="st8" width="5" height="1"/>
+</g>
+<g class="st7">
+	<rect x="9" y="6" class="st8" width="3" height="2"/>
+	<rect x="9" y="11" class="st8" width="3" height="1"/>
+	<rect x="9" y="13" class="st8" width="3" height="1"/>
+	<rect x="9" y="15" class="st8" width="3" height="1"/>
+	<rect x="9" y="17" class="st8" width="3" height="1"/>
+	<rect x="9" y="19" class="st8" width="3" height="1"/>
 </g>
 </svg>

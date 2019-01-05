@@ -1,10 +1,12 @@
-ukui-themes (0+git20180816-1) unstable; urgency=medium
+ukui-themes (0+git20190105-1) unstable; urgency=medium
 
-  * Add ukui-blue
-  * Remove obsolete themes
-  * update icon theme
+  * Add ukui-blue, ukui-black.
+  * Remove obsolete themes.
+  * Update icon theme.
+  * Bump standards-version to 4.3.0.
+  * Bump compat version to 12.
 
- -- handsome_feng <jianfengli@ubuntukylin.com>  Thu, 16 Aug 2018 15:05:05 +0800
+ -- handsome_feng <jianfengli@ubuntukylin.com>  Sat, 05 Jan 2019 14:47:03 +0800
 
 ukui-themes (0+git20170606-2) unstable; urgency=medium
 

@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-ydpi="270" inkscape:export-xdpi="270" sodipodi:docname="user-home.svg" inkscape:version="0.48.4 r9939"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px"
-	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<polygon fill="#F57F17" points="1,21.6 1,6.4 2.4,6.4 2.3,2.3 7.6,2.3 9.1,3.8 21.7,3.8 21.7,6.4 23,6.4 23,21.6 "/>
-<g>
-	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="12" y1="148.1508" x2="12" y2="142.9" gradientTransform="matrix(1 0 0 1 0 -140)">
-		<stop  offset="0" style="stop-color:#F57C00"/>
-		<stop  offset="0.1638" style="stop-color:#F58F09"/>
-		<stop  offset="0.3598" style="stop-color:#F59D11"/>
-		<stop  offset="0.5982" style="stop-color:#F5A515"/>
-		<stop  offset="0.9946" style="stop-color:#F5A816"/>
-	</linearGradient>
-	<path fill="url(#SVGID_1_)" d="M21.2,4.3H8.9L7.5,2.9H2.8v1.3v1.4v1.7c0,0.4,0.3,0.8,0.8,0.8h16.8c0.4,0,0.8,0.1,0.8-0.4
-		C21.2,6.9,21.2,4.3,21.2,4.3z"/>
-	
-		<linearGradient id="rect2990_1_" gradientUnits="userSpaceOnUse" x1="12" y1="147.0999" x2="12" y2="161.1" gradientTransform="matrix(1 0 0 1 0 -140)">
-		<stop  offset="0" style="stop-color:#FADD60"/>
-		<stop  offset="0.9946" style="stop-color:#F5A816"/>
-	</linearGradient>
-	<polyline id="rect2990_2_" fill="url(#rect2990_1_)" points="22.5,6.9 22.5,21 1.5,21 1.5,6.9 	"/>
-	<path id="rect3004_1_" inkscape:connector-curvature="0" opacity="0.25" fill="#FDEFBA" enable-background="new    " d="M1.5,6.9
-		v2.7C1.5,8.8,2.1,8,2.9,8h18.3c0.8,0,1.4,0.8,1.4,1.7V6.9C22.6,6.9,1.5,6.9,1.5,6.9z"/>
-	<path id="path3801_1_" inkscape:connector-curvature="0" opacity="0.1" fill="#E65100" enable-background="new    " d="M2.8,2.8
-		c0,0,0,0.4,0,1.1v0.7c0-0.7,0.3-1,0.6-1h3.7c0.2,0,0.6,0,1.2,0.4c0.2,0.1,0.3,0.1,0.5,0.3L7.4,2.9L2.8,2.8L2.8,2.8z"/>
-	<polygon opacity="0.1" fill="#E65100" enable-background="new    " points="8.9,4.3 21.2,4.3 21.2,5.3 9.9,5.3 	"/>
-	<rect x="2.8" y="6.3" opacity="5.000000e-002" fill="#E65100" enable-background="new    " width="18.1" height="0.6"/>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_39" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#AAAAAA;}
+	.st1{fill:#808080;}
+	.st2{display:none;}
+	.st3{display:inline;fill:#808080;}
+</style>
+<title>016folder-system</title>
+<g id="_16">
+	<g id="_16-2">
+		<g>
+			<path class="st0" d="M11.9,19.1l-2.9,3l-1.8-0.5v-4.3l-4.4-0.1l-1-1.9l3-3.3l-3-2.8l1-2.5l4.4,0.7L7.1,2.8l1.8-1L11.7,5l3.2-3.2
+				l2.6,1v4.1L21.6,7l0.5,2.2l-3.3,3L22,15l-1,2.2h-4v4.1l-2.1,0.8L11.9,19.1z M12,8.6c-1.9,0-3.4,1.5-3.4,3.4s1.5,3.4,3.4,3.4
+				s3.4-1.5,3.4-3.4S13.9,8.6,12,8.6z"/>
+			<path class="st1" d="M15.2,2.7l1.6,0.5v3v1.4h1.4l3,0.1l0.3,1.4l-2.3,2.3L18,12.6l1.1,0.8l2.2,1.9l-0.5,1.4h-3h-1.4V18v3
+				l-1.1,0.4l-2.5-2.2l-1-1l-1,1l-2.1,2.2l-1-0.4v-3.2v-1.4H6.5l-3.3-0.1l-0.5-1.1l2.2-2.5l1-1L4.7,11l-2-2l0.7-1.5l2.9,0.4L8,8.2
+				V6.5L7.7,3.2l1-0.5l2.1,2.2l1,1l1-1L15.2,2.7 M12,16.1c2.3,0,4.1-1.8,4.1-4.1S14.3,7.9,12,7.9S7.9,9.7,7.9,12S9.7,16.1,12,16.1
+				 M14.9,1l-3,3L9,1L6.4,2.4l0.1,4.1L2.4,5.8L1,9.4L3.9,12L1,15.2l1.4,2.6l4.1,0.1V22l2.6,1l2.6-2.9l3.2,2.9l2.9-1.1v-4h4l1.2-3.2
+				l-3-2.5l3-2.7l-0.8-3.2L18,6.2v-4L14.9,1L14.9,1z M12,14.8c-1.5,0-2.8-1.2-2.8-2.8s1.2-2.8,2.8-2.8s2.8,1.2,2.8,2.8
+				S13.5,14.8,12,14.8L12,14.8z"/>
+		</g>
+		<g class="st2">
+			<path class="st3" d="M12,9.3c1.5,0,2.8,1.2,2.8,2.8s-1.2,2.8-2.8,2.8S9.3,13.5,9.3,12S10.5,9.3,12,9.3 M12,7.9
+				c-2.3,0-4.1,1.8-4.1,4.1s1.8,4.1,4.1,4.1s4.1-1.8,4.1-4.1S14.3,7.9,12,7.9L12,7.9z"/>
+		</g>
+	</g>
 </g>
 </svg>

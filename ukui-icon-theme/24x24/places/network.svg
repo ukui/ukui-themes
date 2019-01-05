@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-ydpi="270" inkscape:export-xdpi="270" sodipodi:docname="user-home.svg" inkscape:version="0.48.4 r9939"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px"
-	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<polygon fill="#F57F17" points="1,21.6 1,6.4 2.4,6.4 2.3,2.3 7.6,2.3 9.1,3.8 21.7,3.8 21.7,6.4 23,6.4 23,21.6 "/>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_39" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2368A6;}
+	.st1{fill:#7CAFD6;}
+	.st2{fill:#D0E9FE;}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{fill:#4A7BA0;}
+	.st5{fill:none;stroke:#68778A;stroke-width:2;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#68778A;stroke-miterlimit:10;}
+</style>
+<circle class="st0" cx="14" cy="10" r="9"/>
+<path class="st1" d="M16.1,5.1h2.8l1.4,2.8v1.4c0,0-1.4,2.8-1.4,1.4s-2.8-1.4-2.8-1.4V7.9V5.1z"/>
+<path class="st2" d="M14.8,2.4L9.3,5.1L7.9,7.9l-1.4,2.8l2.8,4.1l4.1-5.5l1.4-2.8c0,0,2.8-1.4,2.8-2.8S14.8,2.4,14.8,2.4z"/>
 <g>
-	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="12" y1="148.1008" x2="12" y2="142.85" gradientTransform="matrix(1 0 0 1 0 -140)">
-		<stop  offset="0" style="stop-color:#F57C00"/>
-		<stop  offset="0.1638" style="stop-color:#F58F09"/>
-		<stop  offset="0.3598" style="stop-color:#F59D11"/>
-		<stop  offset="0.5982" style="stop-color:#F5A515"/>
-		<stop  offset="0.9946" style="stop-color:#F5A816"/>
-	</linearGradient>
-	<path fill="url(#SVGID_1_)" d="M21.2,4.3H8.9L7.5,2.9H2.8v1.3v1.4v1.7c0,0.4,0.3,0.8,0.8,0.8h16.8c0.4,0,0.8,0.1,0.8-0.4
-		C21.2,6.9,21.2,4.3,21.2,4.3z"/>
-	
-		<linearGradient id="rect2990_1_" gradientUnits="userSpaceOnUse" x1="12" y1="147.0499" x2="12" y2="161.05" gradientTransform="matrix(1 0 0 1 0 -140)">
-		<stop  offset="0" style="stop-color:#FADD60"/>
-		<stop  offset="0.9946" style="stop-color:#F5A816"/>
-	</linearGradient>
-	<polyline id="rect2990_2_" fill="url(#rect2990_1_)" points="22.5,6.9 22.5,21 1.5,21 1.5,6.9 	"/>
-	<path id="rect3004_1_" inkscape:connector-curvature="0" opacity="0.25" fill="#FDEFBA" enable-background="new    " d="M1.5,6.9
-		v2.7c0-0.9,0.6-1.7,1.4-1.7h18.3c0.8,0,1.4,0.8,1.4,1.7V6.9C22.6,6.9,1.5,6.9,1.5,6.9z"/>
-	<path id="path3801_1_" inkscape:connector-curvature="0" opacity="0.1" fill="#E65100" enable-background="new    " d="M2.8,2.8
-		c0,0,0,0.4,0,1.1v0.7c0-0.7,0.3-1,0.6-1h3.7c0.2,0,0.6,0,1.2,0.4c0.2,0.1,0.3,0.1,0.5,0.3L7.4,2.9L2.8,2.8L2.8,2.8z"/>
-	<polygon opacity="0.1" fill="#E65100" enable-background="new    " points="8.9,4.3 21.2,4.3 21.2,5.3 9.9,5.3 	"/>
-	<rect x="2.8" y="6.3" opacity="5.000000e-002" fill="#E65100" enable-background="new    " width="18.1" height="0.6"/>
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="9" y1="793.5" x2="9" y2="783.5" gradientTransform="matrix(1 0 0 1 0 -774)">
+			<stop  offset="0" style="stop-color:#399FEA"/>
+			<stop  offset="1" style="stop-color:#80C9FF"/>
+		</linearGradient>
+		<rect x="1.5" y="9.5" class="st3" width="15" height="10"/>
+		<path class="st4" d="M16,10v9H2v-9H16 M17,9H1v11h16V9L17,9z"/>
+	</g>
+	<line class="st5" x1="9" y1="20" x2="9" y2="22.8"/>
+	<line class="st6" x1="4" y1="22.5" x2="14" y2="22.5"/>
 </g>
+<polygon class="st2" points="20.3,7.9 20.3,12 17.5,14.8 17.5,16.1 20.3,14.8 21.6,10.6 "/>
 </svg>

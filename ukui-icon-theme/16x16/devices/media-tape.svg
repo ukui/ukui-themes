@@ -1,1 +1,59 @@
-<svg id="其他" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 16"><defs><style>.cls-1{fill:none;}.cls-2{fill:url(#新建渐变色板_1);}.cls-3{fill:#212121;}.cls-4{fill:#2d2d2d;}.cls-5{clip-path:url(#clip-path);}.cls-6{fill:#cfd8dc;}.cls-7{opacity:0.3;fill:url(#未命名的渐变_123);}</style><linearGradient id="新建渐变色板_1" x1="8" y1="14.39" x2="8" y2="-5.21" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#211d1e"/><stop offset="0.55" stop-color="#58595b"/><stop offset="1" stop-color="#abb6be"/></linearGradient><clipPath id="clip-path"><rect class="cls-1" x="4.8" y="1.63" width="6.41" height="12.75" transform="translate(16) rotate(90)"/></clipPath><linearGradient id="未命名的渐变_123" x1="8" y1="11.81" x2="8" y2="4.34" gradientTransform="translate(0 16) rotate(-90)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="0.16" stop-color="#4a4b4d"/><stop offset="0.5" stop-color="#46484a"/><stop offset="0.54" stop-color="#525557"/><stop offset="0.61" stop-color="#727779"/><stop offset="0.71" stop-color="#a6adb0"/><stop offset="0.78" stop-color="#cfd8dc"/><stop offset="1" stop-color="#fff"/></linearGradient></defs><title>画板 26</title><g id="磁带"><g id="_16" data-name="16"><rect class="cls-2" x="0.25" y="2.84" width="15.5" height="10.32"/><path class="cls-3" d="M15.5,3.09v9.82H.5V3.09h15m.5-.5H0V13.41H16V2.59Z"/><rect class="cls-3" x="4.39" y="1.22" width="7.23" height="13.57" transform="translate(16) rotate(90)"/><rect class="cls-4" x="4.8" y="1.63" width="6.41" height="12.75" transform="translate(16) rotate(90)"/><g class="cls-5"><circle cx="4.43" cy="8" r="3.61"/><polygon points="13.97 7.08 13 7.29 13.98 11.7 14.94 11.48 13.97 7.08"/></g><circle class="cls-6" cx="4.43" cy="8" r="1.74"/><circle class="cls-3" cx="4.43" cy="8" r="0.55"/><rect class="cls-3" x="3.96" y="6.57" width="0.94" height="0.61"/><rect class="cls-3" x="2.99" y="8.26" width="0.94" height="0.61" transform="translate(-2.23 15.84) rotate(-120)"/><rect class="cls-3" x="4.94" y="8.26" width="0.94" height="0.61" transform="translate(15.52 8.16) rotate(120)"/><circle cx="11.32" cy="8" r="2.89"/><circle class="cls-6" cx="11.32" cy="8" r="1.74"/><circle class="cls-3" cx="11.32" cy="8" r="0.55"/><rect class="cls-3" x="10.85" y="6.57" width="0.94" height="0.61"/><rect class="cls-3" x="9.87" y="8.26" width="0.94" height="0.61" transform="translate(8.1 21.8) rotate(-120)"/><rect class="cls-3" x="11.82" y="8.26" width="0.94" height="0.61" transform="translate(25.85 2.2) rotate(120)"/><rect class="cls-7" x="4.8" y="1.63" width="6.41" height="12.75" transform="translate(16) rotate(90)"/></g></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="&#x5176;&#x4ED6;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<title>画板 26</title>
+<g id="&#x78C1;&#x5E26;">
+	<g id="_16">
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="8" y1="3.61" x2="8" y2="23.21" gradientTransform="matrix(1 0 0 -1 0 18)">
+			<stop  offset="0" style="stop-color:#211D1E"/>
+			<stop  offset="0.55" style="stop-color:#58595B"/>
+			<stop  offset="1" style="stop-color:#ABB6BE"/>
+		</linearGradient>
+		<rect x="0.25" y="2.84" style="fill:url(#SVGID_1_);" width="15.5" height="10.32"/>
+		<path style="fill:#212121;" d="M15.5,3.09v9.82h-15V3.09H15.5 M16,2.59H0v10.82h16V2.59z"/>
+		<rect x="1.21" y="4.39" style="fill:#212121;" width="13.57" height="7.23"/>
+		<rect x="1.62" y="4.8" style="fill:#2D2D2D;" width="12.75" height="6.41"/>
+		<g>
+			<defs>
+				<rect id="SVGID_2_" x="1.62" y="4.8" width="12.75" height="6.41"/>
+			</defs>
+			<clipPath id="SVGID_3_">
+				<use xlink:href="#SVGID_2_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_3_);">
+				<circle cx="4.43" cy="8" r="3.61"/>
+				<polygon points="13.97,7.08 13,7.29 13.98,11.7 14.94,11.48 				"/>
+			</g>
+		</g>
+		<circle style="fill:#CFD8DC;" cx="4.43" cy="8" r="1.74"/>
+		<circle style="fill:#212121;" cx="4.43" cy="8" r="0.55"/>
+		<rect x="3.96" y="6.57" style="fill:#212121;" width="0.94" height="0.61"/>
+		
+			<rect x="3.153" y="8.091" transform="matrix(0.866 -0.5 0.5 0.866 -3.8173 2.8757)" style="fill:#212121;" width="0.61" height="0.94"/>
+		
+			<rect x="4.927" y="8.258" transform="matrix(0.5 -0.866 0.866 0.5 -4.7168 8.9557)" style="fill:#212121;" width="0.94" height="0.61"/>
+		<circle cx="11.32" cy="8" r="2.89"/>
+		<circle style="fill:#CFD8DC;" cx="11.32" cy="8" r="1.74"/>
+		<circle style="fill:#212121;" cx="11.32" cy="8" r="0.55"/>
+		<rect x="10.85" y="6.57" style="fill:#212121;" width="0.94" height="0.61"/>
+		
+			<rect x="10.043" y="8.093" transform="matrix(0.866 -0.5 0.5 0.866 -2.8951 6.321)" style="fill:#212121;" width="0.61" height="0.94"/>
+		
+			<rect x="11.817" y="8.256" transform="matrix(0.5 -0.866 0.866 0.5 -1.2703 14.9218)" style="fill:#212121;" width="0.94" height="0.61"/>
+		
+			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="7.995" y1="6.19" x2="7.995" y2="13.66" gradientTransform="matrix(1 0 0 -1 0 18)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.16" style="stop-color:#4A4B4D"/>
+			<stop  offset="0.5" style="stop-color:#46484A"/>
+			<stop  offset="0.54" style="stop-color:#525557"/>
+			<stop  offset="0.61" style="stop-color:#727779"/>
+			<stop  offset="0.71" style="stop-color:#A6ADB0"/>
+			<stop  offset="0.78" style="stop-color:#CFD8DC"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<rect x="1.62" y="4.8" style="opacity:0.3;fill:url(#SVGID_4_);enable-background:new    ;" width="12.75" height="6.41"/>
+	</g>
+</g>
+</svg>

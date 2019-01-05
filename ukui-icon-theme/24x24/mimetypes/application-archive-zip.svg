@@ -1,39 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<polygon fill="#3E2723" points="3.634,23 3.634,1 20.366,1 20.366,16.807 14.111,23 "/>
-<g>
-	<g>
-		
-			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="53.5996" y1="-141.4004" x2="53.5996" y2="-162.4009" gradientTransform="matrix(1 0 0 -1 -41.6001 -139.9004)">
-			<stop  offset="0" style="stop-color:#785548"/>
-			<stop  offset="1" style="stop-color:#9F9E9F"/>
-		</linearGradient>
-		<polygon fill="url(#SVGID_1_)" points="4.133,22.5 4.133,1.5 19.867,1.5 19.867,16.586 14.018,22.5 		"/>
-		<polygon fill="#795548" fill-opacity="0.7" points="19.867,16.594 19.867,16.34 13.637,16.34 13.637,22.5 13.961,22.5 		"/>
-		<path opacity="0.39" fill="#FFFFFF" enable-background="new    " d="M13.951,16.594l5.916,0.008L13.961,22.5L13.951,16.594z"/>
-	</g>
-	<path fill="#FFFFFF" d="M9.754,5.548H9.223v6.82H8.819v-6.82H8.29v6.82H7.888v-6.82h-0.53v6.82H6.955v-6.82h-0.53v6.82H6.286v2.889
-		h3.649v-2.889H9.754V5.548z M9.405,14.417h-2.59v-1.675h2.59V14.417z"/>
-	<g>
-		<g>
-			<rect x="4.133" y="1.5" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="15.734" height="4.023"/>
-			<g enable-background="new    ">
-				<path fill="#5D4037" d="M10.971,2.432c-0.102,0.1-0.222,0.229-0.361,0.388c-0.142,0.158-0.284,0.33-0.436,0.518
-					c-0.149,0.187-0.296,0.38-0.442,0.579s-0.275,0.389-0.391,0.57h1.683V5.08H8.427V4.658c0.089-0.154,0.197-0.323,0.327-0.513
-					c0.13-0.188,0.264-0.378,0.402-0.571c0.14-0.191,0.281-0.376,0.426-0.557c0.146-0.179,0.279-0.34,0.403-0.481H8.503V1.944h2.468
-					V2.432z"/>
-				<path fill="#5D4037" d="M11.549,1.944h0.74V5.08h-0.74V1.944z"/>
-				<path fill="#5D4037" d="M14.041,1.908c0.494,0,0.871,0.082,1.133,0.247c0.266,0.164,0.398,0.434,0.398,0.808
-					c0,0.377-0.135,0.649-0.402,0.816c-0.266,0.167-0.648,0.252-1.145,0.252h-0.23v1.05h-0.744V1.989
-					c0.162-0.031,0.334-0.052,0.514-0.063C13.746,1.914,13.904,1.908,14.041,1.908z M14.09,2.509c-0.055,0-0.105,0.002-0.158,0.005
-					c-0.055,0.003-0.1,0.005-0.137,0.009v0.905h0.23c0.26,0,0.453-0.033,0.584-0.101c0.129-0.065,0.195-0.189,0.195-0.37
-					c0-0.087-0.018-0.159-0.051-0.216c-0.033-0.059-0.08-0.105-0.143-0.139c-0.063-0.035-0.137-0.059-0.229-0.072
-					C14.295,2.517,14.197,2.509,14.09,2.509z"/>
-			</g>
-		</g>
-	</g>
-</g>
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#40220F;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#5D4037;fill-opacity:0.39;}
+	.st3{fill:#FFFFFF;fill-opacity:0.39;}
+	.st4{opacity:0.8;fill:#FFFFFF;enable-background:new    ;}
+</style>
+<title>application-archive-zip</title>
+<path class="st0" d="M20,2v14l-6,6H4V2H20 M21,1H3v22h11l7-7V1z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="12" y1="-718" x2="12" y2="-738" gradientTransform="matrix(1 0 0 -1 0 -716)">
+	<stop  offset="0" style="stop-color:#785548"/>
+	<stop  offset="1" style="stop-color:#9F9E9F"/>
+</linearGradient>
+<polygon class="st1" points="4,22 4,2 20,2 20,16 14,22 "/>
+<polygon class="st2" points="20,16 20,15 13,15 13,22 14,22 "/>
+<path class="st3" d="M14,16h6l-6,6V16z"/>
+<path class="st4" d="M10,2v9H9V2H8v9H7V2H6v13h5V2H10z M10,14H7v-2h3V14z"/>
 </svg>

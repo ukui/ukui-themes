@@ -1,34 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.08;enable-background:new    ;}
+	.st1{opacity:0.1;enable-background:new    ;}
+	.st2{opacity:0.2;enable-background:new    ;}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{fill:#B71C1C;fill-opacity:0.3922;}
+	.st5{fill:#FFFFFF;fill-opacity:0.3922;}
+	.st6{opacity:0.8;fill:#FFFFFF;enable-background:new    ;}
+	.st7{fill:#B71C1C;}
+</style>
 <g id="surface1_1_">
-	<polygon opacity="0.08" enable-background="new    " points="9.25,64 9.25,2 56.75,2 56.75,46.516 39.266,64 	"/>
-	<polygon opacity="0.1" enable-background="new    " points="10.25,63 10.25,3 55.75,3 55.75,46.102 38.852,63 	"/>
-	<polygon opacity="0.2" enable-background="new    " points="9.25,62 9.25,2 54.75,2 54.75,45.102 37.852,62 	"/>
+	<polygon class="st0" points="9.3,64 9.3,2 56.8,2 56.8,46.5 39.3,64 	"/>
+	<polygon class="st1" points="10.3,63 10.3,3 55.8,3 55.8,46.1 38.9,63 	"/>
+	<polygon class="st2" points="9.3,62 9.3,2 54.8,2 54.8,45.1 37.9,62 	"/>
 	<g>
 		
-			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="240.001" y1="-1714.9512" x2="240.001" y2="-1656.9512" gradientTransform="matrix(1 0 0 -1 -208.0005 -1653.9512)">
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="240.0005" y1="-2416.9512" x2="240.0005" y2="-2358.9512" gradientTransform="matrix(1 0 0 -1 -208.0005 -2355.9512)">
 			<stop  offset="0" style="stop-color:#512DA8"/>
-			<stop  offset="0.008" style="stop-color:#D32F2F"/>
+			<stop  offset="8.000000e-03" style="stop-color:#D32F2F"/>
 			<stop  offset="0.3041" style="stop-color:#E33932"/>
 			<stop  offset="0.6579" style="stop-color:#F04035"/>
 			<stop  offset="1" style="stop-color:#F44336"/>
 		</linearGradient>
-		<path fill="url(#SVGID_1_)" d="M37.438,61L53.75,44.688V3h-43.5v58H37.438z"/>
-		<polygon fill="#B71C1C" fill-opacity="0.3922" points="36.531,43.781 36.531,61 37.438,61 53.75,44.688 53.75,43.781 		"/>
-		<path fill="#FFFFFF" fill-opacity="0.3922" d="M37.438,44.688h16.299L37.438,61V44.688z"/>
-		<path opacity="0.8" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M31.329,27.123h-3.275v3.276h3.275V27.123z
-			 M35.948,31.862h-3.28v3.276h3.28V31.862z M40.562,27.123h-3.276v3.276h3.276V27.123z M31.329,31.862h-3.275v3.276h3.275V31.862z
-			 M35.948,27.123h-3.28v3.276h3.28V27.123z M40.562,31.862h-3.276v3.276h3.276V31.862z M39.902,17.759v1.124
-			c0.442,0.391,0.722,0.96,0.722,1.596c0,1.178-0.955,2.133-2.133,2.133s-2.133-0.955-2.133-2.133c0-0.636,0.279-1.206,0.722-1.596
-			v-1.124h-9.967v1.124c0.441,0.391,0.721,0.96,0.721,1.596c0,1.178-0.955,2.133-2.133,2.133c-1.178,0-2.133-0.955-2.133-2.133
-			c0-0.636,0.28-1.206,0.722-1.596v-1.124h-4.753v22.697h24.927V17.759H39.902z M42.186,38.181H21.814V24h20.372V38.181z
-			 M26.715,27.123h-3.277v3.276h3.277V27.123z M26.715,31.862h-3.277v3.276h3.277V31.862z"/>
+		<path class="st3" d="M37.4,61l16.3-16.3V3H10.3v58H37.4z"/>
+		<polygon class="st4" points="36.5,43.8 36.5,61 37.4,61 53.8,44.7 53.8,43.8 		"/>
+		<path class="st5" d="M37.4,44.7h16.3L37.4,61V44.7z"/>
+		<path class="st6" d="M31.3,27.1H28v3.3h3.3V27.1z M35.9,31.9h-3.3v3.3h3.3V31.9z M40.6,27.1h-3.3v3.3h3.3V27.1z M31.3,31.9H28v3.3
+			h3.3V31.9z M35.9,27.1h-3.3v3.3h3.3V27.1z M40.6,31.9h-3.3v3.3h3.3V31.9z M39.9,17.8v1.1c0.4,0.4,0.7,1,0.7,1.6
+			c0,1.2-1,2.1-2.1,2.1s-2.1-1-2.1-2.1c0-0.6,0.3-1.2,0.7-1.6v-1.1h-10v1.1c0.4,0.4,0.7,1,0.7,1.6c0,1.2-1,2.1-2.1,2.1
+			s-2.1-1-2.1-2.1c0-0.6,0.3-1.2,0.7-1.6v-1.1h-4.8v22.7h24.9V17.8H39.9z M42.2,38.2H21.8V24h20.4C42.2,24,42.2,38.2,42.2,38.2z
+			 M26.7,27.1h-3.3v3.3h3.3V27.1z M26.7,31.9h-3.3v3.3h3.3V31.9z"/>
 		<g>
-			<path fill="#B71C1C" d="M53.25,3.5v40.98L37.23,60.5H24.75h-14v-57H53.25 M53.75,3h-43.5v58h14.5h12.688L53.75,44.688V3L53.75,3z
-				"/>
+			<path class="st7" d="M53.3,3.5v41l-16,16H24.8h-14v-57H53.3 M53.8,3H10.3v58h14.5h12.7l16.3-16.3V3L53.8,3z"/>
 		</g>
 	</g>
 </g>

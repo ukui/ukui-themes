@@ -1,61 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:version="0.48.4 r9939" sodipodi:docname="user-home.svg" inkscape:export-xdpi="270" inkscape:export-ydpi="270"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px" height="32px"
-	 viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<symbol  id="ubuntu" viewBox="-8 -8.1 16 16.2">
-	<g opacity="0.6">
-		<g enable-background="new    ">
-			<path fill="#F57F17" enable-background="new    " d="M-1.3-3.6c-1.1,0.8-1.8,2.1-1.8,3.5c0,1.5,0.7,2.8,1.9,3.6l-1.2,2
-				c-1.3-0.9-2.3-2.3-2.8-3.9c0.5-0.4,0.9-1,0.9-1.7c0-0.7-0.4-1.3-0.9-1.7c0.4-1.6,1.4-3,2.8-4L-1.3-3.6z"/>
-		</g>
-		<g>
-			<path fill="#F57F17" enable-background="new    " d="M-0.5,4C0,4.2,0.6,4.3,1.2,4.3c2.3,0,4.1-1.7,4.3-3.9H8
-				C7.8,2.1,7.1,3.7,6.1,4.7C5.7,4.6,5.4,4.5,5.1,4.5c-1.1,0-1.9,0.9-2,1.9C2.6,6.6,1.9,6.7,1.3,6.7c-1.1,0-2.1-0.2-3-0.7L-0.5,4z"
-				/>
-		</g>
-		<g enable-background="new    ">
-			<path fill="#F57F17" enable-background="new    " d="M5.1-4.5c0.3,0,0.7-0.1,0.9-0.2c1.1,1.2,1.8,2.6,1.9,4.3H5.5
-				c-0.2-2.3-2.1-4-4.3-4C0.5-4.3-0.2-4.2-0.7-4l-1.1-2.1c0.9-0.5,1.9-0.7,3-0.7c0.6,0,1.2,0.1,1.9,0.2C3.1-5.4,4-4.5,5.1-4.5z"/>
-		</g>
-		<path fill="#F57F17" enable-background="new    " d="M5.1,8.1c0.9,0,1.6-0.7,1.6-1.6S6,5,5.1,5S3.6,5.7,3.6,6.5S4.3,8.1,5.1,8.1z"
-			/>
-		<path fill="#F57F17" enable-background="new    " d="M-6.4,1.6c0.9,0,1.6-0.7,1.6-1.6s-0.7-1.6-1.6-1.6S-8-0.9-8,0
-			S-7.3,1.6-6.4,1.6z"/>
-		<path fill="#F57F17" enable-background="new    " d="M5.1-5C6-5,6.7-5.7,6.7-6.5S6-8.1,5.1-8.1S3.6-7.4,3.6-6.5S4.3-5,5.1-5z"/>
-	</g>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_39" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.39;fill:#F57F17;enable-background:new    ;}
+	.st1{opacity:0.2;enable-background:new    ;}
+	.st2{opacity:0.08;enable-background:new    ;}
+	.st3{opacity:0.1;enable-background:new    ;}
+	.st4{fill:#F57F17;}
+	.st5{fill:url(#SVGID_1_);}
+	.st6{fill:url(#rect2990_1_);}
+</style>
+<symbol  id="新建符号" viewBox="-120 -121.6 240 243.2">
+	<path class="st0" d="M-20.4,53.8C-49.6,32-55.7-9.3-33.9-38.6c4.1-5.5,9-10.3,14.5-14.2l-18.2-30.8c-20.5,13.7-35.3,34.5-41.6,58.4
+		C-70.9-19.5-66-10.1-66,0s-5,19.6-13.4,25.4c6.2,24.3,21.1,45.4,41.8,59.4L-20.4,53.8z"/>
+	<path class="st0" d="M-8-59.2c33.4-14.7,72.3,0.4,87,33.8c2.7,6.1,4.4,12.6,5.2,19.2L120-6.6c-1.8-24.3-12.3-47.1-29.6-64.2
+		c-4.2,2.1-8.9,3.2-13.6,3.2c-16.3,0-29.8-12.7-30.6-29c-8.9-2.5-18-3.8-27.2-3.8c-15.6,0-31,3.6-45,10.6L-8-59.2z"/>
+	<path class="st0" d="M77,67.8c5.1,0.1,10.1,1.3,14.6,3.6c17-17.5,27.1-40.6,28.4-65L84.2,6.8c-3.1,33.9-31.5,59.9-65.6,59.8
+		c-9.6,0-19.1-2.1-27.8-6.2l-17.4,31.2c14,7,29.5,10.6,45.2,10.6c9.3,0,18.6-1.3,27.6-3.8C46.4,81.5,60.1,67.9,77,67.8z"/>
+	<path class="st0" d="M77,75.6c12.7,0,23,10.3,23,23s-10.3,23-23,23s-23-10.3-23-23S64.3,75.6,77,75.6L77,75.6z"/>
+	<path class="st0" d="M76.6-121.6c12.7,0,23,10.3,23,23s-10.3,23-23,23s-23-10.3-23-23S63.9-121.6,76.6-121.6z"/>
+	<path class="st0" d="M-97-22.8c12.7,0,23,10.3,23,23s-10.3,23-23,23s-23-10.3-23-23S-109.7-22.8-97-22.8z"/>
 </symbol>
-<polygon fill-opacity="8.000000e-002" points="1,30.1 1,8.5 2.9,8.5 2.9,2.9 10.9,2.9 12.8,4.8 30.1,4.8 30.1,8.5 32,8.5 32,30.1 
-	"/>
-<polygon fill-opacity="9.999999e-002" points="1.5,29.6 1.5,9 3.4,9 3.4,3.4 10.7,3.4 12.6,5.3 29.6,5.3 29.6,9 31.5,9 31.5,29.6 
-	"/>
-<polygon fill-opacity="0.2" points="1,29.1 1,8.5 2.9,8.5 2.9,2.9 10.2,2.9 12.1,4.8 29.1,4.8 29.1,8.5 31,8.5 31,29.1 "/>
-<polygon fill="#F57F17" points="1.5,28.6 1.5,9 3.4,9 3.4,3.4 10,3.4 11.9,5.3 28.6,5.3 28.6,9 30.5,9 30.5,28.6 "/>
-<g>
+<title>032folder-ubuntu</title>
+<g id="_32">
+	<polygon class="st1" points="1,29 1,8.5 3,8.5 3,3 10.2,3 12.2,5 29,5 29,8.5 31,8.5 31,29 	"/>
+	<polygon class="st2" points="1,30 1,8.5 3,8.5 3,3 10.9,3 12.9,5 30,5 30,8.5 32,8.5 32,30 	"/>
+	<polygon class="st3" points="1.5,29.5 1.5,9 3.5,9 3.5,3.5 10.7,3.5 12.7,5.5 29.5,5.5 29.5,9 31.5,9 31.5,29.5 	"/>
+	<polygon class="st4" points="1.5,28.5 1.5,9 3.5,9 3.5,3.5 10,3.5 12,5.5 28.5,5.5 28.5,9 30.5,9 30.5,28.5 	"/>
 	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="16" y1="-150.8678" x2="16" y2="-143.8667" gradientTransform="matrix(1 0 0 -1 0 -140)">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="16" y1="1700.6699" x2="16" y2="1693.97" gradientTransform="matrix(1 0 0 1 0 -1690)">
 		<stop  offset="0" style="stop-color:#F57C00"/>
-		<stop  offset="0.1638" style="stop-color:#F58F09"/>
-		<stop  offset="0.3598" style="stop-color:#F59D11"/>
-		<stop  offset="0.5982" style="stop-color:#F5A515"/>
-		<stop  offset="0.9946" style="stop-color:#F5A816"/>
+		<stop  offset="0.16" style="stop-color:#F58F09"/>
+		<stop  offset="0.36" style="stop-color:#F59D11"/>
+		<stop  offset="0.6" style="stop-color:#F5A515"/>
+		<stop  offset="0.99" style="stop-color:#F5A816"/>
 	</linearGradient>
-	<path fill="url(#SVGID_1_)" d="M28.2,5.8H11.8L9.9,3.9H3.8v1.8v1.8v2.3c0,0.5,0.4,1,1,1h22.4c0.5,0,1,0.1,1-0.5
-		C28.2,9.4,28.2,5.8,28.2,5.8z"/>
+	<path class="st5" d="M28,6H11.5l-2-2H4v5.6c0,0.6,0.4,1,1,1h22c0.5,0,1,0.1,1-0.5V6z"/>
 	
-		<linearGradient id="rect2990_1_" gradientUnits="userSpaceOnUse" x1="16" y1="-149.4666" x2="16" y2="-168.1333" gradientTransform="matrix(1 0 0 -1 0 -140)">
+		<linearGradient id="rect2990_1_" gradientUnits="userSpaceOnUse" x1="16" y1="1699.5701" x2="16" y2="1717.9299" gradientTransform="matrix(1 0 0 1 0 -1690)">
 		<stop  offset="0" style="stop-color:#FADD60"/>
-		<stop  offset="0.9946" style="stop-color:#F5A816"/>
+		<stop  offset="0.99" style="stop-color:#F5A816"/>
 	</linearGradient>
-	<polyline id="rect2990_2_" fill="url(#rect2990_1_)" points="30,9.4 30,28.2 2,28.2 2,9.4 	"/>
-	<path id="rect3004_1_" inkscape:connector-curvature="0" opacity="0.25" fill="#FDEFBA" enable-background="new    " d="M2,9.4V13
-		c0-1.2,0.8-2.3,1.8-2.3h24.2c1,0,1.8,1,1.8,2.3V9.4C29.9,9.4,2,9.4,2,9.4z"/>
-	<path id="path3801_1_" inkscape:connector-curvature="0" opacity="0.1" fill="#E65100" enable-background="new    " d="M3.8,3.8
-		c0,0,0,0.5,0,1.4v1c0-1,0.4-1.4,0.8-1.4h4.8c0.3,0,0.8,0,1.5,0.5c0.2,0.1,0.4,0.3,0.7,0.5L9.9,3.9C9.9,3.8,3.8,3.8,3.8,3.8z"/>
-	<polygon opacity="0.1" fill="#E65100" enable-background="new    " points="11.8,5.8 28.2,5.8 28.2,7.1 13.2,7.1 	"/>
-	<rect x="3.8" y="8.6" opacity="5.000000e-002" fill="#E65100" enable-background="new    " width="24.2" height="0.8"/>
+	<rect id="rect2990" x="2" y="9.5" class="st6" width="28" height="18.5"/>
 </g>
-<use xlink:href="#ubuntu"  width="16" height="16.2" x="-8" y="-8.1" transform="matrix(1 0 0 -1 15.5 19)" overflow="visible"/>
+<use xlink:href="#新建符号"  width="240" height="243.2" x="-120" y="-121.6" transform="matrix(0.05 0 0 0.05 16 18.08)" style="overflow:visible;"/>
 </svg>

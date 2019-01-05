@@ -1,1 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128"><defs><style>.cls-1{opacity:0.2;}.cls-2{opacity:0.08;}.cls-3{opacity:0.1;}.cls-4{fill:#263238;}.cls-5{fill:#64c4f9;}.cls-6{fill:#47b5f8;}.cls-7{fill:#455a64;}.cls-8{fill:#87d2fb;}.cls-9{fill:url(#linear-gradient);}.cls-10{fill:url(#linear-gradient-2);}.cls-11{fill:#01579b;}</style><linearGradient id="linear-gradient" x1="-2143.26" y1="-3517.21" x2="-2143.26" y2="-3512.01" gradientTransform="matrix(1, 0, 0, -1, 2185.95, -3408.31)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#455a64"/><stop offset="0.21" stop-color="#36474f"/><stop offset="1"/></linearGradient><linearGradient id="linear-gradient-2" x1="-2085.01" y1="-3517.21" x2="-2085.01" y2="-3512.01" gradientTransform="matrix(1, 0, 0, -1, 2185.95, -3408.31)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#38a3e7"/><stop offset="1" stop-color="#1976d2"/></linearGradient></defs><title>画板 19</title><g id="开始菜单应用图标"><g id="备份硬盘"><g id="_128" data-name="128"><polygon class="cls-1" points="4 117.61 4 97.23 4.02 97.01 5.14 89.42 17.21 10.69 107.35 10.4 122.56 89.31 123.98 97.01 124 97.28 124 117.61 4 117.61"/><polygon class="cls-2" points="4 121.61 4 99.13 4.03 98.81 5.17 91.13 17.5 10.69 111 10.39 126.52 90.93 127.97 98.76 128 99.22 128 121.61 4 121.61"/><polygon class="cls-3" points="6 119.61 6 99.23 6.02 99.01 7.14 91.42 19.21 12.69 109.35 12.39 124.56 91.31 125.98 99.01 126 99.28 126 119.61 6 119.61"/><path d="M105.7,12.4h-.83l-85.08.28h-.86l-.13.85L7.12,89.71,6,97.23v18.38H122V97.28l0-.09-1.39-7.51L105.86,13.21l-.16-.81Z"/><g id="g4"><g id="g6"><path id="path10" class="cls-4" d="M7,97.37v17.24H121V97.37Z"/><polygon class="cls-5" points="119.61 89.87 104.87 13.4 19.79 13.68 8.11 89.87 119.61 89.87"/><polygon class="cls-6" points="119.61 89.87 104.87 13.4 75.12 13.4 57.6 89.87 119.61 89.87"/><polygon class="cls-7" points="8.11 89.87 7 97.37 121 97.37 119.61 89.87 8.11 89.87"/><polygon class="cls-8" points="26.74 89.87 30.57 13.67 23.8 13.67 12.28 89.87 26.74 89.87"/></g><g id="g12"><path id="path14" class="cls-9" d="M69.24,108.88H16.13V103.6H69.24Z"/><path id="path16" class="cls-10" d="M96.77,108.88h8.34V103.6H96.77Z"/></g></g><path class="cls-11" d="M104.87,13.4l14.74,76.46L121,97.37v17.24H7V97.37l1.11-7.51L19.79,13.68l85.08-.28m.83-1h-.83l-85.08.28h-.86l-.13.85L7.12,89.71,6,97.23v18.38H122V97.28l0-.09-1.39-7.51L105.86,13.21l-.16-.81Z"/></g></g></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<title>画板 19</title>
+<g id="&#x5F00;&#x59CB;&#x83DC;&#x5355;&#x5E94;&#x7528;&#x56FE;&#x6807;">
+	<g id="&#x5907;&#x4EFD;&#x786C;&#x76D8;">
+		<g id="_128">
+			<polygon style="opacity:0.2;enable-background:new    ;" points="4,117.61 4,97.23 4.02,97.01 5.14,89.42 17.21,10.69 
+				107.35,10.4 122.56,89.31 123.98,97.01 124,97.28 124,117.61 			"/>
+			<polygon style="opacity:0.08;enable-background:new    ;" points="4,121.61 4,99.13 4.03,98.81 5.17,91.13 17.5,10.69 111,10.39 
+				126.52,90.93 127.97,98.76 128,99.22 128,121.61 			"/>
+			<polygon style="opacity:0.1;enable-background:new    ;" points="6,119.61 6,99.23 6.02,99.01 7.14,91.42 19.21,12.69 
+				109.35,12.39 124.56,91.31 125.98,99.01 126,99.28 126,119.61 			"/>
+			<path d="M105.7,12.4h-0.83l-85.08,0.28h-0.86l-0.13,0.85L7.12,89.71L6,97.23v18.38h116V97.28v-0.09l-1.39-7.51l-14.75-76.47
+				L105.7,12.4z"/>
+			<g id="g4">
+				<g id="g6">
+					<path id="path10" style="fill:#263238;" d="M7,97.37v17.24h114V97.37H7z"/>
+					<polygon style="fill:#64C4F9;" points="119.61,89.87 104.87,13.4 19.79,13.68 8.11,89.87 					"/>
+					<polygon style="fill:#47B5F8;" points="119.61,89.87 104.87,13.4 75.12,13.4 57.6,89.87 					"/>
+					<polygon style="fill:#455A64;" points="8.11,89.87 7,97.37 121,97.37 119.61,89.87 					"/>
+					<polygon style="fill:#87D2FB;" points="26.74,89.87 30.57,13.67 23.8,13.67 12.28,89.87 					"/>
+				</g>
+				<g id="g12">
+					
+						<linearGradient id="path14_1_" gradientUnits="userSpaceOnUse" x1="-2143.2649" y1="3917.21" x2="-2143.2649" y2="3912.01" gradientTransform="matrix(1 0 0 1 2185.95 -3808.3101)">
+						<stop  offset="0" style="stop-color:#455A64"/>
+						<stop  offset="0.21" style="stop-color:#36474F"/>
+						<stop  offset="1" style="stop-color:#000000"/>
+					</linearGradient>
+					<path id="path14" style="fill:url(#path14_1_);" d="M69.24,108.88H16.13v-5.28h53.11V108.88z"/>
+					
+						<linearGradient id="path16_1_" gradientUnits="userSpaceOnUse" x1="-2085.01" y1="3917.21" x2="-2085.01" y2="3912.01" gradientTransform="matrix(1 0 0 1 2185.95 -3808.3101)">
+						<stop  offset="0" style="stop-color:#38A3E7"/>
+						<stop  offset="1" style="stop-color:#1976D2"/>
+					</linearGradient>
+					<path id="path16" style="fill:url(#path16_1_);" d="M96.77,108.88h8.34v-5.28h-8.34V108.88z"/>
+				</g>
+			</g>
+			<path style="fill:#01579B;" d="M104.87,13.4l14.74,76.46l1.39,7.51v17.24H7V97.37l1.11-7.51l11.68-76.18L104.87,13.4 M105.7,12.4
+				h-0.83l-85.08,0.28h-0.86l-0.13,0.85L7.12,89.71L6,97.23v18.38h116V97.28v-0.09l-1.39-7.51l-14.75-76.47
+				C105.86,13.21,105.7,12.4,105.7,12.4z"/>
+		</g>
+	</g>
+</g>
+</svg>

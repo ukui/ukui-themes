@@ -1,0 +1,11 @@
+// I think these rules can override the default rules in GTK+'s Adwaita theme
+
+$variant: 'light';
+
+@import 'colors';
+@import 'ukui_colors';
+@import 'drawing';
+@import 'common';
+@import 'ukui_common';
+@import 'colors-public';
+@import 'ukui-applications';

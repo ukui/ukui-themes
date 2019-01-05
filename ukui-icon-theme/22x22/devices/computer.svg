@@ -1,1 +1,26 @@
-<svg id="其他" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 22 22"><defs><style>.cls-1{fill:#263238;}.cls-2{fill:url(#linear-gradient);}.cls-3{fill:#90a4ae;}.cls-4{fill:#293a3f;}.cls-5{fill:url(#linear-gradient-2);}.cls-6{fill:#eee8d5;opacity:0.23;isolation:isolate;}</style><linearGradient id="linear-gradient" x1="11" y1="3.55" x2="11" y2="14.54" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b3e5fc"/><stop offset="1" stop-color="#0288d1"/></linearGradient><linearGradient id="linear-gradient-2" x1="11" y1="2.29" x2="11" y2="16.31" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#607d8b"/><stop offset="1" stop-color="#455a64"/></linearGradient></defs><title>画板 25</title><g id="电脑"><path class="cls-1" d="M4.91,20.21a1,1,0,0,1-1-1V17.89h4V16.81H0v-15H22v15H14.13v1.07h4v1.33a1,1,0,0,1-1,1Z"/><rect id="rect3008" class="cls-2" x="1.82" y="3.55" width="18.36" height="10.99"/><path class="cls-3" d="M17.1,18.39H4.41v.83a.5.5,0,0,0,.5.5H17.1a.5.5,0,0,0,.5-.5v-.83Z"/><rect class="cls-4" x="8.38" y="16.21" width="5.25" height="2.18"/><path class="cls-5" d="M.5,2.29v14h21v-14ZM20.18,14.54H1.82v-11H20.18Z"/><path id="rect3008-0" class="cls-6" d="M13.35,3.55l-4.75,11H20.18v-11Z"/></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="&#x5176;&#x4ED6;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
+<title>画板 25</title>
+<g id="&#x7535;&#x8111;">
+	<path style="fill:#263238;" d="M4.91,20.21c-0.552,0-1-0.448-1-1v-1.32h4v-1.08H0v-15h22v15h-7.87v1.07h4v1.33c0,0.552-0.448,1-1,1
+		H4.91z"/>
+	
+		<linearGradient id="rect3008_1_" gradientUnits="userSpaceOnUse" x1="11" y1="20.45" x2="11" y2="9.46" gradientTransform="matrix(1 0 0 -1 0 24)">
+		<stop  offset="0" style="stop-color:#B3E5FC"/>
+		<stop  offset="1" style="stop-color:#0288D1"/>
+	</linearGradient>
+	<rect id="rect3008" x="1.82" y="3.55" style="fill:url(#rect3008_1_);" width="18.36" height="10.99"/>
+	<path style="fill:#90A4AE;" d="M17.1,18.39H4.41v0.83c0,0.276,0.224,0.5,0.5,0.5H17.1c0.276,0,0.5-0.224,0.5-0.5v-0.83H17.1z"/>
+	<rect x="8.38" y="16.21" style="fill:#293A3F;" width="5.25" height="2.18"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="11" y1="21.71" x2="11" y2="7.69" gradientTransform="matrix(1 0 0 -1 0 24)">
+		<stop  offset="0" style="stop-color:#607D8B"/>
+		<stop  offset="1" style="stop-color:#455A64"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M0.5,2.29v14h21v-14L0.5,2.29z M20.18,14.54H1.82v-11h18.36V14.54z"/>
+	<path id="rect3008-0" style="opacity:0.23;fill:#EEE8D5;enable-background:new    ;" d="M13.35,3.55l-4.75,11h11.58v-11L13.35,3.55
+		z"/>
+</g>
+</svg>

@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<rect x="68.199" y="8" opacity="0.2" width="374.594" height="496"/>
-<rect x="68.199" y="8" opacity="0.08" width="382.594" height="504"/>
-<rect x="72.199" y="12" opacity="0.1" width="374.594" height="496"/>
-<rect x="72.199" y="12" fill="#E65100" width="366.594" height="488"/>
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.2;enable-background:new    ;}
+	.st1{opacity:0.08;enable-background:new    ;}
+	.st2{opacity:0.1;enable-background:new    ;}
+	.st3{fill:#E65100;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{opacity:0.8;}
+	.st6{fill:#FFFFFF;}
+</style>
+<rect x="68.2" y="8" class="st0" width="374.6" height="496"/>
+<rect x="68.2" y="8" class="st1" width="382.6" height="504"/>
+<rect x="72.2" y="12" class="st2" width="374.6" height="496"/>
+<rect x="72.2" y="12" class="st3" width="366.6" height="488"/>
 <g>
 	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="297.0959" y1="-149.9001" x2="297.0959" y2="334.0999" gradientTransform="matrix(1 0 0 -1 -41.6001 348.0991)">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="297.1001" y1="-403.9009" x2="297.1001" y2="80.0991" gradientTransform="matrix(1 0 0 -1 -41.6001 94.0991)">
 		<stop  offset="0" style="stop-color:#EE6F0B"/>
 		<stop  offset="1" style="stop-color:#FFB74D"/>
 	</linearGradient>
-	<rect x="74.199" y="14" fill="url(#SVGID_1_)" width="362.594" height="484"/>
-	<g opacity="0.8">
-		<rect x="121.397" y="144.07" fill="#FFFFFF" width="38.713" height="194.014"/>
-		<rect x="185.927" y="240.875" fill="#FFFFFF" width="38.735" height="97.007"/>
-		<rect x="250.275" y="280.398" fill="#FFFFFF" width="38.713" height="58.092"/>
+	<rect x="74.2" y="14" class="st4" width="362.6" height="484"/>
+	<g class="st5">
+		<rect x="121.4" y="144.1" class="st6" width="38.7" height="194"/>
+		<rect x="185.9" y="240.9" class="st6" width="38.7" height="97"/>
+		<rect x="250.3" y="280.4" class="st6" width="38.7" height="58.1"/>
 		<g>
-			<path fill="#FFFFFF" d="M302.897,109.791l0.406,77.246l77.223-0.405c0.203,42.742-34.279,77.426-77.043,77.628
-				c-42.742,0.203-77.425-34.279-77.628-77.02C225.652,144.677,260.133,109.994,302.897,109.791z"/>
-			<path fill="#FFFFFF" d="M311.967,100.923c42.766-0.203,77.449,34.279,77.652,77.021l-77.246,0.405L311.967,100.923z"/>
+			<path class="st6" d="M302.9,109.8l0.4,77.2l77.2-0.4c0.2,42.7-34.3,77.4-77,77.6s-77.4-34.3-77.6-77
+				C225.7,144.7,260.1,110,302.9,109.8z"/>
+			<path class="st6" d="M312,100.9c42.8-0.2,77.4,34.3,77.7,77l-77.2,0.4L312,100.9z"/>
 		</g>
 	</g>
 </g>

@@ -1,29 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg2" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-xdpi="270" inkscape:version="0.48.5 r10040" sodipodi:docname="fileopen.svg" inkscape:export-ydpi="270"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="256px" height="256px"
-	 viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
-<polygon opacity="8.000000e-002" enable-background="new    " points="4,241 4,93.9 19,93.9 19,19 220.5,19 241,39.5 241,93.9 
-	256,93.9 256,241 "/>
-<polygon opacity="9.999999e-002" enable-background="new    " points="6,239 6,95.9 21,95.9 21,21 219.7,21 239,40.4 239,95.9 
-	254,95.9 254,239 "/>
-<polygon opacity="0.2" enable-background="new    " points="4,237 4,93.9 19,93.9 19,19 217.7,19 237,38.4 237,93.9 252,93.9 
-	252,237 "/>
-<polygon fill="#F57F17" points="6,235 6,95.9 21,95.9 21,21 216.8,21 235,39.2 235,95.9 250,95.9 250,235 "/>
-<polygon fill="#E0E0E0" points="216,23 23,23 23,94.8 23,113.8 233,113.8 233,94.8 233,40 "/>
-<rect x="23" y="92.9" opacity="0.2" enable-background="new    " width="210" height="5"/>
-<linearGradient id="rect2990_1_" gradientUnits="userSpaceOnUse" x1="192" y1="-131.8" x2="192" y2="-402" gradientTransform="matrix(0.5 0 0 -0.5 32 32)">
-	<stop  offset="0" style="stop-color:#FADD60"/>
-	<stop  offset="0.9946" style="stop-color:#F5A816"/>
-</linearGradient>
-<polyline id="rect2990_2_" fill="url(#rect2990_1_)" points="248,97.9 248,233 8,233 8,97.9 "/>
-<path id="rect3004_2_" inkscape:connector-curvature="0" opacity="0.25" fill="#FDEFBA" enable-background="new    " d="M8,97.9
-	v30.7c0-10.5,7.2-19.2,16-19.2h208c8.8,0,16,8.6,16,19.2V97.9H8z"/>
-<rect x="48" y="79" fill="#9E9E9E" width="160" height="10"/>
-<rect x="48" y="58.9" fill="#9E9E9E" width="160" height="10"/>
-<rect x="48" y="38.9" fill="#9E9E9E" width="140" height="10"/>
-<polygon fill="#FFFFFF" points="233,40 216,40 216,23 "/>
-<polygon opacity="0.2" enable-background="new    " points="216,40 233,40 233,57 "/>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="document-open" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#808080;stroke-width:8;stroke-miterlimit:10;}
+	.st1{fill:#808080;}
+</style>
+<title>256</title>
+<g id="_256">
+	<polyline class="st0" points="118,220 214,220 214,153 202,129 202,10 39,10 	"/>
+	<path class="st1" d="M47,17.2l71,24.5v197.1l-71-24.5V17.2 M39,6v214l87,30V36L39,6z"/>
+</g>
 </svg>

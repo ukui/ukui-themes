@@ -1,31 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.08;enable-background:new    ;}
+	.st1{opacity:0.1;enable-background:new    ;}
+	.st2{opacity:0.2;enable-background:new    ;}
+	.st3{fill:#607D8B;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{opacity:0.8;fill:#607D8B;enable-background:new    ;}
+	.st6{opacity:0.8;}
+</style>
 <g>
-	<rect x="34.1" y="4" opacity="8.000000e-002" width="191.8" height="252"/>
-	<rect x="36.1" y="6" opacity="9.999999e-002" width="187.8" height="248"/>
-	<rect x="34.1" y="4" opacity="0.2" width="187.8" height="248"/>
-	<rect x="36.1" y="6" fill="#607D8B" width="183.8" height="244"/>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="128" y1="8" x2="128" y2="248">
+	<rect x="34.1" y="4" class="st0" width="191.8" height="252"/>
+	<rect x="36.1" y="6" class="st1" width="187.8" height="248"/>
+	<rect x="34.1" y="4" class="st2" width="187.8" height="248"/>
+	<rect x="36.1" y="6" class="st3" width="183.8" height="244"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="128" y1="542" x2="128" y2="782" gradientTransform="matrix(1 0 0 1 0 -534)">
 		<stop  offset="0" style="stop-color:#F5F5F5"/>
 		<stop  offset="0.341" style="stop-color:#F1F2F3"/>
 		<stop  offset="0.6434" style="stop-color:#E7EAEC"/>
 		<stop  offset="0.9302" style="stop-color:#D5DCE0"/>
 		<stop  offset="1" style="stop-color:#CFD8DC"/>
 	</linearGradient>
-	<rect x="38.1" y="8" fill="url(#SVGID_1_)" width="179.8" height="240"/>
+	<rect x="38.1" y="8" class="st4" width="179.8" height="240"/>
 </g>
 <g>
-	<rect x="61.3" y="81.2" opacity="0.8" fill="#607D8B" enable-background="new    " width="133.3" height="6.6"/>
-	<rect x="61.3" y="60.6" opacity="0.8" fill="#607D8B" enable-background="new    " width="133.3" height="6.6"/>
-	<rect x="124.9" y="100.6" opacity="0.8" fill="#607D8B" enable-background="new    " width="69.6" height="69.6"/>
-	<g opacity="0.8">
-		<rect x="61.3" y="101.8" fill="#607D8B" width="57.9" height="6.6"/>
-		<rect x="61.3" y="122.4" fill="#607D8B" width="57.9" height="6.6"/>
-		<rect x="61.3" y="143.1" fill="#607D8B" width="57.9" height="6.6"/>
-		<rect x="61.3" y="163.7" fill="#607D8B" width="57.9" height="6.6"/>
+	<rect x="61.3" y="81.2" class="st5" width="133.3" height="6.6"/>
+	<rect x="61.3" y="60.6" class="st5" width="133.3" height="6.6"/>
+	<rect x="124.9" y="100.6" class="st5" width="69.6" height="69.6"/>
+	<g class="st6">
+		<rect x="61.3" y="101.8" class="st3" width="57.9" height="6.6"/>
+		<rect x="61.3" y="122.4" class="st3" width="57.9" height="6.6"/>
+		<rect x="61.3" y="143.1" class="st3" width="57.9" height="6.6"/>
+		<rect x="61.3" y="163.7" class="st3" width="57.9" height="6.6"/>
 	</g>
 </g>
 </svg>

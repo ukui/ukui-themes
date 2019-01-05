@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
-<g>
-	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="216.001" y1="-1717.9512" x2="216.001" y2="-1701.9512" gradientTransform="matrix(1 0 0 -1 -208.0005 -1701.9512)">
-		<stop  offset="0" style="stop-color:#512DA8"/>
-		<stop  offset="0.008" style="stop-color:#D32F2F"/>
-		<stop  offset="0.3041" style="stop-color:#E33932"/>
-		<stop  offset="0.6579" style="stop-color:#F04035"/>
-		<stop  offset="1" style="stop-color:#F44336"/>
-	</linearGradient>
-	<path fill="url(#SVGID_1_)" d="M9.5,16l4.5-4.5V0H2v16H9.5z"/>
-	<polygon fill="#B71C1C" fill-opacity="0.3922" points="9.25,11.25 9.25,16 9.5,16 14,11.5 14,11.25 	"/>
-	<path fill="#FFFFFF" fill-opacity="0.3922" d="M9.5,11.5h4.496L9.5,16V11.5z"/>
-	<path opacity="0.8" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M7.815,6.655H6.911v0.904h0.904V6.655z
-		 M9.089,7.962H8.184v0.903h0.905V7.962z M10.361,6.655H9.458v0.904h0.903V6.655z M7.815,7.962H6.911v0.903h0.904V7.962z
-		 M9.089,6.655H8.184v0.904h0.905V6.655z M10.361,7.962H9.458v0.903h0.903V7.962z M10.18,4.071v0.31
-		c0.122,0.108,0.199,0.265,0.199,0.44c0,0.325-0.264,0.588-0.588,0.588c-0.325,0-0.589-0.264-0.589-0.588
-		c0-0.175,0.077-0.333,0.199-0.44v-0.31h-2.75v0.31c0.122,0.108,0.199,0.265,0.199,0.44c0,0.325-0.264,0.588-0.588,0.588
-		c-0.325,0-0.589-0.264-0.589-0.588c0-0.175,0.078-0.333,0.199-0.44v-0.31H4.562v6.262h6.876V4.071H10.18z M10.81,9.705H5.19V5.793
-		h5.62V9.705z M6.542,6.655H5.638v0.904h0.904V6.655z M6.542,7.962H5.638v0.903h0.904V7.962z"/>
-	<g>
-		<path fill="#B71C1C" d="M13.5,0.5v10.793L9.293,15.5H6H2.5v-15H13.5 M14,0H2v16h4h3.5l4.5-4.5V0L14,0z"/>
-	</g>
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#B71C1C;}
+	.st2{fill:#B71C1C;fill-opacity:0.39;}
+	.st3{fill:#FFFFFF;fill-opacity:0.39;}
+	.st4{opacity:0.8;}
+	.st5{fill:#FFFFFF;}
+</style>
+<title>x-office-calendar</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="8" y1="-777.5" x2="8" y2="-762.5" gradientTransform="matrix(1 0 0 -1 0 -762)">
+	<stop  offset="0.02" style="stop-color:#D32F2F"/>
+	<stop  offset="0.3" style="stop-color:#E33932"/>
+	<stop  offset="0.66" style="stop-color:#F04035"/>
+	<stop  offset="1" style="stop-color:#F44336"/>
+</linearGradient>
+<polygon class="st0" points="9.4,15.5 13.5,11.3 13.5,0.5 2.5,0.5 2.5,15.5 "/>
+<path class="st1" d="M13.5,0.5V11L9,15.5H2.5v-15H13.5 M14,0H2v16h7.5l0.1-0.1l4.2-4.2l0.1-0.1L14,0L14,0z"/>
+<polygon class="st2" points="13.5,11 13.5,11 9,11 9,15.5 9,15.5 "/>
+<path class="st3" d="M9,11h4.5L9,15.5V11z"/>
+<g class="st4">
+	<path class="st5" d="M11,3v1H9V3H11V2H5v1h2v1H5V3H4v7.5h8V3H11z M11,9.5H5V5h6V9.5z"/>
+	<rect x="6" y="6" class="st5" width="1" height="1"/>
+	<rect x="6" y="8" class="st5" width="1" height="1"/>
+	<rect x="9" y="6" class="st5" width="1" height="1"/>
+	<rect x="9" y="8" class="st5" width="1" height="1"/>
 </g>
 </svg>

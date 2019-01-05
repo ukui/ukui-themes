@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="22px" height="22px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="177.4004" y1="1575.9609" x2="177.4004" y2="1553.9609" gradientTransform="matrix(1 0 0 1 -166.4004 -1553.9609)">
-	<stop  offset="0" style="stop-color:#1976D2"/>
-	<stop  offset="0.0626" style="stop-color:#227DD6"/>
-	<stop  offset="0.3018" style="stop-color:#3F96E4"/>
-	<stop  offset="0.5397" style="stop-color:#53A7EE"/>
-	<stop  offset="0.7739" style="stop-color:#60B1F4"/>
-	<stop  offset="1" style="stop-color:#64B5F6"/>
+	 viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0D47A1;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#0D47A1;fill-opacity:0.39;}
+	.st3{fill:#FFFFFF;fill-opacity:0.39;}
+	.st4{opacity:0.8;fill:#FFFFFF;enable-background:new    ;}
+</style>
+<title>text-x-css</title>
+<path class="st0" d="M19,1v14l-6,6H3V1H19 M20,0H2v22h11l7-7V0z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="11" y1="-1486.99" x2="11" y2="-1506.99" gradientTransform="matrix(1 0 0 -1 0 -1485.99)">
+	<stop  offset="0" style="stop-color:#64B5F6"/>
+	<stop  offset="0.23" style="stop-color:#60B1F4"/>
+	<stop  offset="0.46" style="stop-color:#53A7EE"/>
+	<stop  offset="0.7" style="stop-color:#3F96E4"/>
+	<stop  offset="0.94" style="stop-color:#227DD6"/>
+	<stop  offset="1" style="stop-color:#1976D2"/>
 </linearGradient>
-<path fill="url(#SVGID_1_)" d="M13.063,22l6.188-6.188V0H2.75v22H13.063z"/>
-<polygon fill="#0D47A1" fill-opacity="0.3922" points="12.719,15.469 12.719,22 13.063,22 19.25,15.813 19.25,15.469 "/>
-<path fill="#FFFFFF" fill-opacity="0.3922" d="M13.063,15.813h6.183L13.063,22V15.813z"/>
-<g>
-	<path fill="#0D47A1" d="M18.75,0.5v15.105L12.855,21.5H8.25h-5v-21H18.75 M19.25,0H2.75v22h5.5h4.813l6.188-6.188V0L19.25,0z"/>
-</g>
-<path opacity="0.8" fill="#FFFFFF" d="M6.448,4.314L6.638,6.37l6.046,0.006l-0.179,1.375h-5.74l0.158,2.079l5.376-0.017
-	l-0.303,2.292l-1.375,0.502l-1.375-0.48l-0.11-0.939H7.064l0.119,2.43l3.438,1.007l3.611-1.007l0.512-9.305H6.448z"/>
+<polygon class="st1" points="3,21 3,1 19,1 19,15 13,21 "/>
+<polygon class="st2" points="19,15 19,14 12,14 12,21 13,21 "/>
+<path class="st3" d="M13,15h6l-6,6V15z"/>
+<path class="st4" d="M6,3l0.2,2.2h7.3l-0.2,1.5H6.4l0.2,2.2h6.5l-0.4,2.4L11,11.8l-1.7-0.5l-0.1-1H6.7l0.1,2.6L11,14l4.4-1.1L16,3H6
+	z"/>
 </svg>

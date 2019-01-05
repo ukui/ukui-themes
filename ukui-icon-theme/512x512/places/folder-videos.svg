@@ -1,60 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-ydpi="270" inkscape:export-xdpi="270" sodipodi:docname="user-home.svg" inkscape:version="0.48.4 r9939"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
-	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<symbol  id="新建符号_14" viewBox="-107.7 -107.7 215.4 215.4">
-	<g>
-		<g>
-			<g opacity="0.8" enable-background="new    ">
-				<polygon opacity="0.39" fill="#F57F17" enable-background="new    " points="65.9,0.2 -33.1,59.7 -33.1,-59.3 				"/>
-			</g>
-			<g opacity="0.8" enable-background="new    ">
-				<g opacity="0.39">
-					<path fill="#F57F17" d="M0,107.7c-59.3,0-107.7-48.4-107.7-107.7S-59.3-107.7,0-107.7S107.7-59.3,107.7,0S59.3,107.7,0,107.7z
-						 M0-89.7c-49.6,0-89.7,40.1-89.7,89.7S-49.6,89.7,0,89.7S89.7,49.6,89.7,0S49.6-89.7,0-89.7z"/>
-				</g>
-			</g>
-		</g>
-	</g>
-</symbol>
-<polygon opacity="8.000000e-002" enable-background="new    " points="8,479.7 8,137.1 40.3,137.1 40.3,40.3 159.1,40.3 191.2,72.5 
-	479.7,72.5 479.7,122.7 479.9,122.7 479.9,137.1 512,137.1 512,479.7 "/>
-<polygon opacity="9.999999e-002" enable-background="new    " points="12,475.7 12,141.1 44.3,141.1 44.3,44.3 157.4,44.3 
-	189.5,76.5 475.7,76.5 475.7,126.7 475.9,126.7 475.9,141.1 508,141.1 508,475.7 "/>
-<sodipodi:namedview  id="base" inkscape:cx="35.66124" pagecolor="#ffffff" showguides="true" inkscape:zoom="5.6530318" showgrid="true" borderopacity="1.0" inkscape:cy="21.321632" bordercolor="#666666" inkscape:pageopacity="0.0" inkscape:window-x="0" inkscape:guide-bbox="true" inkscape:pageshadow="2" inkscape:window-height="1023" inkscape:document-units="px" inkscape:window-width="1920" inkscape:window-y="28" inkscape:current-layer="layer1" inkscape:window-maximized="1">
-	<inkscape:grid  type="xygrid" visible="true" enabled="true" id="grid2985" empspacing="5" snapvisiblegridlinesonly="true">
-		</inkscape:grid>
-</sodipodi:namedview>
-<polygon opacity="0.2" enable-background="new    " points="8,471.7 8,137.1 40.3,137.1 40.3,40.3 153.4,40.3 185.5,72.5 
-	471.7,72.5 471.7,122.7 471.9,122.7 471.9,137.1 504,137.1 504,471.7 "/>
-<polygon fill="#F57F17" points="12,467.7 12,141.1 44.3,141.1 44.3,44.3 151.8,44.3 183.8,76.5 467.7,76.5 467.7,126.7 467.9,126.7 
-	467.9,141.1 500,141.1 500,467.7 "/>
-<g>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_39" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.08;enable-background:new    ;}
+	.st1{opacity:0.2;enable-background:new    ;}
+	.st2{opacity:0.1;enable-background:new    ;}
+	.st3{fill:#F57F17;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{fill:url(#rect2990_1_);}
+	.st6{opacity:0.25;fill:#FDEFBA;enable-background:new    ;}
+	.st7{opacity:0.1;fill:#E65100;enable-background:new    ;}
+	.st8{opacity:0.05;fill:#E65100;enable-background:new    ;}
+	.st9{opacity:0.39;fill:#F57F17;enable-background:new    ;}
+	.st10{opacity:0.39;}
+	.st11{opacity:0.8;}
+</style>
+<title>0512folder-videos</title>
+<g id="_512">
+	<polygon class="st0" points="8,480 8,137 40,137 40,40 159,40 191,72 479,72 479,137 512,137 512,480 	"/>
+	<polygon class="st1" points="8,472 8,137 40,137 40,40 153,40 185,72 471,72 471,137 504,137 504,472 	"/>
+	<polygon class="st2" points="12,476 12,141 44,141 44,44 157,44 189,76 475,76 475,141 508,141 508,476 	"/>
+	<path class="st3" d="M152,44H44v97H12v327h488V141h-33V76H184L152,44z"/>
 	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="256" y1="-165.2185" x2="256" y2="-44.2" gradientTransform="matrix(1 0 0 -1 0 2)">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-177.25" y1="-856.5128" x2="-177.25" y2="-796" gradientTransform="matrix(2 0 0 -2 610 -1546)">
 		<stop  offset="0" style="stop-color:#F57C00"/>
-		<stop  offset="0.1638" style="stop-color:#F58F09"/>
-		<stop  offset="0.3598" style="stop-color:#F59D11"/>
-		<stop  offset="0.5982" style="stop-color:#F5A515"/>
-		<stop  offset="0.9946" style="stop-color:#F5A816"/>
+		<stop  offset="0.16" style="stop-color:#F58F09"/>
+		<stop  offset="0.36" style="stop-color:#F59D11"/>
+		<stop  offset="0.6" style="stop-color:#F5A515"/>
+		<stop  offset="0.99" style="stop-color:#F5A816"/>
 	</linearGradient>
-	<path fill="url(#SVGID_1_)" d="M465.7,78.5H183l-32.1-32.3H46.3v32.3v32.3v40.3c0,8.9,7.7,16.1,16.1,16.1h387.2
-		c8.5,0,16.1,0.8,16.1-8.1C465.7,143.3,465.7,78.5,465.7,78.5z"/>
+	<path class="st4" d="M465,78H183l-32-32H46v104c0,8.9,7.7,17,16.1,17h387.2c8.5,0,15.7,0.9,15.7-8L465,78L465,78z"/>
 	
-		<linearGradient id="rect2990_1_" gradientUnits="userSpaceOnUse" x1="256" y1="-141.1" x2="256" y2="-463.7" gradientTransform="matrix(1 0 0 -1 0 2)">
+		<linearGradient id="rect2990_1_" gradientUnits="userSpaceOnUse" x1="-177" y1="-844.5" x2="-177" y2="-1006" gradientTransform="matrix(2 0 0 -2 610 -1546)">
 		<stop  offset="0" style="stop-color:#FADD60"/>
-		<stop  offset="0.9946" style="stop-color:#F5A816"/>
+		<stop  offset="0.99" style="stop-color:#F5A816"/>
 	</linearGradient>
-	<polyline id="rect2990_2_" fill="url(#rect2990_1_)" points="498,143.1 498,465.7 14,465.7 14,143.1 	"/>
-	<path id="rect3004_1_" inkscape:connector-curvature="0" opacity="0.25" fill="#FDEFBA" enable-background="new    " d="M14,143.1
-		V205c0-21.4,14.3-38.7,32.3-38.7h419.5c17.9,0,32.3,17.3,32.3,38.7v-61.9H14z"/>
-	<path id="path3801_1_" inkscape:connector-curvature="0" opacity="0.1" fill="#E65100" enable-background="new    " d="M46.3,46.3
-		c0,0,0,8.1,0,24.2v16.1c0-16.1,7.3-24.2,14.7-24.2h83.7c5.6,0,13.1,0.2,26.2,7.9c3.6,2.2,7.7,4.8,12.1,8.3l-32.1-32.3H46.3z"/>
-	<polygon opacity="0.1" fill="#E65100" enable-background="new    " points="183,78.5 465.7,78.5 465.7,102.7 207.2,102.7 	"/>
-	<rect x="46.3" y="128.7" opacity="5.000000e-002" fill="#E65100" enable-background="new    " width="419.7" height="14.3"/>
+	<polyline id="rect2990" class="st5" points="498,143 498,466 14,466 14,143 	"/>
+	<path id="rect3004" class="st6" d="M14,143v62c0-21.4,14.3-38.8,32.3-38.8h419.4c17.9,0,32.3,17.4,32.3,38.8v-62H14z"/>
+	<path id="path3801" class="st7" d="M46,46v40.3c0-16.1,7.3-24.2,14.7-24.2h83.7c5.6,0,13.1,0.2,26.2,7.9c3.6,2.2,8,4.5,12.4,8
+		l-32-32H46z"/>
+	<polygon class="st7" points="183,78 465,78 465,103 207.2,102.7 	"/>
+	<rect x="46" y="128" class="st8" width="419" height="15"/>
 </g>
-<use xlink:href="#新建符号_14"  width="215.4" height="215.4" x="-107.7" y="-107.7" transform="matrix(1 0 0 -1 256 308.4333)" overflow="visible"/>
+<path class="st9" d="M367,304c0,61.3-49.7,111-111,111s-111-49.7-111-111s49.7-111,111-111S367,242.7,367,304z M256,211
+	c-51.4,0-93,41.6-93,93s41.6,93,93,93s93-41.6,93-93S307.4,211,256,211z"/>
+<g class="st10">
+	<g class="st11">
+		<polygon class="st3" points="321.9,304 222.9,244.5 222.9,363.5 		"/>
+	</g>
+</g>
 </svg>

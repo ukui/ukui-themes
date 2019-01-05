@@ -1,1 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"><defs><style>.cls-1{opacity:0.2;}.cls-2{opacity:0.08;}.cls-3{opacity:0.1;}.cls-10,.cls-11,.cls-4,.cls-5,.cls-6,.cls-7,.cls-8,.cls-9{fill-rule:evenodd;}.cls-4{fill:url(#新建渐变色板_1);}.cls-5{fill:url(#linear-gradient);}.cls-6{fill:#221e1f;}.cls-7{fill:#040000;}.cls-8{fill:#bac6d1;}.cls-9{fill:#616161;}.cls-10{fill:url(#linear-gradient-2);}.cls-11{fill:#fff;}.cls-12{fill:#90a4ae;}.cls-13{fill:none;stroke:red;stroke-miterlimit:10;}</style><linearGradient id="新建渐变色板_1" x1="16" y1="2.02" x2="16" y2="53.88" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#211d1e"/><stop offset="0.55" stop-color="#58595b"/><stop offset="1" stop-color="#abb6be"/></linearGradient><linearGradient id="linear-gradient" x1="16.28" y1="13.59" x2="16.28" y2="31.74" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#cfd8dc"/></linearGradient><linearGradient id="linear-gradient-2" x1="-4.22" y1="8.78" x2="25.61" y2="5.65" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#bfd7b1"/><stop offset="0.36" stop-color="#cfd1d2"/><stop offset="1" stop-color="#fff"/></linearGradient></defs><title>画板 23</title><g id="其他"><g id="软驱"><path class="cls-1" d="M3.07,31a2,2,0,0,1-2-2V3a2,2,0,0,1,2-2H5.42l.2.42H7.92V1l1,0L24.48,1V1h3.58l2.88,2.8V29a2,2,0,0,1-2,2Z"/><path class="cls-2" d="M3.57,32a2.5,2.5,0,0,1-2.5-2.5v-26A2.5,2.5,0,0,1,3.56,1H6.23l.2.42H7.92V1.05L9.39,1,25.48,1V1h3.28l3.18,3.09V29.54A2.45,2.45,0,0,1,29.43,32Z"/><path class="cls-3" d="M3.57,31.5a2,2,0,0,1-2-2v-26a2,2,0,0,1,2-2H5.92l.2.42H8.42V1.54l1,0L25,1.52v0h3.58l2.88,2.8v25.2a2,2,0,0,1-2,2Z"/><path d="M3.07,30.5A1.5,1.5,0,0,1,1.57,29V3a1.5,1.5,0,0,1,1.5-1.49h2l.14.28a.26.26,0,0,0,.11.1l.09,0h3V1.52l.5,0,15,0V1.7H24V1.54h3.81l2.58,2.51V29a1.46,1.46,0,0,1-1.5,1.46Z"/><path class="cls-4" d="M29.93,29a1,1,0,0,1-1,1H3.07a1,1,0,0,1-1-1V3a1,1,0,0,1,1-1H4.79a.77.77,0,0,0,.7.43l18.2,0a.78.78,0,0,0,.7-.42h3.26l2.29,2.22Z"/><path class="cls-5" d="M6.25,14h20a1,1,0,0,1,1,1V30H5.24V15A1,1,0,0,1,6.25,14Z"/><path class="cls-6" d="M5.82,12.07a.74.74,0,0,1-.74-.73v-9a.79.79,0,0,0,.32.1v8.88a.74.74,0,0,0,.74.73Z"/><path class="cls-7" d="M6.06,13.87H26.17a1,1,0,0,1,.64.25,1,1,0,0,0-.32-.08H6.38a1,1,0,0,0-1,1V30H5V14.89A1,1,0,0,1,6.06,13.87Z"/><path class="cls-8" d="M26.73,14.07a1,1,0,0,1,.83,1V27h0v1.1h0V30h-.37V14.91A1,1,0,0,0,26.73,14.07Z"/><path class="cls-9" d="M24.32,2.14l0,9.24a.74.74,0,0,1-.74.73l-17.37,0a.74.74,0,0,1-.65-.4,2.5,2.5,0,0,0,.64.21l17.05,0a.72.72,0,0,0,.72-.72l0-8.8a.76.76,0,0,0,.34-.27Zm-.74.32h0Z"/><path class="cls-6" d="M9,2H23.5v8.45a1,1,0,0,1-1,1H10a1,1,0,0,1-1-1V2Zm9.4,1a.69.69,0,0,0-.69.69v6.67a.69.69,0,0,0,.69.69h2.82a.69.69,0,0,0,.69-.69V3.72A.7.7,0,0,0,21.17,3Z"/><path class="cls-10" d="M8.92,2,23.48,2v8.32a1,1,0,0,1-1,1L10,11.35a1,1,0,0,1-1-1V2Zm9.4.91a.7.7,0,0,0-.7.69v6.67a.7.7,0,0,0,.7.69h2.82a.69.69,0,0,0,.69-.69V3.6a.7.7,0,0,0-.69-.69Z"/><path class="cls-11" d="M8.92,2H23.48v.12L9,2.12v8.32a1,1,0,0,0,.21.61,1,1,0,0,1-.31-.73V2ZM21.72,3.21a.69.69,0,0,1,.12.39v6.67a.69.69,0,0,1-.69.69H18.33a.7.7,0,0,1-.47-.18.7.7,0,0,0,.57.3h2.82a.7.7,0,0,0,.7-.69V3.72A.69.69,0,0,0,21.72,3.21Z"/><rect class="cls-12" x="9.2" y="18.27" width="14.04" height="0.83"/><rect class="cls-12" x="9.2" y="24.15" width="14.04" height="0.83"/></g></g><g id="规范"><rect class="cls-13" x="-5.67" y="-32.3" width="90.61" height="84.25"/></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<title>画板 23</title>
+<g id="&#x5176;&#x4ED6;">
+	<g id="&#x8F6F;&#x9A71;">
+		<path style="opacity:0.2;enable-background:new    ;" d="M3.07,31c-1.105,0-2-0.895-2-2V3c0-1.105,0.895-2,2-2h2.35l0.2,0.42h2.3
+			V1h1h15.56l0,0h3.58l2.88,2.8V29c0,1.105-0.895,2-2,2H3.07z"/>
+		<path style="opacity:0.08;enable-background:new    ;" d="M3.57,32c-1.381,0-2.5-1.119-2.5-2.5v-26c0-1.377,1.113-2.494,2.49-2.5
+			h2.67l0.2,0.42h1.49V1.05L9.39,1h16.09l0,0h3.28l3.18,3.09v25.45c0.006,1.353-1.086,2.455-2.439,2.461
+			c-0.024,0-0.047,0-0.071-0.001H3.57z"/>
+		<path style="opacity:0.1;enable-background:new    ;" d="M3.57,31.5c-1.105,0-2-0.895-2-2v-26c0-1.105,0.895-2,2-2h2.35l0.2,0.42
+			h2.3V1.54h1L25,1.52l0,0h3.58l2.88,2.8v25.2c0,1.105-0.895,2-2,2L3.57,31.5z"/>
+		<path d="M3.07,30.5c-0.828,0-1.5-0.672-1.5-1.5V3c0.005-0.825,0.675-1.49,1.5-1.49h2l0.14,0.28c0.026,0.043,0.064,0.078,0.11,0.1
+			h0.09h3V1.52h0.5h15V1.7H24V1.54h3.81l2.58,2.51V29c0,0.806-0.653,1.46-1.459,1.461c-0.014,0-0.027,0-0.041-0.001L3.07,30.5z"/>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="16.005" y1="32" x2="16.005" y2="-19.86" gradientTransform="matrix(1 0 0 -1 0 34)">
+			<stop  offset="0" style="stop-color:#211D1E"/>
+			<stop  offset="0.55" style="stop-color:#58595B"/>
+			<stop  offset="1" style="stop-color:#ABB6BE"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_1_);" d="M29.93,29c0,0.552-0.448,1-1,1H3.07c-0.552,0-1-0.448-1-1V3c0-0.552,0.448-1,1-1h1.72
+			c0.131,0.266,0.403,0.434,0.7,0.43h18.2c0.294,0.003,0.564-0.159,0.7-0.42h3.26l2.29,2.22L29.93,29z"/>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="16.245" y1="20.41" x2="16.245" y2="2.26" gradientTransform="matrix(1 0 0 -1 0 34)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#CFD8DC"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_2_);" d="M6.25,14h20c0.552,0,1,0.448,1,1v15H5.24V15c0-0.552,0.448-1,1-1C6.243,14,6.247,14,6.25,14
+			z"/>
+		<path style="fill:#221E1F;" d="M5.82,12.07c-0.405,0-0.735-0.325-0.74-0.73v-9c0.098,0.056,0.207,0.09,0.32,0.1v8.88
+			c0.005,0.405,0.335,0.73,0.74,0.73L5.82,12.07z"/>
+		<path style="fill:#040000;" d="M6.06,13.87h20.11c0.236,0.005,0.463,0.094,0.64,0.25c-0.102-0.044-0.21-0.071-0.32-0.08H6.38
+			c-0.552,0-1,0.448-1,1V30H5V14.89c-0.012-0.552,0.426-1.01,0.978-1.022C6.005,13.868,6.033,13.868,6.06,13.87z"/>
+		<path style="fill:#BAC6D1;" d="M26.73,14.07c0.485,0.084,0.837,0.508,0.83,1V27l0,0v1.1l0,0V30h-0.37V14.91
+			C27.189,14.57,27.016,14.254,26.73,14.07z"/>
+		<path style="fill:#616161;" d="M24.32,2.14v9.24c-0.005,0.405-0.335,0.73-0.74,0.73H6.21c-0.274-0.003-0.524-0.157-0.65-0.4
+			c0.203,0.099,0.418,0.169,0.64,0.21h17.05c0.398,0,0.72-0.322,0.72-0.72V2.4c0.137-0.055,0.255-0.149,0.34-0.27L24.32,2.14z
+			 M23.58,2.46L23.58,2.46z"/>
+		<path style="fill:#221E1F;" d="M9,2h14.5v8.45c0,0.552-0.448,1-1,1H10c-0.552,0-1-0.448-1-1V2z M18.4,3
+			c-0.381,0-0.69,0.309-0.69,0.69c0,0,0,0,0,0v6.67c0,0.381,0.309,0.69,0.69,0.69l0,0h2.82c0.381,0,0.69-0.309,0.69-0.69l0,0V3.72
+			c0.012-0.386-0.292-0.709-0.679-0.721c-0.02-0.001-0.041,0-0.061,0.001H18.4z"/>
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-4.2228" y1="25.2468" x2="25.6072" y2="28.3768" gradientTransform="matrix(1 0 0 -1 0 34)">
+			<stop  offset="0" style="stop-color:#BFD7B1"/>
+			<stop  offset="0.36" style="stop-color:#CFD1D2"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_3_);" d="M8.92,2h14.56v8.32c0,0.552-0.448,1-1,1L10,11.35c-0.552,0-1-0.448-1-1V2H8.92z M18.32,2.91
+			c-0.383,0-0.695,0.307-0.7,0.69v6.67c0.005,0.383,0.317,0.69,0.7,0.69h2.82c0.381,0,0.69-0.309,0.69-0.69l0,0V3.6
+			c-0.005-0.379-0.311-0.685-0.69-0.69L18.32,2.91z"/>
+		<path style="fill:#FFFFFF;" d="M8.92,2h14.56v0.12H9v8.32c0.001,0.221,0.075,0.435,0.21,0.61c-0.2-0.19-0.312-0.454-0.31-0.73V2
+			H8.92z M21.72,3.21c0.078,0.115,0.12,0.251,0.12,0.39v6.67c0,0.381-0.309,0.69-0.69,0.69l0,0h-2.82
+			c-0.174,0-0.341-0.064-0.47-0.18c0.13,0.187,0.343,0.299,0.57,0.3h2.82c0.383,0,0.695-0.307,0.7-0.69V3.72
+			C21.949,3.525,21.865,3.34,21.72,3.21z"/>
+		<rect x="9.2" y="18.27" style="fill:#90A4AE;" width="14.04" height="0.83"/>
+		<rect x="9.2" y="24.15" style="fill:#90A4AE;" width="14.04" height="0.83"/>
+	</g>
+</g>
+<g id="&#x89C4;&#x8303;">
+	<rect x="-5.67" y="-32.3" style="fill:none;stroke:#FF0000;stroke-miterlimit:10;" width="90.61" height="84.25"/>
+</g>
+</svg>

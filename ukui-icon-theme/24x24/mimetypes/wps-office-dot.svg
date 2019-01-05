@@ -1,49 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<rect x="3.634" y="1" fill="#0D47A1" width="16.732" height="22"/>
-<g>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="12.0005" y1="1.5" x2="12.0005" y2="22.5005">
-		<stop  offset="0" style="stop-color:#64B5F6"/>
-		<stop  offset="1" style="stop-color:#3F51B5"/>
-	</linearGradient>
-	<rect x="4.134" y="1.5" fill="url(#SVGID_1_)" width="15.733" height="21"/>
-	<g opacity="0.8">
-		<rect x="6.164" y="9.806" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="11.664" height="0.576"/>
-		<rect x="6.164" y="8.002" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="11.664" height="0.578"/>
-		<rect x="11.73" y="11.502" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="6.09" height="6.092"/>
-		<g opacity="0.8">
-			<rect x="6.164" y="11.606" fill="#FFFFFF" width="5.066" height="0.58"/>
-			<rect x="6.164" y="13.411" fill="#FFFFFF" width="5.066" height="0.577"/>
-			<rect x="6.164" y="15.221" fill="#FFFFFF" width="5.066" height="0.577"/>
-			<rect x="6.164" y="17.023" fill="#FFFFFF" width="5.066" height="0.576"/>
-		</g>
-	</g>
-	<g>
-		<rect x="4.13" y="1.5" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="15.74" height="4.025"/>
-		<g enable-background="new    ">
-			<path fill="#236FB7" d="M10.085,3.51c0,0.273-0.045,0.509-0.134,0.711S9.735,4.591,9.572,4.724
-				C9.409,4.856,9.21,4.956,8.975,5.022C8.739,5.089,8.476,5.123,8.184,5.123c-0.133,0-0.289-0.005-0.467-0.017
-				C7.539,5.096,7.364,5.074,7.192,5.041V1.985c0.172-0.03,0.35-0.051,0.535-0.062c0.187-0.011,0.347-0.017,0.479-0.017
-				c0.285,0,0.54,0.03,0.771,0.092c0.229,0.06,0.427,0.154,0.594,0.286c0.164,0.128,0.291,0.295,0.38,0.498
-				C10.04,2.985,10.085,3.227,10.085,3.51z M7.936,4.506c0.036,0.004,0.075,0.005,0.122,0.007c0.045,0.001,0.1,0.003,0.164,0.003
-				c0.372,0,0.646-0.09,0.827-0.268C9.228,4.07,9.316,3.824,9.316,3.51c0-0.328-0.085-0.577-0.257-0.747
-				C8.889,2.595,8.616,2.51,8.245,2.51c-0.05,0-0.103,0.001-0.156,0.001C8.034,2.515,7.983,2.517,7.936,2.524V4.506z"/>
-			<path fill="#236FB7" d="M13.849,3.51c0,0.27-0.042,0.506-0.127,0.709c-0.084,0.204-0.2,0.374-0.345,0.511
-				c-0.146,0.138-0.319,0.241-0.522,0.311c-0.202,0.068-0.418,0.104-0.65,0.104c-0.225,0-0.438-0.036-0.637-0.104
-				c-0.201-0.07-0.375-0.172-0.525-0.311c-0.149-0.138-0.267-0.308-0.353-0.511c-0.085-0.204-0.129-0.44-0.129-0.709
-				c0-0.268,0.045-0.503,0.134-0.708c0.089-0.203,0.208-0.375,0.36-0.514c0.151-0.138,0.325-0.242,0.523-0.312
-				c0.199-0.068,0.407-0.104,0.626-0.104c0.227,0,0.438,0.035,0.64,0.104c0.2,0.07,0.375,0.174,0.523,0.312
-				c0.149,0.139,0.267,0.312,0.353,0.514C13.807,3.007,13.849,3.242,13.849,3.51z M11.329,3.51c0,0.154,0.02,0.294,0.059,0.417
-				c0.04,0.125,0.098,0.231,0.171,0.318c0.075,0.09,0.167,0.159,0.273,0.208c0.109,0.046,0.232,0.071,0.372,0.071
-				c0.137,0,0.26-0.025,0.369-0.071c0.11-0.049,0.202-0.118,0.277-0.208c0.075-0.087,0.132-0.194,0.171-0.318
-				c0.04-0.123,0.061-0.263,0.061-0.417c0-0.153-0.021-0.292-0.061-0.418c-0.039-0.125-0.096-0.232-0.171-0.32
-				c-0.075-0.09-0.167-0.159-0.277-0.208c-0.109-0.046-0.232-0.071-0.369-0.071c-0.14,0-0.263,0.024-0.372,0.074
-				c-0.106,0.051-0.198,0.12-0.273,0.208c-0.073,0.09-0.131,0.197-0.171,0.322C11.349,3.223,11.329,3.359,11.329,3.51z"/>
-			<path fill="#236FB7" d="M16.808,1.944v0.603h-0.997v2.535h-0.742V2.547h-0.997V1.944H16.808z"/>
-		</g>
-	</g>
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0D47A1;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{opacity:0.8;}
+	.st3{fill:#FFFFFF;}
+</style>
+<title>wps-office-dot</title>
+<path class="st0" d="M20,2v14l-6,6H4V2H20 M21,1H3v22h18V1z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="12" y1="-718" x2="12" y2="-738" gradientTransform="matrix(1 0 0 -1 0 -716)">
+	<stop  offset="0" style="stop-color:#64B5F6"/>
+	<stop  offset="0.29" style="stop-color:#5B9CE6"/>
+	<stop  offset="0.9" style="stop-color:#435CBC"/>
+	<stop  offset="1" style="stop-color:#3F51B5"/>
+</linearGradient>
+<polygon class="st1" points="4,22 4,2 20,2 20,16 20,22 "/>
+<g class="st2">
+	<rect x="6" y="5" class="st3" width="12" height="1"/>
+	<rect x="6" y="7" class="st3" width="12" height="1"/>
+	<rect x="6" y="9" class="st3" width="5" height="1"/>
+	<rect x="6" y="11" class="st3" width="5" height="1"/>
+	<rect x="6" y="13" class="st3" width="5" height="1"/>
+	<rect x="12" y="9" class="st3" width="6" height="5"/>
 </g>
 </svg>

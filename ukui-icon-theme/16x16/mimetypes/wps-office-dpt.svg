@@ -1,43 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
-<rect x="1.881" fill="#E65100" width="12.238" height="16"/>
-<g>
-	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="91.1992" y1="840.3008" x2="91.1992" y2="825.3008" gradientTransform="matrix(1 0 0 1 -83.2002 -824.8008)">
-		<stop  offset="0" style="stop-color:#EE6F0B"/>
-		<stop  offset="1" style="stop-color:#FFB74D"/>
-	</linearGradient>
-	<rect x="2.381" y="0.5" fill="url(#SVGID_1_)" width="11.238" height="15"/>
-	<g opacity="0.8">
-		<rect x="3.844" y="6.274" fill="#FFFFFF" width="1.2" height="6.013"/>
-		<rect x="5.844" y="9.274" fill="#FFFFFF" width="1.2" height="3.006"/>
-		<rect x="7.838" y="10.499" fill="#FFFFFF" width="1.199" height="1.801"/>
-		<g>
-			<path fill="#FFFFFF" d="M9.469,5.212l0.014,2.394l2.394-0.013c0.007,1.325-1.063,2.4-2.388,2.406
-				c-1.326,0.008-2.4-1.063-2.407-2.387C7.075,6.293,8.144,5.218,9.469,5.212z"/>
-			<path fill="#FFFFFF" d="M9.75,4.936c1.325-0.006,2.4,1.063,2.406,2.388L9.764,7.337L9.75,4.936z"/>
-		</g>
-	</g>
-</g>
-<g>
-	<rect x="2.378" y="0.5" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="11.244" height="2.875"/>
-	<g enable-background="new    ">
-		<path fill="#E64A19" d="M6.819,1.919c0,0.194-0.032,0.363-0.096,0.508C6.66,2.572,6.57,2.691,6.453,2.786
-			C6.337,2.881,6.194,2.952,6.026,3C5.858,3.047,5.67,3.07,5.461,3.07c-0.095,0-0.206-0.004-0.333-0.012
-			C5.001,3.052,4.876,3.036,4.754,3.012V0.83c0.122-0.021,0.25-0.036,0.383-0.044C5.27,0.779,5.383,0.775,5.479,0.775
-			c0.202,0,0.385,0.021,0.55,0.065c0.164,0.043,0.306,0.111,0.424,0.204C6.569,1.136,6.66,1.255,6.724,1.399
-			C6.787,1.543,6.819,1.717,6.819,1.919z M5.284,2.631C5.31,2.633,5.338,2.635,5.371,2.636s0.072,0.001,0.117,0.001
-			c0.266,0,0.463-0.063,0.591-0.19s0.192-0.303,0.192-0.527c0-0.235-0.062-0.413-0.184-0.533C5.965,1.266,5.771,1.205,5.506,1.205
-			c-0.036,0-0.074,0-0.112,0.001C5.354,1.208,5.318,1.21,5.284,1.215V2.631z"/>
-		<path fill="#E64A19" d="M7.97,0.775c0.352,0,0.621,0.059,0.81,0.176c0.188,0.118,0.283,0.31,0.283,0.577
-			c0,0.27-0.096,0.464-0.287,0.583c-0.189,0.12-0.463,0.18-0.816,0.18H7.793v0.75H7.262V0.833C7.378,0.812,7.5,0.796,7.629,0.788
-			C7.759,0.779,7.872,0.775,7.97,0.775z M8.004,1.205c-0.039,0-0.077,0.001-0.114,0.003C7.853,1.21,7.82,1.212,7.793,1.215v0.646
-			h0.166c0.184,0,0.322-0.023,0.416-0.071c0.092-0.047,0.139-0.136,0.139-0.265c0-0.063-0.012-0.114-0.035-0.155
-			S8.42,1.296,8.376,1.271C8.332,1.247,8.277,1.229,8.215,1.22C8.15,1.21,8.08,1.205,8.004,1.205z"/>
-		<path fill="#E64A19" d="M11.246,0.801v0.43h-0.711v1.81h-0.531v-1.81H9.293v-0.43H11.246z"/>
-	</g>
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#E65100;}
+	.st2{opacity:0.8;}
+	.st3{fill:#FFFFFF;}
+</style>
+<title>wps-office-dpt</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="8" y1="789.5" x2="8" y2="774.5" gradientTransform="matrix(1 0 0 1 0 -774)">
+	<stop  offset="0" style="stop-color:#EE6F0B"/>
+	<stop  offset="1" style="stop-color:#FFB74D"/>
+</linearGradient>
+<polygon class="st0" points="13.5,15.5 13.5,11.3 13.5,0.5 2.5,0.5 2.5,15.5 "/>
+<path class="st1" d="M13.5,0.5v15h-11v-15H13.5 M14,0H2v16h12V0z"/>
+<g class="st2">
+	<rect x="4" y="5" class="st3" width="1" height="7"/>
+	<rect x="6" y="8" class="st3" width="1" height="4"/>
+	<rect x="8" y="10" class="st3" width="1" height="2"/>
+	<polygon class="st3" points="9.5,6 9.5,5 9.5,4 8,4 8,5 7,5 7,6 7,7 7.5,7 7.5,8 8,8 8,9 11.5,9 11.5,8 12,8 12,7 9.5,7 	"/>
+	<polygon class="st3" points="11.5,5 11.5,4 11,4 10,4 10,6.5 11,6.5 12,6.5 12,5 	"/>
 </g>
 </svg>

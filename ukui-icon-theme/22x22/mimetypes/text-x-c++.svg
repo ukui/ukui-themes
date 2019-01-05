@@ -1,43 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="22px" height="22px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
-<polygon fill="#212121" points="2.634,22 2.634,0 19.366,0 19.366,15.807 13.111,22 "/>
-<g>
-	<g>
-		<g>
-			<g>
-				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="10.999" y1="21.5" x2="10.999" y2="0.5005">
-					<stop  offset="0" style="stop-color:#616161"/>
-					<stop  offset="1" style="stop-color:#90A4AE"/>
-				</linearGradient>
-				<polygon fill="url(#SVGID_1_)" points="3.132,21.5 3.132,0.5 18.865,0.5 18.865,15.594 12.959,21.5 				"/>
-			</g>
-			<polygon fill="#9E9E9E" fill-opacity="0.39" points="18.865,15.594 18.865,15.34 12.637,15.34 12.637,21.5 12.959,21.5 			"/>
-			<path fill="#FFFFFF" fill-opacity="0.3922" d="M12.951,15.594l5.916,0.008L12.959,21.5L12.951,15.594z"/>
-		</g>
-	</g>
-	<g>
-		<g>
-			<g opacity="0.8">
-				<path fill="#FFFFFF" d="M7.714,12.988c-0.489,0-0.935-0.074-1.337-0.225S5.629,12.397,5.34,12.11
-					c-0.287-0.284-0.51-0.638-0.667-1.059c-0.159-0.42-0.238-0.9-0.238-1.44c0-0.542,0.09-1.023,0.267-1.441
-					c0.179-0.42,0.418-0.774,0.719-1.06c0.302-0.286,0.653-0.503,1.057-0.652c0.402-0.15,0.831-0.224,1.284-0.224
-					c0.29,0,0.551,0.019,0.781,0.056c0.232,0.037,0.431,0.081,0.603,0.13c0.171,0.051,0.31,0.1,0.417,0.149
-					C9.67,6.62,9.743,6.656,9.784,6.681L9.502,7.428C9.442,7.391,9.354,7.35,9.24,7.307C9.127,7.264,8.999,7.22,8.854,7.176
-					C8.709,7.132,8.552,7.097,8.381,7.069C8.21,7.041,8.038,7.027,7.864,7.027c-0.368,0-0.7,0.059-0.995,0.176
-					c-0.295,0.119-0.545,0.29-0.753,0.514S5.75,8.212,5.639,8.533c-0.111,0.32-0.167,0.68-0.167,1.078
-					c0,0.385,0.049,0.736,0.146,1.053c0.097,0.318,0.242,0.59,0.438,0.815c0.194,0.229,0.438,0.403,0.727,0.529
-					c0.293,0.123,0.633,0.187,1.021,0.187c0.45,0,0.82-0.041,1.116-0.132c0.294-0.085,0.517-0.164,0.662-0.232l0.254,0.747
-					c-0.046,0.029-0.131,0.068-0.254,0.114c-0.119,0.05-0.27,0.093-0.45,0.137c-0.183,0.044-0.394,0.079-0.634,0.115
-					C8.255,12.975,7.996,12.988,7.714,12.988z"/>
-			</g>
-		</g>
-		<g opacity="0.8">
-			<path fill="#FFFFFF" d="M9.284,9.264h1.642v-1.79h0.694v1.79h1.645V9.95h-1.645v1.796h-0.694V9.95H9.284V9.264z"/>
-			<path fill="#FFFFFF" d="M13.584,9.264h1.643v-1.79h0.695v1.79h1.643V9.95h-1.643v1.796h-0.695V9.95h-1.643V9.264z"/>
-		</g>
-	</g>
+	 viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#212121;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#9E9E9E;fill-opacity:0.39;}
+	.st3{fill:#FFFFFF;fill-opacity:0.39;}
+	.st4{opacity:0.8;}
+	.st5{fill:#FFFFFF;}
+</style>
+<title>text-x-c++</title>
+<path class="st0" d="M19,1v14l-6,6H3V1H19 M20,0H2v22h11l7-7V0z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="11" y1="1303.01" x2="11" y2="1323.01" gradientTransform="matrix(1 0 0 1 0 -1302.01)">
+	<stop  offset="0" style="stop-color:#90A4AE"/>
+	<stop  offset="1" style="stop-color:#616161"/>
+</linearGradient>
+<polygon class="st1" points="3,21 3,1 19,1 19,15 13,21 "/>
+<polygon class="st2" points="19,15 19,14 12,14 12,21 13,21 "/>
+<path class="st3" d="M13,15h6l-6,6V15z"/>
+<g class="st4">
+	<rect x="7" y="4" class="st5" width="4" height="1"/>
+	<rect x="7" y="12" class="st5" width="4" height="1"/>
+	<polygon class="st5" points="5,6 5,7 4,7 4,10 5,10 5,11 6,11 6,6 	"/>
+	<rect x="6" y="5" class="st5" width="1" height="1"/>
+	<rect x="6" y="11" class="st5" width="1" height="1"/>
+	<rect x="11" y="8" class="st5" width="3" height="1"/>
+	<rect x="12" y="7" class="st5" width="1" height="3"/>
+	<rect x="15" y="8" class="st5" width="3" height="1"/>
+	<rect x="16" y="7" class="st5" width="1" height="3"/>
 </g>
 </svg>

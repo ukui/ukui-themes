@@ -1,1 +1,27 @@
-<svg id="其他" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 16"><defs><style>.cls-1{fill:#606061;}.cls-2{fill:url(#未命名的渐变_12);}.cls-3{fill:#5e7b88;}.cls-4{fill:#445962;}</style><linearGradient id="未命名的渐变_12" x1="1.94" y1="953.55" x2="14.1" y2="953.55" gradientTransform="translate(0 -944)" gradientUnits="userSpaceOnUse"><stop offset="0.05" stop-color="#ced7db"/><stop offset="0.1" stop-color="#c4cdd2"/><stop offset="0.27" stop-color="#a7b5bc"/><stop offset="0.41" stop-color="#94a6b0"/><stop offset="0.51" stop-color="#8da1ab"/><stop offset="1" stop-color="#ced7db"/></linearGradient></defs><title>画板 26</title><g id="垃圾桶-空"><g id="_16" data-name="16"><path class="cls-1" d="M1.5,16V3.9H.7V1.4H4.8V0h6.4V1.5h4.1V3.9h-.9V16Zm8-14.5V1.2h-3v.3Z"/><rect class="cls-2" x="1.9" y="3.5" width="12.1" height="12.1"/><rect class="cls-3" x="11.8" y="5.8" width="1.1" height="8.9"/><rect class="cls-3" x="9.1" y="5.8" width="1.1" height="8.9"/><rect class="cls-3" x="5.8" y="5.8" width="1.1" height="8.9"/><rect class="cls-3" x="3.2" y="5.8" width="1.1" height="8.9"/><path class="cls-3" d="M10.8,1.8V.3H5.2V1.8H1V3.5H15V1.8Zm-4.7,0V.8H9.9v1Z"/><rect class="cls-4" x="1" y="3.2" width="14" height="0.3"/></g></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="&#x5176;&#x4ED6;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<title>画板 26</title>
+<g id="&#x5783;&#x573E;&#x6876;-&#x7A7A;">
+	<g id="_16">
+		<path style="fill:#606061;" d="M1.5,16V3.9H0.7V1.4h4.1V0h6.4v1.5h4.1v2.4h-0.9V16H1.5z M9.5,1.5V1.2h-3v0.3H9.5z"/>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1.94" y1="-935.55" x2="14.1" y2="-935.55" gradientTransform="matrix(1 0 0 -1 0 -926)">
+			<stop  offset="0.05" style="stop-color:#CED7DB"/>
+			<stop  offset="0.1" style="stop-color:#C4CDD2"/>
+			<stop  offset="0.27" style="stop-color:#A7B5BC"/>
+			<stop  offset="0.41" style="stop-color:#94A6B0"/>
+			<stop  offset="0.51" style="stop-color:#8DA1AB"/>
+			<stop  offset="1" style="stop-color:#CED7DB"/>
+		</linearGradient>
+		<rect x="1.9" y="3.5" style="fill:url(#SVGID_1_);" width="12.1" height="12.1"/>
+		<rect x="11.8" y="5.8" style="fill:#5E7B88;" width="1.1" height="8.9"/>
+		<rect x="9.1" y="5.8" style="fill:#5E7B88;" width="1.1" height="8.9"/>
+		<rect x="5.8" y="5.8" style="fill:#5E7B88;" width="1.1" height="8.9"/>
+		<rect x="3.2" y="5.8" style="fill:#5E7B88;" width="1.1" height="8.9"/>
+		<path style="fill:#5E7B88;" d="M10.8,1.8V0.3H5.2v1.5H1v1.7h14V1.8H10.8z M6.1,1.8v-1h3.8v1H6.1z"/>
+		<rect x="1" y="3.2" style="fill:#445962;" width="14" height="0.3"/>
+	</g>
+</g>
+</svg>

@@ -1,51 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
-<polygon fill="#01579B" points="1.881,16 1.881,0 14.119,0 14.119,11.495 9.545,16 "/>
-<g>
-	<g>
-		<g>
-			<g>
-				
-					<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="91.2012" y1="-582.3003" x2="91.2012" y2="-567.3008" gradientTransform="matrix(1 0 0 -1 -83.2002 -566.8008)">
-					<stop  offset="0" style="stop-color:#2196F3"/>
-					<stop  offset="0.5828" style="stop-color:#3DBAE8"/>
-					<stop  offset="1" style="stop-color:#4DD0E1"/>
-				</linearGradient>
-				<polygon fill="url(#SVGID_1_)" points="2.381,15.5 2.381,0.5 13.619,0.5 13.619,11.281 9.4,15.5 				"/>
-			</g>
-			<polygon fill="#01579B" fill-opacity="0.39" points="13.619,11.281 13.619,11.1 9.169,11.1 9.169,15.5 9.4,15.5 			"/>
-			<path fill="#FFFFFF" fill-opacity="0.3922" d="M9.395,11.281l4.226,0.006L9.4,15.5L9.395,11.281z"/>
-		</g>
-		<g>
-			<circle opacity="0.8" fill="#FFFFFF" enable-background="new    " cx="9.994" cy="6.531" r="0.794"/>
-			<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M4.094,4.875V10h7.813V4.875H4.094z M11.344,5.438v4l0,0
-				L9.531,8.15L8.237,8.943L6.575,6.938l-1.919,2.5v-4H11.344z"/>
-		</g>
-	</g>
-	<g>
-		<rect x="2.378" y="0.5" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="11.245" height="2.875"/>
-		<g enable-background="new    ">
-			<path fill="#0288D1" d="M5.377,0.775C5.73,0.775,6,0.834,6.188,0.951C6.376,1.069,6.47,1.261,6.47,1.528
-				c0,0.27-0.095,0.464-0.286,0.583c-0.19,0.12-0.463,0.18-0.816,0.18H5.201v0.75H4.67V0.833c0.115-0.021,0.237-0.037,0.367-0.045
-				C5.167,0.779,5.28,0.775,5.377,0.775z M5.412,1.205c-0.038,0-0.076,0.001-0.113,0.003C5.26,1.21,5.228,1.212,5.201,1.215v0.646
-				h0.167c0.184,0,0.322-0.023,0.415-0.071c0.093-0.047,0.14-0.136,0.14-0.265c0-0.063-0.012-0.114-0.036-0.155
-				C5.863,1.329,5.829,1.296,5.785,1.271C5.741,1.247,5.686,1.229,5.623,1.22S5.489,1.205,5.412,1.205z"/>
-			<path fill="#0288D1" d="M8.444,3.042c-0.152-0.256-0.316-0.51-0.493-0.76S7.585,1.796,7.385,1.574v1.468H6.862V0.801h0.432
-				c0.075,0.071,0.158,0.159,0.249,0.262C7.633,1.166,7.725,1.277,7.82,1.394C7.914,1.512,8.007,1.633,8.1,1.76
-				c0.094,0.126,0.181,0.247,0.262,0.363V0.801h0.529v2.241H8.444z"/>
-			<path fill="#0288D1" d="M10.584,1.189c-0.246,0-0.426,0.065-0.535,0.195C9.938,1.515,9.883,1.693,9.883,1.919
-				c0,0.11,0.014,0.21,0.041,0.299s0.068,0.167,0.123,0.231c0.055,0.065,0.123,0.115,0.203,0.15
-				c0.082,0.036,0.178,0.053,0.287,0.053c0.059,0,0.109-0.001,0.15-0.003c0.043-0.002,0.08-0.006,0.111-0.013V1.858h0.531v1.109
-				c-0.064,0.023-0.166,0.049-0.307,0.076s-0.314,0.041-0.521,0.041c-0.176,0-0.336-0.026-0.48-0.078S9.754,2.879,9.652,2.78
-				S9.471,2.559,9.416,2.414C9.359,2.27,9.332,2.105,9.332,1.919c0-0.188,0.031-0.354,0.092-0.498
-				c0.061-0.145,0.145-0.267,0.252-0.367s0.232-0.176,0.377-0.228c0.143-0.052,0.297-0.078,0.461-0.078
-				c0.111,0,0.211,0.007,0.301,0.021c0.09,0.014,0.166,0.03,0.23,0.049c0.064,0.018,0.119,0.037,0.16,0.057
-				c0.043,0.019,0.072,0.034,0.09,0.045l-0.152,0.404c-0.072-0.037-0.156-0.068-0.25-0.095C10.799,1.202,10.695,1.189,10.584,1.189z
-				"/>
-		</g>
-	</g>
-</g>
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#01579B;}
+	.st2{fill:#2196F3;fill-opacity:0.7;}
+	.st3{fill:#FFFFFF;fill-opacity:0.39;}
+	.st4{fill:#FFFFFF;}
+</style>
+<title>application-images-png</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="8" y1="2.5" x2="8" y2="17.5" gradientTransform="matrix(1 0 0 -1 0 18)">
+	<stop  offset="0" style="stop-color:#2196F3"/>
+	<stop  offset="0.58" style="stop-color:#3DBAE8"/>
+	<stop  offset="1" style="stop-color:#4DD0E1"/>
+</linearGradient>
+<polygon class="st0" points="9.4,15.5 13.5,11.3 13.5,0.5 2.5,0.5 2.5,15.5 "/>
+<path class="st1" d="M13.5,0.5V11L9,15.5H2.5v-15H13.5 M14,0H2v16h7.5l0.1-0.1l4.2-4.2l0.1-0.1V0z"/>
+<polygon class="st2" points="13.5,11 13.5,11 9,11 9,15.5 9,15.5 "/>
+<path class="st3" d="M9,11h4.5L9,15.5V11z"/>
+<path class="st4" d="M12,10H4V4h8V10z M11,5H5v4h6V5z"/>
+<rect x="7" y="8" class="st4" width="1" height="1"/>
+<rect x="9" y="6" class="st4" width="1" height="1"/>
+<rect x="6" y="7" class="st4" width="1" height="2"/>
+<polygon class="st4" points="5,9 6.5,6 9,9 10,8 11,9 11,9.5 5,9.5 "/>
 </svg>

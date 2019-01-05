@@ -1,40 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="22px" height="22px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
-<polygon fill="#1B5E20" points="2.634,22 2.634,0 19.366,0 19.366,15.807 13.111,22 "/>
-<g>
-	<g>
-		<g>
-			<g>
-				<g>
-					
-						<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="94.1992" y1="-582.3003" x2="94.1992" y2="-561.3008" gradientTransform="matrix(1 0 0 -1 -83.2002 -560.8008)">
-						<stop  offset="0" style="stop-color:#388E3C"/>
-						<stop  offset="0.0757" style="stop-color:#43953E"/>
-						<stop  offset="0.3246" style="stop-color:#62A943"/>
-						<stop  offset="0.5665" style="stop-color:#79B747"/>
-						<stop  offset="0.796" style="stop-color:#86C049"/>
-						<stop  offset="1" style="stop-color:#8BC34A"/>
-					</linearGradient>
-					<polygon fill="url(#SVGID_1_)" points="3.132,21.5 3.132,0.5 18.865,0.5 18.865,15.594 12.96,21.5 					"/>
-				</g>
-				<polygon fill="#1B5E20" fill-opacity="0.39" points="18.865,15.594 18.865,15.34 12.636,15.34 12.636,21.5 12.96,21.5 				"/>
-				<path fill="#FFFFFF" fill-opacity="0.3922" d="M12.951,15.594l5.916,0.008L12.96,21.5L12.951,15.594z"/>
-			</g>
-			<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M11.389,5.138V5.12H10.61v0.018H5.592v9.782h10.814V5.138
-				H11.389z M6.37,8.042h2.415v1.563H6.37V8.042z M6.37,10.383h2.415v1.562H6.37V10.383z M9.588,10.383h6.04v1.562h-6.04V10.383z
-				 M9.588,9.605V8.042h6.04v1.563H9.588z M15.628,5.923v1.343h-6.04V5.923H15.628z M8.785,5.923v1.343H6.37V5.923H8.785z
-				 M6.37,12.73h2.415v1.404H6.37V12.73z M9.588,14.135V12.73h6.04v1.404H9.588z"/>
-		</g>
-	</g>
-	<g>
-		<rect x="3.129" y="0.5" opacity="0.8" fill="#FFFFFF" enable-background="new    " width="15.742" height="4.025"/>
-		<g enable-background="new    ">
-			<path fill="#38883B" d="M7.761,4.058V0.921h2.229v0.594H8.503V2.13h1.319v0.58H8.503v0.756h1.596v0.592H7.761z"/>
-			<path fill="#38883B" d="M14.239,0.921v0.602h-0.995v2.535H12.5V1.522h-0.996V0.921H14.239z"/>
-		</g>
-	</g>
-</g>
+	 viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1B5E20;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#1B5E20;fill-opacity:0.39;}
+	.st3{fill:#FFFFFF;fill-opacity:0.39;}
+	.st4{opacity:0.8;fill:#FFFFFF;enable-background:new    ;}
+</style>
+<title>wps-office-et</title>
+<path class="st0" d="M19,1v14l-6,6H3V1H19 M20,0H2v22h11l7-7V0z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="11" y1="-1486.99" x2="11" y2="-1506.99" gradientTransform="matrix(1 0 0 -1 0 -1485.99)">
+	<stop  offset="0" style="stop-color:#8BC34A"/>
+	<stop  offset="0.2" style="stop-color:#86C049"/>
+	<stop  offset="0.43" style="stop-color:#79B747"/>
+	<stop  offset="0.68" style="stop-color:#62A943"/>
+	<stop  offset="0.92" style="stop-color:#43953E"/>
+	<stop  offset="1" style="stop-color:#388E3C"/>
+</linearGradient>
+<polygon class="st1" points="3,21 3,1 19,1 19,15 13,21 "/>
+<polygon class="st2" points="19,15 19,14 12,14 12,21 13,21 "/>
+<path class="st3" d="M13,15h6l-6,6V15z"/>
+<path class="st4" d="M6,4v9h10V4H6z M7,5h2v1H7V5z M7,7h2v1H7V7z M7,9h2v1H7V9z M7,12v-1h2v1H7z M15,12h-5v-1h5V12z M15,10h-5V9h5
+	V10z M15,8h-5V7h5V8z M15,6h-5V5h5V6z"/>
 </svg>

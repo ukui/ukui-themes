@@ -132,3 +132,11 @@ read if you used those and something break with a version upgrade you're on your
  */
 @define-color panel_normal_bg_color #{"" + $panel_normal_bg_color};
 @define-color panel_normal_border_color #{"" + $headerbar_normal_border_color};
+
+/*
+ * For startup menu
+ */
+@define-color startup_menu_color #1a5085;
+@define-color startup_slider_background_color #326598;
+@define-color startup_slider_color #5b84ad;
+

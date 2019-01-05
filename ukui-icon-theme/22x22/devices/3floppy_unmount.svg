@@ -1,1 +1,53 @@
-<svg id="其他" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 22 22"><defs><style>.cls-1,.cls-2,.cls-3,.cls-4,.cls-5,.cls-6,.cls-7,.cls-8{fill-rule:evenodd;}.cls-1{fill:url(#新建渐变色板_1);}.cls-2{fill:url(#linear-gradient);}.cls-3{fill:#221e1f;}.cls-4{fill:#040000;}.cls-5{fill:#bac6d1;}.cls-6{fill:#616161;}.cls-7{fill:url(#linear-gradient-2);}.cls-8{fill:#fff;}.cls-9{fill:#90a4ae;}</style><linearGradient id="新建渐变色板_1" x1="11" y1="0.51" x2="11" y2="39.41" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#211d1e"/><stop offset="0.55" stop-color="#58595b"/><stop offset="1" stop-color="#abb6be"/></linearGradient><linearGradient id="linear-gradient" x1="11.21" y1="9.19" x2="11.21" y2="22.8" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#cfd8dc"/></linearGradient><linearGradient id="linear-gradient-2" x1="-4.17" y1="5.58" x2="18.21" y2="3.23" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#bfd7b1"/><stop offset="0.36" stop-color="#cfd1d2"/><stop offset="1" stop-color="#fff"/></linearGradient></defs><title>画板 25</title><g id="软驱"><path d="M1.3,22A1.25,1.25,0,0,1,.05,20.75V1.25A1.25,1.25,0,0,1,1.3,0H2.9L3,.29l2.15,0V0H19.94l2,2V20.77A1.22,1.22,0,0,1,20.7,22Z"/><path class="cls-1" d="M21.45,20.77a.73.73,0,0,1-.75.72H1.3a.75.75,0,0,1-.75-.75V1.25A.75.75,0,0,1,1.3.51H2.59a.58.58,0,0,0,.53.32H16.76a.58.58,0,0,0,.53-.32h2.44l1.72,1.67Z"/><path class="cls-2" d="M3.69,9.48h15a.77.77,0,0,1,.77.76V21.49H2.93V10.24A.76.76,0,0,1,3.69,9.48Z"/><path class="cls-3" d="M3.36,8a.55.55,0,0,1-.55-.55V.75a.59.59,0,0,0,.24.08V7.48A.55.55,0,0,0,3.6,8Z"/><path class="cls-4" d="M3.55,9.4H18.63a.78.78,0,0,1,.48.19.77.77,0,0,0-.24-.06H3.79a.77.77,0,0,0-.76.76V21.5H2.78V10.16A.77.77,0,0,1,3.55,9.4Z"/><path class="cls-5" d="M19,9.54a.76.76,0,0,1,.62.75v9h0v.82h0v1.42H19.4V10.18A.76.76,0,0,0,19,9.54Z"/><path class="cls-6" d="M17.24.6l0,6.93a.56.56,0,0,1-.55.55l-13,0a.55.55,0,0,1-.49-.3,1.85,1.85,0,0,0,.48.16l12.79,0A.54.54,0,0,0,17,7.41L17,.8a.57.57,0,0,0,.26-.2Zm-.55.24h0Z"/><path class="cls-3" d="M5.71.51H16.62V6.84a.77.77,0,0,1-.77.77H6.49a.78.78,0,0,1-.77-.77V.51Zm7,.76a.52.52,0,0,0-.52.52v5a.52.52,0,0,0,.52.52h2.12a.52.52,0,0,0,.52-.52v-5a.52.52,0,0,0-.52-.52Z"/><path class="cls-7" d="M5.69.5H16.61V6.75a.78.78,0,0,1-.78.77H6.47a.78.78,0,0,1-.77-.77V.5Zm7.05.68a.52.52,0,0,0-.52.52v5a.52.52,0,0,0,.52.52h2.12a.52.52,0,0,0,.52-.52v-5a.52.52,0,0,0-.52-.52Z"/><path class="cls-8" d="M5.69.51H16.61V.6H5.77V6.83a.76.76,0,0,0,.16.46.76.76,0,0,1-.24-.55V.5Zm9.59.89a.51.51,0,0,1,.09.29v5a.52.52,0,0,1-.52.52H12.74a.52.52,0,0,1-.35-.13.52.52,0,0,0,.43.23h2.11a.52.52,0,0,0,.52-.52v-5A.52.52,0,0,0,15.29,1.4Z"/><rect class="cls-9" x="5.9" y="12.62" width="10.53" height="0.78"/><rect class="cls-9" x="5.9" y="17.03" width="10.53" height="0.78"/></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="&#x5176;&#x4ED6;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
+<title>画板 25</title>
+<g id="&#x8F6F;&#x9A71;">
+	<path d="M1.3,22c-0.69,0-1.25-0.56-1.25-1.25V1.25C0.05,0.56,0.61,0,1.3,0h1.6L3,0.29h2.15V0h14.79l2,2v18.77
+		c0.006,0.674-0.536,1.225-1.21,1.23c-0.01,0-0.02,0-0.03,0H1.3z"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="11" y1="23.49" x2="11" y2="-15.41" gradientTransform="matrix(1 0 0 -1 0 24)">
+		<stop  offset="0" style="stop-color:#211D1E"/>
+		<stop  offset="0.55" style="stop-color:#58595B"/>
+		<stop  offset="1" style="stop-color:#ABB6BE"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M21.45,20.77c-0.005,0.403-0.337,0.726-0.74,0.72c-0.003,0-0.007,0-0.01,0H1.3
+		c-0.414,0-0.75-0.336-0.75-0.75V1.25C0.555,0.84,0.89,0.51,1.3,0.51h1.29c0.1,0.2,0.306,0.324,0.53,0.32h13.64
+		c0.224,0.004,0.43-0.12,0.53-0.32h2.44l1.72,1.67V20.77z"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="11.195" y1="14.81" x2="11.195" y2="1.2" gradientTransform="matrix(1 0 0 -1 0 24)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#CFD8DC"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_2_);" d="M3.69,9.48h15c0.421,0,0.765,0.339,0.77,0.76v11.25H2.93V10.24
+		C2.93,9.82,3.27,9.48,3.69,9.48L3.69,9.48z"/>
+	<path style="fill:#221E1F;" d="M3.36,8C3.056,8,2.81,7.754,2.81,7.45l0,0v-6.7c0.073,0.044,0.155,0.071,0.24,0.08v6.65
+		C3.066,7.772,3.308,8,3.6,8H3.36z"/>
+	<path style="fill:#040000;" d="M3.55,9.4h15.08c0.177,0.007,0.346,0.074,0.48,0.19c-0.076-0.033-0.157-0.053-0.24-0.06H3.79
+		c-0.417,0.005-0.755,0.343-0.76,0.76V21.5H2.78V10.16C2.785,9.739,3.129,9.4,3.55,9.4z"/>
+	<path style="fill:#BAC6D1;" d="M19,9.54c0.361,0.068,0.621,0.383,0.62,0.75v9l0,0v0.82l0,0v1.42H19.4V10.18
+		C19.389,9.911,19.237,9.667,19,9.54z"/>
+	<path style="fill:#616161;" d="M17.24,0.6v6.93c-0.005,0.302-0.248,0.545-0.55,0.55h-13c-0.207,0-0.396-0.116-0.49-0.3
+		c0.152,0.075,0.313,0.129,0.48,0.16h12.79C16.76,7.935,16.995,7.7,17,7.41V0.8c0.104-0.04,0.195-0.109,0.26-0.2H17.24z M16.69,0.84
+		L16.69,0.84z"/>
+	<path style="fill:#221E1F;" d="M5.71,0.51h10.91v6.33c0,0.425-0.345,0.77-0.77,0.77l0,0H6.49C6.067,7.605,5.725,7.263,5.72,6.84
+		V0.51H5.71z M12.71,1.27c-0.287,0-0.52,0.233-0.52,0.52v5c0,0.287,0.233,0.52,0.52,0.52l0,0h2.12c0.287,0,0.52-0.233,0.52-0.52v-5
+		c0-0.287-0.233-0.52-0.52-0.52l0,0H12.71z"/>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-4.17" y1="18.4201" x2="18.21" y2="20.7701" gradientTransform="matrix(1 0 0 -1 0 24)">
+		<stop  offset="0" style="stop-color:#BFD7B1"/>
+		<stop  offset="0.36" style="stop-color:#CFD1D2"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_3_);" d="M5.69,0.5h10.92v6.25c-0.005,0.427-0.353,0.77-0.78,0.77H6.47
+		C6.047,7.515,5.705,7.173,5.7,6.75V0.5H5.69z M12.74,1.18c-0.287,0-0.52,0.233-0.52,0.52c0,0,0,0,0,0v5
+		c0,0.287,0.233,0.52,0.52,0.52l0,0h2.12c0.287,0,0.52-0.233,0.52-0.52v-5c0-0.287-0.233-0.52-0.52-0.52l0,0L12.74,1.18z"/>
+	<path style="fill:#FFFFFF;" d="M5.69,0.51h10.92V0.6H5.77v6.23c0.001,0.167,0.058,0.328,0.16,0.46
+		C5.778,7.147,5.691,6.948,5.69,6.74V0.5V0.51z M15.28,1.4c0.059,0.085,0.09,0.186,0.09,0.29v5c0,0.287-0.233,0.52-0.52,0.52l0,0
+		h-2.11c-0.129,0.001-0.253-0.045-0.35-0.13c0.096,0.143,0.257,0.229,0.43,0.23h2.11c0.287,0,0.52-0.233,0.52-0.52v-5
+		c0.004-0.147-0.054-0.288-0.16-0.39H15.28z"/>
+	<rect x="5.9" y="12.62" style="fill:#90A4AE;" width="10.53" height="0.78"/>
+	<rect x="5.9" y="17.03" style="fill:#90A4AE;" width="10.53" height="0.78"/>
+</g>
+</svg>

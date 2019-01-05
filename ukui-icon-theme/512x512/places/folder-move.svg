@@ -1,53 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-ydpi="270" inkscape:export-xdpi="270" sodipodi:docname="user-home.svg" inkscape:version="0.48.4 r9939"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
-	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<sodipodi:namedview  id="base" inkscape:cx="35.66124" pagecolor="#ffffff" showguides="true" inkscape:zoom="5.6530318" showgrid="true" borderopacity="1.0" inkscape:cy="21.321632" bordercolor="#666666" inkscape:pageopacity="0.0" inkscape:window-x="0" inkscape:guide-bbox="true" inkscape:pageshadow="2" inkscape:window-height="1023" inkscape:document-units="px" inkscape:window-width="1920" inkscape:window-y="28" inkscape:current-layer="layer1" inkscape:window-maximized="1">
-	<inkscape:grid  type="xygrid" visible="true" enabled="true" id="grid2985" empspacing="5" snapvisiblegridlinesonly="true">
-		</inkscape:grid>
-</sodipodi:namedview>
-<g opacity="0.85">
-	<polygon fill="#FF9800" points="10,293.4 10,103.6 28,103.6 28,49 92.8,49 110.8,67.2 272.4,67.2 272.4,103.6 290.6,103.6 
-		290.6,293.4 	"/>
-	<path fill="#FFB74D" d="M269.9,106.8c0-14.2,0-36.9,0-36.9H108.7L90.5,51.5H30.8V70v18.4v18.4H12.4v184.1h276V106.8H269.9z"/>
-</g>
-<g>
-	<g>
-		<polygon opacity="0.2" enable-background="new    " points="213.2,463 213.2,265.2 231.4,265.2 231.4,210.8 301.6,210.8 
-			319.8,228.8 483.8,228.8 483.8,265.2 502,265.2 502,463 		"/>
-		<polygon opacity="8.000000e-002" enable-background="new    " points="213.2,471 213.2,265.2 231.4,265.2 231.4,210.8 
-			307.3,210.8 325.5,228.8 491.8,228.8 491.8,265.2 510,265.2 510,471 		"/>
-		<polygon opacity="9.999999e-002" enable-background="new    " points="217.2,467 217.2,269.2 235.4,269.2 235.4,214.8 
-			305.6,214.8 323.8,232.8 487.8,232.8 487.8,269.2 506,269.2 506,467 		"/>
-		<polygon fill="#F57F17" points="217.2,459 217.2,269.2 235.4,269.2 235.4,214.8 300,214.8 318.2,232.8 479.8,232.8 479.8,269.2 
-			498,269.2 498,459 		"/>
-		
-			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="357.65" y1="-30.296" x2="357.65" y2="38.7113" gradientTransform="matrix(1 0 0 -1 0 256)">
-			<stop  offset="0" style="stop-color:#F57C00"/>
-			<stop  offset="0.1638" style="stop-color:#F58F09"/>
-			<stop  offset="0.3598" style="stop-color:#F59D11"/>
-			<stop  offset="0.5982" style="stop-color:#F5A515"/>
-			<stop  offset="0.9946" style="stop-color:#F5A816"/>
-		</linearGradient>
-		<path fill="url(#SVGID_1_)" d="M477.3,235.8H315.9l-18.2-18.4H238v18.4v18.4v23.1c0,5.1,4.5,9.1,9.1,9.1H468
-			c4.9,0,9.1,0.4,9.1-4.7C477.3,272.6,477.3,235.8,477.3,235.8z"/>
-		
-			<linearGradient id="rect2990_1_" gradientUnits="userSpaceOnUse" x1="357.5" y1="-16.4" x2="357.5" y2="-200.5" gradientTransform="matrix(1 0 0 -1 0 256)">
-			<stop  offset="0" style="stop-color:#FADD60"/>
-			<stop  offset="0.9946" style="stop-color:#F5A816"/>
-		</linearGradient>
-		<polyline id="rect2990_2_" fill="url(#rect2990_1_)" points="495.5,272.4 495.5,456.5 219.5,456.5 219.5,272.4 		"/>
-		<path id="rect3004_1_" inkscape:connector-curvature="0" opacity="0.25" fill="#FDEFBA" enable-background="new    " d="
-			M219.5,272.4v35.2c0-12.1,8.1-22.1,18.4-22.1H477c10.3,0,18.4,9.9,18.4,22.1v-35.2H219.5z"/>
-		<path id="path3801_1_" inkscape:connector-curvature="0" opacity="0.1" fill="#E65100" enable-background="new    " d="
-			M237.9,217.3c0,0,0,4.7,0,13.8v9.1c0-9.1,4-13.8,8.3-13.8H294c3.2,0,7.5,0.2,15,4.5c2,1.2,4.5,2.8,6.9,4.7l-18.2-18.4H238v0.1
-			H237.9z"/>
-		<polygon opacity="0.1" fill="#E65100" enable-background="new    " points="315.9,235.8 477.3,235.8 477.3,249.5 329.7,249.5 		
-			"/>
-		<rect x="237.9" y="264.3" opacity="5.000000e-002" fill="#E65100" enable-background="new    " width="239.3" height="8.1"/>
-	</g>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="文件夹" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#808080;stroke-width:16;stroke-miterlimit:10;}
+</style>
+<title>512</title>
+<g id="_512">
+	<polyline class="st0" points="500,492 96,492 96,164 238,164 298,230 492,230 492,500 	"/>
+	<polyline class="st0" points="20,54 20,20 54,20 	"/>
+	<line class="st0" x1="328" y1="86" x2="360" y2="86"/>
+	<line class="st0" x1="20" y1="222" x2="20" y2="246"/>
+	<line class="st0" x1="416" y1="140" x2="416" y2="164"/>
+	<line class="st0" x1="20" y1="78" x2="20" y2="102"/>
+	<polyline class="st0" points="38,348 20,348 20,318 	"/>
+	<line class="st0" x1="20" y1="126" x2="20" y2="150"/>
+	<polyline class="st0" points="416,116 416,86 384,86 	"/>
+	<line class="st0" x1="20" y1="174" x2="20" y2="198"/>
+	<line class="st0" x1="78" y1="20" x2="102" y2="20"/>
+	<line class="st0" x1="20" y1="270" x2="20" y2="294"/>
+	<line class="st0" x1="416" y1="182" x2="416" y2="198"/>
+	<line class="st0" x1="274" y1="86" x2="306" y2="86"/>
+	<line class="st0" x1="64" y1="348" x2="52" y2="348"/>
+	<polyline class="st0" points="214.7,78 222,86 252,86 	"/>
+	<line class="st0" x1="188" y1="48.6" x2="205.6" y2="68"/>
+	<polyline class="st0" points="126,20 162,20 178,37.6 	"/>
 </g>
 </svg>

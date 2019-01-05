@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
-<rect x="1.881" fill="#1B5E20" width="12.238" height="16"/>
-<g>
-	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="91.1992" y1="840.3008" x2="91.1992" y2="825.3008" gradientTransform="matrix(1 0 0 1 -83.2002 -824.8008)">
-		<stop  offset="0" style="stop-color:#388E3C"/>
-		<stop  offset="0.0757" style="stop-color:#43953E"/>
-		<stop  offset="0.3246" style="stop-color:#62A943"/>
-		<stop  offset="0.5665" style="stop-color:#79B747"/>
-		<stop  offset="0.796" style="stop-color:#86C049"/>
-		<stop  offset="1" style="stop-color:#8BC34A"/>
-	</linearGradient>
-	<rect x="2.381" y="0.5" fill="url(#SVGID_1_)" width="11.238" height="15"/>
-	<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M8.287,5.264V5.251H7.713v0.013H4v7.238h8V5.264H8.287z
-		 M4.575,7.413h1.787v1.156H4.575V7.413z M4.575,9.146h1.787v1.156H4.575V9.146z M6.956,9.146h4.469v1.156H6.956V9.146z
-		 M6.956,8.569V7.413h4.469v1.156H6.956z M11.425,5.845v0.994H6.956V5.845H11.425z M6.362,5.845v0.994H4.575V5.845H6.362z
-		 M4.575,10.883h1.787v1.038H4.575V10.883z M6.956,11.921v-1.038h4.469v1.038H6.956z"/>
-	<g>
-		<rect x="2.378" y="0.5" opacity="0.8" fill="#FFFFFF" width="11.244" height="2.875"/>
-	</g>
-	<text transform="matrix(1.0526 0 0 1 4.6597 3.0415)" fill="#388E3C" font-family="'Ubuntu-Bold'" font-size="3.2332">OTS</text>
-</g>
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#1B5E20;}
+	.st2{fill:#388E3C;}
+	.st3{fill:#FFFFFF;fill-opacity:0.39;}
+	.st4{opacity:0.8;fill:#FFFFFF;enable-background:new    ;}
+</style>
+<title>application-vnd.oasis.opendocument.spreadsheet-template</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="8" y1="789.5" x2="8" y2="774.5" gradientTransform="matrix(1 0 0 1 0 -774)">
+	<stop  offset="0" style="stop-color:#388E3C"/>
+	<stop  offset="0.08" style="stop-color:#43953E"/>
+	<stop  offset="0.32" style="stop-color:#62A943"/>
+	<stop  offset="0.57" style="stop-color:#79B747"/>
+	<stop  offset="0.8" style="stop-color:#86C049"/>
+	<stop  offset="1" style="stop-color:#8BC34A"/>
+</linearGradient>
+<polygon class="st0" points="9.4,15.5 13.5,11.3 13.5,0.5 2.5,0.5 2.5,15.5 "/>
+<path class="st1" d="M13.5,0.5V11L9,15.5H2.5v-15H13.5 M14,0H2v16h7.5l0.1-0.1l4.2-4.2l0.1-0.1V0H14z"/>
+<polygon class="st2" points="13.5,11 13.5,11 9,11 9,15.5 9,15.5 "/>
+<path class="st3" d="M9,11h4.5L9,15.5V11z"/>
+<path class="st4" d="M9,3H4v7h8V3H9z M5,4h2v1H5V4z M5,6h2v1H5V6z M5,9V8h2v1H5z M11,9H8V8h3V9z M11,7H8V6h3V7z M9,5H8V4h3v1H9z"/>
 </svg>

@@ -1,29 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<rect x="9.148" y="2" opacity="0.2" width="45.703" height="60"/>
-<rect x="9.148" y="2" opacity="0.08" width="47.703" height="62"/>
-<rect x="10.148" y="3" opacity="0.1" width="45.703" height="60"/>
-<rect x="10.148" y="3" fill="#607D8B" width="43.703" height="58"/>
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.2;enable-background:new    ;}
+	.st1{opacity:0.08;enable-background:new    ;}
+	.st2{opacity:0.1;enable-background:new    ;}
+	.st3{fill:#607D8B;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{opacity:0.8;enable-background:new    ;}
+</style>
+<rect x="9.1" y="2" class="st0" width="45.7" height="60"/>
+<rect x="9.1" y="2" class="st1" width="47.7" height="62"/>
+<rect x="10.1" y="3" class="st2" width="45.7" height="60"/>
+<rect x="10.1" y="3" class="st3" width="43.7" height="58"/>
 <g>
 	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="73.6006" y1="422.3994" x2="73.6006" y2="479.4004" gradientTransform="matrix(1 0 0 1 -41.6001 -418.9004)">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="73.5501" y1="1148.4004" x2="73.5501" y2="1205.4004" gradientTransform="matrix(1 0 0 1 -41.6001 -1144.9004)">
 		<stop  offset="0" style="stop-color:#F5F5F5"/>
 		<stop  offset="0.341" style="stop-color:#F1F2F3"/>
 		<stop  offset="0.6434" style="stop-color:#E7EAEC"/>
 		<stop  offset="0.9302" style="stop-color:#D5DCE0"/>
 		<stop  offset="1" style="stop-color:#CFD8DC"/>
 	</linearGradient>
-	<rect x="10.646" y="3.5" fill="url(#SVGID_1_)" width="42.707" height="57"/>
-	<g opacity="0.8" enable-background="new    ">
-		<rect x="16.303" y="11.672" fill="#607D8B" width="31.589" height="3.369"/>
-		<rect x="16.303" y="20.767" fill="#607D8B" width="31.589" height="1.566"/>
-		<rect x="16.303" y="25.684" fill="#607D8B" width="31.589" height="1.566"/>
-		<rect x="16.303" y="30.623" fill="#607D8B" width="31.589" height="1.567"/>
-		<rect x="16.303" y="35.541" fill="#607D8B" width="31.589" height="1.564"/>
-		<rect x="16.303" y="40.48" fill="#607D8B" width="19.52" height="1.566"/>
+	<rect x="10.6" y="3.5" class="st4" width="42.7" height="57"/>
+	<g class="st5">
+		<rect x="16.3" y="11.7" class="st3" width="31.6" height="3.4"/>
+		<rect x="16.3" y="20.8" class="st3" width="31.6" height="1.6"/>
+		<rect x="16.3" y="25.7" class="st3" width="31.6" height="1.6"/>
+		<rect x="16.3" y="30.6" class="st3" width="31.6" height="1.6"/>
+		<rect x="16.3" y="35.5" class="st3" width="31.6" height="1.6"/>
+		<rect x="16.3" y="40.5" class="st3" width="19.5" height="1.6"/>
 	</g>
 </g>
 </svg>

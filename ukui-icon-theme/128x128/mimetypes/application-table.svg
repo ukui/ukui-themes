@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
-<polygon opacity="0.08" enable-background="new    " points="18.31,128 18.31,4 113.689,4 113.689,92.995 78.686,128 "/>
-<polygon display="none" opacity="0.08" enable-background="new    " points="22.31,126 22.31,6 113.689,6 113.689,92.167 
-	79.857,126 "/>
-<polygon opacity="0.1" enable-background="new    " points="20.31,126 20.31,6 111.689,6 111.689,92.167 77.857,126 "/>
-<polygon opacity="0.2" enable-background="new    " points="18.31,124 18.31,4 109.689,4 109.689,90.167 75.857,124 "/>
-<polygon fill="#1B5E20" points="20.298,122 20.298,6 107.702,6 107.702,89.339 75.033,122 "/>
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.08;enable-background:new    ;}
+	.st1{display:none;opacity:0.08;enable-background:new    ;}
+	.st2{opacity:0.1;enable-background:new    ;}
+	.st3{opacity:0.2;enable-background:new    ;}
+	.st4{fill:#1B5E20;}
+	.st5{fill:url(#SVGID_1_);}
+	.st6{fill:#1B5E20;fill-opacity:0.39;}
+	.st7{fill:#FFFFFF;fill-opacity:0.3922;}
+	.st8{opacity:0.8;fill:#FFFFFF;enable-background:new    ;}
+</style>
+<polygon class="st0" points="18.3,128 18.3,4 113.7,4 113.7,93 78.7,128 "/>
+<polygon class="st1" points="22.3,126 22.3,6 113.7,6 113.7,92.2 79.9,126 "/>
+<polygon class="st2" points="20.3,126 20.3,6 111.7,6 111.7,92.2 77.9,126 "/>
+<polygon class="st3" points="18.3,124 18.3,4 109.7,4 109.7,90.2 75.9,124 "/>
+<polygon class="st4" points="20.3,122 20.3,6 107.7,6 107.7,89.3 75,122 "/>
 <g>
 	<g>
 		<g>
 			
-				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="105.5996" y1="539.9004" x2="105.5996" y2="425.9004" gradientTransform="matrix(1 0 0 1 -41.6001 -418.9004)">
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="105.6001" y1="1201.9004" x2="105.6001" y2="1087.9004" gradientTransform="matrix(1 0 0 1 -41.6001 -1080.9004)">
 				<stop  offset="0" style="stop-color:#388E3C"/>
 				<stop  offset="0.0757" style="stop-color:#43953E"/>
 				<stop  offset="0.3246" style="stop-color:#62A943"/>
@@ -21,14 +30,13 @@
 				<stop  offset="0.796" style="stop-color:#86C049"/>
 				<stop  offset="1" style="stop-color:#8BC34A"/>
 			</linearGradient>
-			<polygon fill="url(#SVGID_1_)" points="21.292,121 21.292,7 106.708,7 106.708,88.938 74.645,121 			"/>
+			<polygon class="st5" points="21.3,121 21.3,7 106.7,7 106.7,88.9 74.6,121 			"/>
 		</g>
-		<polygon fill="#1B5E20" fill-opacity="0.39" points="106.708,88.938 106.708,87.559 72.885,87.559 72.885,121 74.645,121 		"/>
-		<path fill="#FFFFFF" fill-opacity="0.3922" d="M74.592,88.938l32.116,0.043L74.645,121L74.592,88.938z"/>
+		<polygon class="st6" points="106.7,88.9 106.7,87.6 72.9,87.6 72.9,121 74.6,121 		"/>
+		<path class="st7" d="M74.6,88.9h32.1l-32.1,32V88.9z"/>
 	</g>
-	<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M66.189,27.996V27.9h-4.374v0.096H33.597V83h60.801V27.996
-		H66.189z M37.97,44.332h13.582v8.787H37.97V44.332z M37.97,57.49h13.582v8.79H37.97V57.49z M56.063,57.49h33.966v8.79H56.063V57.49
-		z M56.063,53.119v-8.787h33.966v8.787H56.063z M90.029,32.412v7.557H56.063v-7.557H90.029z M51.552,32.412v7.557H37.97v-7.557
-		H51.552z M37.97,70.695h13.582v7.889H37.97V70.695z M56.063,78.584v-7.889h33.966v7.889H56.063z"/>
+	<path class="st8" d="M66.2,28L66.2,28l-4.4-0.1V28H33.6v55h60.8V28H66.2z M38,44.3h13.6v8.8H38V44.3z M38,57.5h13.6v8.8H38V57.5z
+		 M56.1,57.5h34v8.8h-34V57.5z M56.1,53.1v-8.8h34v8.8H56.1z M90,32.4V40H56v-7.6H90z M51.6,32.4V40H38v-7.6H51.6z M38,70.7h13.6
+		v7.9H38V70.7z M56.1,78.6v-7.9h34v7.9H56.1z"/>
 </g>
 </svg>

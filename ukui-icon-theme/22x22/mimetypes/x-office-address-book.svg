@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="22px" height="22px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
-<g>
-	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="177.4004" y1="1575.9609" x2="177.4004" y2="1553.9609" gradientTransform="matrix(1 0 0 1 -166.4004 -1553.9609)">
-		<stop  offset="0" style="stop-color:#512DA8"/>
-		<stop  offset="0.008" style="stop-color:#512DA8"/>
-		<stop  offset="0.0504" style="stop-color:#5733AB"/>
-		<stop  offset="0.2927" style="stop-color:#7250BA"/>
-		<stop  offset="0.5337" style="stop-color:#8564C4"/>
-		<stop  offset="0.771" style="stop-color:#9171CB"/>
-		<stop  offset="1" style="stop-color:#9575CD"/>
-	</linearGradient>
-	<path fill="url(#SVGID_1_)" d="M13.063,22l6.188-6.188V0H2.75v22H13.063z"/>
-	<polygon fill="#512DA8" fill-opacity="0.3922" points="12.719,15.469 12.719,22 13.063,22 19.25,15.813 19.25,15.469 	"/>
-	<path fill="#FFFFFF" fill-opacity="0.3922" d="M13.063,15.813h6.183L13.063,22V15.813z"/>
-	<path opacity="0.8" fill="#FFFFFF" d="M10.541,5.5h0.919c1.375,0,1.603,1.614,1.603,1.614v1.604c0,0.541-1.146,1.642-1.146,1.642
-		v0.54l1.834,1.063v1.081l-2.978,0.02H8.25v-1.08l1.834-1.081v-0.54c0,0-1.149-1.096-1.147-1.637V7.122
-		C8.938,7.122,9.166,5.5,10.541,5.5z"/>
-	<g>
-		<path fill="#311B92" d="M18.75,0.5v15.105L12.855,21.5H8.25h-5v-21H18.75 M19.25,0H2.75v22h5.5h4.813l6.188-6.188V0L19.25,0z"/>
-	</g>
-</g>
+	 viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#311B92;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#512DA8;fill-opacity:0.39;}
+	.st3{fill:#FFFFFF;fill-opacity:0.39;}
+	.st4{opacity:0.8;fill:#FFFFFF;enable-background:new    ;}
+</style>
+<title>x-office-address-book</title>
+<path class="st0" d="M19,1v14l-6,6H3V1H19 M20,0H2v22h11l7-7V0z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="11" y1="-1486.99" x2="11" y2="-1506.99" gradientTransform="matrix(1 0 0 -1 0 -1485.99)">
+	<stop  offset="0" style="stop-color:#9575CD"/>
+	<stop  offset="0.23" style="stop-color:#9171CB"/>
+	<stop  offset="0.47" style="stop-color:#8564C4"/>
+	<stop  offset="0.71" style="stop-color:#7250BA"/>
+	<stop  offset="0.95" style="stop-color:#5733AB"/>
+	<stop  offset="0.99" style="stop-color:#512DA8"/>
+	<stop  offset="1" style="stop-color:#512DA8"/>
+</linearGradient>
+<polygon class="st1" points="3,21 3,1 19,1 19,15 13,21 "/>
+<polygon class="st2" points="19,15 19,14 12,14 12,21 13,21 "/>
+<path class="st3" d="M13,15h6l-6,6V15z"/>
+<path class="st4" d="M10.5,4h1.2c1.8,0,2.1,2.1,2.1,2.1v2.1c0,0.7-1.5,2.2-1.5,2.2v0.7l2.4,1.4V14h-3.9H7.5v-1.4l2.4-1.4v-0.7
+	c0,0-1.5-1.4-1.5-2.2V6.1C8.4,6.1,8.7,4,10.5,4z"/>
 </svg>

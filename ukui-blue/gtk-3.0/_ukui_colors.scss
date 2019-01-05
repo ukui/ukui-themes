@@ -4,7 +4,7 @@
  */
 /* background colors in different states */
 $base_normal_bg_color: white;
-$base_active_bg_color: #c3dffe;
+$base_active_bg_color:#c3dffe;/* #c3dffe*/
 $base_prelight_bg_color: #dcebfd;
 $base_selected_bg_color: $base_active_bg_color;
 $base_insensitive_bg_color: #f0f0f0;
@@ -182,7 +182,7 @@ $headerbar_backdrop_border_color: #cccccc;
 /*
  * Panel
  */
-$panel_normal_bg_color: #15678f;
+$panel_normal_bg_color: #013c77;
 $panel_normal_bg_image: image($panel_normal_bg_color);
 $panel_button_normal_bg_image: image(#367b9c);
 $panel_button_normal_border_color: #507e93;
@@ -192,3 +192,12 @@ $panel_button_normal_border_color: #507e93;
  * Control Center
  */
 $ukcc_sidebar_normal_bg_color: #f0f0f0;
+
+
+/*
+ * start-menu
+ */
+$menu_font_color:#000000;
+
+
+

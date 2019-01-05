@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<rect x="68.199" y="8" opacity="0.2" enable-background="new    " width="374.594" height="496"/>
-<rect x="68.199" y="8" opacity="0.08" enable-background="new    " width="382.594" height="504"/>
-<rect x="72.199" y="12" opacity="0.1" enable-background="new    " width="374.594" height="496"/>
-<rect x="72.199" y="12" fill="#1B5E20" width="366.594" height="488"/>
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.2;enable-background:new    ;}
+	.st1{opacity:0.08;enable-background:new    ;}
+	.st2{opacity:0.1;enable-background:new    ;}
+	.st3{fill:#1B5E20;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{opacity:0.8;fill:#FFFFFF;enable-background:new    ;}
+	.st6{fill:#388E3C;}
+</style>
+<rect x="68.2" y="8" class="st0" width="374.6" height="496"/>
+<rect x="68.2" y="8" class="st1" width="382.6" height="504"/>
+<rect x="72.2" y="12" class="st2" width="374.6" height="496"/>
+<rect x="72.2" y="12" class="st3" width="366.6" height="488"/>
 <g>
 	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="338.7024" y1="1322.8005" x2="338.7024" y2="838.8005" gradientTransform="matrix(1 0 0 1 -83.2002 -824.8008)">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="338.7002" y1="1600.8008" x2="338.7002" y2="1116.8008" gradientTransform="matrix(1 0 0 1 -83.2002 -1102.8008)">
 		<stop  offset="0" style="stop-color:#388E3C"/>
 		<stop  offset="0.0757" style="stop-color:#43953E"/>
 		<stop  offset="0.3246" style="stop-color:#62A943"/>
@@ -17,19 +25,16 @@
 		<stop  offset="0.796" style="stop-color:#86C049"/>
 		<stop  offset="1" style="stop-color:#8BC34A"/>
 	</linearGradient>
-	<rect x="74.188" y="14" fill="url(#SVGID_1_)" width="362.629" height="484"/>
-	<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M264.77,167.725v-0.427h-18.546v0.427H126.427v233.538h258.126
-		V167.725H264.77z M144.985,237.06h57.642v37.306h-57.642V237.06z M144.985,292.957h57.642v37.317h-57.642V292.957z
-		 M221.802,292.957h144.206v37.317H221.802V292.957z M221.802,274.366V237.06h144.206v37.306H221.802z M366.008,186.474v32.062
-		H221.802v-32.062H366.008z M202.626,186.474v32.062h-57.642v-32.062H202.626z M144.985,349.023h57.642v33.49h-57.642V349.023z
-		 M221.802,382.513v-33.49h144.206v33.49H221.802z"/>
+	<rect x="74.2" y="14" class="st4" width="362.6" height="484"/>
+	<path class="st5" d="M264.8,167.7v-0.4h-18.5v0.4H126.4v233.5h258.1V167.7H264.8z M145,237.1h57.6v37.3H145V237.1z M145,293h57.6
+		v37.3H145V293z M221.8,293H366v37.3H221.8V293z M221.8,274.4v-37.3H366v37.3H221.8z M366,186.5v32.1H221.8v-32.1H366z M202.6,186.5
+		v32.1H145v-32.1H202.6z M145,349h57.6v33.5H145V349z M221.8,382.5V349H366v33.5H221.8z"/>
 	<g>
-		<rect x="74.086" y="14" opacity="0.8" fill="#FFFFFF" width="362.82" height="92.765"/>
+		<rect x="74.1" y="14" class="st5" width="362.8" height="92.8"/>
 		<g>
-			<path fill="#388E3C" d="M162.158,96.006V23.7h51.407v13.685h-34.256v14.18h30.407v13.358h-30.407v17.421h36.799v13.662H162.158z"
-				/>
-			<path fill="#388E3C" d="M285.184,23.7v13.887h-22.98v58.418h-17.105V37.588h-22.98V23.7H285.184z"/>
-			<path fill="#388E3C" d="M355.451,23.7v13.887h-22.935v58.418h-17.151V37.588h-22.935V23.7H355.451z"/>
+			<path class="st6" d="M162.2,96V23.7h51.4v13.7h-34.3v14.2h30.4V65h-30.4v17.4h36.8V96H162.2z"/>
+			<path class="st6" d="M285.2,23.7v13.9h-23V96h-17.1V37.6h-23V23.7H285.2z"/>
+			<path class="st6" d="M355.5,23.7v13.9h-22.9V96h-17.2V37.6h-22.9V23.7H355.5z"/>
 		</g>
 	</g>
 </g>

@@ -1,1 +1,90 @@
-<svg id="其他" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256"><defs><style>.cls-1{fill:none;}.cls-2{opacity:0.08;}.cls-3{opacity:0.1;}.cls-4{opacity:0.2;}.cls-5{fill:#01579b;}.cls-6{fill:#0288d1;}.cls-7{fill:url(#radial-gradient);}.cls-8{opacity:0.7;}.cls-10,.cls-8{isolation:isolate;}.cls-9{fill:#fff;}.cls-10{fill:#f5f5f5;}.cls-11{stroke:#263238;stroke-miterlimit:10;stroke-width:2px;fill:url(#radial-gradient-2);}.cls-12{clip-path:url(#clip-path);}.cls-13{fill:url(#radial-gradient-3);}.cls-14{fill:url(#radial-gradient-4);}</style><radialGradient id="radial-gradient" cx="128" cy="128" r="100" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#4dd0e1"/><stop offset="0.39" stop-color="#40bee7"/><stop offset="0.61" stop-color="#3fbde7"/><stop offset="0.66" stop-color="#44c4e8"/><stop offset="0.75" stop-color="#2cbee8"/><stop offset="1" stop-color="#2196f3"/></radialGradient><radialGradient id="radial-gradient-2" cx="179.16" cy="84.01" r="71.83" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#607d8b"/><stop offset="0.35" stop-color="#607d8b"/><stop offset="0.6" stop-color="#607d8b"/><stop offset="1" stop-color="#455a64"/></radialGradient><clipPath id="clip-path"><path class="cls-1" d="M148.45,26.71h0V138.1a26.94,26.94,0,0,0-6.65-.8c-10.78,0-19.56,6.39-19.56,14.24s8.79,14.24,19.56,14.24,19.57-6.39,19.57-14.24h0V76.75l73.73-15.17v56.16a26.89,26.89,0,0,0-6.65-.8c-10.78,0-19.56,6.39-19.56,14.24s8.78,14.24,19.56,14.24S248,139,248,131.18h0V6.21ZM235,49.07,161.23,64.24V41.48L235,26.31Z"/></clipPath><radialGradient id="radial-gradient-3" cx="35.56" cy="171.74" r="16.86" gradientTransform="translate(92.55 -38.7) scale(1.3 1.08)" gradientUnits="userSpaceOnUse"><stop offset="0.37" stop-color="#5f7b8a"/><stop offset="1" stop-color="#455a64" stop-opacity="0"/></radialGradient><radialGradient id="radial-gradient-4" cx="99.55" cy="156.16" r="16.86" gradientTransform="translate(92.55 -41.64) scale(1.3 1.08)" xlink:href="#radial-gradient-3"/></defs><title>画板 18</title><g id="光盘-音乐"><path class="cls-2" d="M130,256A126,126,0,1,1,256,130,126.14,126.14,0,0,1,130,256Zm0-136a10,10,0,1,0,10,10A10,10,0,0,0,130,120Z"/><path class="cls-3" d="M130,254A124,124,0,1,1,254,130,124.14,124.14,0,0,1,130,254Zm0-136a12,12,0,1,0,12,12A12,12,0,0,0,130,118Z"/><path class="cls-4" d="M128,252A124,124,0,1,1,252,128,124.14,124.14,0,0,1,128,252Zm0-136a12,12,0,1,0,12,12A12,12,0,0,0,128,116Z"/><path class="cls-5" d="M128,250A122,122,0,1,1,250,128,122.14,122.14,0,0,1,128,250Zm0-136a14,14,0,1,0,14,14A14.05,14.05,0,0,0,128,114Z"/><path class="cls-6" d="M128,8A120,120,0,1,0,248,128,120,120,0,0,0,128,8Zm0,236.5A116.5,116.5,0,1,1,244.5,128,116.63,116.63,0,0,1,128,244.5Z"/><path class="cls-7" d="M128,28A100,100,0,1,0,228,128,100.11,100.11,0,0,0,128,28Zm0,135a35,35,0,1,1,35-35A35,35,0,0,1,128,163Z"/><g class="cls-8"><path class="cls-9" d="M162.91,130.3l61.38,4.05,3.51-.12a100.54,100.54,0,0,0-6.4-41.83l-60.72,23.14A35.17,35.17,0,0,1,162.91,130.3Z"/><path class="cls-9" d="M93.09,125.69l-61.37-4.05-3.51.12a100.54,100.54,0,0,0,6.4,41.83l60.71-23.14A35.18,35.18,0,0,1,93.09,125.69Z"/></g><g class="cls-8"><path class="cls-9" d="M158.23,110.39l53.15-31,2.84-2.07a100.52,100.52,0,0,0-28.7-31.1L148.13,99.4A35.16,35.16,0,0,1,158.23,110.39Z"/><path class="cls-9" d="M97.77,145.61l-53.15,31-2.84,2.07a100.54,100.54,0,0,0,28.7,31.1l37.4-53.14A35.16,35.16,0,0,1,97.77,145.61Z"/></g><path class="cls-10" d="M128,11.5A116.5,116.5,0,1,0,244.5,128,116.63,116.63,0,0,0,128,11.5ZM128,228A100,100,0,1,1,228,128,100.11,100.11,0,0,1,128,228Z"/><path class="cls-6" d="M128,93a35,35,0,1,0,35,35A35,35,0,0,0,128,93Zm0,66.38A31.38,31.38,0,1,1,159.38,128,31.41,31.41,0,0,1,128,159.38Z"/><path class="cls-10" d="M128,96.62A31.38,31.38,0,1,0,159.38,128,31.41,31.41,0,0,0,128,96.62ZM128,144a16,16,0,1,1,16-16A16.05,16.05,0,0,1,128,144Z"/><path class="cls-11" d="M148.45,26.71h0V138.1a26.94,26.94,0,0,0-6.65-.8c-10.78,0-19.56,6.39-19.56,14.24s8.79,14.24,19.56,14.24,19.57-6.39,19.57-14.24h0V76.75l73.73-15.17v56.16a26.89,26.89,0,0,0-6.65-.8c-10.78,0-19.56,6.39-19.56,14.24s8.78,14.24,19.56,14.24S248,139,248,131.18h0V6.21ZM235,49.07,161.23,64.24V41.48L235,26.31Z"/><g class="cls-12"><ellipse class="cls-13" cx="140.59" cy="146.56" rx="18.15" ry="14.75"/><ellipse class="cls-14" cx="223.96" cy="126.85" rx="18.15" ry="14.75"/></g></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="&#x5176;&#x4ED6;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<title>画板 18</title>
+<g id="&#x5149;&#x76D8;-&#x97F3;&#x4E50;">
+	<path style="opacity:0.08;enable-background:new    ;" d="M130,256C60.412,256,4,199.588,4,130S60.412,4,130,4s126,56.412,126,126
+		C255.923,199.556,199.556,255.923,130,256z M130,120c-5.523,0-10,4.477-10,10c0,5.523,4.477,10,10,10c5.523,0,10-4.477,10-10
+		C140,124.477,135.523,120,130,120z"/>
+	<path style="opacity:0.1;enable-background:new    ;" d="M130,254C61.517,254,6,198.483,6,130S61.517,6,130,6s124,55.517,124,124
+		C253.923,198.451,198.451,253.923,130,254z M130,118c-6.627,0-12,5.373-12,12c0,6.627,5.373,12,12,12c6.627,0,12-5.373,12-12
+		C142,123.373,136.627,118,130,118z"/>
+	<path style="opacity:0.2;enable-background:new    ;" d="M128,252C59.517,252,4,196.483,4,128S59.517,4,128,4s124,55.517,124,124
+		C251.923,196.451,196.451,251.923,128,252z M128,116c-6.627,0-12,5.373-12,12c0,6.627,5.373,12,12,12c6.627,0,12-5.373,12-12
+		C140,121.373,134.627,116,128,116z"/>
+	<path style="fill:#01579B;" d="M128,250C60.621,250,6,195.379,6,128S60.621,6,128,6s122,54.621,122,122
+		C249.923,195.347,195.347,249.923,128,250z M128,114c-7.732,0-14,6.268-14,14s6.268,14,14,14s14-6.268,14-14
+		C141.973,120.279,135.721,114.027,128,114z"/>
+	<path style="fill:#0288D1;" d="M128,8C61.726,8,8,61.726,8,128s53.726,120,120,120s120-53.726,120-120S194.274,8,128,8z M128,244.5
+		c-64.341,0-116.5-52.159-116.5-116.5S63.659,11.5,128,11.5S244.5,63.659,244.5,128C244.428,192.311,192.311,244.428,128,244.5z"/>
+	
+		<radialGradient id="SVGID_1_" cx="128" cy="130" r="100" gradientTransform="matrix(1 0 0 -1 0 258)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#4DD0E1"/>
+		<stop  offset="0.39" style="stop-color:#40BEE7"/>
+		<stop  offset="0.61" style="stop-color:#3FBDE7"/>
+		<stop  offset="0.66" style="stop-color:#44C4E8"/>
+		<stop  offset="0.75" style="stop-color:#2CBEE8"/>
+		<stop  offset="1" style="stop-color:#2196F3"/>
+	</radialGradient>
+	<path style="fill:url(#SVGID_1_);" d="M128,28C72.772,28,28,72.772,28,128s44.772,100,100,100s100-44.772,100-100
+		C227.939,72.797,183.203,28.061,128,28z M128,163c-19.33,0-35-15.67-35-35s15.67-35,35-35s35,15.67,35,35S147.33,163,128,163z"/>
+	<g style="opacity:0.7;">
+		<path style="fill:#FFFFFF;" d="M162.91,130.3l61.38,4.05l3.51-0.12c0.858-14.239-1.323-28.499-6.4-41.83l-60.72,23.14
+			C162.471,120.244,163.231,125.277,162.91,130.3z"/>
+		<path style="fill:#FFFFFF;" d="M93.09,125.69l-61.37-4.05l-3.51,0.12c-0.858,14.239,1.323,28.499,6.4,41.83l60.71-23.14
+			C93.529,135.746,92.769,130.713,93.09,125.69z"/>
+	</g>
+	<g style="opacity:0.7;">
+		<path style="fill:#FFFFFF;" d="M158.23,110.39l53.15-31l2.84-2.07c-7.251-12.286-17.035-22.887-28.7-31.1L148.13,99.4
+			C152.244,102.298,155.689,106.046,158.23,110.39z"/>
+		<path style="fill:#FFFFFF;" d="M97.77,145.61l-53.15,31l-2.84,2.07c7.252,12.285,17.035,22.887,28.7,31.1l37.4-53.14
+			C103.758,153.731,100.31,149.969,97.77,145.61z"/>
+	</g>
+	<path style="fill:#F5F5F5;" d="M128,11.5C63.659,11.5,11.5,63.659,11.5,128S63.659,244.5,128,244.5S244.5,192.341,244.5,128
+		C244.428,63.689,192.311,11.572,128,11.5z M128,228c-55.228,0-100-44.772-100-100S72.772,28,128,28s100,44.772,100,100
+		C227.939,183.203,183.203,227.939,128,228z"/>
+	<path style="fill:#0288D1;" d="M128,93c-19.33,0-35,15.67-35,35s15.67,35,35,35s35-15.67,35-35l0,0C163,108.67,147.33,93,128,93z
+		 M128,159.38c-17.331,0-31.38-14.049-31.38-31.38c0-17.331,14.049-31.38,31.38-31.38c17.331,0,31.38,14.049,31.38,31.38
+		C159.363,145.324,145.324,159.363,128,159.38z"/>
+	<path style="fill:#F5F5F5;" d="M128,96.62c-17.331,0-31.38,14.049-31.38,31.38s14.049,31.38,31.38,31.38s31.38-14.049,31.38-31.38
+		C159.363,110.676,145.324,96.637,128,96.62z M128,144c-8.837,0-16-7.163-16-16s7.163-16,16-16s16,7.163,16,16
+		C143.973,136.825,136.825,143.973,128,144z"/>
+	
+		<radialGradient id="SVGID_2_" cx="179.16" cy="173.99" r="71.83" gradientTransform="matrix(1 0 0 -1 0 258)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#607D8B"/>
+		<stop  offset="0.35" style="stop-color:#607D8B"/>
+		<stop  offset="0.6" style="stop-color:#607D8B"/>
+		<stop  offset="1" style="stop-color:#455A64"/>
+	</radialGradient>
+	<path style="fill:url(#SVGID_2_);stroke:#263238;stroke-width:2;stroke-miterlimit:10;" d="M148.45,26.71L148.45,26.71V138.1
+		c-2.175-0.542-4.409-0.811-6.65-0.8c-10.78,0-19.56,6.39-19.56,14.24s8.79,14.24,19.56,14.24s19.57-6.39,19.57-14.24l0,0V76.75
+		l73.73-15.17v56.16c-2.175-0.543-4.409-0.812-6.65-0.8c-10.78,0-19.56,6.39-19.56,14.24s8.78,14.24,19.56,14.24S248,139,248,131.18
+		l0,0V6.21L148.45,26.71z M235,49.07l-73.77,15.17V41.48L235,26.31V49.07z"/>
+	<g>
+		<defs>
+			<path id="SVGID_3_" d="M148.45,26.71L148.45,26.71V138.1c-2.175-0.542-4.409-0.811-6.65-0.8c-10.78,0-19.56,6.39-19.56,14.24
+				s8.79,14.24,19.56,14.24s19.57-6.39,19.57-14.24l0,0V76.75l73.73-15.17v56.16c-2.175-0.543-4.409-0.812-6.65-0.8
+				c-10.78,0-19.56,6.39-19.56,14.24s8.78,14.24,19.56,14.24S248,139,248,131.18l0,0V6.21L148.45,26.71z M235,49.07l-73.77,15.17
+				V41.48L235,26.31V49.07z"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_4_);">
+			
+				<radialGradient id="SVGID_5_" cx="-38.5169" cy="91.5193" r="16.86" gradientTransform="matrix(1.3 0 0 -1.08 188.85 245.62)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.37" style="stop-color:#5F7B8A"/>
+				<stop  offset="1" style="stop-color:#455A64;stop-opacity:0"/>
+			</radialGradient>
+			<ellipse style="fill:url(#SVGID_5_);" cx="140.59" cy="146.56" rx="18.15" ry="14.75"/>
+			
+				<radialGradient id="SVGID_6_" cx="25.4731" cy="107.0993" r="16.86" gradientTransform="matrix(1.3 0 0 -1.08 188.85 242.68)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.37" style="stop-color:#5F7B8A"/>
+				<stop  offset="1" style="stop-color:#455A64;stop-opacity:0"/>
+			</radialGradient>
+			<ellipse style="fill:url(#SVGID_6_);" cx="223.96" cy="126.85" rx="18.15" ry="14.75"/>
+		</g>
+	</g>
+</g>
+</svg>

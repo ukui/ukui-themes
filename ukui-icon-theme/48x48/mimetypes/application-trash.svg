@@ -1,54 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
-<polygon opacity="0.06" enable-background="new    " points="7.181,48 7.181,2 42.818,2 42.818,35.003 29.82,48 "/>
-<polygon opacity="0.1" enable-background="new    " points="8.181,47 8.181,3 41.818,3 41.818,34.589 29.407,47 "/>
-<polygon opacity="0.2" enable-background="new    " points="7.181,46 7.181,2 40.818,2 40.818,33.589 28.408,46 "/>
-<polygon fill="#455A64" points="8.143,45 8.143,3 39.857,3 39.857,33.174 28.004,45 "/>
+	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.06;enable-background:new    ;}
+	.st1{opacity:0.1;enable-background:new    ;}
+	.st2{opacity:0.2;enable-background:new    ;}
+	.st3{fill:#455A64;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{fill:#455A64;fill-opacity:0.39;}
+	.st6{fill:#FFFFFF;fill-opacity:0.39;}
+	.st7{opacity:0.8;}
+	.st8{fill:#FFFFFF;}
+</style>
+<polygon class="st0" points="7.2,48 7.2,2 42.8,2 42.8,35 29.8,48 "/>
+<polygon class="st1" points="8.2,47 8.2,3 41.8,3 41.8,34.6 29.4,47 "/>
+<polygon class="st2" points="7.2,46 7.2,2 40.8,2 40.8,33.6 28.4,46 "/>
+<polygon class="st3" points="8.1,45 8.1,3 39.9,3 39.9,33.2 28,45 "/>
 <g>
 	<g>
 		<g>
 			
-				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="65.6006" y1="422.3994" x2="65.6006" y2="463.4004" gradientTransform="matrix(1 0 0 1 -41.6001 -418.9004)">
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="65.6001" y1="1164.4004" x2="65.6001" y2="1205.4004" gradientTransform="matrix(1 0 0 1 -41.6001 -1160.9004)">
 				<stop  offset="0" style="stop-color:#90A4AE"/>
 				<stop  offset="0.1378" style="stop-color:#849AA5"/>
 				<stop  offset="0.4226" style="stop-color:#708A97"/>
 				<stop  offset="0.7096" style="stop-color:#64808E"/>
 				<stop  offset="1" style="stop-color:#607D8B"/>
 			</linearGradient>
-			<polygon fill="url(#SVGID_1_)" points="8.641,44.5 8.641,3.5 39.359,3.5 39.359,32.969 27.829,44.5 			"/>
+			<polygon class="st4" points="8.6,44.5 8.6,3.5 39.4,3.5 39.4,33 27.8,44.5 			"/>
 		</g>
-		<polygon fill="#455A64" fill-opacity="0.39" points="39.359,32.969 39.359,32.473 27.195,32.473 27.195,44.5 27.829,44.5 		"/>
-		<path fill="#FFFFFF" fill-opacity="0.39" d="M27.81,32.969l11.55,0.016L27.829,44.5L27.81,32.969z"/>
+		<polygon class="st5" points="39.4,33 39.4,32.5 27.2,32.5 27.2,44.5 27.8,44.5 		"/>
+		<path class="st6" d="M27.8,33h11.6L27.8,44.5V33z"/>
 	</g>
-	<g opacity="0.8">
+	<g class="st7">
 		<g>
-			<polygon fill="#FFFFFF" points="20.378,22.342 15.766,19.286 19.899,18.037 			"/>
+			<polygon class="st8" points="20.4,22.3 15.8,19.3 19.9,18 			"/>
 		</g>
-		<polygon fill="#FFFFFF" points="23.607,27.367 25.436,27.367 25.436,25.828 23.623,25.828 22.702,26.597 		"/>
+		<polygon class="st8" points="23.6,27.4 25.4,27.4 25.4,25.8 23.6,25.8 22.7,26.6 		"/>
 		<g>
-			<polygon fill="#FFFFFF" points="26.442,20.498 31.005,17.337 30.612,21.644 			"/>
+			<polygon class="st8" points="26.4,20.5 31,17.3 30.6,21.6 			"/>
 			<g>
-				<polygon fill="#FFFFFF" points="30.713,20.482 29.672,18.961 28.392,19.849 29.399,21.301 30.612,21.644 				"/>
-				<polygon fill="#FFFFFF" points="34.25,25.607 31.107,21.061 31.005,22.222 29.792,21.881 32.508,25.828 25.897,25.828 
-					25.878,27.367 33.055,27.367 33.055,27.367 33.055,27.367 				"/>
+				<polygon class="st8" points="30.7,20.5 29.7,19 28.4,19.8 29.4,21.3 30.6,21.6 				"/>
+				<polygon class="st8" points="34.3,25.6 31.1,21.1 31,22.2 29.8,21.9 32.5,25.8 25.9,25.8 25.9,27.4 33.1,27.4 33.1,27.4 
+					33.1,27.4 				"/>
 			</g>
 			<g>
-				<polygon fill="#FFFFFF" points="18.723,18.397 17.697,19.866 18.995,20.72 20.036,19.232 19.899,18.037 				"/>
-				<polygon fill="#FFFFFF" points="25.195,12.485 22.788,12.485 19.131,17.8 20.292,17.458 20.431,18.654 24,13.478 28.136,19.473 
-					29.417,18.603 				"/>
-				<polygon fill="#FFFFFF" points="15.493,25.828 18.738,21.096 17.441,20.242 13.75,25.607 13.75,25.607 13.75,25.607 
-					14.57,26.783 14.961,27.367 22.908,27.367 22,26.597 22.908,25.828 				"/>
+				<polygon class="st8" points="18.7,18.4 17.7,19.9 19,20.7 20,19.2 19.9,18 				"/>
+				<polygon class="st8" points="25.2,12.5 22.8,12.5 19.1,17.8 20.3,17.5 20.4,18.7 24,13.5 28.1,19.5 29.4,18.6 				"/>
+				<polygon class="st8" points="15.5,25.8 18.7,21.1 17.4,20.2 13.8,25.6 13.8,25.6 13.8,25.6 14.6,26.8 15,27.4 22.9,27.4 
+					22,26.6 22.9,25.8 				"/>
 			</g>
 		</g>
 		<g>
-			<polygon fill="#FFFFFF" points="26.016,23.83 26.016,29.365 22.702,26.597 			"/>
+			<polygon class="st8" points="26,23.8 26,29.4 22.7,26.6 			"/>
 		</g>
-		<polygon fill="#FFFFFF" points="17.441,20.242 18.142,19.232 19.815,19.609 18.618,21.283 		"/>
-		<polygon fill="#FFFFFF" points="27.503,18.568 28.578,20.122 29.894,19.268 28.803,17.714 		"/>
-		<rect x="25.024" y="25.828" fill="#FFFFFF" width="1.13" height="1.539"/>
+		<polygon class="st8" points="17.4,20.2 18.1,19.2 19.8,19.6 18.6,21.3 		"/>
+		<polygon class="st8" points="27.5,18.6 28.6,20.1 29.9,19.3 28.8,17.7 		"/>
+		<rect x="25" y="25.8" class="st8" width="1.1" height="1.5"/>
 	</g>
 </g>
 </svg>

@@ -1,31 +1,14 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:version="0.48.5 r10040" sodipodi:docname="fileopen.svg" inkscape:export-xdpi="270" inkscape:export-ydpi="270"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px"
-	 viewBox="0 128 64 64" style="enable-background:new 0 128 64 64;" xml:space="preserve">
-<polygon style="opacity:0.08;enable-background:new    ;" points="2,188.438 2,151.351 5.563,151.351 5.563,133.563 54.935,133.563 
-	60.438,139.065 60.438,151.351 64,151.351 64,188.438 "/>
-<polygon style="opacity:0.1;enable-background:new    ;" points="3,187.438 3,152.351 6.563,152.351 6.563,134.563 54.521,134.563 
-	59.438,139.479 59.438,152.351 63,152.351 63,187.438 "/>
-<polygon style="opacity:0.2;enable-background:new    ;" points="2,186.438 2,151.351 5.563,151.351 5.563,133.563 53.521,133.563 
-	58.438,138.479 58.438,151.351 62,151.351 62,186.438 "/>
-<polygon style="fill:#F57F17;" points="3,185.438 3,152.351 6.563,152.351 6.563,134.563 53.107,134.563 57.438,138.893 
-	57.438,152.351 61,152.351 61,185.438 "/>
-<polygon style="fill:#E0E0E0;" points="52.9,135.063 7.063,135.063 7.063,152.115 7.063,156.628 56.938,156.628 56.938,152.115 
-	56.938,139.1 "/>
-<rect x="7.063" y="151.663" style="opacity:0.2;enable-background:new    ;" width="49.875" height="1.188"/>
-<linearGradient id="rect2990_1_" gradientUnits="userSpaceOnUse" x1="-64" y1="305.702" x2="-64" y2="369.875" gradientTransform="matrix(0.5 0 0 0.5 64 0)">
-	<stop  offset="0" style="stop-color:#FADD60"/>
-	<stop  offset="0.9946" style="stop-color:#F5A816"/>
-</linearGradient>
-<polyline id="rect2990_2_" style="fill:url(#rect2990_1_);" points="60.5,152.851 60.5,184.938 3.5,184.938 3.5,152.851 "/>
-<path id="rect3004_2_" inkscape:connector-curvature="0" style="opacity:0.25;fill:#FDEFBA;enable-background:new    ;" d="
-	M3.5,152.851v7.292c0-2.494,1.71-4.56,3.8-4.56h49.4c2.09,0,3.8,2.042,3.8,4.56v-7.292H3.5z"/>
-<rect x="13" y="148.363" style="fill:#9E9E9E;" width="38" height="2.375"/>
-<rect x="13" y="143.589" style="fill:#9E9E9E;" width="38" height="2.375"/>
-<rect x="13" y="138.839" style="fill:#9E9E9E;" width="33.25" height="2.375"/>
-<polygon style="fill:#FFFFFF;" points="56.938,139.1 52.9,139.1 52.9,135.063 "/>
-<polygon style="opacity:0.2;enable-background:new    ;" points="52.9,139.1 56.938,139.1 56.938,143.137 "/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="document-open" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#808080;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:#808080;}
+</style>
+<title>64</title>
+<g id="_64">
+	<polyline class="st0" points="28,54 51,54 51,38 48,32 48,4 9,4 	"/>
+	<path class="st1" d="M11,5.8l17,5.7v46.8l-17-5.7V5.8 M9,3v51l21,7V10L9,3z"/>
+</g>
 </svg>

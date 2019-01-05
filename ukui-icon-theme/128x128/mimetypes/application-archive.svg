@@ -1,26 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
-<polygon opacity="0.08" points="18.313,128 18.313,4 113.688,4 113.688,92.996 78.688,128 "/>
-<polygon opacity="0.08" points="20.313,126 20.313,6 111.688,6 111.688,92.168 77.859,126 "/>
-<polygon opacity="0.1" points="20.313,126 20.313,6 111.688,6 111.688,92.168 77.859,126 "/>
-<polygon opacity="0.2" points="18.313,124 18.313,4 109.688,4 109.688,90.168 75.859,124 "/>
-<polygon fill="#3D2723" points="20.313,122 20.313,6 107.688,6 107.688,89.34 75.031,122 "/>
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.08;enable-background:new    ;}
+	.st1{opacity:0.1;enable-background:new    ;}
+	.st2{opacity:0.2;enable-background:new    ;}
+	.st3{fill:#3D2723;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{fill:#5D4037;fill-opacity:0.3922;}
+	.st6{fill:#FFFFFF;fill-opacity:0.3922;}
+	.st7{opacity:0.8;}
+	.st8{fill:#FFFFFF;}
+</style>
+<polygon class="st0" points="18.3,128 18.3,4 113.7,4 113.7,93 78.7,128 "/>
+<polygon class="st0" points="20.3,126 20.3,6 111.7,6 111.7,92.2 77.9,126 "/>
+<polygon class="st1" points="20.3,126 20.3,6 111.7,6 111.7,92.2 77.9,126 "/>
+<polygon class="st2" points="18.3,124 18.3,4 109.7,4 109.7,90.2 75.9,124 "/>
+<polygon class="st3" points="20.3,122 20.3,6 107.7,6 107.7,89.3 75,122 "/>
 <g>
 	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="219.8711" y1="-271.6294" x2="219.8711" y2="-157.6299" gradientTransform="matrix(1 0 0 -1 -155.8701 -150.6299)">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="219.8701" y1="-909.6299" x2="219.8701" y2="-795.6299" gradientTransform="matrix(1 0 0 -1 -155.8701 -788.6299)">
 		<stop  offset="0" style="stop-color:#785548"/>
 		<stop  offset="1" style="stop-color:#9F9E9F"/>
 	</linearGradient>
-	<polygon fill="url(#SVGID_1_)" points="21.297,121 21.297,7 106.703,7 106.703,88.941 74.64,121 	"/>
+	<polygon class="st4" points="21.3,121 21.3,7 106.7,7 106.7,88.9 74.6,121 	"/>
 </g>
-<polygon fill="#5D4037" fill-opacity="0.3922" points="106.703,88.941 106.703,87.562 72.883,87.562 72.883,121 74.64,121 "/>
-<path fill="#FFFFFF" fill-opacity="0.3922" d="M74.592,88.941l32.111,0.044L74.64,121L74.592,88.941z"/>
-<g opacity="0.8">
-	<path fill="#FFFFFF" d="M51.09,58.794V7h-3.006v51.794h-2.282V7h-3.006v51.794h-2.282V7h-3.006v51.794h-2.282V7h-3.006v51.794
-		h-0.791v16.389h20.699V58.794H51.09z M49.122,70.417H34.434v-9.489h14.688V70.417L49.122,70.417z"/>
-	<rect x="37.229" y="61.979" fill="#FFFFFF" width="9.097" height="5.755"/>
+<polygon class="st5" points="106.7,88.9 106.7,87.6 72.9,87.6 72.9,121 74.6,121 "/>
+<path class="st6" d="M74.6,88.9h32.1l-32.1,32V88.9z"/>
+<g class="st7">
+	<path class="st8" d="M51.1,58.8V7h-3v51.8h-2.3V7h-3v51.8h-2.3V7h-3v51.8h-2.3V7h-3v51.8h-0.8v16.4h20.7V58.8H51.1z M49.1,70.4
+		H34.4v-9.5h14.7L49.1,70.4L49.1,70.4z"/>
+	<rect x="37.2" y="62" class="st8" width="9.1" height="5.8"/>
 </g>
 </svg>

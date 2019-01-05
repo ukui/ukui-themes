@@ -1,46 +1,28 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg2" inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:version="0.48.4 r9939" sodipodi:docname="user-home.svg" inkscape:export-xdpi="270" inkscape:export-ydpi="270"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="128px" height="128px"
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="文件夹" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
-<sodipodi:namedview  id="base" inkscape:window-maximized="1" borderopacity="1.0" pagecolor="#ffffff" showguides="true" inkscape:cy="21.321632" inkscape:cx="35.66124" showgrid="true" bordercolor="#666666" inkscape:zoom="5.6530318" inkscape:document-units="px" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="28" inkscape:guide-bbox="true" inkscape:current-layer="layer1" inkscape:window-height="1023" inkscape:pageopacity="0.0" inkscape:pageshadow="2">
-	<inkscape:grid  type="xygrid" enabled="true" visible="true" id="grid2985" snapvisiblegridlinesonly="true" empspacing="5">
-		</inkscape:grid>
-</sodipodi:namedview>
-<polygon style="opacity:0.08;enable-background:new    ;" points="52.23,117.757 52.23,64.563 56.555,64.563 56.555,51.589 
-	77.661,51.589 81.938,55.913 122.676,55.913 122.676,64.563 127,64.563 127,117.757 "/>
-<polygon style="opacity:0.1;enable-background:new    ;" points="54.23,115.757 54.23,66.563 58.555,66.563 58.555,53.589 
-	76.826,53.589 81.103,57.913 120.676,57.913 120.676,66.563 125,66.563 125,115.757 "/>
-<polygon style="fill:#FF9800;" points="5,72.412 5,27.217 9.324,27.217 9.324,14.243 24.76,14.243 29.037,18.566 67.445,18.566 
-	67.445,27.217 71.77,27.217 71.77,72.412 "/>
-<path style="fill:#FFB74D;" d="M66.445,28.215c0-3.326,0-8.649,0-8.649H28.619l-4.277-4.324H10.324v4.324v4.324v4.324H6v43.196
-	h64.769V28.215L66.445,28.215L66.445,28.215z"/>
-<polygon style="opacity:0.2;enable-background:new    ;" points="52.23,113.757 52.23,64.563 56.555,64.563 56.555,51.589 
-	74.826,51.589 79.103,55.913 118.676,55.913 118.676,64.563 123,64.563 123,113.757 "/>
-<polygon style="fill:#F57F17;" points="54.231,111.757 54.231,66.563 58.555,66.563 58.555,53.589 73.991,53.589 78.268,57.913 
-	116.676,57.913 116.676,66.563 121,66.563 121,111.757 "/>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="87.639" y1="185.1782" x2="87.639" y2="201.383" gradientTransform="matrix(1 0 0 -1 0 256)">
-	<stop  offset="0" style="stop-color:#F57C00"/>
-	<stop  offset="0.1638" style="stop-color:#F58F09"/>
-	<stop  offset="0.3598" style="stop-color:#F59D11"/>
-	<stop  offset="0.5982" style="stop-color:#F5A515"/>
-	<stop  offset="0.9946" style="stop-color:#F5A816"/>
-</linearGradient>
-<path style="fill:url(#SVGID_1_);" d="M115.723,58.962H77.85l-4.277-4.324H59.555v4.324v4.324v5.417
-	c0,1.188,1.045,2.138,2.138,2.138h51.844c1.14,0,2.138,0.095,2.138-1.093C115.723,67.61,115.723,58.962,115.723,58.962z"/>
-<linearGradient id="rect2990_1_" gradientUnits="userSpaceOnUse" x1="87.6155" y1="188.4375" x2="87.6155" y2="145.2425" gradientTransform="matrix(1 0 0 -1 0 256)">
-	<stop  offset="0" style="stop-color:#FADD60"/>
-	<stop  offset="0.9946" style="stop-color:#F5A816"/>
-</linearGradient>
-<polyline id="rect2990_2_" style="fill:url(#rect2990_1_);" points="120,67.563 120,110.757 55.231,110.757 55.231,67.563 "/>
-<path id="rect3004_1_" inkscape:connector-curvature="0" style="opacity:0.25;fill:#FDEFBA;enable-background:new    ;" d="
-	M55.231,67.563v8.268c0-2.851,1.901-5.18,4.324-5.18h56.121c2.424,0,4.324,2.328,4.324,5.18v-8.268H55.231z"/>
-<path id="path3801_1_" inkscape:connector-curvature="0" style="opacity:0.1;fill:#E65100;enable-background:new    ;" d="
-	M59.555,54.637c0,0,0,1.093,0,3.231v2.138c0-2.138,0.95-3.231,1.948-3.231h11.215c0.76,0,1.758,0.048,3.516,1.045
-	c0.475,0.285,1.045,0.665,1.616,1.093l-4.277-4.324H59.555L59.555,54.637L59.555,54.637z"/>
-<polygon style="opacity:0.1;fill:#E65100;enable-background:new    ;" points="77.85,58.962 115.723,58.962 115.723,62.193 
-	81.081,62.193 "/>
-<rect x="59.555" y="65.662" style="opacity:0.05;fill:#E65100;enable-background:new    ;" width="56.168" height="1.901"/>
+<style type="text/css">
+	.st0{fill:none;stroke:#808080;stroke-width:4;stroke-miterlimit:10;}
+</style>
+<title>128</title>
+<g id="_128">
+	<polyline class="st0" points="122,120 26,120 26,42 60,42 74,58 120,58 120,122 	"/>
+	<polyline class="st0" points="54,21.7 54,21.7 56,24 64,24 	"/>
+	<line class="st0" x1="47.3" y1="14" x2="52" y2="19.4"/>
+	<polyline class="st0" points="34,8 42,8 45.5,12 	"/>
+	<polyline class="st0" points="8,16 8,8 16,8 	"/>
+	<line class="st0" x1="82" y1="24" x2="88" y2="24"/>
+	<line class="st0" x1="8" y1="58" x2="8" y2="64"/>
+	<line class="st0" x1="102" y1="36" x2="102" y2="42"/>
+	<line class="st0" x1="8" y1="22" x2="8" y2="28"/>
+	<polyline class="st0" points="18,86 8,86 8,82 	"/>
+	<line class="st0" x1="8" y1="34" x2="8" y2="40"/>
+	<polyline class="st0" points="102,32 102,24 94,24 	"/>
+	<line class="st0" x1="8" y1="46" x2="8" y2="52"/>
+	<line class="st0" x1="22" y1="8" x2="28" y2="8"/>
+	<line class="st0" x1="8" y1="70" x2="8" y2="78"/>
+	<line class="st0" x1="102" y1="46" x2="102" y2="50"/>
+	<line class="st0" x1="70" y1="24" x2="76" y2="24"/>
+</g>
 </svg>

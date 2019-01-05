@@ -1,76 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#AFD9E9;}
+	.st1{fill:none;}
+	.st2{fill:none;stroke:#231815;stroke-width:0.8829;}
+	.st3{fill:#1E95D4;}
+	.st4{fill:#1888CA;}
+	.st5{fill:#0A5DA4;}
+	.st6{fill:#00417A;}
+</style>
 <g>
-	<polygon fill="#AFD9E9" points="5,8.7 4.2,6.6 2,8.2 3.4,8.3 	"/>
-	<polygon fill="none" points="8.3,13.7 8.3,13.7 8.3,13.7 	"/>
-	<polygon fill="none" stroke="#231815" stroke-width="0.8829" points="7.9,9.7 8,9.7 8,9.7 	"/>
-	<polygon fill="#1E95D4" points="8,9.7 10,10.6 10.6,9.1 7.9,9.7 	"/>
-	<polygon fill="#AFD9E9" points="4.6,10.4 7.9,9.7 5,8.7 	"/>
-	<polygon fill="#1E95D4" points="2,8.2 2.4,10.9 3.4,8.3 	"/>
-	<polygon fill="#1888CA" points="3.4,8.3 2.4,10.9 5,8.7 	"/>
-	<polygon fill="#1E95D4" points="2.4,10.9 4.6,10.4 5,8.7 	"/>
-	<polygon fill="none" stroke="#231815" stroke-width="0.8829" points="4.6,4.1 4.6,4.1 4.7,4.1 	"/>
-	<polygon fill="#0A5DA4" points="4.2,6.6 5.9,6.6 5.9,5.5 	"/>
-	<polygon fill="#1888CA" points="7.8,8.1 5.9,6.6 5,8.7 	"/>
-	<polygon fill="none" stroke="#231815" stroke-width="0.8829" points="4.7,4 4.6,4.1 4.7,4.1 	"/>
-	<polygon fill="#1E95D4" points="5,8.7 5.9,6.6 4.2,6.6 	"/>
-	<polygon fill="#0A5DA4" points="8.3,14.5 8.3,13.7 8.3,13.7 7.5,13.3 	"/>
-	<polygon fill="#00417A" points="6.2,14.5 8.3,14.5 7.5,13.3 	"/>
-	<polygon fill="#00417A" points="7.5,13.3 8.3,13.7 8.3,13.7 8.9,11.7 	"/>
-	<polygon fill="#0A5DA4" points="10.9,14.4 12.4,12.9 10.5,13.2 	"/>
-	<polygon fill="#00417A" points="8.8,15.5 11,15.5 10.9,14.4 9.5,14.7 10.9,15.5 9.5,14.7 10.9,14.4 10.5,13.2 	"/>
-	<polygon fill="#0A5DA4" points="8.3,13.7 9.9,12.5 8.9,11.7 	"/>
-	<polygon fill="#00417A" points="12.4,12.9 11.7,11.4 10.5,13.2 	"/>
-	<polygon fill="#00417A" points="0.5,15 2.6,15 1.3,14.1 	"/>
-	<polygon fill="#1888CA" points="7.6,0.5 5.5,2.6 6.6,2.2 	"/>
-	<polygon fill="#1888CA" points="5.8,1.2 3.8,3.2 5.1,2.5 	"/>
-	<polygon fill="#1888CA" points="9.9,12.5 10.5,13.2 11.7,11.4 8.9,11.7 	"/>
-	<polygon fill="#1E95D4" points="6.6,2.2 5.5,2.6 6.7,3 	"/>
-	<polygon fill="#AFD9E9" points="5.3,2.5 5.8,1.2 5.1,2.5 	"/>
-	<polygon fill="#AFD9E9" points="6.7,3 7.6,0.5 6.6,2.2 	"/>
-	<polygon fill="#1888CA" points="2,13.3 1.3,14.1 2.9,13.2 1.6,12.3 	"/>
-	<polygon fill="#1E95D4" points="2.1,6.2 2,8.2 4.2,6.6 	"/>
-	<polygon fill="#0A5DA4" points="2.6,15 2.9,13.2 1.3,14.1 	"/>
-	<polygon fill="#0A5DA4" points="11.7,11.4 11.5,9.5 10,10.6 	"/>
-	<polygon fill="#1E95D4" points="8.9,11.7 11.7,11.4 10,10.6 	"/>
-	<polygon fill="#1888CA" points="10,10.6 11.5,9.5 10.6,9.1 	"/>
-	<polygon fill="#1888CA" points="11.5,9.5 13.2,8.6 12.6,8.1 	"/>
-	<polygon fill="#0A5DA4" points="7.7,11 8.9,11.7 10,10.6 	"/>
-	<polygon fill="#1E95D4" points="11.4,8.7 10.6,9.1 11.5,9.5 12.6,8.1 	"/>
-	<polygon fill="#00417A" points="6.6,11.6 7.7,11 4.6,10.4 	"/>
-	<polygon fill="#1888CA" points="7.9,9.7 7.7,11 10,10.6 	"/>
-	<polygon fill="#0A5DA4" points="7.9,9.7 4.6,10.4 7.7,11 	"/>
-	<polygon fill="#AFD9E9" points="14.4,7.3 15.6,5.9 13.7,6.5 14.4,7.3 	"/>
-	<polygon fill="#1888CA" points="14,8.7 15.2,8.3 14.4,7.3 	"/>
-	<polygon fill="#0A5DA4" points="14.4,7.3 13.1,8.6 14,8.7 	"/>
-	<polygon fill="#1E95D4" points="12.6,8.1 13.2,8.6 13.7,6.5 	"/>
-	<polygon fill="#1E95D4" points="14.4,7.3 14.4,7.3 15.2,8.3 15.6,5.9 	"/>
-	<polygon fill="#1888CA" points="13.7,6.5 13.1,8.6 14.4,7.3 	"/>
-	<polygon fill="#1888CA" points="5.1,12.2 6.6,11.6 4.6,10.4 	"/>
-	<polygon fill="#1888CA" points="4.2,6.6 2.1,4.2 2.1,6.2 	"/>
-	<polygon fill="#1888CA" points="3.8,3.2 2.1,4.2 3.9,4.6 	"/>
-	<polygon fill="#1E95D4" points="3.9,4.6 2.1,4.2 4.2,6.6 	"/>
-	<polygon fill="#1E95D4" points="2.1,6.2 2.1,4.2 1.3,5.8 2.1,6.2 	"/>
-	<polygon fill="#0A5DA4" points="4.2,6.6 4.6,4.1 4.6,4.1 3.8,3.2 3.9,4.6 	"/>
-	<polygon fill="#1E95D4" points="4.6,4.1 5.1,2.5 3.8,3.2 4.6,4.1 	"/>
-	<polygon fill="#0A5DA4" points="1.3,5.8 0.2,7.7 2.1,6.2 	"/>
-	<polygon fill="#1888CA" points="2.1,6.2 2.1,6.2 0.2,7.7 2,8.2 	"/>
-	<polygon fill="#00417A" points="2.9,13.2 3.7,11.9 2.4,10.9 	"/>
-	<polygon fill="#1E95D4" points="3.7,11.9 5.1,12.2 4.6,10.4 	"/>
-	<polygon fill="#0A5DA4" points="1.6,12.3 2.9,13.2 2.4,10.9 	"/>
-	<polygon fill="#0A5DA4" points="2.4,10.9 3.7,11.9 4.6,10.4 	"/>
-	<polygon fill="#0A5DA4" points="0.2,7.7 1.2,10.3 2,8.2 	"/>
-	<polygon fill="#1E95D4" points="1.2,10.3 1.6,12.3 2.4,10.9 	"/>
-	<polygon fill="#1888CA" points="2,8.2 1.2,10.3 2.4,10.9 	"/>
-	<polygon fill="#AFD9E9" points="10.6,9.1 7.8,8.1 7.9,9.7 	"/>
-	<polygon fill="#1E95D4" points="7.9,9.7 7.9,9.7 7.8,8.1 5,8.7 	"/>
-	<polygon fill="#1888CA" points="4.6,4.1 4.2,6.6 5.9,5.5 	"/>
-	<polygon fill="#1E95D4" points="4.6,4.1 5.9,5.5 7.2,4.9 4.7,4.1 	"/>
-	<polygon fill="#AFD9E9" points="5.9,6.6 7.2,4.9 5.9,5.5 	"/>
-	<polygon fill="#AFD9E9" points="4.6,4.1 7.2,4.9 6.7,3 	"/>
-	<polygon fill="#1888CA" points="6.7,3 5.5,2.6 5.1,2.5 4.6,4.1 	"/>
+	<polygon class="st0" points="5,8.5 4.2,6.3 1.9,8 3.3,8.1 	"/>
+	<path class="st1" d="M8.4,13.7L8.4,13.7L8.4,13.7z"/>
+	<polygon class="st2" points="8,9.6 8.1,9.6 8.1,9.6 	"/>
+	<polygon class="st3" points="8.1,9.6 10.2,10.5 10.8,8.9 8,9.6 	"/>
+	<polygon class="st0" points="4.6,10.3 8,9.6 5,8.5 	"/>
+	<polygon class="st3" points="1.9,8 2.3,10.8 3.3,8.1 	"/>
+	<polygon class="st4" points="3.3,8.1 2.3,10.8 5,8.5 	"/>
+	<polygon class="st3" points="2.3,10.8 4.6,10.3 5,8.5 	"/>
+	<polygon class="st2" points="4.6,3.7 4.6,3.7 4.7,3.7 	"/>
+	<polygon class="st5" points="4.2,6.3 5.9,6.3 5.9,5.2 	"/>
+	<polygon class="st4" points="7.9,7.9 5.9,6.3 5,8.5 	"/>
+	<polygon class="st2" points="4.7,3.6 4.6,3.7 4.7,3.7 	"/>
+	<polygon class="st3" points="5,8.5 5.9,6.3 4.2,6.3 	"/>
+	<polygon class="st5" points="8.4,14.5 8.4,13.7 8.4,13.7 7.6,13.3 	"/>
+	<polygon class="st6" points="6.2,14.5 8.4,14.5 7.6,13.3 	"/>
+	<polygon class="st6" points="7.6,13.3 8.4,13.7 8.4,13.7 9,11.6 	"/>
+	<polygon class="st5" points="11.1,14.4 12.7,12.9 10.7,13.2 	"/>
+	<polygon class="st6" points="8.9,15.6 11.2,15.6 11.1,14.4 9.7,14.8 11.1,15.6 9.7,14.8 11.1,14.4 10.7,13.2 	"/>
+	<polygon class="st5" points="8.4,13.7 10.1,12.5 9,11.6 	"/>
+	<polygon class="st6" points="12.7,12.9 11.9,11.3 10.7,13.2 	"/>
+	<polygon class="st6" points="0.3,15.1 2.5,15.1 1.1,14.1 	"/>
+	<polygon class="st4" points="7.7,0 5.5,2.2 6.6,1.8 	"/>
+	<polygon class="st4" points="5.8,0.7 3.7,2.8 5.1,2.1 	"/>
+	<polygon class="st4" points="10.1,12.5 10.7,13.2 11.9,11.3 9,11.6 	"/>
+	<polygon class="st3" points="6.6,1.8 5.5,2.2 6.8,2.6 	"/>
+	<polygon class="st0" points="5.3,2.1 5.8,0.7 5.1,2.1 	"/>
+	<polygon class="st0" points="6.8,2.6 7.7,0 6.6,1.8 	"/>
+	<polygon class="st4" points="1.9,13.3 1.1,14.1 2.8,13.2 1.5,12.3 	"/>
+	<polygon class="st3" points="2,5.9 1.9,8 4.2,6.3 	"/>
+	<polygon class="st5" points="2.5,15.1 2.8,13.2 1.1,14.1 	"/>
+	<polygon class="st5" points="11.9,11.3 11.7,9.4 10.2,10.5 	"/>
+	<polygon class="st3" points="9,11.6 11.9,11.3 10.2,10.5 	"/>
+	<polygon class="st4" points="10.2,10.5 11.7,9.4 10.8,8.9 	"/>
+	<polygon class="st4" points="11.7,9.4 13.5,8.4 12.9,7.9 	"/>
+	<polygon class="st5" points="7.8,10.9 9,11.6 10.2,10.5 	"/>
+	<polygon class="st3" points="11.6,8.5 10.8,8.9 11.7,9.4 12.9,7.9 	"/>
+	<polygon class="st6" points="6.6,11.5 7.8,10.9 4.6,10.3 	"/>
+	<polygon class="st4" points="8,9.6 7.8,10.9 10.2,10.5 	"/>
+	<polygon class="st5" points="8,9.6 4.6,10.3 7.8,10.9 	"/>
+	<polygon class="st0" points="14.8,7.1 16,5.6 14,6.2 	"/>
+	<polygon class="st4" points="14.3,8.5 15.6,8.1 14.8,7.1 	"/>
+	<polygon class="st5" points="14.8,7.1 13.4,8.4 14.3,8.5 	"/>
+	<polygon class="st3" points="12.9,7.9 13.5,8.4 14,6.2 	"/>
+	<polygon class="st3" points="14.8,7.1 14.8,7.1 15.6,8.1 16,5.6 	"/>
+	<polygon class="st4" points="14,6.2 13.4,8.4 14.8,7.1 	"/>
+	<polygon class="st4" points="5.1,12.2 6.6,11.5 4.6,10.3 	"/>
+	<polygon class="st4" points="4.2,6.3 2,3.8 2,5.9 	"/>
+	<polygon class="st4" points="3.7,2.8 2,3.8 3.8,4.3 	"/>
+	<polygon class="st3" points="3.8,4.3 2,3.8 4.2,6.3 	"/>
+	<polygon class="st3" points="2,5.9 2,3.8 1.1,5.5 	"/>
+	<polygon class="st5" points="4.2,6.3 4.6,3.7 4.6,3.7 3.7,2.8 3.8,4.3 	"/>
+	<polygon class="st3" points="4.6,3.7 5.1,2.1 3.7,2.8 	"/>
+	<polygon class="st5" points="1.1,5.5 0,7.5 2,5.9 	"/>
+	<polygon class="st4" points="2,5.9 2,5.9 0,7.5 1.9,8 	"/>
+	<polygon class="st6" points="2.8,13.2 3.6,11.8 2.3,10.8 	"/>
+	<polygon class="st3" points="3.6,11.8 5.1,12.2 4.6,10.3 	"/>
+	<polygon class="st5" points="1.5,12.3 2.8,13.2 2.3,10.8 	"/>
+	<polygon class="st5" points="2.3,10.8 3.6,11.8 4.6,10.3 	"/>
+	<polygon class="st5" points="0,7.5 1,10.2 1.9,8 	"/>
+	<polygon class="st3" points="1,10.2 1.5,12.3 2.3,10.8 	"/>
+	<polygon class="st4" points="1.9,8 1,10.2 2.3,10.8 	"/>
+	<polygon class="st0" points="10.8,8.9 7.9,7.9 8,9.6 	"/>
+	<polygon class="st3" points="8,9.6 8,9.6 7.9,7.9 5,8.5 	"/>
+	<polygon class="st4" points="4.6,3.7 4.2,6.3 5.9,5.2 	"/>
+	<polygon class="st3" points="4.6,3.7 5.9,5.2 7.3,4.6 4.7,3.7 	"/>
+	<polygon class="st0" points="5.9,6.3 7.3,4.6 5.9,5.2 	"/>
+	<polygon class="st0" points="4.6,3.7 7.3,4.6 6.8,2.6 	"/>
+	<polygon class="st4" points="6.8,2.6 5.5,2.2 5.1,2.1 4.6,3.7 	"/>
 </g>
 </svg>
