@@ -68,7 +68,19 @@ label {
  * menubar
  */
 menubar {
-    @extend %widget_base_class;
+   /* @extend %widget_base_class;*/
+  box-shadow: none;
+  /* For most widget, we don't need box-shadow at all. */
+  /* normal */
+  color: black;
+  background-color: #f5f6f7;
+  border-color: #bbbbbb;
+  border-width: 1px;
+  /* focus */
+  /* prelight */
+  /* active */
+  /* checked */
+  /* insensitive */
 }
 
 /*
@@ -95,8 +107,19 @@ menubar {
 /* When menuitem in menubar is clicked, this is its hover state! */
 menubar {
     > menuitem {
-        @extend %menuitem_base_class;
-
+       /* @extend %menuitem_base_class;*/
+  box-shadow: none;
+  /* For most widget, we don't need box-shadow at all. */
+  /* normal */
+  color: black;
+  background-color: #f5f6f7;
+  border-color: #bbbbbb;
+  border-width: 1px;
+  /* focus */
+  /* prelight */
+  /* active */
+  /* checked */
+  /* insensitive */
         &:hover {
             background-color: $menubar_menuitem_prelight_bg_color;
         }

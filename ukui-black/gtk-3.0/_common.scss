@@ -5169,6 +5169,7 @@ decoration {
 
     // server-side decorations as used by mutter
     .ssd & {
+	box-shadow: 0 0 0 1px $_wm_border;
         border-style: solid;
         border-width: 0px 1px 1px 1px;
         /* both border-color and background-color must be set to take effect */

@@ -1,46 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#263238;}
-	.st1{fill:#E0E0E0;}
-	.st2{opacity:0.25;fill:#9E9E9E;enable-background:new    ;}
-	.st3{fill:#455A64;}
-	.st4{opacity:0.45;fill:#FFFFFF;enable-background:new    ;}
-	.st5{fill:url(#path14_1_);}
-	.st6{fill:url(#path16_1_);}
-	.st7{fill:#616161;}
-</style>
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <title>画板 26</title>
-<g id="开始菜单应用图标">
-	<g id="硬盘">
+<g id="&#x5F00;&#x59CB;&#x83DC;&#x5355;&#x5E94;&#x7528;&#x56FE;&#x6807;">
+	<g id="&#x5907;&#x4EFD;&#x786C;&#x76D8;">
 		<g id="_16">
 			<g id="g4">
 				<g id="g6">
-					<path id="path10" class="st0" d="M0.5,12.4v2.3h15v-2.3H0.5z"/>
-					<polygon class="st1" points="15.3,11.4 13.4,1.3 2.2,1.4 0.6,11.4 					"/>
-					<polygon class="st2" points="15.3,11.4 13.4,1.3 9.5,1.3 7.2,11.4 					"/>
-					<polygon class="st3" points="0.6,11.4 0.5,12.4 15.5,12.4 15.3,11.4 					"/>
-					<polygon class="st4" points="3.1,11.4 3.6,1.4 2.7,1.4 1.2,11.4 					"/>
+					<path id="path10" style="fill:#263238;" d="M0.5,12.39v2.27h15v-2.27H0.5z"/>
+					<polygon style="fill:#64C4F9;" points="15.32,11.4 13.38,1.34 2.18,1.38 0.65,11.4 					"/>
+					<polygon style="fill:#47B5F8;" points="15.32,11.4 13.38,1.34 9.46,1.34 7.16,11.4 					"/>
+					<polygon style="fill:#455A64;" points="0.65,11.4 0.5,12.39 15.5,12.39 15.32,11.4 					"/>
+					<polygon style="fill:#87D2FB;" points="3.1,11.4 3.6,1.38 2.71,1.38 1.2,11.4 					"/>
 				</g>
 				<g id="g12">
 					
-						<linearGradient id="path14_1_" gradientUnits="userSpaceOnUse" x1="-2180.76" y1="4214.2197" x2="-2180.76" y2="4213.54" gradientTransform="matrix(1 0 0 1 2185.95 -4200.3101)">
+						<linearGradient id="path14_1_" gradientUnits="userSpaceOnUse" x1="-2180.76" y1="3822.22" x2="-2180.76" y2="3821.54" gradientTransform="matrix(1 0 0 1 2185.95 -3808.3101)">
 						<stop  offset="0" style="stop-color:#455A64"/>
 						<stop  offset="0.21" style="stop-color:#36474F"/>
 						<stop  offset="1" style="stop-color:#000000"/>
 					</linearGradient>
-					<path id="path14" class="st5" d="M8.7,13.9h-7v-0.7h7V13.9z"/>
+					<path id="path14" style="fill:url(#path14_1_);" d="M8.69,13.9h-7v-0.7h7V13.9z"/>
 					
-						<linearGradient id="path16_1_" gradientUnits="userSpaceOnUse" x1="-2173.0898" y1="4214.2197" x2="-2173.0898" y2="4213.54" gradientTransform="matrix(1 0 0 1 2185.95 -4200.3101)">
+						<linearGradient id="path16_1_" gradientUnits="userSpaceOnUse" x1="-2173.0898" y1="3822.22" x2="-2173.0898" y2="3821.54" gradientTransform="matrix(1 0 0 1 2185.95 -3808.3101)">
 						<stop  offset="0" style="stop-color:#38A3E7"/>
 						<stop  offset="1" style="stop-color:#1976D2"/>
 					</linearGradient>
-					<path id="path16" class="st6" d="M12.3,13.9h1.1v-0.7h-1.1V13.9z"/>
+					<path id="path16" style="fill:url(#path16_1_);" d="M12.31,13.9h1.1v-0.7h-1.1V13.9z"/>
 				</g>
-				<path class="st7" d="M13.4,1.3l1.9,10.1l0.2,1v2.3h-15v-2.3l0.1-1l1.5-10h0.5h6.7L13.4,1.3 M13.8,0.9H9.1l-6.3,0h-1L1.7,1.3
-					l-1.5,10l-0.2,1v2.8h16v-2.8l-0.2-1L13.9,1.3L13.8,0.9L13.8,0.9z"/>
+				<path style="fill:#01579B;" d="M13.38,1.34l1.94,10.06l0.18,1v2.27h-15v-2.28l0.15-1l1.54-10h0.54h6.74h3.92 M13.8,0.89H9.06
+					L2.72,0.88h-1L1.66,1.3l-1.54,10l-0.15,1v2.84H16V12.3l-0.18-1L13.87,1.25l-0.08-0.41L13.8,0.89z"/>
 			</g>
 		</g>
 	</g>

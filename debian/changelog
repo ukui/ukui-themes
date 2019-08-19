@@ -1,3 +1,11 @@
+ukui-themes (0+git20190530-1) unstable; urgency=medium
+
+  * Adjust ukui-black theme.
+  * Add some new icons for ukui-icon-theme.
+  * Make the build reproducible. (Closes: #920595)
+
+ -- handsome_feng <jianfengli@ubuntukylin.com>  Thu, 30 May 2019 15:04:14 +0800
+
 ukui-themes (0+git20190105-1) unstable; urgency=medium
 
   * Add ukui-blue, ukui-black.
