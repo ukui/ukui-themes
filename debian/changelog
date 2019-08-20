@@ -3,6 +3,8 @@ ukui-themes (0+git20190530-1) unstable; urgency=medium
   * Adjust ukui-black theme.
   * Add some new icons for ukui-icon-theme.
   * Make the build reproducible. (Closes: #920595)
+  * debian/control:
+    - Bump standards-vertion to 4.4.0.
 
  -- handsome_feng <jianfengli@ubuntukylin.com>  Thu, 30 May 2019 15:04:14 +0800
 
