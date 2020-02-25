@@ -3,15 +3,16 @@
  * Base color
  */
 /* background colors in different states */
-$base_normal_bg_color: white;
-$base_active_bg_color: #c2e7f5;
-$base_prelight_bg_color: #d1f1fd;
+$base_normal_bg_color: #182127;
+$base_active_bg_color: #3a485c;
+$base_prelight_bg_color: #465561;
 $base_selected_bg_color: $base_active_bg_color;
-$base_insensitive_bg_color: #f0f0f0;
+$base_insensitive_bg_color: #3e464c;
 //$base_inconsistent_bg_color: #f0f0f0;
 $base_focused_bg_color: #fafafa;
-$base_backdrop_bg_color: darken($base_normal_bg_color, 3%);
-$base_backdrop_sensitive_bg_color: #fbfbfb; /* between disabled and normal, Defined by me. */
+$base_backdrop_bg_color: #171d21;
+//$base_backdrop_bg_color: darken($base_normal_bg_color, 3%);
+$base_backdrop_sensitive_bg_color: #3e464c; /* between disabled and normal, Defined by me. */
 $base_backdrop_insensitive_bg_color: $base_insensitive_bg_color;
 //$base_dir_ltr_bg_color: #f0f0f0;
 //$base_dir_rtl_bg_color: #f0f0f0;
@@ -21,10 +22,10 @@ $base_checked_bg_color: $base_active_bg_color;
 //$base_drop_active_bg_color: #f0f0f0;
 
 /* foreground colors in different states */
-$base_normal_fg_color: black;
-$base_active_fg_color: black;
-$base_prelight_fg_color: black;
-$base_selected_fg_color: black;
+$base_normal_fg_color: #cccccc;
+$base_active_fg_color: #cccccc;
+$base_prelight_fg_color: #cccccc;
+$base_selected_fg_color: #cccccc;
 $base_insensitive_fg_color: #bbbbbb;
 //$base_inconsistent_fg_color: #f0f0f0;
 $base_focused_fg_color: black;
@@ -35,11 +36,11 @@ $base_backdrop_insensitive_fg_color: $base_insensitive_fg_color;
 //$base_dir_rtl_fg_color: #f0f0f0;
 //$base_link_fg_color: #f0f0f0;
 //$base_visited_fg_color: #f0f0f0;
-$base_checked_fg_color: black;
+$base_checked_fg_color: #cccccc;
 //$base_drop_active_fg_color: #f0f0f0;
 
 /* border color in different states */
-$base_normal_border_color: #bbbbbb;
+$base_normal_border_color: #0b0b0b;
 $base_active_border_color: #56a3bf;
 $base_prelight_border_color: #77cdef;
 //$base_selected_border_color: #dcebfd;
@@ -83,13 +84,13 @@ $base_checked_bg_image: image($base_checked_bg_color);
  * menuitem
  */
 $menubar_menuitem_prelight_bg_color: $base_active_bg_color;
-$menuitem_insensitive_bg_color: $base_normal_bg_color;
+$menuitem_insensitive_bg_color: #283138;
 
 
 /*
  * ComboBox
  */
-$combobox_button_normal_bg_image: image(#f9f9f9);
+$combobox_button_normal_bg_image: image(#3e464c);
 /* ComboBox dropdown colors */
 $combobox_dropdown_menuitem_prelight_fg_color: black;
 $combobox_dropdown_menuitem_prelight_bg_color: #44aacf;
@@ -107,8 +108,8 @@ $combobox_dropdown_menuitem_normal_bg_color: #f9f9f9;
  * Notebooks
  */
 $notebook_generic_border_color: $base_normal_border_color;
-$notebook_tab_normal_bg_color: #f0f0f0;
-$notebook_tab_checked_bg_color: #FFF;
+$notebook_tab_normal_bg_color: #3e464c;
+$notebook_tab_checked_bg_color: #182127;
 $notebook_tab_closebutton_normal_bg_image: image($notebook_tab_normal_bg_color);
 $notebook_tab_closebutton_checked_bg_image: image($notebook_tab_checked_bg_color);
 
@@ -116,10 +117,10 @@ $notebook_tab_closebutton_checked_bg_image: image($notebook_tab_checked_bg_color
 /*
  * Scrollbar
  */
-$scrollbar_free_space_color: #f0f0f0; 
-$scrollbar_slider_normal_color: #cdcdcd;
-$scrollbar_slider_active_color: #888888;
-$scrollbar_slider_prelight_color: #aaaaaa;
+$scrollbar_free_space_color: #283138; 
+$scrollbar_slider_normal_color: #424f5a;
+$scrollbar_slider_active_color: #8897a3;
+$scrollbar_slider_prelight_color: #697883;
 $scrollbar_slider_insensitive_color: $scrollbar_free_space_color;
 $scrollbar_stepper_fg_color: $scrollbar_slider_active_color;
 $scrollbar_stepper_bg_color: $scrollbar_free_space_color;
@@ -157,26 +158,26 @@ $treeview_generic_border_color: #e5e5e5;
 /*
  * Headerbar
  */
-$headerbar_normal_fg_color: black;
-$headerbar_backdrop_fg_color: #a5a9ab;
+$headerbar_normal_fg_color: #cccccc;
+$headerbar_backdrop_fg_color: #cccccc;
 
-$headerbar_normal_bg_image: image(#f5f6f7);
-$headerbar_backdrop_bg_image: image(#f5f6f7);
+$headerbar_normal_bg_image: image(#28343d);
+$headerbar_backdrop_bg_image: image(#28343d);
 
-$headerbar_button_normal_fg_color: black;
-$headerbar_button_backdrop_fg_color: #a5a9ab;
-$headerbar_button_prelight_fg_color: black;
-$headerbar_button_active_fg_color: black;
+$headerbar_button_normal_fg_color: #dddddd;
+$headerbar_button_backdrop_fg_color: #dddddd;
+$headerbar_button_prelight_fg_color: #dddddd;
+$headerbar_button_active_fg_color: #dddddd;
 
-$headerbar_button_normal_bg_image: image(#f5f6f7);
-$headerbar_button_backdrop_bg_image: image(#f5f6f7);
-$headerbar_button_prelight_bg_image: image(#e5e5e5);
-$headerbar_button_active_bg_image: image(#c7cacb);
-$headerbar_closebutton_prelight_bg_image: image(#e81123);
-$headerbar_closebutton_active_bg_image: image(#c0504f);
+$headerbar_button_normal_bg_image: #28343d;
+$headerbar_button_backdrop_bg_image: image(#28343d);
+$headerbar_button_prelight_bg_image: image(#545d64);
+$headerbar_button_active_bg_image: image(#434d55);
+$headerbar_closebutton_prelight_bg_image: image(#d42320);
+$headerbar_closebutton_active_bg_image: image(#ac4844);
 
-$headerbar_normal_border_color: #2d7d9a;
-$headerbar_backdrop_border_color: #a5a9ab;
+$headerbar_normal_border_color: #397692;
+$headerbar_backdrop_border_color: #214555;
 
 
 /*

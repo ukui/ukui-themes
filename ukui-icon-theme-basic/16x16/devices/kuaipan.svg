@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<g id="新建符号_4" display="none">
+	<path display="inline" fill="#4D4D4D" d="M1,1v14h14V1H1z M14,14H2V2h12V14z"/>
+	<rect x="2" y="2" display="inline" fill="#4CAF50" width="12" height="12"/>
+</g>
+<g id="新建符号_4_2_">
+	<path fill="#4D4D4D" d="M1,1v15h14V1H1z M14,15H2V2h12V15z"/>
+	<rect x="2" y="11" fill="#4D4D4D" width="12" height="1"/>
+	<rect x="11" y="13" fill="#4D4D4D" width="2" height="1"/>
+</g>
+<rect x="2" y="2" fill="#4CAF50" width="12" height="10"/>
+<g id="新建符号_4_1_" display="none">
+	<path display="inline" fill="#4D4D4D" d="M1,0.5v15h14v-15H1z M14,14.5H2v-13h12V14.5z"/>
+	<rect x="2" y="10.5" display="inline" fill="#0288D1" width="12" height="4"/>
+	<rect x="9.7" y="12" display="inline" fill="#FFFFFF" width="3.3" height="1.5"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="7.4" y1="3.4" x2="9.9" y2="5.9"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="11.6" y1="6.3" x2="9.1" y2="8.8"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="8.6" y1="10.6" x2="6.1" y2="8.1"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="4.4" y1="7.7" x2="6.9" y2="5.2"/>
+</g>
+</svg>

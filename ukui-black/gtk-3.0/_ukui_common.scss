@@ -30,7 +30,7 @@
     /* prelight */
     &:hover {
         color: $base_prelight_fg_color;
-        background-color: $base_prelight_bg_color;
+        background-color: $selected_bg_color;
         border-color: $base_prelight_border_color;
     }
 
@@ -72,9 +72,9 @@ menubar {
   box-shadow: none;
   /* For most widget, we don't need box-shadow at all. */
   /* normal */
-  color: black;
-  background-color: #f5f6f7;
-  border-color: #bbbbbb;
+  color: $headerbar_normal_fg_color;
+  background: $headerbar_normal_bg_image;
+  border-color: #0b0b0b;
   border-width: 1px;
   /* focus */
   /* prelight */
@@ -88,8 +88,10 @@ menubar {
  */
 %menuitem_base_class {
     @extend %widget_base_class;
+background:$menu_color;
     &:disabled {
         background-color: $menuitem_insensitive_bg_color;
+  color:$insensitive_fg_color;
     }
 
     min-height: 22px;
@@ -111,9 +113,9 @@ menubar {
   box-shadow: none;
   /* For most widget, we don't need box-shadow at all. */
   /* normal */
-  color: black;
-  background-color: #f5f6f7;
-  border-color: #bbbbbb;
+  color: $headerbar_normal_fg_color;
+  background-color:$headerbar_normal_bg_image;
+  border-color: #0b0b0b;
   border-width: 1px;
   /* focus */
   /* prelight */
@@ -121,6 +123,7 @@ menubar {
   /* checked */
   /* insensitive */
         &:hover {
+			color:$base_normal_fg_color;
             background-color: $menubar_menuitem_prelight_bg_color;
         }
     }
@@ -526,11 +529,11 @@ treeview {
         background-image:image($headerbar_button_normal_bg_image);
         border-width: 0px;
         /* maximize and minimize close */
-        &:hover {
+        &:hover,&:backdrop:hover {
             color: $headerbar_button_prelight_fg_color;
             background-image: $headerbar_button_prelight_bg_image;
         }
-        &:active {
+        &:active,&:backdrop:active{
             color: $headerbar_button_active_fg_color;
             background-image: $headerbar_button_active_bg_image;
         }

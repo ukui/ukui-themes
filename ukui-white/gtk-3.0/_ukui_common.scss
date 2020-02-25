@@ -1,0 +1,563 @@
+* {
+    border-radius: 0px;
+}
+
+.background {
+    background-color: #f2f3f4;
+}
+
+/***************
+ * Base States *
+ ***************/
+%widget_base_class {
+    box-shadow: none;
+
+    /* For most widget, we don't need box-shadow at all. */
+
+    /* normal */
+    color: $base_normal_fg_color;
+    background-color: $base_normal_bg_color;
+    border-color: $base_normal_border_color;
+    border-width: 1px;
+
+    /* focus */
+    &:focus {
+        //color: $base_focused_fg_color;
+        //background-color: $base_focused_bg_color;
+        border-color: $base_focused_border_color;
+    }
+
+    /* prelight */
+    &:hover {
+        color: $base_prelight_fg_color;
+        background-color:$selected_bg_color;
+        border-color: $base_prelight_border_color;
+    }
+
+    /* active */
+    &:active {
+        color: $base_active_fg_color;
+        background-color: $base_active_bg_color;
+        border-color: $base_active_border_color;
+    }
+
+    /* checked */
+    &:checked {
+        color: $base_checked_fg_color;
+        background-color: $base_checked_bg_color;
+        border-color: $base_checked_border_color;
+    }
+
+    /* insensitive */
+    &:disabled {
+        color: $base_insensitive_fg_color;
+        background-color: $base_insensitive_bg_color;
+        border-color: $base_insensitive_border_color;
+    }
+}
+
+/*
+ * Label
+ */
+ /*
+label {
+    @extend %widget_base_class;
+}*/
+
+/*
+ * menubar
+ */
+menubar {
+   /* @extend %widget_base_class;*/
+  box-shadow: none;
+  /* For most widget, we don't need box-shadow at all. */
+  /* normal */
+  color: $headerbar_normal_fg_color;
+  background: $headerbar_normal_bg_image;
+  border-color: #d2d2d2;
+  border-width: 1px;
+  /* focus */
+  /* prelight */
+  /* active */
+  /* checked */
+  /* insensitive */
+}
+
+/*
+ * Menuitems
+ */
+%menuitem_base_class {
+    @extend %widget_base_class;
+background:$menu_color;
+    &:disabled {
+        background-color: $menuitem_insensitive_bg_color;
+        color:$insensitive_fg_color;
+    }
+
+    min-height: 22px;
+}
+
+/* menuitem in menu widget */
+menubar {
+    menu {
+        > menuitem {
+            @extend %menuitem_base_class;
+        }
+    }
+}
+
+/* When menuitem in menubar is clicked, this is its hover state! */
+menubar {
+    > menuitem {
+       /* @extend %menuitem_base_class;*/
+  box-shadow: none;
+  /* For most widget, we don't need box-shadow at all. */
+  /* normal */
+  color: $headerbar_normal_fg_color;
+  background-color: $headerbar_normal_bg_image;
+  border-color: #d2d2d2;
+  border-width: 1px;
+  /* focus */
+  /* prelight */
+  /* active */
+  /* checked */
+  /* insensitive */
+        &:hover {
+			color:$base_normal_fg_color;
+            background-color: $menubar_menuitem_prelight_bg_color;
+        }
+    }
+}
+
+/**************
+ * Buttons *
+ **************/
+%button_base_class {
+    @extend %widget_base_class;
+
+    background-image: $base_normal_bg_image;
+
+    &:hover {
+        background-image: $base_prelight_bg_image;
+    }
+
+    &:active {
+        background-image: $base_active_bg_image;
+    }
+
+    &:checked {
+        background-image: $base_checked_bg_image;
+    }
+
+    &:disabled {
+        background-image: $base_insensitive_bg_image;
+    }
+
+    &:backdrop {
+        background-image: $base_backdrop_sensitive_bg_image;
+    }
+
+    &:backdrop:disabled {
+        background-image: $base_backdrop_insensitive_bg_image;
+    }
+}
+
+button {
+    @extend %button_base_class;
+
+    min-height: 24px;
+}
+
+/**************
+ * ComboBoxes *
+ **************/
+combobox {
+    menu {
+        menuitem {
+            min-height: 23px;
+            background-color: $combobox_dropdown_menuitem_normal_bg_color;
+
+            &:hover {
+                color: $combobox_dropdown_menuitem_prelight_fg_color;
+                background-color: $combobox_dropdown_menuitem_prelight_bg_color;
+            }
+        }
+    }
+
+    /* When combobox isn't clicked, it uses button's style. i don't know what the hell. */
+    button {
+        background-image: $combobox_button_normal_bg_image;
+    }
+
+    /* When combobox entry isn't clicked, it uses entry's style. I don't want to change it. */
+}
+
+/****************
+ * Text Entries *
+ ****************/
+entry {
+    @extend %widget_base_class;
+}
+
+
+/*
+ * Notebooks
+ */
+%tab_border {
+    &.top {
+        tab {
+            border-style: none solid solid none; /* bottom right*/
+            &:checked {
+                border-bottom-style: none;
+            }
+        }
+    }
+    &.left {
+        tab {
+            border-style: none solid solid none; /* bottom right*/
+            &:checked {
+                border-right-style: none;
+            }
+        }
+    }
+    &.bottom {
+        tab {
+            border-style: solid solid none none; /* top right */
+            &:checked {
+                border-top-style: none;
+            }
+        }
+    }
+    &.right {
+        tab {
+            border-style: none none solid solid; /* left bottom */
+            &:checked {
+                border-left-style: none;
+            }
+        }
+    }
+
+}
+
+%tab_closebutton {
+    button {
+        border-width: 0px;
+        background-image: $notebook_tab_closebutton_normal_bg_image;
+    }
+    &:checked {
+        button {
+            background-image: $notebook_tab_closebutton_checked_bg_image;
+        }
+    }
+}
+
+notebook {
+    border-color: $notebook_generic_border_color;
+
+    > header {
+        > tabs {
+            > tab {
+                /* close button in tab */
+                @extend %tab_closebutton;
+            }
+        }
+
+        @extend %tab_border;
+    }
+}
+
+
+/*
+ * Check, Radio
+ * It uses button's style
+ */
+check, radio {
+    @extend %button_base_class;
+}
+
+radio {
+    border-radius: 100%;
+}
+
+
+/*
+ * Switch & its slider
+ */
+switch {
+    @extend %widget_base_class;
+}
+
+slider {
+    @extend %widget_base_class;
+}
+
+
+/*
+ * SpinButton
+ */
+spinbutton {
+    @extend %widget_base_class;
+}
+
+
+/*
+ * Scrollbar
+ */
+scrollbar {
+    -GtkScrollbar-has-backward-stepper: true;
+    -GtkScrollbar-has-forward-stepper: true;
+    &.top, &.bottom, &.left, &.right {
+        border-width: 0px;
+    }
+
+    trough {
+        background-color: $scrollbar_free_space_color;
+        slider {
+            min-height: 16px;
+            min-width: 16px;
+            border-width: 0px;
+            margin: 0px;
+            background-color: $scrollbar_slider_normal_color;
+
+            &:hover {
+                background-color: $scrollbar_slider_prelight_color;
+            }
+
+            &:active {
+                background-color: $scrollbar_slider_active_color;
+            }
+
+            &:disabled {
+                background-color: $scrollbar_slider_insensitive_color;
+            }
+        }
+    }
+
+    /* The backword-stepper and forward-stepper are button widget */
+    button, button:disabled {
+        color: $scrollbar_stepper_fg_color;
+        background-image: image($scrollbar_stepper_bg_color);
+    }
+    &.horizontal {
+        button {
+            min-height: 16px;
+            min-width: 17px;
+        }
+    }
+
+    &.vertical {
+        button {
+            min-height: 17px;
+            min-width: 16px;
+        }
+    }
+}
+
+
+/*
+ * trough in scale/progress bar
+ */
+@mixin trough_colors($filled_widget) {
+    /* trough - not filled part */
+    background-color: $trough_free_space_normal_color;
+    border-color: $trough_border_normal_color;
+    &:disabled {
+        background-color: $trough_free_space_insensitive_color;
+        border-color: $trough_border_insensitive_color;
+    }
+
+    /* trough - filled part (highlight or progress) */
+    #{$filled_widget} {
+        background-color: $trough_filled_space_normal_color;
+        border-color: $trough_border_normal_color;
+        &:disabled {
+            background-color: $trough_filled_space_insensitive_color;
+            border-color: $trough_border_insensitive_color;
+        }
+    }
+}
+
+
+@mixin trough_size($hw, $filled_widget, $val)
+{
+    min-#{$hw}: $val;
+    #{$filled_widget} {
+        min-#{$hw}: $val;
+    }
+}
+
+/*
+ * Scale
+ */
+scale {
+    trough {
+        @include trough_colors(highlight);
+
+        slider {
+            /* scale slider */
+            //background-image:;
+
+        }
+    }
+
+    &.horizontal {
+        trough {
+            @include trough_size(height, highlight, 6px);
+            /* slider */
+            slider {
+                min-width: 7px;
+                min-height: 15px;
+            }
+        }
+    }
+
+    &.vertical {
+        trough {
+            @include trough_size(width, highlight, 6px);
+            /* slider */
+            slider {
+                min-width: 15px;
+                min-height: 7px;
+            }
+        }
+    }
+}
+
+
+/*
+ * Progessbar
+ */
+progressbar {
+    trough {
+        @include trough_colors(progress);
+    }
+
+    &.horizontal {
+        trough {
+            @include trough_size(height, progress, 14px);
+        }
+    }
+
+    &.vertical {
+        trough {
+            @include trough_size(width, progress, 14px);
+        }
+    }
+}
+
+
+/*
+ * Frame
+ */
+frame {
+    border {
+        color: $frame_border_normal_color;
+        &:disabled {
+            color: $frame_border_insensitive_color;
+        }
+    }
+
+    label {
+        color: $frame_label_normal_fg_color;
+        &:disabled {
+            color: $frame_label_insensitive_fg_color;
+        }
+    }
+}
+
+
+/*
+ * Treeview
+ */
+scrolledwindow {
+    border-style: solid;
+    border-width: 1px;
+    border-color: $treeview_generic_border_color;
+}
+
+
+/*
+ * Treeview
+ */
+treeview {
+    /* row */
+    &.view {
+        @extend %widget_base_class;
+        &, &:focus { /* hover state is the same as normal state */
+            border-style: none solid solid none; /* only right and bottom side has border */
+            border-color: $treeview_generic_border_color;
+        }
+        &:selected {
+            border-style: none solid none none;
+            border-color: $treeview_generic_border_color;
+            background-color: $treeview_view_selected_bg_color;
+            &:backdrop {
+                color: $base_backdrop_fg_color;
+            }
+        }
+        &:hover {
+            border-style: none solid none none;
+            border-color: $treeview_generic_border_color;
+        }
+    }
+
+    /* Title header */
+    button {
+        @extend %widget_base_class;
+        background-image: $treeview_header_bg_image;
+        &, &:hover, &:focus, &:active {
+            border-style: none solid solid none;
+            border-color: $treeview_generic_border_color;
+        }
+    }
+}
+
+
+/*
+ * titlebar - for generic window
+ * headerbar - for several applications such as gedit and gnome-calculator
+ */
+.titlebar, headerbar {
+    color: $headerbar_normal_fg_color;
+    background-image: $headerbar_normal_bg_image;
+    &:backdrop {
+        color: $headerbar_button_backdrop_fg_color;
+        background-image: $headerbar_backdrop_bg_image;
+    }
+    button.titlebutton {
+        color: $headerbar_button_normal_fg_color;
+        background-image:image($headerbar_button_normal_bg_image);
+        border-width: 0px;
+        /* maximize and minimize close */
+        &:hover, &:backdrop:hover {
+            color: $headerbar_button_prelight_fg_color;
+            background-image: $headerbar_button_prelight_bg_image;
+        }
+        &:active,&:backdrop:active{
+            color: $headerbar_button_active_fg_color;
+            background-image: $headerbar_button_active_bg_image;
+        }
+        &:backdrop {
+            color: $headerbar_button_backdrop_fg_color;
+            background-image:image($headerbar_button_backdrop_bg_image);
+        }
+
+        /* close button */
+        &.close:hover {
+            background-image: $headerbar_closebutton_prelight_bg_image;
+			color:$headerbar_closebutton_active_fg_color;
+        }
+        &.close:active {
+            background-image: $headerbar_closebutton_active_bg_image;
+			color:$headerbar_closebutton_active_fg_color;
+        }
+    }
+}
+
+
+/*
+ * Separator
+ */
+separator {
+    margin: 3px;
+}

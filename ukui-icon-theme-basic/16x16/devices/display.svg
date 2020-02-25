@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" inkscape:version="0.48.4 r9939" sodipodi:docname="computer.svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px"
+	 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+<g id="显示器_1_">
+	<g>
+		<g>
+			<path fill="#212121" d="M3.8,14.7c-0.6,0-1-0.4-1-1v-1h2.8v-0.5H0V1.3h16v10.9h-5.6v0.5h2.8v1c0,0.5-0.4,1-1,1H3.8z"/>
+			<g>
+				
+					<linearGradient id="rect3008_1_" gradientUnits="userSpaceOnUse" x1="-3482.8701" y1="1982.9531" x2="-3482.8701" y2="1975.2139" gradientTransform="matrix(1 0 0 -1 3490.8203 1985.6855)">
+					<stop  offset="0" style="stop-color:#B3E5FC"/>
+					<stop  offset="1" style="stop-color:#0288D1"/>
+				</linearGradient>
+				<rect id="rect3008_7_" x="1.4" y="2.7" fill="url(#rect3008_1_)" width="13.1" height="7.7"/>
+				<path fill="#455A64" d="M12.2,13.2H3.8H3.3v0.5c0,0.3,0.2,0.5,0.5,0.5h8.4c0.3,0,0.5-0.2,0.5-0.5v-0.5H12.2z"/>
+				<rect x="6.1" y="11.7" fill="#1D272B" width="3.8" height="1.6"/>
+				
+					<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-3482.8203" y1="1983.8545" x2="-3482.8203" y2="1973.9551" gradientTransform="matrix(1 0 0 -1 3490.8203 1985.6855)">
+					<stop  offset="0" style="stop-color:#455A64"/>
+					<stop  offset="1" style="stop-color:#263238"/>
+				</linearGradient>
+				<path fill="url(#SVGID_1_)" d="M0.5,1.8v9.9h15V1.8H0.5z M14.6,10.5H1.5V2.7h13.1V10.5z"/>
+				<path id="rect3008-0_8_" opacity="0.2318" fill="#EEE8D5" enable-background="new    " d="M9.7,2.7l-3.4,7.7h8.3V2.7H9.7z"/>
+			</g>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="4.6,4 3,4 3,5.7 			"/>
+			<polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="11.4,4 13,4 13,5.7 			"/>
+			<polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="4.6,9.2 3,9.2 3,7.5 			"/>
+			<polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="11.4,9.2 13,9.2 13,7.5 			"/>
+		</g>
+	</g>
+</g>
+</svg>
