@@ -1,0 +1,24 @@
+#!/bin/sh
+
+OPTION=FRAMEBUFFER
+PREREQ="framebuffer"
+
+prereqs()
+{
+        echo "$PREREQ"
+}
+
+case $1 in
+prereqs)
+        prereqs
+        exit 0
+        ;;
+esac
+
+[ -x /sbin/plymouthd ] && [ -e /usr/share/fonts/truetype/droid/DroidSansFallbackFull.ttf ] || exit 0
+
+. /usr/share/initramfs-tools/hook-functions
+	# 为initrd增加中文字体，使plymouth支持中文显示
+	mkdir -p ${DESTDIR}/usr/share/fonts/truetype/droid
+	cp /usr/share/fonts/truetype/droid/DroidSansFallbackFull.ttf ${DESTDIR}/usr/share/fonts/truetype/droid/
+	

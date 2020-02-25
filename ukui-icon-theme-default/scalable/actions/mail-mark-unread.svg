@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="邮件" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#808080;stroke-miterlimit:10;}
+	.st1{fill:#00B1FF;}
+</style>
+<title>14</title>
+<g id="_14">
+	<line class="st0" x1="6.5" y1="7" x2="0.5" y2="11.5"/>
+	<line class="st0" x1="13.5" y1="11.5" x2="7.5" y2="7"/>
+	<polyline class="st0" points="13.5,2.5 7,7.9 0.5,2.5 	"/>
+	<path class="st1" d="M13,3v8H1V3H13 M14,2H0v10h14V2z"/>
+</g>
+</svg>

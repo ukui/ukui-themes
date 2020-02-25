@@ -1,0 +1,206 @@
+
+/*
+ * Base color
+ */
+/* background colors in different states */
+$base_normal_bg_color: white;
+$base_active_bg_color: #aed9ff;
+$base_prelight_bg_color: #c5e4ff;
+$base_selected_bg_color: $base_active_bg_color;
+$base_insensitive_bg_color: #f0f0f0;
+//$base_inconsistent_bg_color: #f0f0f0;
+$base_focused_bg_color: #fafafa;
+$base_backdrop_bg_color:#e5e7e9;
+//$base_backdrop_bg_color: darken($base_normal_bg_color, 3%);
+$base_backdrop_sensitive_bg_color: #fbfbfb; /* between disabled and normal, Defined by me. */
+$base_backdrop_insensitive_bg_color: $base_insensitive_bg_color;
+//$base_dir_ltr_bg_color: #f0f0f0;
+//$base_dir_rtl_bg_color: #f0f0f0;
+//$base_link_bg_color: #f0f0f0;
+//$base_visited_bg_color: #f0f0f0;
+$base_checked_bg_color: $base_active_bg_color;
+//$base_drop_active_bg_color: #f0f0f0;
+
+/* foreground colors in different states */
+$base_normal_fg_color: black;
+$base_active_fg_color: black;
+$base_prelight_fg_color: black;
+$base_selected_fg_color: black;
+$base_insensitive_fg_color: #bbbbbb;
+//$base_inconsistent_fg_color: #f0f0f0;
+$base_focused_fg_color: black;
+$base_backdrop_fg_color: darken($base_normal_fg_color, 3%);
+$base_backdrop_sensitive_fg_color: $base_insensitive_fg_color;
+$base_backdrop_insensitive_fg_color: $base_insensitive_fg_color;
+//$base_dir_ltr_fg_color: #f0f0f0;
+//$base_dir_rtl_fg_color: #f0f0f0;
+//$base_link_fg_color: #f0f0f0;
+//$base_visited_fg_color: #f0f0f0;
+$base_checked_fg_color: black;
+//$base_drop_active_fg_color: #f0f0f0;
+
+/* border color in different states */
+$base_normal_border_color: #d2d2d2;
+$base_active_border_color: #56a3bf;
+$base_prelight_border_color: #77cdef;
+//$base_selected_border_color: #dcebfd;
+$base_insensitive_border_color: #d9d9d9;
+//$base_inconsistent_border_color: #f0f0f0;
+$base_focused_border_color: #77cdef;
+$base_backdrop_border_color: darken($base_normal_border_color, 3%);
+$base_backdrop_sensitive_border_color: $base_insensitive_border_color;
+$base_backdrop_insensitive_border_color: $base_insensitive_border_color;
+//$base_dir_ltr_border_color: #f0f0f0;
+//$base_dir_rtl_border_color: #f0f0f0;
+//$base_link_border_color: #f0f0f0;
+//$base_visited_border_color: #f0f0f0;
+$base_checked_border_color: $base_active_border_color;
+//$base_drop_active_border_color: #f0f0f0;
+
+/*
+ * background image in different states.
+ * The color value of bg_image is the same as the bg_color
+ */
+$base_normal_bg_image: image($base_normal_bg_color);
+$base_active_bg_image: image($base_active_bg_color);
+$base_prelight_bg_image: image($base_prelight_bg_color);
+//$base_selected_bg_image: image($base_selected_bg_color);
+$base_insensitive_bg_image: image($base_insensitive_bg_color);
+//$base_inconsistent_bg_image: image($base_inconsistent_bg_color);
+$base_focused_bg_image: image($base_focused_bg_color);
+$base_backdrop_bg_image: image($base_backdrop_bg_color);
+$base_backdrop_sensitive_bg_image: image($base_backdrop_sensitive_bg_color);
+$base_backdrop_insensitive_bg_image: image($base_backdrop_insensitive_bg_color);
+//$base_dir_ltr_bg_image: image($base_dir_ltr_bg_color);
+//$base_dir_rtl_bg_image: image($base_dir_rtl_bg_color);
+//$base_link_bg_image: image($base_link_bg_color);
+//$base_visited_bg_image: image($base_visited_bg_color);
+$base_checked_bg_image: image($base_checked_bg_color);
+//$base_drop_active_bg_image: image($base_drop_active_bg_color);
+
+
+
+/*
+ * menuitem
+ */
+$menubar_menuitem_prelight_bg_color: $base_active_bg_color;
+$menuitem_insensitive_bg_color: #f2f2f2;
+
+
+/*
+ * ComboBox
+ */
+$combobox_button_normal_bg_image: image(#f9f9f9);
+/* ComboBox dropdown colors */
+$combobox_dropdown_menuitem_prelight_fg_color: black;
+$combobox_dropdown_menuitem_prelight_bg_color: #44aacf;
+$combobox_dropdown_menuitem_normal_bg_color: #f9f9f9;
+
+
+/*
+ * Entry
+ */
+ /* shadow color is the same as the border color */
+ $entry_focus_shadow_color: $base_focused_border_color;
+
+
+/*
+ * Notebooks
+ */
+$notebook_generic_border_color: $base_normal_border_color;
+$notebook_tab_normal_bg_color: #f0f0f0;
+$notebook_tab_checked_bg_color: #FFF;
+$notebook_tab_closebutton_normal_bg_image: image($notebook_tab_normal_bg_color);
+$notebook_tab_closebutton_checked_bg_image: image($notebook_tab_checked_bg_color);
+
+
+/*
+ * Scrollbar
+ */
+$scrollbar_free_space_color: #f0f0f0; 
+$scrollbar_slider_normal_color: #cdcdcd;
+$scrollbar_slider_active_color: #606060;
+$scrollbar_slider_prelight_color: #a6a6a6;
+$scrollbar_slider_insensitive_color: $scrollbar_free_space_color;
+$scrollbar_stepper_fg_color: $scrollbar_slider_active_color;
+$scrollbar_stepper_bg_color: $scrollbar_free_space_color;
+
+
+/*
+ * Scale & Progressbar
+ */
+$trough_free_space_normal_color: #f0f0f0;
+$trough_free_space_insensitive_color: #f0f0f0;
+$trough_filled_space_normal_color: #44aacf;
+$trough_filled_space_insensitive_color: #e0e0e0;
+$trough_border_normal_color: #bbbbbb;
+$trough_border_insensitive_color: #d9d9d9;
+
+
+/*
+ * Frame
+ */
+$frame_label_normal_fg_color: $base_normal_fg_color;
+$frame_label_insensitive_fg_color: $base_insensitive_fg_color;
+$frame_border_normal_color: $base_normal_border_color;
+$frame_border_insensitive_color: $base_insensitive_border_color;
+
+
+/*
+ * Treeview
+ */
+$treeview_view_selected_bg_color: $base_active_bg_color;
+$treeview_view_prelight_bg_color: $base_prelight_bg_color;
+$treeview_header_bg_image: image(#f0f0f0);
+$treeview_generic_border_color: #e5e5e5;
+
+
+/*
+ * Headerbar
+ */
+$headerbar_normal_fg_color: black;
+$headerbar_backdrop_fg_color: black;
+
+$headerbar_normal_bg_image: image(#e5e7e9);
+$headerbar_backdrop_bg_image: image(#e5e7e9);
+
+$headerbar_button_normal_fg_color: black;
+$headerbar_button_backdrop_fg_color: black;
+$headerbar_button_prelight_fg_color: black;
+$headerbar_button_active_fg_color: black;
+$headerbar_closebutton_active_fg_color: white;
+
+$headerbar_button_normal_bg_image: image(#e5e7e9);
+$headerbar_button_backdrop_bg_image: image(#e5e7e9);
+$headerbar_button_prelight_bg_image: image(#cecfd1);
+$headerbar_button_active_bg_image: image(#b7b9ba);
+$headerbar_closebutton_prelight_bg_image:image(#d42320);
+$headerbar_closebutton_active_bg_image: image(#ac4844);
+
+$headerbar_normal_border_color: #2a6b9f;
+$headerbar_backdrop_border_color: #bdbdbd;
+
+
+/*
+ * Panel
+ */
+$panel_normal_bg_color: #000000;/*080a0c*/
+$panel_normal_bg_image: image($panel_normal_bg_color);
+$panel_button_normal_bg_image: image(#367b9c);
+$panel_button_normal_border_color: #507e93;
+
+
+/*
+ * Control Center
+ */
+$ukcc_sidebar_normal_bg_color: #f0f0f0;
+
+
+/*
+ * start-menu
+ */
+$menu_font_color:#FFF;
+
+
+
+

@@ -1,19 +1,20 @@
-all: ukui-blue ukui-black
+all: ukui-black ukui-white
 
-ukui-blue:
-	$(MAKE) -C ukui-blue/
 
 ukui-black:
 	$(MAKE) -C ukui-black/
-clean:
-	$(MAKE) -C ukui-blue/ clean
-	$(MAKE) -C ukui-black/ clean
-install:
-	$(MAKE) -C ukui-blue/ install
-	$(MAKE) -C ukui-black/ install
-uninstall:
-	$(MAKE) -C ukui-blue/ uninstall
-	$(MAKE) -C ukui-black/ uninstall
 
-.PHONY: all clean ukui-blue ukui-black
+ukui-white:
+	$(MAKE) -C ukui-white/
+clean:
+	$(MAKE) -C ukui-black/ clean
+	$(MAKE) -C ukui-white/ clean
+install:
+	$(MAKE) -C ukui-black/ install
+	$(MAKE) -C ukui-white/ install
+uninstall:
+	$(MAKE) -C ukui-black/ uninstall
+	$(MAKE) -C ukui-white/ uninstall
+
+.PHONY: all clean ukui-black ukui-white
 

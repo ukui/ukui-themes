@@ -1,5 +1,0 @@
-debian/25_ukui-themes.gschema.override /usr/share/glib-2.0/schemas
-ukui-icon-theme usr/share/icons/
-ukui-theme usr/share/themes/
-ukui-blue usr/share/themes/
-ukui-black usr/share/themes/

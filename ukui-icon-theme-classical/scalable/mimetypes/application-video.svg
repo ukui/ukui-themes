@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.08;enable-background:new    ;}
+	.st1{opacity:0.1;enable-background:new    ;}
+	.st2{opacity:0.2;enable-background:new    ;}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{fill:#673AB7;fill-opacity:0.3922;}
+	.st5{fill:#FFFFFF;fill-opacity:0.3922;}
+	.st6{opacity:0.8;fill:#FFFFFF;enable-background:new    ;}
+	.st7{fill:#311B92;}
+</style>
+<g id="surface1">
+	<polygon class="st0" points="9.3,64 9.3,2 56.8,2 56.8,46.5 39.3,64 	"/>
+	<polygon class="st1" points="10.3,63 10.3,3 55.8,3 55.8,46.1 38.9,63 	"/>
+	<polygon class="st2" points="9.3,62 9.3,2 54.8,2 54.8,45.1 37.9,62 	"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="156.8003" y1="-1639.9707" x2="156.8003" y2="-1581.9707" gradientTransform="matrix(1 0 0 -1 -124.8003 -1578.9707)">
+		<stop  offset="0" style="stop-color:#512DA8"/>
+		<stop  offset="8.000000e-03" style="stop-color:#532EA8"/>
+		<stop  offset="0.2103" style="stop-color:#7843B4"/>
+		<stop  offset="0.4127" style="stop-color:#9553BD"/>
+		<stop  offset="0.6129" style="stop-color:#A95FC3"/>
+		<stop  offset="0.8099" style="stop-color:#B666C7"/>
+		<stop  offset="1" style="stop-color:#BA68C8"/>
+	</linearGradient>
+	<path class="st3" d="M37.4,61l16.3-16.3V3H10.3v58H37.4z"/>
+	<polygon class="st4" points="36.5,43.8 36.5,61 37.4,61 53.8,44.7 53.8,43.8 	"/>
+	<path class="st5" d="M37.4,44.7h16.3L37.4,61V44.7z"/>
+	<path class="st6" d="M44.7,27.5c0-7-5.7-12.7-12.7-12.7s-12.7,5.7-12.7,12.7S25,40.2,32,40.2S44.7,34.5,44.7,27.5z M22.5,27.5
+		c0-5.3,4.2-9.5,9.5-9.5s9.5,4.2,9.5,9.5S37.3,37,32,37S22.5,32.7,22.5,27.5z M37.4,27.5l-9-5.5v10.9L37.4,27.5z"/>
+	<g>
+		<path class="st7" d="M53.3,3.5v41l-16,16H24.8h-14v-57H53.3 M53.8,3H10.3v58h14.5h12.7l16.3-16.3V3L53.8,3z"/>
+	</g>
+</g>
+</svg>

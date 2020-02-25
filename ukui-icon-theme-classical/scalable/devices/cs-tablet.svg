@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<title>画板 21</title>
+<g id="&#x5F00;&#x59CB;&#x83DC;&#x5355;&#x5E94;&#x7528;&#x56FE;&#x6807;">
+	<g id="&#x5E73;&#x677F;">
+		<g id="_64">
+			<path style="opacity:0.2;enable-background:new    ;" d="M11.64,2.25h40.72c2.938,0,5.32,2.382,5.32,5.32v48.86
+				c0,2.938-2.382,5.32-5.32,5.32H11.64c-2.938,0-5.32-2.382-5.32-5.32V7.57C6.32,4.632,8.702,2.25,11.64,2.25z"/>
+			<path style="opacity:0.08;enable-background:new    ;" d="M12.64,2.25h40.72c3.49,0,6.32,2.83,6.32,6.32v48.86
+				c0,3.49-2.83,6.32-6.32,6.32H12.64c-3.49,0-6.32-2.83-6.32-6.32V8.57C6.32,5.08,9.15,2.25,12.64,2.25z"/>
+			<path style="opacity:0.1;enable-background:new    ;" d="M12.64,3.25h40.72c2.938,0,5.32,2.382,5.32,5.32v48.86
+				c0,2.938-2.382,5.32-5.32,5.32H12.64c-2.938,0-5.32-2.382-5.32-5.32V8.57C7.32,5.632,9.702,3.25,12.64,3.25z"/>
+			<path style="fill:#212121;" d="M11.64,3.25h40.72c2.386,0,4.32,1.934,4.32,4.32v48.86c0,2.386-1.934,4.32-4.32,4.32H11.64
+				c-2.386,0-4.32-1.934-4.32-4.32V7.57C7.32,5.184,9.254,3.25,11.64,3.25z"/>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="32" y1="62.5" x2="32" y2="5.5" gradientTransform="matrix(1 0 0 -1 0 66)">
+				<stop  offset="0" style="stop-color:#455A64"/>
+				<stop  offset="1" style="stop-color:#263238"/>
+			</linearGradient>
+			<path style="fill:url(#SVGID_1_);stroke:#212121;stroke-width:0.5;stroke-miterlimit:10;" d="M11.64,3.5h40.72
+				c2.248,0,4.07,1.822,4.07,4.07v48.86c0,2.248-1.822,4.07-4.07,4.07H11.64c-2.248,0-4.07-1.822-4.07-4.07V7.57
+				C7.57,5.322,9.392,3.5,11.64,3.5z"/>
+			<path style="fill:#212121;" d="M52.36,3.25H11.64C9.256,3.255,7.325,5.186,7.32,7.57v48.86c0.005,2.384,1.936,4.315,4.32,4.32
+				h40.72c2.384-0.005,4.315-1.936,4.32-4.32V7.57C56.675,5.186,54.744,3.255,52.36,3.25z M56.18,56.43
+				c-0.005,2.107-1.713,3.815-3.82,3.82H11.64c-2.107-0.005-3.815-1.713-3.82-3.82V7.57c0.005-2.107,1.713-3.815,3.82-3.82h40.72
+				c2.107,0.005,3.815,1.713,3.82,3.82V56.43z"/>
+			
+				<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="11.64" y1="37.055" x2="52.35" y2="37.055" gradientTransform="matrix(1 0 0 -1 0 66)">
+				<stop  offset="0" style="stop-color:#B3E5FC"/>
+				<stop  offset="1" style="stop-color:#0288D1"/>
+			</linearGradient>
+			<rect x="11.64" y="7.57" style="fill:url(#SVGID_2_);stroke:#01579B;stroke-miterlimit:10;" width="40.71" height="42.75"/>
+			
+				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="36.4017" y1="56.5796" x2="27.6117" y2="17.5896" gradientTransform="matrix(1 0 0 -1 0 66)">
+				<stop  offset="0" style="stop-color:#B3E5FC"/>
+				<stop  offset="1" style="stop-color:#0288D1"/>
+			</linearGradient>
+			<rect x="13.03" y="8.92" style="fill:url(#SVGID_3_);" width="37.94" height="40.05"/>
+			<polygon style="opacity:0.23;fill:#EEE8D5;enable-background:new    ;" points="51.01,49.05 24.62,49.05 35.42,9 51.01,9 			"/>
+			<circle style="fill:#1D272B;" cx="32" cy="55.41" r="3.31"/>
+			<circle style="fill:#455A64;" cx="31.78" cy="55.63" r="2.67"/>
+		</g>
+	</g>
+</g>
+</svg>

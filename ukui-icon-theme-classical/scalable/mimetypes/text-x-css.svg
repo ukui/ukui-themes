@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.08;enable-background:new    ;}
+	.st1{opacity:0.1;enable-background:new    ;}
+	.st2{opacity:0.2;enable-background:new    ;}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{fill:#0D47A1;fill-opacity:0.3922;}
+	.st5{fill:#FFFFFF;fill-opacity:0.3922;}
+	.st6{fill:#0D47A1;}
+	.st7{opacity:0.8;fill:#FFFFFF;enable-background:new    ;}
+</style>
+<g id="surface1_1_">
+	<polygon class="st0" points="10.3,64 10.3,2 57.8,2 57.8,46.5 40.3,64 	"/>
+	<polygon class="st1" points="11.3,63 11.3,3 56.8,3 56.8,46.1 39.9,63 	"/>
+	<polygon class="st2" points="10.3,62 10.3,2 55.8,2 55.8,45.1 38.9,62 	"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="199.4004" y1="2340.9609" x2="199.4004" y2="2282.9609" gradientTransform="matrix(1 0 0 1 -166.4004 -2279.9609)">
+		<stop  offset="0" style="stop-color:#1976D2"/>
+		<stop  offset="0.0626" style="stop-color:#227DD6"/>
+		<stop  offset="0.3018" style="stop-color:#3F96E4"/>
+		<stop  offset="0.5397" style="stop-color:#53A7EE"/>
+		<stop  offset="0.7739" style="stop-color:#60B1F4"/>
+		<stop  offset="1" style="stop-color:#64B5F6"/>
+	</linearGradient>
+	<path class="st3" d="M38.4,61l16.3-16.3V3H11.3v58H38.4z"/>
+	<polygon class="st4" points="37.5,43.8 37.5,61 38.4,61 54.8,44.7 54.8,43.8 	"/>
+	<path class="st5" d="M38.4,44.7h16.3L38.4,61V44.7z"/>
+	<g>
+		<path class="st6" d="M54.3,3.5v41l-16,16H25.8h-14v-57H54.3 M54.8,3H11.3v58h14.5h12.7l16.3-16.3V3L54.8,3z"/>
+	</g>
+	<path class="st7" d="M21,14.4l0.5,5.4h15.9L37,23.4H21.8l0.4,5.5h14.2l-0.8,6L32,36.2L28.4,35l-0.3-2.5h-5.5l0.3,6.4l9.1,2.7
+		l9.5-2.7l1.3-24.5C42.9,14.4,21,14.4,21,14.4z"/>
+</g>
+</svg>

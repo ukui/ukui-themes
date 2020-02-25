@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.08;enable-background:new    ;}
+	.st1{opacity:0.1;enable-background:new    ;}
+	.st2{opacity:0.2;enable-background:new    ;}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{fill:#311B92;fill-opacity:0.3922;}
+	.st5{fill:#FFFFFF;fill-opacity:0.3922;}
+	.st6{fill:#311B92;}
+	.st7{opacity:0.8;}
+	.st8{fill:#FFFFFF;}
+</style>
+<g id="surface1_2_">
+	<polygon class="st0" points="9.3,64 9.3,2 56.8,2 56.8,46.5 39.3,64 	"/>
+	<polygon class="st1" points="10.3,63 10.3,3 55.8,3 55.8,46.1 38.9,63 	"/>
+	<polygon class="st2" points="9.3,62 9.3,2 54.8,2 54.8,45.1 37.9,62 	"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="240.0005" y1="-2416.9512" x2="240.0005" y2="-2358.9512" gradientTransform="matrix(1 0 0 -1 -208.0005 -2355.9512)">
+		<stop  offset="0" style="stop-color:#3F51B5"/>
+		<stop  offset="0.258" style="stop-color:#4355B7"/>
+		<stop  offset="0.5253" style="stop-color:#5060BB"/>
+		<stop  offset="0.7959" style="stop-color:#6473C3"/>
+		<stop  offset="1" style="stop-color:#7986CB"/>
+	</linearGradient>
+	<path class="st3" d="M37.4,61l16.3-16.3V3H10.3v58H37.4z"/>
+	<polygon class="st4" points="36.5,43.8 36.5,61 37.4,61 53.8,44.7 53.8,43.8 	"/>
+	<path class="st5" d="M37.4,44.7h16.3L37.4,61V44.7z"/>
+	<g>
+		<path class="st6" d="M53.3,3.5v41l-16,16H24.8h-14v-57H53.3 M53.8,3H10.3v58h14.5h12.7l16.3-16.3V3L53.8,3z"/>
+	</g>
+	<g class="st7">
+		<path class="st8" d="M32.3,13.8c-1,0-1.9,0.1-2.8,0.2c-2.4,0.4-2.9,0.6-2.9,2.2v3.6h6V21h-8.5c-1.7,0-2.8,1-3.2,2.9
+			c-0.5,2.2-0.6,3.5,0,5.8c0.4,1.7,1.5,3.4,3.2,3.4h1.2v-3.6c0-1.9,1.7-3.6,3.6-3.6h6c1.6,0,2.4-0.8,2.4-2.4v-6
+			c0-1.5-0.6-3.1-2.2-3.4C34.3,13.9,33.2,13.8,32.3,13.8z M30.2,16.2c0.7,0,1.2,0.5,1.2,1.2s-0.5,1.2-1.2,1.2S29,18.1,29,17.4
+			S29.5,16.2,30.2,16.2z"/>
+		<path class="st8" d="M31.7,39.2c1,0,1.9-0.1,2.8-0.2c2.4-0.4,2.9-0.6,2.9-2.2v-3.6h-6V32h8.5c1.7,0,2.8-1,3.2-2.9
+			c0.5-2.2,0.6-3.5,0-5.8c-0.4-1.7-1.5-3.4-3.2-3.4h-1.2v3.6c0,1.9-1.7,3.6-3.6,3.6h-6c-1.6,0-2.4,0.8-2.4,2.4v6
+			c0,1.5,0.6,3.1,2.2,3.4C29.7,39.1,30.8,39.2,31.7,39.2z M33.8,36.8c-0.7,0-1.2-0.5-1.2-1.2s0.5-1.2,1.2-1.2s1.2,0.5,1.2,1.2
+			S34.5,36.8,33.8,36.8z"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="&#x5176;&#x4ED6;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<title>画板 26</title>
+<g id="&#x5783;&#x573E;&#x6876;-&#x6EE1;">
+	<g id="_16">
+		<path style="fill:#606061;" d="M2.1,16L2.1,16c-1.067-1.745-1.622-3.755-1.6-5.8C0.579,8.084,0.984,5.993,1.7,4l0.1-0.2h2.3
+			L0.5,3.2l0.4-2.3l4.2,0.6L5.3,0l6.3,1l-0.2,1.5l4.1,0.7l-0.4,2.3L14,5.3c0.519,1.548,0.789,3.168,0.8,4.8
+			c-0.027,1.994-0.542,3.951-1.5,5.7L13.1,16H2.1z M9.7,2.2V2l-3-0.5v0.2L9.7,2.2z"/>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0.86" y1="-286.15" x2="14.36" y2="-286.15" gradientTransform="matrix(1 0 0 1 0 296)">
+			<stop  offset="0.05" style="stop-color:#CED7DB"/>
+			<stop  offset="0.1" style="stop-color:#C4CDD2"/>
+			<stop  offset="0.27" style="stop-color:#A7B5BC"/>
+			<stop  offset="0.41" style="stop-color:#94A6B0"/>
+			<stop  offset="0.51" style="stop-color:#8DA1AB"/>
+			<stop  offset="1" style="stop-color:#CED7DB"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_1_);" d="M13.1,4.1h-11c-0.757,1.912-1.164,3.944-1.2,6c0.001,1.921,0.482,3.812,1.4,5.5h10.6
+			c0.975-1.67,1.492-3.567,1.5-5.5C14.358,8.035,13.917,5.997,13.1,4.1z"/>
+		<path style="fill:#5E7B88;" d="M10.9,2.8l0.2-1.5L5.6,0.4L5.4,1.9L1.3,1.2L1,2.8l13.7,2.3L15,3.4L10.9,2.8z M6.3,2L6.3,2l0.1-0.9
+			l3.7,0.6L10,2.6L6.3,2z"/>
+		<path style="fill:#5E7B88;" d="M4.1,14.8H3c-0.569-1.572-0.873-3.228-0.9-4.9C2.076,8.417,2.383,6.948,3,5.6h1.1
+			c0,0-0.9,1.2-0.9,4.2C3.175,11.509,3.481,13.207,4.1,14.8z"/>
+		<path style="fill:#5E7B88;" d="M6.7,14.8H5.6c-0.447-1.596-0.682-3.243-0.7-4.9C4.867,8.468,5.104,7.043,5.6,5.7h1.1
+			C6.137,7.025,5.897,8.464,6,9.9C5.969,11.56,6.205,13.215,6.7,14.8z"/>
+		<path style="fill:#5E7B88;" d="M11.2,14.8h1.1c0.569-1.572,0.873-3.228,0.9-4.9c0.035-1.451-0.274-2.89-0.9-4.2h-1.1
+			c0,0,0.9,1.2,0.9,4.2C12.135,11.577,11.828,13.244,11.2,14.8z"/>
+		<path style="fill:#5E7B88;" d="M8.5,14.8h1.1c0.447-1.596,0.682-3.243,0.7-4.9c0.033-1.432-0.204-2.857-0.7-4.2H8.5
+			C9.069,7.058,9.309,8.532,9.2,10C9.165,11.623,8.93,13.235,8.5,14.8z"/>
+	</g>
+</g>
+</svg>

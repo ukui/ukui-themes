@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.1;enable-background:new    ;}
+	.st1{opacity:0.2;enable-background:new    ;}
+	.st2{fill:#1B5E20;}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{fill:#1B5E20;fill-opacity:0.39;}
+	.st5{fill:#FFFFFF;fill-opacity:0.3922;}
+	.st6{opacity:0.8;fill:#FFFFFF;enable-background:new    ;}
+	.st7{enable-background:new    ;}
+	.st8{fill:#38883B;}
+</style>
+<polygon class="st0" points="9.2,64 9.2,2 56.8,2 56.8,46.5 39.3,64 "/>
+<polygon class="st0" points="10.2,63 10.2,3 55.8,3 55.8,46.1 38.9,63 "/>
+<polygon class="st1" points="9.2,62 9.2,2 54.8,2 54.8,45.1 37.9,62 "/>
+<polygon class="st2" points="10.1,61 10.1,3 53.9,3 53.9,44.7 37.5,61 "/>
+<g>
+	<g>
+		<g>
+			<g>
+				<g>
+					
+						<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="115.1502" y1="-1281.3008" x2="115.1502" y2="-1224.3008" gradientTransform="matrix(1 0 0 -1 -83.2002 -1220.8008)">
+						<stop  offset="0" style="stop-color:#388E3C"/>
+						<stop  offset="0.0757" style="stop-color:#43953E"/>
+						<stop  offset="0.3246" style="stop-color:#62A943"/>
+						<stop  offset="0.5665" style="stop-color:#79B747"/>
+						<stop  offset="0.796" style="stop-color:#86C049"/>
+						<stop  offset="1" style="stop-color:#8BC34A"/>
+					</linearGradient>
+					<polygon class="st3" points="10.6,60.5 10.6,3.5 53.3,3.5 53.3,44.5 37.3,60.5 					"/>
+				</g>
+				<polygon class="st4" points="53.3,44.5 53.3,43.8 36.4,43.8 36.4,60.5 37.3,60.5 				"/>
+				<path class="st5" d="M37.3,44.5h16.1l-16,16L37.3,44.5z"/>
+			</g>
+			<path class="st6" d="M33.1,16.1L33.1,16.1H31l0,0H17.3v26.6h29.4V16.1H33.1z M19.4,24H26v4.2h-6.6V24z M19.4,30.3H26v4.2h-6.6
+				V30.3z M28.2,30.3h16.4v4.2H28.2V30.3z M28.2,28.2V24h16.4v4.2H28.2z M44.6,18.2v3.6H28.2v-3.6H44.6z M26,18.2v3.6h-6.6v-3.6H26z
+				 M19.4,36.7H26v3.8h-6.6V36.7z M28.2,40.5v-3.8h16.4v3.8H28.2z"/>
+		</g>
+	</g>
+	<g>
+		<rect x="10.6" y="3.5" class="st6" width="42.7" height="10.9"/>
+		<g class="st7">
+			<path class="st8" d="M23.2,13.2V4.6h6v1.6h-4v1.7h3.6v1.6h-3.6v2.1h4.3v1.6C29.6,13.2,23.2,13.2,23.2,13.2z"/>
+			<path class="st8" d="M40.8,4.6v1.6h-2.7v6.9h-2V6.3h-2.7V4.6H40.8z"/>
+		</g>
+	</g>
+</g>
+</svg>

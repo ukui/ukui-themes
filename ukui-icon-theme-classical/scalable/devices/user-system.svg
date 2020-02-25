@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="&#x5176;&#x4ED6;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<title>画板 26</title>
+<g id="&#x7535;&#x8111;">
+	<path style="fill:#263238;" d="M3.79,15.11c-0.552,0-1-0.448-1-1v-1h2.84v-0.48H0V0.89h16v11.79h-5.62v0.48h2.84v1
+		c0,0.552-0.448,1-1,1L3.79,15.11z"/>
+	
+		<linearGradient id="rect3008_1_" gradientUnits="userSpaceOnUse" x1="7.995" y1="15.71" x2="7.995" y2="7.09" gradientTransform="matrix(1 0 0 -1 0 18)">
+		<stop  offset="0" style="stop-color:#B3E5FC"/>
+		<stop  offset="1" style="stop-color:#0288D1"/>
+	</linearGradient>
+	<rect id="rect3008" x="1.44" y="2.29" style="fill:url(#rect3008_1_);" width="13.11" height="8.62"/>
+	<path style="fill:#90A4AE;" d="M12.21,13.66H3.29v0.47c0.011,0.267,0.233,0.476,0.5,0.47h8.42c0.267,0.006,0.489-0.203,0.5-0.47
+		v-0.47H12.21z"/>
+	<rect x="6.13" y="12.1" style="fill:#293A3F;" width="3.75" height="1.56"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="8" y1="16.61" x2="8" y2="5.82" gradientTransform="matrix(1 0 0 -1 0 18)">
+		<stop  offset="0" style="stop-color:#607D8B"/>
+		<stop  offset="1" style="stop-color:#455A64"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M0.5,1.39v10.79h15V1.39H0.5z M14.55,10.91H1.45V2.29h13.1V10.91z"/>
+	<path id="rect3008-0" style="opacity:0.23;fill:#EEE8D5;enable-background:new    ;" d="M9.68,2.29L6.29,10.9h8.27V2.29H9.68z"/>
+</g>
+</svg>
