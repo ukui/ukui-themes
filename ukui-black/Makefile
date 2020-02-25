@@ -1,10 +1,12 @@
+SASS ?= sass
+
 all: index css
 	
 index:
 	cp index.theme.in index.theme
 
 css:
-	sass --style nested gtk-3.0/gtk.scss gtk-3.0/gtk.css
+	$(SASS) --style nested gtk-3.0/gtk.scss gtk-3.0/gtk.css
 
 install:
 	install -d $(DESTDIR)/usr/share/themes/ukui-black/gtk-3.0/
