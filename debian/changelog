@@ -1,8 +1,14 @@
-ukui-themes (0+git20200224-1) unstable; urgency=medium
+ukui-themes (1.2.0-1) unstable; urgency=medium
 
-  * Update style and icons of ukui3.0.
+  * New upstream release.
+  * debian/control:
+    - Bump standards-vertion to 4.5.0.
+    - Set Rules-Requires-Root to no.
+    - use debhelper-compat.
+  * debian/rules:
+    - Add export NO_PNG_PKG_MANGLE=1.
 
- -- handsome_feng <jianfengli@ubuntukylin.com>  Mon, 24 Feb 2020 15:04:14 +0800
+ -- handsome_feng <jianfengli@ubuntukylin.com>  Tue, 03 Mar 2020 13:58:30 +0800
 
 ukui-themes (0+git20190530-1) unstable; urgency=medium
 
