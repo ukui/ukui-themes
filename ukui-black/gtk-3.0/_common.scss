@@ -612,8 +612,8 @@ button {
         min-height: 24px;
         min-width: 16px;
         padding: 4px 8px;
-        border: 1px solid;
-        border-radius: 0px;
+       // border: 1px solid;
+        border-radius: 4px;
         transition: $button_transition;
 
         @include button(normal);
@@ -718,11 +718,11 @@ button {
 
     @at-root %button_selected, & {
         row:selected & {
-            border-color: $selected_borders_color;
+            //border-color: $selected_borders_color;
 
             &.flat:not(:active):not(:checked):not(:hover):not(disabled) {
                 color: $selected_fg_color;
-                border-color: transparent;
+               // border-color: transparent;
 
                 &:backdrop {
                     color: $backdrop_base_color;

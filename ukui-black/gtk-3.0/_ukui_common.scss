@@ -4,6 +4,7 @@
 
 .background {
     background-color: $base_normal_bg_color;
+	color:$base_normal_fg_color;
 }
 
 /***************
@@ -17,42 +18,42 @@
     /* normal */
     color: $base_normal_fg_color;
     background-color: $base_normal_bg_color;
-    border-color: $base_normal_border_color;
-    border-width: 1px;
+
+
 
     /* focus */
     &:focus {
-        //color: $base_focused_fg_color;
-        //background-color: $base_focused_bg_color;
-        border-color: $base_focused_border_color;
+        color: $base_focused_fg_color;
+        background-color: $base_focused_bg_color;
+        //border-color: $base_focused_border_color;
     }
 
     /* prelight */
     &:hover {
         color: $base_prelight_fg_color;
-        background-color: $selected_bg_color;
-        border-color: $base_prelight_border_color;
+        background-color: $base_prelight_bg_color;
+        //border-color: $base_prelight_border_color;
     }
 
     /* active */
     &:active {
         color: $base_active_fg_color;
         background-color: $base_active_bg_color;
-        border-color: $base_active_border_color;
+       // border-color: $base_active_border_color;
     }
 
     /* checked */
     &:checked {
         color: $base_checked_fg_color;
         background-color: $base_checked_bg_color;
-        border-color: $base_checked_border_color;
+       // border-color: $base_checked_border_color;
     }
 
     /* insensitive */
     &:disabled {
         color: $base_insensitive_fg_color;
         background-color: $base_insensitive_bg_color;
-        border-color: $base_insensitive_border_color;
+      //  border-color: $base_insensitive_border_color;
     }
 }
 
@@ -74,8 +75,7 @@ menubar {
   /* normal */
   color: $headerbar_normal_fg_color;
   background: $headerbar_normal_bg_image;
-  border-color: #0b0b0b;
-  border-width: 1px;
+
   /* focus */
   /* prelight */
   /* active */
@@ -88,10 +88,11 @@ menubar {
  */
 %menuitem_base_class {
     @extend %widget_base_class;
-background:$menu_color;
+		background:$menu_color;
+
     &:disabled {
-        background-color: $menuitem_insensitive_bg_color;
-  color:$insensitive_fg_color;
+        background-image: $insensitive_fg_color;
+  		color:$insensitive_fg_color;
     }
 
     min-height: 22px;
@@ -106,7 +107,7 @@ menubar {
     }
 }
 
-/* When menuitem in menubar is clicked, this is its hover state! */
+/* `	When menuitem in menubar is clicked, this is its hover state! */
 menubar {
     > menuitem {
        /* @extend %menuitem_base_class;*/
@@ -115,8 +116,7 @@ menubar {
   /* normal */
   color: $headerbar_normal_fg_color;
   background-color:$headerbar_normal_bg_image;
-  border-color: #0b0b0b;
-  border-width: 1px;
+
   /* focus */
   /* prelight */
   /* active */
@@ -187,6 +187,7 @@ combobox {
     /* When combobox isn't clicked, it uses button's style. i don't know what the hell. */
     button {
         background-image: $combobox_button_normal_bg_image;
+
     }
 
     /* When combobox entry isn't clicked, it uses entry's style. I don't want to change it. */
@@ -273,10 +274,12 @@ notebook {
  */
 check, radio {
     @extend %button_base_class;
+	color:#ffffff;
 }
 
 radio {
     border-radius: 100%;
+	color:#ffffff;
 }
 
 
@@ -335,7 +338,7 @@ scrollbar {
 
     /* The backword-stepper and forward-stepper are button widget */
     button, button:disabled {
-        color: $scrollbar_stepper_fg_color;
+        color: $scrollbar_stepper_bg_color;
         background-image: image($scrollbar_stepper_bg_color);
     }
     &.horizontal {
@@ -471,8 +474,8 @@ frame {
  */
 scrolledwindow {
     border-style: solid;
-    border-width: 1px;
-    border-color: $treeview_generic_border_color;
+  //  border-width: 1px;
+ //   border-color: $treeview_generic_border_color;
 }
 
 
@@ -485,11 +488,11 @@ treeview {
         @extend %widget_base_class;
         &, &:focus { /* hover state is the same as normal state */
             border-style: none solid solid none; /* only right and bottom side has border */
-            border-color: $treeview_generic_border_color;
+     //       border-color: $treeview_generic_border_color;
         }
         &:selected {
             border-style: none solid none none;
-            border-color: $treeview_generic_border_color;
+      //      border-color: $treeview_generic_border_color;
             background-color: $treeview_view_selected_bg_color;
             &:backdrop {
                 color: $base_backdrop_fg_color;
@@ -497,7 +500,7 @@ treeview {
         }
         &:hover {
             border-style: none solid none none;
-            border-color: $treeview_generic_border_color;
+          //  border-color: $treeview_generic_border_color;
         }
     }
 
