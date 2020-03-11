@@ -1,4 +1,4 @@
-SASS ?= sass
+SASS ?=sass
 
 all: index css
 	

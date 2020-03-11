@@ -2,10 +2,9 @@
 
 $variant: 'light';
 
-@import 'colors';
-@import 'ukui_colors';
-@import 'drawing';
+@import 'ukui-colors';
+@import 'ukui-drawing';
 @import 'common';
-@import 'ukui_common';
 @import 'colors-public';
-@import 'ukui-applications';
+@import 'ukui-common';
+

@@ -1,0 +1,197 @@
+$base_color: #0C0C0D;
+$text_color: #ffffff;
+
+$bg_color: #0C0C0D;
+$fg_color: #ffffff;
+$active_color: #3D6BE5;
+$insensitive_bg_color:#1C1C1E;
+$insensitive_fg_color:#48484C;
+
+
+$selected_fg_color: $fg_color;
+$selected_bg_color: $bg_color;
+$selected_borders_color: darken($selected_bg_color, 30%);
+
+/** Link **/
+$alt_borders_color: darken($bg_color, 35%);
+$borders_edge: transparentize(white, 0.2);
+$link_color: $fg_color;
+$link_visited_color: darken($selected_bg_color, 20%);
+$top_hilight: $borders_edge;
+$dark_fill: mix($bg_color, $bg_color, 50%);
+
+
+
+
+
+/**popover**/
+$popover_bg_color: $bg_color;
+$popover_hover_color: lighten($bg_color, 5%);
+
+
+$warning_color: #d42320;
+$error_color: #0C0C0D;
+$success_color: $active_color;
+$destructive_color: #d42320;
+
+
+/**osd**/
+$osd_fg_color: $fg_color;
+$osd_text_color: $fg_color;
+$osd_bg_color: transparentize(#1c1f20, 0.3);
+$osd_borders_color: transparentize(black, 0.3);
+
+$base_hover_color: $active_color;
+
+$shadow_color: transparentize(black, 0.9);
+
+$drop_target_color: $bg_color;
+
+
+
+//colors for the backdrop state, derived from the main colors.
+$backdrop_base_color: darken($base_color, 1%);
+$backdrop_text_color: mix($text_color, $backdrop_base_color, 80%);
+$backdrop_bg_color: $bg_color;
+$backdrop_fg_color: mix($fg_color, $backdrop_bg_color, 50%);
+$backdrop_selected_fg_color: $backdrop_base_color;
+$backdrop_borders_color: mix($bg_color, $bg_color, 80%);
+$backdrop_dark_fill: mix($backdrop_borders_color, $backdrop_bg_color, 35%);
+$backdrop_sidebar_bg_color: mix($backdrop_bg_color, $backdrop_base_color, 50%);
+$backdrop_scrollbar_bg_color: darken($backdrop_bg_color, 3%);
+$backdrop_scrollbar_slider_color: mix($backdrop_fg_color, $backdrop_bg_color, 40%);
+$backdrop_menu_color: $backdrop_base_color;
+
+
+
+/*
+ * Base color
+ */
+/* background colors in different states */
+
+$base_normal_bg_color: $bg_color;
+$base_active_bg_color: $active_color;
+$base_prelight_bg_color: $active_color;
+$base_selected_bg_color:  $active_color;
+$base_focused_bg_color: $bg_color;
+$base_backdrop_bg_color: $bg_color;
+$base_checked_bg_color: $base_active_bg_color;
+
+/* foreground colors in different states */
+$base_normal_fg_color: $fg_color;
+$base_active_fg_color: $fg_color;
+$base_prelight_fg_color: $fg_color;
+$base_selected_fg_color: $fg_color;
+$base_focused_fg_color: $fg_color;
+$base_backdrop_fg_color: $base_normal_fg_color;
+$base_checked_fg_color: $fg_color;
+
+/* border color in different states */
+$base_normal_border_color: #3D3D41;
+$base_active_border_color: $active_color;
+$base_prelight_border_color: $active_color;
+$base_selected_border_color: #dcebfd;
+$base_focused_border_color: $bg_color;
+$base_backdrop_border_color: darken($base_normal_border_color, 3%);
+$base_checked_border_color: $base_active_border_color;
+
+/*
+ * background image in different states.
+ * The color value of bg_image is the same as the bg_color
+ */
+$base_normal_bg_image: image($insensitive_bg_color);
+$base_active_bg_image: image($base_active_bg_color);
+$base_prelight_bg_image: image($base_prelight_bg_color);
+$base_insensitive_bg_image: image($insensitive_bg_color);
+$base_focused_bg_image: image($base_focused_bg_color);
+$base_backdrop_bg_image: image($base_backdrop_bg_color);
+$base_backdrop_sensitive_bg_image: image($insensitive_bg_color);
+$base_backdrop_insensitive_bg_image: image($insensitive_bg_color);
+$base_checked_bg_image: image($base_checked_bg_color);
+
+
+
+/*
+ * ComboBox
+ */
+$combobox_button_normal_bg_image: image(#1C1C1E);
+/* ComboBox dropdown colors */
+$combobox_dropdown_menuitem_normal_bg_color: #1C1C1E;
+
+
+/*
+ * Notebooks
+ */
+$notebook_tab_normal_bg_color: #242424;
+$notebook_tab_checked_bg_color: $bg_color;
+$notebook_tab_closebutton_normal_bg_image: #ffffff;
+$notebook_tab_closebutton_checked_bg_image: image($notebook_tab_checked_bg_color);
+
+
+/*
+ * Scrollbar
+ */
+$scrollbar_bg_color: mix($bg_color, $fg_color, 80%);
+$scrollbar_normal_bg_color: $bg_color;
+$scrollbar_prelight_bg_color: #303033;
+$scrollbar_free_space_color: #343438; 
+$scrollbar_slider_normal_color: #3D3D41;
+$scrollbar_slider_active_color: #85858C;
+$scrollbar_slider_prelight_color: #616166;
+$scrollbar_slider_insensitive_color: $insensitive_bg_color;
+
+
+/*
+ * Scale & Progressbar
+ */
+$trough_free_space_normal_color: #0C0C0D;
+$trough_free_space_insensitive_color: $insensitive_bg_color;
+$trough_filled_space_normal_color: #0C0C0D;
+$trough_filled_space_insensitive_color: $insensitive_bg_color;
+$trough_border_normal_color: #0C0C0D;
+
+
+/*
+ * Frame
+ */
+$frame_label_normal_fg_color: $base_normal_fg_color;
+$frame_border_normal_color: $base_normal_border_color;
+
+
+/*
+ * Treeview
+ */
+$treeview_view_selected_bg_color: $base_active_bg_color;
+$treeview_view_prelight_bg_color: $base_prelight_bg_color;
+$treeview_header_bg_image: image(#f0f0f0);
+$treeview_generic_border_color: #0C0C0D;
+
+
+/*
+ * Headerbar
+ */
+$headerbar_color: lighten($bg_color, 5%);
+$headerbar_normal_fg_color: #ffffff;
+$headerbar_backdrop_fg_color: #ffffff;
+$headerbar_normal_bg_image: image(#0C0C0D);
+$headerbar_backdrop_bg_image: image(#0C0C0D);
+$headerbar_button_normal_fg_color: #ffffff;
+$headerbar_button_backdrop_fg_color: #ffffff;
+$headerbar_button_prelight_fg_color: #ffffff;
+$headerbar_button_active_fg_color: #ffffff;
+$headerbar_button_normal_bg_image: #0C0C0D;
+$headerbar_button_backdrop_bg_image: image(#0C0C0D);
+$headerbar_button_prelight_bg_image: image(#545d64);
+$headerbar_button_active_bg_image: image(#434d55);
+$headerbar_closebutton_prelight_bg_image: image(#d42320);
+$headerbar_closebutton_active_bg_image: image(#ac4844);
+$headerbar_normal_border_color: #0C0C0D;
+$headerbar_backdrop_border_color: #0C0C0D;
+
+
+/*
+ * menu
+ */
+$menu_color:#1F2022;
+$menuitem_insensitive_bg_color:$insensitive_bg_color;
+
