@@ -1,7 +1,8 @@
 [Icon Theme]
-Name=ukui-icon-theme-classical
+Name=ukui-icon-theme-default
 Comment=Icon theme for UKUI ,from moka.
-Inherits=Faba,gnome,hicolor,ukui-icon-theme-default
+Inherits=gnome,hicolor,ukui-icon-theme-basic
+Example=folder
 
 # KDE Specifics
 
@@ -14,14 +15,14 @@ ZipOverlay=zip
 
 DesktopDefault=48
 DesktopSizes=16,22,24,32,48,64,96,256
-ToolbarDefault=22
+ToolbarDefault=32
 ToolbarSizes=16,22,24,32,48
-MainToolbarDefault=22
+MainToolbarDefault=32
 MainToolbarSizes=16,22,24,32,48
 SmallDefault=16
 SmallSizes=16,22,24,32,48
 PanelDefault=32
-PanelSizes=16,22,24,32,48,64,96,256
+PanelSizes=16,32,48,64,96,256
 DialogDefault=32
 DialogSizes=16,22,24,32,48,64,96,256
 
@@ -32,11 +33,6 @@ Directories=8x8/emblems,14x14/actions,16x16/actions,16x16/apps,16x16/categories,
 [16x16/panel]
 Context=Status
 Size=16
-Type=Fixed
-
-[24x24/panel]
-Context=Status
-Size=24
 Type=Fixed
 
 [32x32/panel]
@@ -52,609 +48,604 @@ Type=Fixed
 # Actions
 [14x14/actions]
 Context=Actions
+Size=14
+Type=Fixed
+
+[16x16/actions]
+Context=Actions
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22/actions]
 Context=Actions
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24/actions]
 Context=Actions
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32/actions]
 Context=Actions
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48/actions]
 Context=Actions
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64/actions]
 Context=Actions
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96/actions]
 Context=Actions
 Size=96
-MinSize=65
+MinSize=80
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256/actions]
 Context=Actions
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [scalable/actions]
 Context=Actions
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [symbolic/actions]
 Context=Actions
 Size=16
 MinSize=16
-MaxSize=512
+MaxSize=256
 Type=Scalable
 
 # Animations
-[16x16/animations]
-Context=Animations
-Size=16
-Type=Threshold
-
-[22x22/animations]
-Context=Animations
-Size=22
-Type=Threshold
-
-[24x24/animations]
-Context=Animations
-Size=24
-Type=Threshold
-
 [scalable/animations]
 Context=Animations
 Size=16
 MinSize=16
-MaxSize=512
+MaxSize=256
 Type=Scalable
-
 
 # Applications
 
 [16x16/apps]
 Context=Applications
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22/apps]
 Context=Applications
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24/apps]
 Context=Applications
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32/apps]
 Context=Applications
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48/apps]
 Context=Applications
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64/apps]
 Context=Applications
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96/apps]
 Context=Applications
 Size=96
 MinSize=80
 MaxSize=96
-Type=scalable
+Type=Scalable
+
+[128x128/apps]
+Context=Applications
+Size=128
+MinSize=97
+MaxSize=128
+Type=Scalable
 
 [256x256/apps]
 Context=Applications
 Size=256
-MinSize=97
+MinSize=129
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [scalable/apps]
 Context=Applications
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Categories
 
 [16x16/categories]
 Context=Categories
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22/categories]
 Context=Categories
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24/categories]
 Context=Categories
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32/categories]
 Context=Categories
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48/categories]
 Context=Categories
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64/categories]
 Context=Categories
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96/categories]
 Context=Categories
 Size=96
-MinSize=65
+MinSize=80
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256/categories]
 Context=Categories
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [scalable/categories]
 Context=Categories
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Devices
 
 [16x16/devices]
 Context=Devices
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22/devices]
 Context=Devices
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24/devices]
 Context=Devices
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32/devices]
 Context=Devices
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48/devices]
 Context=Devices
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64/devices]
 Context=Devices
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96/devices]
 Context=Devices
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [128x128/devices]
 Context=Devices
 Size=128
 MinSize=97
 MaxSize=128
-Type=scalable
+Type=Scalable
 
 [256x256/devices]
 Context=Devices
 Size=256
 MinSize=129
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [512x512/devices]
 Context=Devices
 Size=512
 MinSize=257
 MaxSize=512
-Type=scalable
+Type=Scalable
 
 [scalable/devices]
 Context=Devices
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Emblems
 
 [8x8/emblems]
 Context=Emblems
 Size=8
-Type=Threshold
+Type=Fixed
 
 [16x16/emblems]
 Context=Emblems
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22/emblems]
 Context=Emblems
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24/emblems]
 Context=Emblems
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32/emblems]
 Context=Emblems
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48/emblems]
 Context=Emblems
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64/emblems]
 Context=Emblems
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96/emblems]
 Context=Emblems
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256/emblems]
 Context=Emblems
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [scalable/emblems]
 Context=Emblems
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Emotes
 
 [16x16/emotes]
 Context=Emotes
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22/emotes]
 Context=Emotes
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24/emotes]
 Context=Emotes
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32/emotes]
 Context=Emotes
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48/emotes]
 Context=Emotes
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64/emotes]
 Context=Emotes
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96/emotes]
 Context=Emotes
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256/emotes]
 Context=Emotes
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [scalable/emotes]
 Context=Emotes
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # MimeTypes
 
 [16x16/mimetypes]
 Context=MimeTypes
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22/mimetypes]
 Context=MimeTypes
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24/mimetypes]
 Context=MimeTypes
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32/mimetypes]
 Context=MimeTypes
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48/mimetypes]
 Context=MimeTypes
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64/mimetypes]
 Context=MimeTypes
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96/mimetypes]
 Context=MimeTypes
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [128x128/mimetypes]
 Context=MimeTypes
 Size=128
 MinSize=97
 MaxSize=128
-Type=scalable
+Type=Scalable
 
 [256x256/mimetypes]
 Context=MimeTypes
 Size=256
 MinSize=129
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [512x512/mimetypes]
 Context=MimeTypes
 Size=512
 MinSize=257
 MaxSize=512
-Type=scalable
+Type=Scalable
 
 [scalable/mimetypes]
 Context=MimeTypes
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Places
 
 [16x16/places]
 Context=Places
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22/places]
 Context=Places
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24/places]
 Context=Places
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32/places]
 Context=Places
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48/places]
 Context=Places
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64/places]
 Context=Places
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96/places]
 Context=Places
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [128x128/places]
 Context=Places
 Size=128
 MinSize=97
 MaxSize=128
-Type=scalable
+Type=Scalable
 
 [256x256/places]
 Context=Places
 Size=256
-MinSize=97
+MinSize=129
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [512x512/places]
 Context=Places
 Size=512
 MinSize=257
 MaxSize=512
-Type=scalable
+Type=Scalable
 
 [scalable/places]
 Context=Places
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Status
-
 [16x16/status]
 Context=Status
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22/status]
 Context=Status
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24/status]
 Context=Status
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32/status]
 Context=Status
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48/status]
 Context=Status
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64/status]
 Context=Status
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96/status]
 Context=Status
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256/status]
 Context=Status
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [scalable/status]
 Context=Status
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Web
 
 [16x16/web]
 Context=Applications
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22/web]
 Context=Applications
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24/web]
 Context=Applications
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32/web]
 Context=Applications
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48/web]
 Context=Applications
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64/web]
 Context=Applications
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96/web]
 Context=Applications
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256/web]
 Context=Applications
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [scalable/web]
 Context=Applications
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 
 #
@@ -666,73 +657,77 @@ Type=scalable
 [14x14@2x/actions]
 Context=Actions
 Scale=2
+Size=14
+Type=Fixed
+
+[16x16@2x/actions]
+Context=Actions
+Scale=2
 Size=16
-Type=Threshold
-
-[22x22@2x/actions]
-Context=Actions
-Scale=2
-Size=22
-Type=Threshold
-
-[24x24@2x/actions]
-Context=Actions
-Scale=2
-Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32@2x/actions]
 Context=Actions
 Scale=2
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48@2x/actions]
 Context=Actions
 Scale=2
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64@2x/actions]
 Context=Actions
 Scale=2
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96@2x/actions]
 Context=Actions
 Scale=2
 Size=96
-MinSize=65
+MinSize=64
 MaxSize=96
-Type=scalable
+Type=Scalable
+
+[128x128@2x/actions]
+Context=Actions
+Scale=2
+Size=48
+MinSize=97
+MaxSize=128
+Type=Scalable
+Type=Fixed
+
 
 [256x256@2x/actions]
 Context=Actions
 Scale=2
 Size=256
-MinSize=97
+MinSize=129
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Animations
 [16x16@2x/animations]
 Context=Animations
 Scale=2
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22@2x/animations]
 Context=Animations
 Scale=2
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24@2x/animations]
 Context=Animations
 Scale=2
 Size=24
-Type=Threshold
+Type=Fixed
 
 # Applications
 
@@ -740,37 +735,37 @@ Type=Threshold
 Context=Applications
 Scale=2
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22@2x/apps]
 Context=Applications
 Scale=2
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24@2x/apps]
 Context=Applications
 Scale=2
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32@2x/apps]
 Context=Applications
 Scale=2
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48@2x/apps]
 Context=Applications
 Scale=2
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64@2x/apps]
 Context=Applications
 Scale=2
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96@2x/apps]
 Context=Applications
@@ -778,7 +773,7 @@ Scale=2
 Size=96
 MinSize=80
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/apps]
 Context=Applications
@@ -786,7 +781,7 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Categories
 
@@ -794,37 +789,37 @@ Type=scalable
 Context=Categories
 Scale=2
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22@2x/categories]
 Context=Categories
 Scale=2
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24@2x/categories]
 Context=Categories
 Scale=2
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32@2x/categories]
 Context=Categories
 Scale=2
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48@2x/categories]
 Context=Categories
 Scale=2
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64@2x/categories]
 Context=Categories
 Scale=2
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96@2x/categories]
 Context=Categories
@@ -832,7 +827,7 @@ Scale=2
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/categories]
 Context=Categories
@@ -840,7 +835,7 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Devices
 
@@ -848,37 +843,37 @@ Type=scalable
 Context=Devices
 Scale=2
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22@2x/devices]
 Context=Devices
 Scale=2
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24@2x/devices]
 Context=Devices
 Scale=2
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32@2x/devices]
 Context=Devices
 Scale=2
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48@2x/devices]
 Context=Devices
 Scale=2
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64@2x/devices]
 Context=Devices
 Scale=2
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96@2x/devices]
 Context=Devices
@@ -886,7 +881,7 @@ Scale=2
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/devices]
 Context=Devices
@@ -894,7 +889,7 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Emblems
 
@@ -902,43 +897,43 @@ Type=scalable
 Context=Emblems
 Scale=2
 Size=8
-Type=Threshold
+Type=Fixed
 
 [16x16@2x/emblems]
 Context=Emblems
 Scale=2
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22@2x/emblems]
 Context=Emblems
 Scale=2
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24@2x/emblems]
 Context=Emblems
 Scale=2
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32@2x/emblems]
 Context=Emblems
 Scale=2
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48@2x/emblems]
 Context=Emblems
 Scale=2
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64@2x/emblems]
 Context=Emblems
 Scale=2
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96@2x/emblems]
 Context=Emblems
@@ -946,7 +941,7 @@ Scale=2
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/emblems]
 Context=Emblems
@@ -954,7 +949,7 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Emotes
 
@@ -962,37 +957,37 @@ Type=scalable
 Context=Emotes
 Scale=2
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22@2x/emotes]
 Context=Emotes
 Scale=2
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24@2x/emotes]
 Context=Emotes
 Scale=2
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32@2x/emotes]
 Context=Emotes
 Scale=2
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48@2x/emotes]
 Context=Emotes
 Scale=2
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64@2x/emotes]
 Context=Emotes
 Scale=2
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96@2x/emotes]
 Context=Emotes
@@ -1000,7 +995,7 @@ Scale=2
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/emotes]
 Context=Emotes
@@ -1008,7 +1003,7 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # MimeTypes
 
@@ -1016,37 +1011,37 @@ Type=scalable
 Context=MimeTypes
 Scale=2
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22@2x/mimetypes]
 Context=MimeTypes
 Scale=2
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24@2x/mimetypes]
 Context=MimeTypes
 Scale=2
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32@2x/mimetypes]
 Context=MimeTypes
 Scale=2
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48@2x/mimetypes]
 Context=MimeTypes
 Scale=2
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64@2x/mimetypes]
 Context=MimeTypes
 Scale=2
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96@2x/mimetypes]
 Context=MimeTypes
@@ -1054,7 +1049,7 @@ Scale=2
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/mimetypes]
 Context=MimeTypes
@@ -1062,7 +1057,7 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Places
 
@@ -1070,37 +1065,37 @@ Type=scalable
 Context=Places
 Scale=2
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22@2x/places]
 Context=Places
 Scale=2
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24@2x/places]
 Context=Places
 Scale=2
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32@2x/places]
 Context=Places
 Scale=2
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48@2x/places]
 Context=Places
 Scale=2
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64@2x/places]
 Context=Places
 Scale=2
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96@2x/places]
 Context=Places
@@ -1108,7 +1103,7 @@ Scale=2
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/places]
 Context=Places
@@ -1116,7 +1111,7 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Status
 
@@ -1124,37 +1119,37 @@ Type=scalable
 Context=Status
 Scale=2
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22@2x/status]
 Context=Status
 Scale=2
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24@2x/status]
 Context=Status
 Scale=2
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32@2x/status]
 Context=Status
 Scale=2
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48@2x/status]
 Context=Status
 Scale=2
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64@2x/status]
 Context=Status
 Scale=2
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96@2x/status]
 Context=Status
@@ -1162,7 +1157,7 @@ Scale=2
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/status]
 Context=Status
@@ -1170,7 +1165,7 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Web
 
@@ -1178,37 +1173,37 @@ Type=scalable
 Context=Applications
 Scale=2
 Size=16
-Type=Threshold
+Type=Fixed
 
 [22x22@2x/web]
 Context=Applications
 Scale=2
 Size=22
-Type=Threshold
+Type=Fixed
 
 [24x24@2x/web]
 Context=Applications
 Scale=2
 Size=24
-Type=Threshold
+Type=Fixed
 
 [32x32@2x/web]
 Context=Applications
 Scale=2
 Size=32
-Type=Threshold
+Type=Fixed
 
 [48x48@2x/web]
 Context=Applications
 Scale=2
 Size=48
-Type=Threshold
+Type=Fixed
 
 [64x64@2x/web]
 Context=Applications
 Scale=2
 Size=64
-Type=Threshold
+Type=Fixed
 
 [96x96@2x/web]
 Context=Applications
@@ -1216,7 +1211,7 @@ Scale=2
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/web]
 Context=Applications
@@ -1224,4 +1219,4 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
