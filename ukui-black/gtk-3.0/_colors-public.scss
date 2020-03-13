@@ -31,15 +31,15 @@ text/foreground color of selections */
 
 /*
 base background color of insensitive widgets */
-@define-color insensitive_bg_color #{"" + $base_insensitive_bg_color};
+@define-color insensitive_bg_color #{"" + $insensitive_bg_color};
 
 /*
 text foreground color of insensitive widgets */
-@define-color insensitive_fg_color #{"" + $base_insensitive_fg_color};
+@define-color insensitive_fg_color #{"" + $insensitive_fg_color};
 
 /*
 insensitive text widgets and the like base background color */
-@define-color insensitive_base_color #{"" + $base_insensitive_bg_color};
+@define-color insensitive_base_color #{"" + $insensitive_bg_color};
 
 /*
 widget text/foreground color on backdrop windows */
@@ -85,7 +85,7 @@ these are pretty self explicative */
 
 @define-color success_color #{"" + $success_color};
 
-//@define-color destructive_color #{$destructive_color}
+@define-color destructive_color #{$destructive_color};
 
 //WM
 
@@ -127,11 +127,8 @@ read if you used those and something break with a version upgrade you're on your
 @define-color content_view_bg #{"" + $base_color};
 
 
-/*
- * For panel applets
- */
-@define-color panel_normal_bg_color #{"" + $panel_normal_bg_color};
-@define-color panel_normal_border_color #{"" + $headerbar_normal_border_color};
+
+//@define-color panel_normal_border_color #{"" + $headerbar_normal_border_color};
 
 /*
  * For file manager applets

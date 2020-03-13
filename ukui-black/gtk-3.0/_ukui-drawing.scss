@@ -65,9 +65,9 @@
     }
 
     @if $t == insensitive {
-        color: $base_insensitive_fg_color;
-        border-color: $base_insensitive_border_color;
-        background-color: $base_insensitive_bg_color;
+        color: $insensitive_fg_color;
+        border-color: $insensitive_bg_color;
+        background-color: $insensitive_bg_color;
         box-shadow: $_entry_edge;
     }
 
@@ -79,7 +79,7 @@
     }
 
     @if $t == backdrop-insensitive {
-        color: $backdrop_insensitive_color;
+        color: $insensitive_bg_color;
         border-color: $backdrop_borders_color;
         background-color: $insensitive_bg_color;
         box-shadow: $_blank_edge;
@@ -106,9 +106,9 @@
     }
 
     @if $t == osd-insensitive {
-        color: $osd_insensitive_fg_color;
+        color: $insensitive_fg_color;
         border-color: $osd_borders_color;
-        background-color: $osd_insensitive_bg_color;
+        background-color: $insensitive_bg_color;
         background-clip: padding-box;
         box-shadow: none;
         text-shadow: none;
@@ -299,7 +299,7 @@
             color: if($tc != $fg_color, mix($tc, $_bg, 50%), $insensitive_fg_color);
         }
 
-        border-color: $base_insensitive_border_color;
+        border-color: $insensitive_bg_color;
 
         $button_fill: image($_bg) !global;
 
@@ -315,7 +315,7 @@
         // insensitive pushed button
         //
         $_bg: darken(mix($c, $base_color, 85%), 8%);
-        $_bc: if($c != $bg_color, _border_color($c), $insensitive_borders_color);
+        $_bc: if($c != $bg_color, _border_color($c), $insensitive_bg_color);
 
         label, & {
             color: if($c != $bg_color, mix($tc, $_bg, 60%), $insensitive_fg_color);
@@ -375,7 +375,7 @@
         $_bc: $_bg;
 
         label, & {
-            color: if($c != $bg_color, mix($tc, $_bg, 35%), $backdrop_insensitive_color);
+            color: if($c != $bg_color, mix($tc, $_bg, 35%), $insensitive_bg_color);
         }
 
         border-color: if($c != $bg_color, $_bc, $backdrop_borders_color);
@@ -398,7 +398,7 @@
         $_bc: $_bg;
 
         label {
-            color: if($c != $bg_color, mix($tc, $_bg, 35%), $backdrop_insensitive_color);
+            color: if($c != $bg_color, mix($tc, $_bg, 35%), $insensitive_bg_color);
         }
 
         border-color: if($c != $bg_color, $_bc, $backdrop_borders_color);
@@ -468,11 +468,11 @@
         //
         // insensitive osd button
         //
-        color: $osd_insensitive_fg_color;
+        color: $insensitive_fg_color;
         border-color: $osd_borders_color;
         background-color: transparent;
 
-        $button_fill: image($osd_insensitive_bg_color) !global;
+        $button_fill: image($insensitive_bg_color) !global;
 
         background-image: $button_fill;
         background-clip: padding-box;
@@ -576,7 +576,7 @@
     $_big_gradient_color: $c;
 
     @if $c == $fg_color {
-        $_small_gradient_color: darken($borders_color, 10%);
+        $_small_gradient_color: darken($bg_color, 10%);
         $_big_gradient_color: $fg_color;
 
         @if $t == backdrop {
