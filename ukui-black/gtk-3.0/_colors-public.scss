@@ -112,40 +112,16 @@ read if you used those and something break with a version upgrade you're on your
 
 @define-color wm_border alpha(black, 0.18);
 
-@define-color wm_button_hover_color_a shade(#{$bg_color}, 1.3);
+@define-color wm_button_hover_color_a shade(#{$active_color}, 1.3);
 
-@define-color wm_button_hover_color_b #{$bg_color};
+@define-color wm_button_hover_color_b #{$active_color};
 
-@define-color wm_button_active_color_a shade(#{$bg_color}, 0.85);
+@define-color wm_button_active_color_a shade(#{$active_color}, 0.85);
 
-@define-color wm_button_active_color_b shade(#{$bg_color}, 0.89);
+@define-color wm_button_active_color_b shade(#{$active_color}, 0.89);
 
-@define-color wm_button_active_color_c shade(#{$bg_color}, 0.9);
+@define-color wm_button_active_color_c shade(#{$active_color}, 0.9);
 
 //FIXME this is really an API
 
 @define-color content_view_bg #{"" + $base_color};
-
-
-
-//@define-color panel_normal_border_color #{"" + $headerbar_normal_border_color};
-
-/*
- * For file manager applets
- */
-@define-color trough_filled_space_normal_color #{"" + $trough_filled_space_normal_color};
-
-
-/*
- * For control panel
- */
-@define-color base_active_bg_color #{"" + $base_active_bg_color};
-
-
-/*
- * For startup menu_
- */
-@define-color startup_menu_color #29292a;
-@define-color startup_slider_background_color #3c444b;
-@define-color startup_slider_color #63696e;
-
