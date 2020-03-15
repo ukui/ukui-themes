@@ -644,7 +644,7 @@ button {
 
         &:hover {
             @include button(hover);
-
+			
             -gtk-icon-effect: highlight;
         }
 
@@ -770,7 +770,7 @@ button {
 
         &:disabled {
             &:backdrop, & {
-                @include button(osd-insensitive);
+               @include button(osd-insensitive);
 
                 border: none;
             }
@@ -844,10 +844,10 @@ button {
     // Suggested and Destructive Action buttons
     @each $b_type, $b_color in (suggested-action, $selected_bg_color), (destructive-action, $destructive_color) {
         &.#{$b_type} {
-            @include button(normal, $b_color, white);
+           // @include button(normal, $b_color, white);
 
             &.flat {
-                @include button(undecorated);
+               // @include button(undecorated);
 
                 color: $b_color;
 
@@ -856,72 +856,72 @@ button {
             }
 
             &:hover {
-                @include button(hover, $b_color, white);
+              //  @include button(hover, $b_color, white);
             }
 
             &:active,
             &:checked {
-                @include button(active, $b_color, white);
+             //   @include button(active, $b_color, white);
             }
 
             &:backdrop,
             &.flat:backdrop {
-                @include button(backdrop, $b_color, white);
+              //  @include button(backdrop, $b_color, white);
 
                 &:active,
                 &:checked {
-                    @include button(backdrop-active, $b_color, white);
+               //     @include button(backdrop-active, $b_color, white);
                 }
 
                 &:disabled {
-                    @include button(backdrop-insensitive);
+                 //   @include button(backdrop-insensitive);
 
                     &:active,
                     &:checked {
-                        @include button(backdrop-insensitive-active, $b_color, white);
+                 //       @include button(backdrop-insensitive-active, $b_color, white);
                     }
                 }
             }
 
             &.flat {
                 &:backdrop, &:disabled, &:backdrop:disabled {
-                    @include button(undecorated);
+                   // @include button(undecorated);
 
                     color: transparentize($b_color, 0.2);
                 }
             }
 
             &:disabled {
-                @include button(insensitive);
+               // @include button(insensitive);
 
                 &:active,
                 &:checked {
-                    @include button(insensitive-active, $b_color, white);
+                 //   @include button(insensitive-active, $b_color, white);
                 }
             }
 
             .osd & {
-                @include button(osd, $b_color);
+               // @include button(osd, $b_color);
 
                 &:hover {
-                    @include button(osd-hover, $b_color);
+                 //   @include button(osd-hover, $b_color);
                 }
 
                 &:active,
                 &:checked {
                     &:backdrop, & {
-                        @include button(osd-active, $b_color);
+                  //      @include button(osd-active, $b_color);
                     }
                 }
 
                 &:disabled {
                     &:backdrop, & {
-                        @include button(osd-insensitive, $b_color);
+                    //    @include button(osd-insensitive, $b_color);
                     }
                 }
 
                 &:backdrop {
-                    @include button(osd-backdrop, $b_color);
+                  //  @include button(osd-backdrop, $b_color);
                 }
             }
         }
@@ -1100,6 +1100,7 @@ button {
 
     &:hover {
         @include button(hover);
+		background-color: $active_color;
     }
 
     &:active,
@@ -1206,7 +1207,6 @@ toolbar.inline-toolbar toolbutton:backdrop {
 }
 
 %undecorated_button {
-    background-color: transparent;
     background-image: none;
     border-color: transparent;
     box-shadow: inset 0 1px transparentize(white, 1), 0 1px transparentize(white, 1);
@@ -1227,7 +1227,7 @@ modelbutton.flat,
     @extend %undecorated_button;
 
     &:hover {
-        background-color: $popover_hover_color;
+        background-color: $active_color;
     }
 
     &:selected {
@@ -1237,14 +1237,14 @@ modelbutton.flat,
     &:backdrop,
     &:backdrop:hover {
         @extend %undecorated_button;
+		background-color: $active_color;
     }
 }
 
 modelbutton.flat arrow {
-    background: none;
-
+	background-color: $active_color;
     &:hover {
-        background: none;
+		background-color: $active_color;
     }
 
     &.left {
