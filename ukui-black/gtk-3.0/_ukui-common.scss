@@ -17,7 +17,6 @@
     &:focus {
         color: $base_focused_fg_color;
         background-color: $base_focused_bg_color;
-        //border-color: $base_focused_border_color;
     }
 
 
@@ -25,28 +24,24 @@
     &:hover {
         color: $base_prelight_fg_color;
         background-color: $base_prelight_bg_color;
-        //border-color: $base_prelight_border_color;
     }
 
     /* active */
     &:active {
         color: $base_active_fg_color;
         background-color: $base_active_bg_color;
-       // border-color: $base_active_border_color;
     }
 
     /* checked */
     &:checked {
         color: $base_checked_fg_color;
         background-color: $base_checked_bg_color;
-       // border-color: $base_checked_border_color;
     }
 
     /* insensitive */
     &:disabled {
         color: $insensitive_fg_color;
         background-color: $insensitive_bg_color;
-      //  border-color: $insensitive_bg_color;
     }
 }
 
@@ -269,6 +264,7 @@ notebook {
  */
 check, radio {
     @extend %button_base_class;
+	border-radius: 4px;
 	color:#ffffff;
 }
 
@@ -342,7 +338,6 @@ scale {
 
         slider {
             /* scale slider */
-            //background-image:;
 
         }
     }
@@ -418,8 +413,6 @@ frame {
  */
 scrolledwindow {
     border-style: solid;
-  //  border-width: 1px;
- //   border-color: $treeview_generic_border_color;
 }
 
 
@@ -432,11 +425,9 @@ treeview {
         @extend %widget_base_class;
         &, &:focus { /* hover state is the same as normal state */
             border-style: none solid solid none; /* only right and bottom side has border */
-     //       border-color: $treeview_generic_border_color;
         }
         &:selected {
             border-style: none solid none none;
-      //      border-color: $treeview_generic_border_color;
             background-color: $treeview_view_selected_bg_color;
             &:backdrop {
                 color: $base_backdrop_fg_color;
@@ -444,7 +435,6 @@ treeview {
         }
         &:hover {
             border-style: none solid none none;
-          //  border-color: $treeview_generic_border_color;
         }
     }
 

@@ -116,7 +116,6 @@ $button_transition: all 200ms $ease-out-quad;
     &:selected {
         &:focus, & {
             @extend %selected_items;
-
             border-radius: 3px;
         }
     }
@@ -216,7 +215,7 @@ label {
         color: $insensitive_fg_color;
 
         selection {
-            @extend %selected_items:disabled;
+        	@extend %selected_items, :disabled;
         }
 
         &:backdrop {
@@ -228,7 +227,7 @@ label {
         color: $backdrop_fg_color;
 
         selection {
-            @extend %selected_items:backdrop;
+            @extend %selected_items, :backdrop;
         }
     }
 }
@@ -630,7 +629,7 @@ button {
             // to none, while it's added back in the hover state, so the button decoration will fade in on hover, but
             // it won't fade out when the pointer leave the button allocation area. To make the transition more evident
             // in this case the duration is increased.
-            transition: none;
+      		transition: none;
 
             &:hover {
                 transition: $button_transition;
@@ -693,6 +692,7 @@ button {
             }
         }
 
+
         &.image-button {
             min-width: 24px;
             padding-left: 4px;
@@ -723,11 +723,9 @@ button {
 
     @at-root %button_selected, & {
         row:selected & {
-            //border-color: $selected_borders_color;
 
             &.flat:not(:active):not(:checked):not(:hover):not(disabled) {
                 color: $insensitive_fg_color;
-               // border-color: transparent;
 
                 &:backdrop {
                     color: $backdrop_base_color;
@@ -747,38 +745,27 @@ button {
 
         color: $osd_fg_color;
         border-radius: 5px;
-
-        @include button(osd);
-
         border: none;
         box-shadow: none;
 
         &:hover {
-            @include button(osd-hover);
-
             border: none;
             box-shadow: none;
         }
 
         &:active,
         &:checked {
-            @include button(osd-active);
-
             border: none;
             box-shadow: none;
         }
 
         &:disabled {
             &:backdrop, & {
-               @include button(osd-insensitive);
-
                 border: none;
             }
         }
 
         &:backdrop {
-            @include button(osd-backdrop);
-
             border: none;
         }
     }
@@ -786,32 +773,24 @@ button {
     //overlay / OSD style
     @at-root %osd_button,
     .osd & {
-        @include button(osd);
-
         &:hover {
-            @include button(osd-hover);
         }
 
         &:active,
         &:checked {
             &:backdrop, & {
-                @include button(osd-active);
             }
         }
 
         &:disabled {
             &:backdrop, & {
-                @include button(osd-insensitive);
             }
         }
 
         &:backdrop {
-            @include button(osd-backdrop);
         }
 
         &.flat {
-            @include button(undecorated);
-
             box-shadow: none;
 
             //FIXME respect no edge on the button mixin
@@ -819,24 +798,19 @@ button {
             -gtk-icon-shadow: 0 1px black;
 
             &:hover {
-                @include button(osd-hover);
             }
 
             &:disabled {
-                @include button(osd-insensitive);
-
                 background-image: none;
                 border-color: transparent;
                 box-shadow: none;
             }
 
             &:backdrop {
-                @include button(undecorated);
             }
 
             &:active,
             &:checked {
-                @include button(osd-active);
             }
         }
     }
@@ -844,10 +818,8 @@ button {
     // Suggested and Destructive Action buttons
     @each $b_type, $b_color in (suggested-action, $selected_bg_color), (destructive-action, $destructive_color) {
         &.#{$b_type} {
-           // @include button(normal, $b_color, white);
 
             &.flat {
-               // @include button(undecorated);
 
                 color: $b_color;
 
@@ -856,72 +828,58 @@ button {
             }
 
             &:hover {
-              //  @include button(hover, $b_color, white);
             }
 
             &:active,
             &:checked {
-             //   @include button(active, $b_color, white);
             }
 
             &:backdrop,
             &.flat:backdrop {
-              //  @include button(backdrop, $b_color, white);
 
                 &:active,
                 &:checked {
-               //     @include button(backdrop-active, $b_color, white);
                 }
 
                 &:disabled {
-                 //   @include button(backdrop-insensitive);
 
                     &:active,
                     &:checked {
-                 //       @include button(backdrop-insensitive-active, $b_color, white);
                     }
                 }
             }
 
             &.flat {
                 &:backdrop, &:disabled, &:backdrop:disabled {
-                   // @include button(undecorated);
 
                     color: transparentize($b_color, 0.2);
                 }
             }
 
             &:disabled {
-               // @include button(insensitive);
 
                 &:active,
                 &:checked {
-                 //   @include button(insensitive-active, $b_color, white);
                 }
             }
 
             .osd & {
-               // @include button(osd, $b_color);
 
                 &:hover {
-                 //   @include button(osd-hover, $b_color);
                 }
 
                 &:active,
                 &:checked {
                     &:backdrop, & {
-                  //      @include button(osd-active, $b_color);
                     }
                 }
 
                 &:disabled {
                     &:backdrop, & {
-                    //    @include button(osd-insensitive, $b_color);
                     }
                 }
 
                 &:backdrop {
-                  //  @include button(osd-backdrop, $b_color);
                 }
             }
         }
@@ -938,28 +896,17 @@ button {
 
         > label {
             padding-left: 6px;
-
             // label padding
             padding-right: 6px;
-
-            //
 
         }
 
         > image {
             padding-left: 6px;
-
             // image padding
             padding-right: 6px;
-
-            //
             padding-top: 3px;
-
-            //
             padding-bottom: 3px;
-
-            //
-
         }
 
         &.text-button {
@@ -1010,7 +957,6 @@ button {
     .inline-toolbar &, .inline-toolbar &:backdrop {
         border-radius: 2px;
         border-width: 1px;
-
         @extend %linked;
     }
 
@@ -1053,16 +999,10 @@ button {
         $_border_bg: linear-gradient(to top, $alt-borders-color 25%, $bg_color 50%);
 
         &:not(.flat):not(:checked):not(:active):not(:disabled):not(:backdrop) {
-            @include button(normal);
-
-            background-image: $button_fill, $_border_bg;
             border-color: transparent;
         }
 
         &:hover:not(:checked):not(:active):not(:disabled):not(:backdrop) {
-            @include button(hover);
-
-            background-image: $button_fill, $_border_bg;
             border-color: transparent;
         }
 
@@ -1096,41 +1036,26 @@ button {
 .inline-toolbar toolbutton > button {
     // redefining the button look is
     // needed since those are flat...
-    @include button(normal);
-
     &:hover {
-        @include button(hover);
 		background-color: $active_color;
     }
 
     &:active,
     &:checked {
-        @include button(active);
     }
-
     &:disabled {
-        @include button(insensitive);
-
         &:active,
         &:checked {
-            @include button(insensitive-active);
         }
     }
 
     &:backdrop {
-        @include button(backdrop);
-
         &:active,
         &:checked {
-            @include button(backdrop-active);
         }
-
         &:disabled {
-            @include button(backdrop-insensitive);
-
             &:active,
             &:checked {
-                @include button(backdrop-insensitive-active);
             }
         }
     }
@@ -1144,15 +1069,15 @@ toolbar.inline-toolbar toolbutton:backdrop {
     }
 
     &:first-child > button.flat {
-        @extend %linked:first-child;
+        @extend %linked, :first-child;
     }
 
     &:last-child > button.flat {
-        @extend %linked:last-child;
+        @extend %linked, :last-child;
     }
 
     &:only-child > button.flat {
-        @extend %linked:only-child;
+        @extend %linked, :only-child;
     }
 }
 
@@ -1332,7 +1257,7 @@ button:link,
 button:visited {
     @extend %undecorated_button;
 
-    @extend *:link;
+    @extend *, :link;
 
     text-shadow: none;
 
@@ -1397,7 +1322,7 @@ spinbutton {
 
             &:hover {
                 color: $fg_color;
-                background-color: $base_hover_color;
+                background-color: $base_prelight_bg_color;
             }
 
             &:disabled {
@@ -1593,11 +1518,11 @@ combobox {
     &.linked {
         button:nth-child(2) {
             &:dir(ltr) {
-                @extend %linked:last-child;
+                @extend %linked, :last-child;
             }
 
             &:dir(rtl) {
-                @extend %linked:first-child;
+                @extend %linked, :first-child;
             }
         }
     }
@@ -1607,7 +1532,7 @@ combobox {
         box-shadow: none;
 
         button.combo {
-            @extend %button_basic:drop(active);
+            @extend %button_basic, :drop(active);
         }
     }
 }
@@ -1626,15 +1551,15 @@ combobox {
 }
 
 .linked:not(.vertical) > combobox:first-child > box > button.combo {
-    @extend %linked:first-child;
+    @extend %linked, :first-child;
 }
 
 .linked:not(.vertical) > combobox:last-child > box > button.combo {
-    @extend %linked:last-child;
+    @extend %linked, :last-child;
 }
 
 .linked:not(.vertical) > combobox:only-child > box > button.combo {
-    @extend %linked:only-child;
+    @extend %linked, :only-child;
 }
 
 .linked.vertical > combobox > box > button.combo {
@@ -1642,15 +1567,15 @@ combobox {
 }
 
 .linked.vertical > combobox:first-child > box > button.combo {
-    @extend %linked_vertical:first-child;
+    @extend %linked_vertical, :first-child;
 }
 
 .linked.vertical > combobox:last-child > box > button.combo {
-    @extend %linked_vertical:last-child;
+    @extend %linked_vertical, :last-child;
 }
 
 .linked.vertical > combobox:only-child > box > button.combo {
-    @extend %linked_vertical:only-child;
+    @extend %linked_vertical, :only-child;
 }
 
 /************
@@ -1803,7 +1728,7 @@ border-bottom-color:$base_normal_border_color;
         }
 
         .subtitle:link {
-            @extend *:link:selected;
+            @extend *, :link, :selected;
         }
 
         button {
@@ -2736,7 +2661,7 @@ notebook {
         > tabs > arrow {
             @extend %button_basic;
 
-            @extend %button_basic.flat;
+            @extend %button_basic, .flat;
 
             min-height: 16px;
             min-width: 16px;
@@ -2917,7 +2842,6 @@ notebook {
         }
     }
 }
-
 /**************
  * Scrollbars *
  **************/
@@ -3109,6 +3033,7 @@ switch {
         transition: none;
         box-shadow: none;
         border-width: 0;
+
     }
 }
 
@@ -3869,7 +3794,7 @@ progressbar {
     }
 
     &:backdrop trough {
-        @extend %scale_trough:backdrop;
+        @extend %scale_trough, :backdrop;
     }
 
     // looks like states are not passed to the trough component here
@@ -3901,7 +3826,7 @@ progressbar {
     }
 
     &:backdrop progress {
-        @extend %scale_highlight:backdrop;
+        @extend %scale_highlight, :backdrop;
     }
 
     // states not passed here as well
@@ -4524,9 +4449,9 @@ placessidebar {
         }
 
         @at-root button.sidebar-button {
-            @extend %button_basic.flat;
+            @extend %button_basic, .flat;
 
-            @extend %button_selected.flat;
+            @extend %button_selected, .flat;
 
             min-height: 26px;
             min-width: 26px;
@@ -5046,13 +4971,13 @@ decoration {
 button.titlebutton {
     @extend %button_basic;
 
-    @extend %button_basic.flat;
+    @extend %button_basic, .flat;
 
     @include _button_text_shadow;
 	
 
     .selection-mode & {
-        @extend %button.flat.suggested-action;
+        @extend %button, .flat, .suggested-action;
 
         @extend %nobg_selected_items;
     }
