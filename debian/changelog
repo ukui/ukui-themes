@@ -8,7 +8,7 @@ ukui-themes (1.2.0-1) unstable; urgency=medium
   * debian/rules:
     - Add export NO_PNG_PKG_MANGLE=1.
 
- -- handsome_feng <jianfengli@ubuntukylin.com>  Tue, 03 Mar 2020 13:58:30 +0800
+ -- handsome_feng <jianfengli@ubuntukylin.com>  Tue, 17 Mar 2020 14:33:59 +0800
 
 ukui-themes (0+git20190530-1) unstable; urgency=medium
 
