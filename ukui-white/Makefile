@@ -1,7 +1,7 @@
 SASS ?=sass
 
 all: index css
-
+	
 index:
 	cp index.theme.in index.theme
 
@@ -20,5 +20,8 @@ uninstall:
 clean:
 	rm -rf index.theme \
 		.sass-cache/ \
+		.Makefile.swp \
 		gtk-3.0/gtk.css \
-		gtk-3.0/gtk.css.map
+		gtk-3.0/gtk.css.map \
+		gtk-3.0/.sass-cache \
+
