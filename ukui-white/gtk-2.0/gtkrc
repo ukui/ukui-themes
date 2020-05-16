@@ -19,26 +19,26 @@
 # NOTE: Fork from Menta
 
 # These are the defined colors for the theme, you can change them in MATE's appearance preferences.
-gtk_color_scheme = "bg_color:#28343d\nselected_bg_color:#2d373f\nbase_color:#182127" # Background, base.
-gtk_color_scheme = "fg_color:#CCC\nselected_fg_color:#FFF\ntext_color:#CCC" # Foreground, text.
-gtk_color_scheme = "tooltip_bg_color:#ffffcd\ntooltip_fg_color:#000000" # Tooltips.TODO:PZ
+gtk_color_scheme = "bg_color:#f5f5f5\nselected_bg_color:#e4f0fc\nbase_color:#f5f7f8" # Background, base.
+gtk_color_scheme = "fg_color:#000000\nselected_fg_color:#000000\ntext_color:#000000" # Foreground, text.
+gtk_color_scheme = "tooltip_bg_color:#fafafa\ntooltip_fg_color:#000000" # Tooltips.TODO:PZ
 gtk_color_scheme = "link_color:#08c" # Hyperlinks TODO:PZ
 gtk_color_scheme = "bg_color_dark:#3f3f3f\ntext_color_dark:#FFF" # Dark colors TODO:PZ
 
 
-gtk_color_scheme = "button_bg_color:#3e464c\nbutton_insensitive_bg_color:#182127\nbutton_insensitive_fg_color:#6a6e71" # Dark colors TODO:PZ
-gtk_color_scheme = "active_color:#495965\nprelight_color:#566774\nmurrine_focus_color:#36424a"
+gtk_color_scheme = "button_bg_color:#fafafa\nbutton_insensitive_bg_color:#f0f0f0\nbutton_insensitive_fg_color:#bbbbbb" # Dark colors TODO:PZ
+gtk_color_scheme = "active_color:#d1e8ff\nprelight_color:#e4f0fc\nmurrine_focus_color:#569de5"
 gtk_color_scheme = "murrine_border_colors:#cccccc"
-gtk_color_scheme = "entry_bg_colors:#182127"
+gtk_color_scheme = "entry_bg_colors:#ffffff"
 gtk_color_scheme = "entry_border_colors:#cccccc"
-gtk_color_scheme = "murrine_notebook_active_colors:#28343d"
-gtk_color_scheme = "menu_bg_colors:#283138"
-gtk_color_scheme = "treeview_header_normal_colors:#182127"
+gtk_color_scheme = "murrine_notebook_active_colors:#ffffff"
+gtk_color_scheme = "menu_bg_colors:#ececec"
+gtk_color_scheme = "treeview_header_normal_colors:#ffffff"
 gtk_color_scheme = "tooltip_border_colors:#777777"
 gtk_color_scheme = "selected_colors_dark:#3094F1"
-gtk_color_scheme = "scrollbar_color:#424f5a"
-gtk_color_scheme = "scrollbar_prelight_color:#697883"
-gtk_color_scheme = "scrollbar_active_color:#8897a3"
+gtk_color_scheme = "scrollbar_color:#cdcdcd"
+gtk_color_scheme = "scrollbar_prelight_color:#aaaaaa"
+gtk_color_scheme = "scrollbar_active_color:#888888"
 gtk_color_scheme = "scrollbar_icon_insensitive_color:#bbbbbb"
 gtk_color_scheme = "scrollbar_icon_color:#606060"
 gtk_color_scheme = "radiocheck_border_color:#d9d9d9"
@@ -811,8 +811,8 @@ widget_class "*MozContainer*"		style "performance-fix" # Firefox (Not sure if th
 ### EXTERNAL FILES ###
 #include "apps/chromium.rc"	# Chromium styling
 #include "apps/thunar.rc"	# PCManFM styling
-#include "apps/caja.rc"		# Caja styling
+include "apps/caja.rc"		# Caja styling
 #include "apps/pluma.rc"		# Pluma styling
-#include "apps/ukuimenu.rc"     # Kylin startup-menu styling
+include "apps/ukuimenu.rc"     # Kylin startup-menu styling
 include "apps/mate-terminal.rc"
-#include "apps/ukuicc.rc"     # Kylin control center styling
+include "apps/ukuicc.rc"     # Kylin control center styling

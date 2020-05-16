@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="图层_18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;}
+	.st0{fill:#808080;}
+	.st1{fill:none;stroke:#808080;stroke-linecap:round;stroke-miterlimit:10;}
 </style>
-<title>32</title>
-<g id="_32">
-	<path class="st0" d="M9,15v-1H5v1H2v15h10V15H9z M11,29H3V16h8V29z"/>
-	<rect id="_20" x="4" y="26" class="st0" width="6" height="2"/>
-	<rect id="_40" x="4" y="23" class="st0" width="6" height="5"/>
-	<rect id="_60" x="4" y="21" class="st0" width="6" height="7"/>
-	<rect id="_80" x="4" y="19" class="st0" width="6" height="9"/>
-	<rect id="_100" x="4" y="17" class="st0" width="6" height="11"/>
-	<rect x="20" y="6" class="st0" width="1" height="5"/>
-	<path class="st0" d="M22,2.1V13h-3V2.1c-4.6,0.7-8,4.7-8,9.4V14h1v-2.5c0-3.7,2.4-7,6-8.1V14h5V3.4c3.6,1.1,6,4.4,6,8.1v9
-		c0,4.7-3.8,8.5-8.4,8.5c-3.2,0-6.1-1.7-7.6-4.5v1.8c3.2,4.2,9.1,4.9,13.3,1.7c2.3-1.8,3.7-4.6,3.7-7.5v-9C30,6.8,26.6,2.9,22,2.1z"
-		/>
+<g id="图层_2_1_">
+	<path class="st0" d="M5,7H1C0.4,7,0,7.4,0,8v7c0,0.6,0.4,1,1,1h4c0.6,0,1-0.4,1-1V8C6,7.4,5.6,7,5,7z M5,15H1V8h4V15z"/>
+	<rect x="10" y="1" class="st0" width="1" height="3"/>
+	<path class="st1" d="M7.3,14.3c2.1,1.8,5.2,1.5,7-0.7c0.7-0.9,1.2-2.1,1.2-3.3V5.7c0-2.3-0.8-4.4-3-5v3.8c0,0.6-0.4,1-1,1h-2
+		c-0.6,0-1-0.4-1-1V0.7c-2.2,0.6-3,2.7-3,5"/>
+	<path class="st0" d="M4,8H2C1.4,8,1,7.6,1,7l0,0c0-0.5,0.4-1,1-1h2c0.5,0,1,0.4,1,1l0,0C5,7.6,4.6,8,4,8z"/>
+	<rect id="_20_1_" x="2" y="9" class="st0" width="2" height="5"/>
 </g>
 </svg>

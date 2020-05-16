@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="gtk-media-forward-ltr" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_2" opacity="0.8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#808080;stroke-miterlimit:10;}
-	.st1{fill:#808080;}
+	.st0{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M6.5,5.7L2.5,3l0,0v10l4.1-2.8"/>
-<g>
-	<path class="st1" d="M7,4l5.3,4L7,12V4 M6,2v12l8-6L6,2L6,2z"/>
-</g>
+<polyline class="st0" points="6.5,10.6 2.5,13.5 2.5,2.5 6.5,5.5 "/>
+<polygon class="st0" points="6.5,2.5 14,8 6.5,13.5 "/>
 </svg>
