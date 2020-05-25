@@ -1,1 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 96 96"><defs><style>.cls-1{fill:url(#未命名的渐变_96);}.cls-2{fill:url(#未命名的渐变_83);}.cls-3{fill:url(#未命名的渐变_94);}.cls-4{fill:#0771ad;}.cls-5{fill:#63bbee;}.cls-6{fill:#006837;}.cls-7{fill:#7e7f7f;}.cls-8{fill:#106802;}.cls-9{fill:#666;}.cls-10{fill:#d4ec42;}.cls-11{fill:#0071bc;}</style><linearGradient id="未命名的渐变_96" x1="48" y1="6" x2="48" y2="90" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#ccdce5"/></linearGradient><linearGradient id="未命名的渐变_83" x1="48" y1="6" x2="48" y2="90" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1d9dd6"/><stop offset="1" stop-color="#0771ad"/></linearGradient><linearGradient id="未命名的渐变_94" x1="63.66" y1="774.97" x2="70.48" y2="780.65" gradientTransform="translate(0 -702)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1c9bd5" stop-opacity="0.5"/><stop offset="1" stop-color="#0771ad" stop-opacity="0.7"/></linearGradient></defs><title>96</title><g id="libreoffice"><g id="libreoffice-document"><g id="_96" data-name="96"><g id="_48" data-name=" 48"><path class="cls-1" d="M82,69V15a9,9,0,0,0-9-9H23a9,9,0,0,0-9,9V81a9,9,0,0,0,9,9H61.16Z"/><path class="cls-2" d="M73,10a5,5,0,0,1,5,5V67.35L59.49,86H23a5,5,0,0,1-5-5V15a5,5,0,0,1,5-5H73m0-4H23a9,9,0,0,0-9,9V81a9,9,0,0,0,9,9H61.16L82,69V15a9,9,0,0,0-9-9Z"/></g><path class="cls-3" d="M67,69H82L61,90V75A6,6,0,0,1,67,69Z"/><rect class="cls-4" x="26" y="24" width="15" height="3"/><rect class="cls-4" x="26" y="30" width="15" height="3"/><rect class="cls-4" x="26" y="36" width="15" height="3"/><rect class="cls-4" x="26" y="42" width="15" height="3"/><rect class="cls-4" x="26" y="51" width="45" height="3"/><rect class="cls-4" x="26" y="57" width="45" height="3"/><rect class="cls-4" x="26" y="63" width="27" height="3"/><path class="cls-5" d="M69,26H46V45H69Z"/><path class="cls-6" d="M69.5,40.25h0L69.25,40Z"/><polygon class="cls-7" points="51 33.5 46 41 56 41 51 33.5"/><rect class="cls-8" x="45.5" y="41" width="24" height="3"/><polygon class="cls-9" points="63.5 36.5 58 44 68.5 44 63.5 36.5"/><path class="cls-10" d="M68.75,31H69V26H64A5,5,0,0,0,68.75,31Z"/><path class="cls-11" d="M68,27V43H47V27H68m3-3H44V46H71V24Z"/></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 96" enable-background="new 0 0 96 96" xml:space="preserve">
+<title>96</title>
+<g id="libreoffice">
+	<g id="libreoffice-document">
+		<g id="_96">
+			<g id="_48">
+				
+					<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="48" y1="90" x2="48" y2="6" gradientTransform="matrix(1 0 0 -1 0 96)">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#CCDCE5"/>
+				</linearGradient>
+				<path fill="url(#SVGID_1_)" d="M82,69V15c0-5-4-9-9-9H23c-5,0-9,4-9,9v66c0,5,4,9,9,9h38.2L82,69z"/>
+				
+					<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="48" y1="90" x2="48" y2="6" gradientTransform="matrix(1 0 0 -1 0 96)">
+					<stop  offset="0" style="stop-color:#1D9DD6"/>
+					<stop  offset="1" style="stop-color:#0771AD"/>
+				</linearGradient>
+				<path fill="url(#SVGID_2_)" d="M73,10c2.8,0,5,2.2,5,5v52.3L59.5,86H23c-2.8,0-5-2.2-5-5V15c0-2.8,2.2-5,5-5H73 M73,6H23
+					c-5,0-9,4-9,9v66c0,5,4,9,9,9h38.2L82,69V15C82,10,78,6,73,6z"/>
+			</g>
+			
+				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="63.6598" y1="-678.9703" x2="70.4798" y2="-684.6503" gradientTransform="matrix(1 0 0 -1 0 -606)">
+				<stop  offset="0" style="stop-color:#1C9BD5;stop-opacity:0.5"/>
+				<stop  offset="1" style="stop-color:#0771AD;stop-opacity:0.7"/>
+			</linearGradient>
+			<path fill="url(#SVGID_3_)" d="M67,69h15L61,90V75C61,71.7,63.7,69,67,69z"/>
+			<rect x="26" y="24" fill="#0771AD" width="15" height="3"/>
+			<rect x="26" y="30" fill="#0771AD" width="15" height="3"/>
+			<rect x="26" y="36" fill="#0771AD" width="15" height="3"/>
+			<rect x="26" y="42" fill="#0771AD" width="15" height="3"/>
+			<rect x="26" y="51" fill="#0771AD" width="45" height="3"/>
+			<rect x="26" y="57" fill="#0771AD" width="45" height="3"/>
+			<rect x="26" y="63" fill="#0771AD" width="27" height="3"/>
+			<path fill="#63BBEE" d="M69,26H46v19h23V26z"/>
+			<path fill="#006837" d="M69.5,40.3L69.5,40.3L69.3,40L69.5,40.3z"/>
+			<polygon fill="#7E7F7F" points="51,33.5 46,41 56,41 			"/>
+			<rect x="45.5" y="41" fill="#106802" width="24" height="3"/>
+			<polygon fill="#666666" points="63.5,36.5 58,44 68.5,44 			"/>
+			<path fill="#D4EC42" d="M68.8,31H69v-5h-5C64,28.7,66.1,30.9,68.8,31z"/>
+			<path fill="#0071BC" d="M68,27v16H47V27H68 M71,24H44v22h27V24z"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,1 +1,20 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs><style>.cls-1{fill:#616161;}.cls-2{fill:#9e9e9e;}.cls-3{fill:#f5f5f5;}.cls-4{fill:#ccc;}.cls-5{fill:#212121;}.cls-6{fill:#ffb74d;}.cls-7{fill:#4caf50;}.cls-8{fill:#e6e6e6;}</style></defs><title>mousepad128</title><rect class="cls-1" x="14.83" y="5" width="98.33" height="118" rx="5.18"/><rect class="cls-2" x="21.04" y="11.21" width="82.81" height="106.1" rx="3.62"/><rect class="cls-3" x="20.01" y="10.95" width="82.81" height="106.1" rx="3.62"/><rect class="cls-4" x="27.51" y="19.75" width="54.34" height="5.18"/><polygon class="cls-4" points="92.21 31.39 27.51 31.39 27.51 59.71 27.51 60.98 27.51 66.07 73.58 66.07 73.58 60.98 92.21 60.98 92.21 31.39"/><path class="cls-5" d="M53.76,61.78h0a1.34,1.34,0,0,1,1.88,0l5,5a1.32,1.32,0,0,1,0,1.87h0a1.32,1.32,0,0,1-1.87,0l-5-5A1.34,1.34,0,0,1,53.76,61.78Z"/><path class="cls-6" d="M56.64,64.66c-2.53,2.53-.75,8.4,1.9,11L62.85,80,72,70.87l-4.32-4.31C65,63.91,59.16,62.13,56.64,64.66Z"/><path class="cls-7" d="M99,116.18c2.8,2.8,7.12,3,9.65.5s2.3-6.85-.5-9.65L69.6,68.48l-9.15,9.14Z"/><rect class="cls-8" x="31.91" y="37.61" width="54.34" height="5.18"/><rect class="cls-8" x="31.91" y="47.7" width="54.34" height="5.18"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>mousepad128</title>
+<path fill="#616161" d="M20,5h88c2.9,0,5.2,2.3,5.2,5.2v107.6c0,2.9-2.3,5.2-5.2,5.2H20c-2.9,0-5.2-2.3-5.2-5.2V10.2
+	C14.8,7.3,17.1,5,20,5z"/>
+<path fill="#9E9E9E" d="M24.7,11.2h75.6c2,0,3.6,1.6,3.6,3.6v98.9c0,2-1.6,3.6-3.6,3.6H24.7c-2,0-3.6-1.6-3.6-3.6V14.8
+	C21,12.8,22.7,11.2,24.7,11.2z"/>
+<path fill="#F5F5F5" d="M23.6,10.9h75.6c2,0,3.6,1.6,3.6,3.6v98.9c0,2-1.6,3.6-3.6,3.6H23.6c-2,0-3.6-1.6-3.6-3.6V14.6
+	C20,12.6,21.6,10.9,23.6,10.9z"/>
+<rect x="27.5" y="19.8" fill="#CCCCCC" width="54.3" height="5.2"/>
+<polygon fill="#CCCCCC" points="92.2,31.4 27.5,31.4 27.5,59.7 27.5,61 27.5,66.1 73.6,66.1 73.6,61 92.2,61 "/>
+<path fill="#212121" d="M53.8,61.8L53.8,61.8c0.5-0.5,1.4-0.5,1.9,0l5,5c0.5,0.5,0.5,1.4,0,1.9c0,0,0,0,0,0l0,0
+	c-0.5,0.5-1.4,0.5-1.9,0c0,0,0,0,0,0l-5-5C53.3,63.1,53.3,62.3,53.8,61.8z"/>
+<path fill="#FFB74D" d="M56.6,64.7c-2.5,2.5-0.8,8.4,1.9,11l4.3,4.3l9.2-9.1l-4.3-4.3C65,63.9,59.2,62.1,56.6,64.7z"/>
+<path fill="#4CAF50" d="M99,116.2c2.8,2.8,7.1,3,9.7,0.5s2.3-6.8-0.5-9.7L69.6,68.5l-9.2,9.1L99,116.2z"/>
+<rect x="31.9" y="37.6" fill="#E6E6E6" width="54.3" height="5.2"/>
+<rect x="31.9" y="47.7" fill="#E6E6E6" width="54.3" height="5.2"/>
+</svg>

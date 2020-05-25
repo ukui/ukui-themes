@@ -1,1 +1,10 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs><style>.cls-1{fill:#fff;}.cls-2{fill:#007fff;}.cls-3{fill:#cb3300;}.cls-4{fill:#ffbf00;}</style></defs><title>lyx128</title><rect class="cls-1" x="8" y="8" width="112" height="112" rx="12"/><polygon class="cls-2" points="18.18 46.44 29.83 41.77 39.93 68.25 54.68 62.8 57.79 72.14 32.16 82.26 18.18 46.44"/><polygon class="cls-3" points="73.32 37.88 87.3 39.43 91.18 50.34 98.17 41.77 109.82 42.55 96.62 59.68 107.49 80.71 92.73 79.93 87.3 67.47 78.75 77.59 66.33 76.03 81.86 57.34 73.32 37.88"/><polygon class="cls-4" points="48.47 48.78 62.45 50.34 65.55 62.8 74.1 52.67 84.97 55.01 68.66 75.25 66.92 90.12 54.49 88.57 56.23 71.36 48.47 48.78"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>lyx128</title>
+<polygon fill="#007FFF" points="5,41.4 20,35.4 33,69.5 52,62.5 56,74.5 23,87.5 "/>
+<polygon fill="#CB3300" points="76,30.4 94,32.4 99,46.4 108,35.4 123,36.4 106,58.4 120,85.5 101,84.5 94,68.5 83,81.5 67,79.5 
+	87,55.4 "/>
+<polygon fill="#FFBF00" points="44,44.4 62,46.4 66,62.5 77,49.4 91,52.4 70,78.5 67.8,97.6 51.8,95.6 54,73.5 "/>
+</svg>

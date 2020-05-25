@@ -1,1 +1,33 @@
-<svg id="ICONS" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128"><defs><style>.cls-1{fill:#f9f9f9;}.cls-2{fill:url(#未命名的渐变_7);}.cls-3{fill:url(#未命名的渐变_443);}.cls-4{fill:#00bb81;}</style><linearGradient id="未命名的渐变_7" x1="64" y1="16.96" x2="64" y2="120" gradientUnits="userSpaceOnUse"><stop offset="0.12" stop-color="#e6e6e6" stop-opacity="0.2"/><stop offset="1" stop-color="gray" stop-opacity="0.1"/></linearGradient><linearGradient id="未命名的渐变_443" x1="64" y1="8" x2="64" y2="28.16" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#e5e8eb"/><stop offset="1" stop-color="#c0c3c7"/></linearGradient></defs><title>128</title><g id="_128" data-name="128"><path class="cls-1" d="M115,17H13l13.18,90.23A14.74,14.74,0,0,0,40.6,120H87.4a14.74,14.74,0,0,0,14.42-12.81Z"/><path class="cls-2" d="M115,17H13l13.18,90.23A14.74,14.74,0,0,0,40.6,120H87.4a14.74,14.74,0,0,0,14.42-12.81Z"/><ellipse class="cls-3" cx="64" cy="18.08" rx="51" ry="10.08"/><path class="cls-4" d="M69.29,75.62l-4.43,6.79L69,88.64,69,86l3.49,0A5.12,5.12,0,0,0,76,84.39l6.19-8.33a4.09,4.09,0,0,0,.35-4.22L79.1,65.25l-8.32,4.46,4.59,8c.15.41-.15.73-.68.72l-5.46,0,.06-2.84Z"/><path class="cls-4" d="M58,74.56,53.09,67.2l-9.25.06L47,68.91,45.5,72.05a4.23,4.23,0,0,0,.19,3.75l6.1,8.39A5.11,5.11,0,0,0,55.66,86l7.28,0-.06-7.56-9.74,0a.53.53,0,0,1-.43-.86l2.49-4.43L58,74.56Z"/><path class="cls-4" d="M64.73,65.69l9.37-.07,5.27-8.16-3.31,1.86-1.9-3.52a5.11,5.11,0,0,0-3.69-2.49l-12.32-.06a5.48,5.48,0,0,0-4.4,2.67L50,63.21l8.38,4.53,5.14-8.95c.33-.42.83-.34,1.12.17l3,5.09-2.91,1.64Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 96" enable-background="new 0 0 96 96" xml:space="preserve">
+<title>96</title>
+<g id="icon">
+	<g id="回收站-空">
+		<g id="_96">
+			<g id="桶">
+				<g id="垃圾组">
+					<path fill="#F9F9F9" d="M30.1,89.8c-5.3,0-9.8-3.9-10.5-9.2L9.6,14h76.8l-10,66.6c-0.7,5.3-5.2,9.2-10.5,9.2H30.1z"/>
+					<path fill="#CCCCCC" d="M85.8,14.5l-9.9,66c-0.7,5-5,8.7-10,8.8H30.1c-5,0-9.3-3.8-10-8.8l-9.9-66H85.8 M87,13.5H9l10.1,67.2
+						c0.8,5.5,5.5,9.6,11,9.6h35.8c5.5,0,10.2-4.1,11-9.6L87,13.5z"/>
+				</g>
+				
+					<linearGradient id="桶口_1_" gradientUnits="userSpaceOnUse" x1="48" y1="90" x2="48" y2="74.88" gradientTransform="matrix(1 0 0 -1 0 96)">
+					<stop  offset="0" style="stop-color:#E5E8EB"/>
+					<stop  offset="1" style="stop-color:#C0C3C7"/>
+				</linearGradient>
+				<ellipse id="桶口" fill="url(#桶口_1_)" cx="48" cy="13.6" rx="39" ry="7.6"/>
+			</g>
+			<g id="logo">
+				<path fill="#00BB81" d="M52,56.7l-3.3,5.1l3.1,4.7v-2h2.6c1,0,1.9-0.4,2.6-1.1l4.7-6.3c0.7-0.9,0.8-2.1,0.3-3.1l-2.6-4.9
+					l-6.3,3.3l3.5,6c0.1,0.3-0.1,0.5-0.5,0.5H52L52,56.7L52,56.7z"/>
+				<path fill="#00BB81" d="M43.5,55.9l-3.7-5.5h-7l2.4,1.2L34,54c-0.4,0.9-0.3,1.9,0.2,2.8l4.6,6.3c0.7,0.9,1.8,1.3,2.9,1.3h5.5
+					l0-5.7h-7.3c-0.2,0-0.4-0.2-0.4-0.4c0-0.1,0-0.2,0.1-0.3l1.9-3.3L43.5,55.9L43.5,55.9z"/>
+				<path fill="#00BB81" d="M48.5,49.3l7.1,0l4-6.1l-2.5,1.4l-1.4-2.6c-0.6-1-1.6-1.7-2.8-1.9h-9.3c-1.4,0.1-2.6,0.8-3.3,2l-2.8,5.5
+					l6.3,3.4l3.9-6.7c0.3-0.3,0.6-0.3,0.8,0.1l2.2,3.7L48.5,49.3L48.5,49.3z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

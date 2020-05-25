@@ -1,1 +1,31 @@
-application-vnd.microsoft.portable-executable.svg
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>128</title>
+<g id="锁">
+	<g id="_128">
+		
+			<linearGradient id="_48_1_" gradientUnits="userSpaceOnUse" x1="64" y1="94" x2="64" y2="-18" gradientTransform="matrix(1 0 0 1 0 26)">
+			<stop  offset="0" style="stop-color:#3882D9"/>
+			<stop  offset="1" style="stop-color:#4AA6E5"/>
+		</linearGradient>
+		<path id="_48" fill="url(#_48_1_)" d="M109,92V20c0-6.6-5.4-12-12-12H31c-6.6,0-12,5.4-12,12v88c0,6.6,5.4,12,12,12h50.2L109,92z"
+			/>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="84.5466" y1="71.3041" x2="93.6466" y2="78.8741" gradientTransform="matrix(1 0 0 1 0 26)">
+			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.4"/>
+			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+		</linearGradient>
+		<path fill="url(#SVGID_1_)" d="M89,92h20l-28,28v-20C81,95.6,84.6,92,89,92z"/>
+		
+			<rect x="55.1" y="33.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -11.3849 57.7392)" fill="#FFFFFF" width="17.8" height="17.8"/>
+		
+			<rect x="71.5" y="50.1" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -18.1717 74.1225)" fill="#FFFFFF" width="17.8" height="17.8"/>
+		
+			<rect x="38.7" y="50.1" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -27.7781 50.9425)" fill="#FFFFFF" width="17.8" height="17.8"/>
+		
+			<rect x="55.1" y="66.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -34.5649 67.3457)" fill="#FFFFFF" width="17.8" height="17.8"/>
+	</g>
+</g>
+</svg>

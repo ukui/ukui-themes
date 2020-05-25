@@ -1,1 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 96 96"><defs><style>.cls-1{fill:url(#未命名的渐变_16);}.cls-2{fill:url(#未命名的渐变_140);}.cls-3{fill:url(#未命名的渐变_142);}.cls-4{fill:#c25410;}.cls-5{fill:#4f4f4f;}.cls-6{opacity:0.4;}.cls-7{fill:gray;}.cls-8{fill:none;stroke:#009245;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}</style><linearGradient id="未命名的渐变_16" x1="48" y1="6" x2="48" y2="90" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#f9e6de"/></linearGradient><linearGradient id="未命名的渐变_140" x1="48" y1="6" x2="48" y2="90" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#e07032"/><stop offset="1" stop-color="#c25410"/></linearGradient><linearGradient id="未命名的渐变_142" x1="63.66" y1="774.97" x2="70.48" y2="780.65" gradientTransform="translate(0 -702)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#e07032" stop-opacity="0.5"/><stop offset="1" stop-color="#c25410" stop-opacity="0.7"/></linearGradient></defs><title>96</title><g id="libreoffice"><g id="libreoffice-document_复制_3" data-name="libreoffice-document_复制 3"><g id="_94" data-name="94"><g id="_48" data-name=" 48"><path class="cls-1" d="M82,69V15a9,9,0,0,0-9-9H23a9,9,0,0,0-9,9V81a9,9,0,0,0,9,9H61Z"/><path class="cls-2" d="M73,10a5,5,0,0,1,5,5V67.34L59.34,86H23a5,5,0,0,1-5-5V15a5,5,0,0,1,5-5H73m0-4H23a9,9,0,0,0-9,9V81a9,9,0,0,0,9,9H61L82,69V15a9,9,0,0,0-9-9Z"/></g><path class="cls-3" d="M67,69H82L61,90V75A6,6,0,0,1,67,69Z"/><rect class="cls-4" x="32" y="49" width="3" height="3"/><rect class="cls-4" x="32" y="43" width="3" height="3"/><rect class="cls-4" x="32" y="37" width="3" height="3"/><polygon class="cls-5" points="51 58 55 58 55 55 41 55 41 58 45 58 40 65 44 65 48 60 52 65 56 65 51 58"/><path class="cls-4" d="M67,28V55H29V28H67m3-3H26V58H70V25Z"/><rect class="cls-4" x="32" y="31" width="32" height="3"/><rect class="cls-4" x="37" y="49" width="9" height="3"/><rect class="cls-4" x="37" y="43" width="9" height="3"/><rect class="cls-4" x="37" y="37" width="9" height="3"/><g class="cls-6"><path class="cls-7" d="M48,37V52H64V37Z"/></g><polyline class="cls-8" points="48.5 50.5 53.5 43 58.5 48 61 40.5 64 45"/></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 96" enable-background="new 0 0 96 96" xml:space="preserve">
+<title>96</title>
+<g id="libreoffice">
+	<g id="libreoffice-document_复制_3">
+		<g id="_94">
+			<g id="_48">
+				
+					<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="48" y1="90" x2="48" y2="6" gradientTransform="matrix(1 0 0 -1 0 96)">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#F9E6DE"/>
+				</linearGradient>
+				<path fill="url(#SVGID_1_)" d="M82,69V15c0-5-4-9-9-9H23c-5,0-9,4-9,9v66c0,5,4,9,9,9h38L82,69z"/>
+				
+					<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="48" y1="90" x2="48" y2="6" gradientTransform="matrix(1 0 0 -1 0 96)">
+					<stop  offset="0" style="stop-color:#E07032"/>
+					<stop  offset="1" style="stop-color:#C25410"/>
+				</linearGradient>
+				<path fill="url(#SVGID_2_)" d="M73,10c2.8,0,5,2.2,5,5v52.3L59.3,86H23c-2.8,0-5-2.2-5-5V15c0-2.8,2.2-5,5-5H73 M73,6H23
+					c-5,0-9,4-9,9v66c0,5,4,9,9,9h38l21-21V15C82,10,78,6,73,6z"/>
+			</g>
+			
+				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="63.6598" y1="-678.9703" x2="70.4798" y2="-684.6503" gradientTransform="matrix(1 0 0 -1 0 -606)">
+				<stop  offset="0" style="stop-color:#E07032;stop-opacity:0.5"/>
+				<stop  offset="1" style="stop-color:#C25410;stop-opacity:0.7"/>
+			</linearGradient>
+			<path fill="url(#SVGID_3_)" d="M67,69h15L61,90V75C61,71.7,63.7,69,67,69z"/>
+			<rect x="32" y="49" fill="#C25410" width="3" height="3"/>
+			<rect x="32" y="43" fill="#C25410" width="3" height="3"/>
+			<rect x="32" y="37" fill="#C25410" width="3" height="3"/>
+			<polygon fill="#4F4F4F" points="51,58 55,58 55,55 41,55 41,58 45,58 40,65 44,65 48,60 52,65 56,65 			"/>
+			<path fill="#C25410" d="M67,28v27H29V28H67 M70,25H26v33h44V25z"/>
+			<rect x="32" y="31" fill="#C25410" width="32" height="3"/>
+			<rect x="37" y="49" fill="#C25410" width="9" height="3"/>
+			<rect x="37" y="43" fill="#C25410" width="9" height="3"/>
+			<rect x="37" y="37" fill="#C25410" width="9" height="3"/>
+			<g opacity="0.4">
+				<path fill="#808080" d="M48,37v15h16V37H48z"/>
+			</g>
+			<polyline fill="none" stroke="#009245" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="48.5,50.5 
+				53.5,43 58.5,48 61,40.5 64,45 			"/>
+		</g>
+	</g>
+</g>
+</svg>

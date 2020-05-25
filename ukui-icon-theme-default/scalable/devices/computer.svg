@@ -1,1 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128"><defs><style>.cls-1{isolation:isolate;}.cls-2{fill:url(#未命名的渐变_103);}.cls-3{opacity:0.9;mix-blend-mode:overlay;}.cls-4{fill:url(#未命名的渐变_105);}.cls-5{fill:url(#未命名的渐变_102);}</style><linearGradient id="未命名的渐变_103" x1="99.98" y1="83.39" x2="27.2" y2="33.04" gradientUnits="userSpaceOnUse"><stop offset="0.5" stop-color="#3fa9f5"/><stop offset="0.5" stop-color="#3fa0f5"/></linearGradient><linearGradient id="未命名的渐变_105" x1="64" y1="85.62" x2="64" y2="32.43" gradientUnits="userSpaceOnUse"><stop offset="0.08" stop-color="#666" stop-opacity="0.4"/><stop offset="0.9" stop-color="#fff" stop-opacity="0.5"/></linearGradient><linearGradient id="未命名的渐变_102" x1="64" y1="98.77" x2="64" y2="92.29" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#333"/><stop offset="0.47" stop-color="#7d7d7d"/><stop offset="0.92" stop-color="#1a1a1a"/></linearGradient></defs><title>128</title><g class="cls-1"><g id="ICONS"><g id="_128" data-name="128"><rect class="cls-2" x="8" y="25" width="112" height="67"/><g class="cls-3"><rect class="cls-4" x="8" y="25" width="112" height="67"/></g><path d="M114,31V86H14V31H114m6-6H8V92H120V25Z"/><rect class="cls-5" x="51" y="92" width="26" height="8"/><rect x="29" y="99" width="70" height="4"/></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:none;stroke:url(#SVGID_2_);stroke-width:0.19;stroke-miterlimit:10;}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:none;stroke:#A6A6A6;stroke-width:0.15;stroke-miterlimit:10;}
+	.st4{opacity:0.2318;fill:#B3E5FC;enable-background:new    ;}
+</style>
+<g id="图层_8">
+	<g id="_x31_6">
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="7.95" y1="5.5476" x2="7.95" y2="6.3543" gradientTransform="matrix(1 0 0 -1 0 18)">
+			<stop  offset="0" style="stop-color:#333333"/>
+			<stop  offset="0.4731" style="stop-color:#7D7D7D"/>
+			<stop  offset="0.9202" style="stop-color:#1A1A1A"/>
+		</linearGradient>
+		<rect x="6.3" y="11.6" class="st0" width="3.3" height="1"/>
+		<path d="M12.4,13.1H3.6v-0.4c0-0.1,0-0.1,0.1-0.1h8.6c0.1,0,0.1,0,0.1,0.1C12.4,12.7,12.4,13.1,12.4,13.1z"/>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="3.4839" y1="5.3975" x2="12.5161" y2="5.3975" gradientTransform="matrix(1 0 0 -1 0 18)">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="3.815036e-02" style="stop-color:#151515"/>
+			<stop  offset="0.1705" style="stop-color:#5B5B5B"/>
+			<stop  offset="0.2899" style="stop-color:#929292"/>
+			<stop  offset="0.392" style="stop-color:#BABABA"/>
+			<stop  offset="0.4728" style="stop-color:#D2D2D2"/>
+			<stop  offset="0.5223" style="stop-color:#DBDBDB"/>
+			<stop  offset="0.5676" style="stop-color:#D2D2D2"/>
+			<stop  offset="0.6415" style="stop-color:#BABABA"/>
+			<stop  offset="0.7349" style="stop-color:#929292"/>
+			<stop  offset="0.844" style="stop-color:#5B5B5B"/>
+			<stop  offset="0.9651" style="stop-color:#151515"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<path class="st1" d="M3.6,12.7c0-0.1,0-0.1,0.1-0.1h8.6c0.1,0,0.1,0,0.1,0.1"/>
+		<g>
+			
+				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="12.3847" y1="7.7508" x2="3.5739" y2="13.847" gradientTransform="matrix(1 0 0 -1 0 18)">
+				<stop  offset="5.376000e-03" style="stop-color:#3AA3F4"/>
+				<stop  offset="1" style="stop-color:#5BCBFA"/>
+			</linearGradient>
+			<path class="st2" d="M14.1,11.6H1.9c-0.5,0-0.9-0.4-0.9-0.9V3.8c0-0.5,0.4-0.9,0.9-0.9h12.3c0.5,0,0.9,0.4,0.9,0.9v6.9
+				C15,11.2,14.6,11.6,14.1,11.6z"/>
+		</g>
+		<g>
+			<path d="M14.4,3.5V11H1.6V3.5H14.4 M14.8,2.9H1.2C1.1,2.9,1,3,1,3.1v8.3c0,0.1,0.1,0.2,0.2,0.2h13.7c0.1,0,0.2-0.1,0.2-0.2V3.1
+				C15,3,14.9,2.9,14.8,2.9L14.8,2.9z"/>
+		</g>
+		<path class="st3" d="M14.8,11.6H1.2c-0.1,0-0.2-0.1-0.2-0.2V3.1C1,3,1.1,2.9,1.2,2.9h13.7c0,0,0.1,0.1,0.1,0.2v8.3
+			C15,11.5,14.9,11.6,14.8,11.6z"/>
+	</g>
+	<polygon class="st4" points="14.4,10.9 5.9,10.9 10.6,3.6 14.4,3.6 	"/>
+</g>
+</svg>

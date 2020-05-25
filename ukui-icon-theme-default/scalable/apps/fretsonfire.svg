@@ -1,1 +1,28 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128"><defs><style>.cls-1{fill:#b2ebf2;}.cls-2{fill:url(#未命名的渐变_32);}</style><linearGradient id="未命名的渐变_32" x1="63.35" y1="118" x2="63.35" y2="12.08" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fd0001"/><stop offset="0.05" stop-color="#fd0901"/><stop offset="0.12" stop-color="#fd2301"/><stop offset="0.22" stop-color="#fd4c01"/><stop offset="0.33" stop-color="#fd8501"/><stop offset="0.42" stop-color="#fdb901"/><stop offset="0.74" stop-color="#fd2401"/><stop offset="1" stop-color="#fd0001"/></linearGradient></defs><title>fretsonfire-112</title><path class="cls-1" d="M114.67,10v2h-4.46v2.6h-7v2h-2.38v2.16H93.69v2.73H88.63v2H65.56V18.78H60.8v2.59H53.21v2.45H43.84v4.6H29.25V23.67H24.79V21.51H22.7v-5H17.64v4.75H15.41v9.35h2.23v4.61H22.7v2.15h2.53v2.45h4.32V44.4H24.79v4.46h4.76v4.46h2.83V66.85H29.7V65.06H25.38V76.49H29.7v8.92h2.53v2.74H29.4v8.49H25.08V106H22.7v2.45H17.94v-2H15.56V104H10.5v9.35H29.7v2.59H60.5V104H53.06v4.46H46.37v-16H51V89.88H47V87.43H44.28V85.7h2.53V74H51V71.6h2.38v2.59h11.9v2.44H67.2v2h2.68v3h11.9V78.79H84v-23H82.08V48.71H74.94v2.16H72.26v2.45H67.5v4.89H65.12v6.85H46.66V53.61H51v-4.9h2.38V46.56H48.75v2.15H39.22V46.56h4.62V39.65h2.82V37.2H44.13V32.31h8.93V30.44h8v2.3H88.63v5.18h4.61v1.73h2.83v2.88h5.21V40.08h1.64V35h4.76V28.13h2.68V19.21H115V14.89h2.53V10ZM29.85,35.62H24.94v-5h4.91Zm0,75.41H24.94v-2.59h4.91Zm70.83-87.36H95.92V21.23h4.76Z"/><path class="cls-2" d="M112.32,12.08v2H108v2.59h-6.76v2H99v2.15H92v2.74H87.15v2H64.86V20.85H60.25v2.6H52.92v2.44H43.86V30.5H29.76V25.75H25.44V23.59h-2v-5H18.54V23.3H16.38v9.36h2.16v4.6h4.89v2.16h2.45v2.45h4.17v4.6H25.44v4.46h4.61V55.4h2.73V68.92H30.19V67.14H26V78.57h4.17v8.92h2.45v2.73H29.9v8.49H25.73v9.36h-2.3v2.45h-4.6v-2h-2.3v-2.45H11.64v9.36H30.19V118H60v-12h-7.2v4.47H46.3v-16h4.46V92H46.88V89.5H44.29V87.78h2.44V76.12h4V73.67h2.3v2.59H64.57v2.45h1.87v2H69v3h11.5V80.87h2.16v-23H80.82V50.79h-6.9V53H71.33V55.4h-4.6v4.89H64.42v6.85H46.59V55.68h4.17V50.79h2.3V48.63H48.6v2.16H39.4V48.63h4.46V41.72h2.73V39.28H44.14v-4.9h8.63V32.51h7.77v2.3H87.15V40h4.46v1.72h2.73V44.6h5V42.15H101v-5h4.6V30.21h2.59V21.29h4.46V17h2.44V12.08Zm-82,25.61H25.59v-5h4.74Zm0,75.42H25.59v-2.59h4.74ZM98.8,25.75H94.2V23.3h4.6Z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>fretsonfire-112</title>
+<path fill="#B2EBF2" d="M114.7,10v2h-4.5v2.6h-7v2h-2.4v2.2h-7.1v2.7h-5.1v2h-23v-4.7h-4.8v2.6h-7.6v2.5h-9.4v4.6H29.3v-4.8h-4.5
+	v-2.2h-2.1v-5h-5.1v4.8h-2.2v9.4h2.2v4.6h5.1v2.2h2.5V40h4.3v4.6h-4.8v4.5h4.8v4.5h2.8v13.5h-2.7v-1.8h-4.3v11.4h4.3v8.9h2.5v2.7
+	h-2.8v8.5H25v9.4h-2.4v2.4h-4.8v-2h-2.4V104h-5.1v9.3h19.2v2.6h30.8V104h-7.4v4.5h-6.7v-16H51v-2.6h-4v-2.4h-2.7v-1.7h2.5V74H51
+	v-2.4h2.4v2.6h11.9v2.4h1.9v2h2.7v3h11.9v-2.8H84v-23h-1.9v-7.1H75v2.2h-2.7v2.5h-4.8v4.9h-2.4v6.8H46.7V53.6H51v-4.9h2.4v-2.1h-4.6
+	v2.2h-9.5v-2.2h4.6v-6.9h2.8v-2.5h-2.5v-4.9h8.9v-1.9h8v2.3h27.6v5.2h4.6v1.7h2.8v2.9h5.2V40h1.6v-5h4.8v-6.9h2.7v-8.9h4.6v-4.3h2.5
+	V10H114.7z M29.9,35.6H25v-5h4.9V35.6z M29.9,111H25v-2.6h4.9V111z M100.7,23.7h-4.8v-2.4h4.8V23.7z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="63.35" y1="86" x2="63.35" y2="-19.9" gradientTransform="matrix(1 0 0 1 0 32)">
+	<stop  offset="0" style="stop-color:#FD0001"/>
+	<stop  offset="5.000000e-02" style="stop-color:#FD0901"/>
+	<stop  offset="0.12" style="stop-color:#FD2301"/>
+	<stop  offset="0.22" style="stop-color:#FD4C01"/>
+	<stop  offset="0.33" style="stop-color:#FD8501"/>
+	<stop  offset="0.42" style="stop-color:#FDB901"/>
+	<stop  offset="0.74" style="stop-color:#FD2401"/>
+	<stop  offset="1" style="stop-color:#FD0001"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M112.3,12.1v2H108v2.6h-6.8v2H99v2.1h-7v2.7h-4.8v2H64.9v-4.7h-4.6v2.6H53v2.4h-9.1v4.6H29.8v-4.8
+	h-4.3v-2.2h-2v-5h-4.9v4.7h-2.2v9.4h2.2v4.6h4.9v2.2H26v2.5h4v4.6h-4.6v4.5H30v4.5h2.7v13.5h-2.6v-1.8H26v11.4h4.2v8.9h2.4v2.7h-2.7
+	v8.5h-4.2v9.4h-2.3v2.4h-4.6v-2h-2.3V106h-4.9v9.4h18.5v2.6H60v-12h-7.2v4.5h-6.5v-16h4.5V92h-3.9v-2.5h-2.6v-1.7h2.4V76.1h4v-2.5
+	H53v2.6h11.5v2.4h1.9v2H69v3h11.5v-2.8h2.2v-23h-1.8v-7.1H74V53h-2.6v2.4h-4.6v4.9h-2.3v6.8H46.6V55.7h4.2v-4.9h2.3v-2.2h-4.5v2.2
+	h-9.2v-2.2h4.5v-6.9h2.7v-2.4h-2.5v-4.9h8.6v-1.9h7.8v2.3h26.6V40h4.5v1.7h2.7v2.9h5v-2.4h1.7v-5h4.6v-6.9h2.6v-8.9h4.5V17h2.4v-4.9
+	H112.3z M30.3,37.7h-4.7v-5h4.7V37.7z M30.3,113.1h-4.7v-2.6h4.7V113.1z M98.8,25.8h-4.6v-2.5h4.6V25.8z"/>
+</svg>

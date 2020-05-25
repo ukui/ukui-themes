@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="搜索文件" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>128</title>
+<g id="_128">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="127.2793" y1="84.7708" x2="141.5693" y2="-23.6392" gradientTransform="matrix(0.981 0.1941 0.1941 -0.981 -73.6809 72.2358)">
+		<stop  offset="0" style="stop-color:#F4C444"/>
+		<stop  offset="1" style="stop-color:#F7D651"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M96,8H44L20,32v76c0,6.6,5.4,12,12,12h64c6.6,0,12-5.4,12-12V20C108,13.4,102.6,8,96,8z"/>
+	<polygon fill="#FBE85E" points="44,8 43.9,31.9 20,32 	"/>
+	<g id="放大镜">
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="98.8521" y1="41.1587" x2="73.2721" y2="76.7487" gradientTransform="matrix(1 0 0 -1 0 128)">
+			<stop  offset="0" style="stop-color:#3E8BFD"/>
+			<stop  offset="1" style="stop-color:#75A8FF"/>
+		</linearGradient>
+		<path fill="url(#SVGID_2_)" d="M86,100.5c-17.4,0-31.5-14.1-31.5-31.5c0-17.4,14.1-31.5,31.5-31.5s31.5,14.1,31.5,31.5
+			c0,5.5-1.5,10.9-4.2,15.7C107.7,94.5,97.3,100.5,86,100.5z"/>
+		<path fill="#E5E5E5" d="M86,35v5c16,0,29,13,29,29s-13,29-29,29S57,85,57,69c0-5.1,1.3-10.1,3.9-14.5C66.1,45.5,75.6,40,86,40V35
+			 M86,35c-18.8,0-34,15.2-34,34c0,18.8,15.2,34,34,34s34-15.2,34-34c0-12.1-6.5-23.4-17-29.4C97.8,36.6,92,35,86,35z"/>
+		<rect x="62.8" y="98.1" transform="matrix(0.5 -0.866 0.866 0.5 -53.1357 109.6781)" fill="#E5E5E5" width="11.1" height="5.6"/>
+		<path fill="#E65C38" d="M67.1,100.3l2.7,1.6c1.9,1.1,2.6,3.6,1.5,5.5l-5.8,10c-1.1,1.9-3.6,2.6-5.5,1.5l-2.7-1.6
+			c-1.9-1.1-2.6-3.6-1.5-5.5l5.8-10C62.7,99.8,65.1,99.2,67.1,100.3z"/>
+	</g>
+</g>
+</svg>

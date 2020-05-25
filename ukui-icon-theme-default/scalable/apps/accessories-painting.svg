@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Gnome画图工具" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>128</title>
+<g id="_128">
+	<g>
+		<g>
+			<defs>
+				<path id="SVGID_1_" d="M20,8h88c6.6,0,12,5.4,12,12v88c0,6.6-5.4,12-12,12H20c-6.6,0-12-5.4-12-12V20C8,13.4,13.4,8,20,8z"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_2_)">
+				<rect x="96" y="98" fill="#B2E2EE" width="24" height="22"/>
+				<rect x="74" y="98" fill="#9AD9EA" width="22" height="22"/>
+				<rect x="52" y="98" fill="#81CFE3" width="22" height="22"/>
+				<rect x="30" y="98" fill="#67C5DE" width="22" height="22"/>
+				<rect x="8" y="98" fill="#4FBDD8" width="22" height="22"/>
+			</g>
+		</g>
+	</g>
+	<rect x="96" y="76" fill="#CDE70C" width="24" height="22"/>
+	<rect x="74" y="76" fill="#B2DB11" width="22" height="22"/>
+	<rect x="52" y="76" fill="#99CF17" width="22" height="22"/>
+	<rect x="30" y="76" fill="#80C31C" width="22" height="22"/>
+	<rect x="8" y="76" fill="#67B722" width="22" height="22"/>
+	<rect x="74" y="54" fill="#FFFEB3" width="22" height="22"/>
+	<rect x="52" y="54" fill="#FFFF80" width="22" height="22"/>
+	<rect x="30" y="54" fill="#FFFF4D" width="22" height="22"/>
+	<rect x="8" y="54" fill="#E6E501" width="22" height="22"/>
+	<rect x="52" y="32" fill="#FFB200" width="22" height="22"/>
+	<rect x="30" y="32" fill="#FF7F00" width="22" height="22"/>
+	<rect x="8" y="32" fill="#FF4E02" width="22" height="22"/>
+	<rect x="30" y="8" fill="#FE0000" width="22" height="24"/>
+	<path fill="#EC9923" d="M76.3,85.2l-12-7.2l40.9-67.6c1.4-2.4,4.5-3.1,6.9-1.7l3.4,2.1c2.4,1.4,3.1,4.5,1.7,6.9l0,0L76.3,85.2z"/>
+	<polygon fill="#010101" points="60.6,93.9 64,95.9 58.8,100.8 	"/>
+	<polygon fill="#C8A063" points="64.4,78 76.3,85.2 64,95.9 60.6,93.9 	"/>
+</g>
+</svg>
