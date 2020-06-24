@@ -1,1 +1,26 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128"><defs><style>.cls-1{fill:url(#未命名的渐变_221);}.cls-2{fill:#5f6d77;}.cls-3{fill:#1a1a1a;}.cls-4{fill:lime;}.cls-5{fill:#333;}</style><linearGradient id="未命名的渐变_221" x1="-8503.83" y1="-8948.41" x2="-8464.52" y2="-8948.41" gradientTransform="translate(24238.09 25559.85) scale(2.85)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ccc"/><stop offset="0.15" stop-color="#e8e8e8"/><stop offset="0.31" stop-color="#ccc"/><stop offset="0.72" stop-color="#afafaf"/><stop offset="1" stop-color="#ccc"/></linearGradient></defs><title>drive-harddisk-system128</title><g id="_128" data-name="128"><path class="cls-1" d="M109.46,23.59c-.48-7.76-5.9-14.06-12.92-15.35A15.57,15.57,0,0,0,93.88,8H34.39a15.57,15.57,0,0,0-2.66.24c-7,1.29-12.4,7.55-12.92,15.26L8,104.18C8,111.81,13.79,118,20.92,118h86.16c7.13,0,12.92-6.19,12.92-13.82Z"/><rect class="cls-2" x="8" y="90" width="112" height="30" rx="15"/><rect class="cls-3" x="11" y="93" width="106" height="24" rx="12"/><circle class="cls-4" cx="102.5" cy="105.5" r="4.5"/><rect class="cls-5" x="21" y="103" width="70" height="7" rx="3.5"/><rect x="21" y="103" width="70" height="5" rx="2.5"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>drive-harddisk-system128</title>
+<g id="_128">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-8470.0762" y1="9040.5088" x2="-8430.7773" y2="9040.5088" gradientTransform="matrix(2.85 0 0 -2.85 24141.8906 25828.4492)">
+		<stop  offset="0" style="stop-color:#CCCCCC"/>
+		<stop  offset="0.15" style="stop-color:#E8E8E8"/>
+		<stop  offset="0.31" style="stop-color:#CCCCCC"/>
+		<stop  offset="0.72" style="stop-color:#AFAFAF"/>
+		<stop  offset="1" style="stop-color:#CCCCCC"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M109.5,23.6c-0.5-7.8-5.9-14.1-12.9-15.4C95.7,8.1,94.8,8,93.9,8H34.4c-0.9,0-1.8,0.1-2.7,0.2
+		c-7,1.3-12.4,7.6-12.9,15.3L8,104.2c0,7.6,5.8,13.8,12.9,13.8h86.2c7.1,0,12.9-6.2,12.9-13.8L109.5,23.6z"/>
+	<path fill="#5F6D77" d="M23,90h82c8.3,0,15,6.7,15,15l0,0c0,8.3-6.7,15-15,15H23c-8.3,0-15-6.7-15-15l0,0C8,96.7,14.7,90,23,90z"/>
+	<path fill="#1A1A1A" d="M23,93h82c6.6,0,12,5.4,12,12l0,0c0,6.6-5.4,12-12,12H23c-6.6,0-12-5.4-12-12l0,0C11,98.4,16.4,93,23,93z"
+		/>
+	<circle fill="#00FF00" cx="102.5" cy="105.5" r="4.5"/>
+	<path fill="#333333" d="M24.5,103h63c1.9,0,3.5,1.6,3.5,3.5l0,0c0,1.9-1.6,3.5-3.5,3.5h-63c-1.9,0-3.5-1.6-3.5-3.5l0,0
+		C21,104.6,22.6,103,24.5,103z"/>
+	<path d="M23.5,103h65c1.4,0,2.5,1.1,2.5,2.5l0,0c0,1.4-1.1,2.5-2.5,2.5h-65c-1.4,0-2.5-1.1-2.5-2.5l0,0C21,104.1,22.1,103,23.5,103
+		z"/>
+</g>
+</svg>

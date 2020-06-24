@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="文本内容搜索工具" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>128</title>
+<g id="_128">
+	<path fill="#F7F7F7" d="M32,10h64c5.5,0,10,4.5,10,10v88c0,5.5-4.5,10-10,10H32c-5.5,0-10-4.5-10-10V20C22,14.5,26.5,10,32,10z"/>
+	<path fill="#DDDDDD" d="M96,12c4.4,0,8,3.6,8,8v88c0,4.4-3.6,8-8,8H32c-4.4,0-8-3.6-8-8V20c0-4.4,3.6-8,8-8H96 M96,8H32
+		c-6.6,0-12,5.4-12,12v88c0,6.6,5.4,12,12,12h64c6.6,0,12-5.4,12-12V20C108,13.4,102.6,8,96,8z"/>
+	<rect x="31" y="102" fill="#ADB9BC" width="51" height="4"/>
+	<rect x="31" y="90" fill="#ADB9BC" width="66" height="4"/>
+	<rect x="31" y="78" fill="#ADB9BC" width="66" height="4"/>
+	<rect x="31" y="65" fill="#ADB9BC" width="66" height="4"/>
+	<rect x="31" y="53" fill="#ADB9BC" width="66" height="4"/>
+	<rect x="31" y="41" fill="#ADB9BC" width="66" height="4"/>
+	<rect x="31" y="24" fill="#ADB9BC" width="66" height="8"/>
+	<g id="放大镜">
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="98.8331" y1="54.855" x2="73.2531" y2="19.265" gradientTransform="matrix(1 0 0 1 0 32)">
+			<stop  offset="0" style="stop-color:#3E8BFD"/>
+			<stop  offset="1" style="stop-color:#75A8FF"/>
+		</linearGradient>
+		<path fill="url(#SVGID_1_)" d="M86,100.5c-17.4,0-31.5-14.1-31.5-31.5S68.6,37.5,86,37.5s31.5,14.1,31.5,31.5
+			c0,5.5-1.5,10.9-4.2,15.7C107.7,94.5,97.3,100.5,86,100.5z"/>
+		<path fill="#E5E5E5" d="M86,35v5c16,0,29,13,29,29s-13,29-29,29S57,85,57,69c0-5.1,1.3-10.1,3.9-14.5C66.1,45.5,75.6,40,86,40V35
+			 M86,35c-18.8,0-34,15.2-34,34s15.2,34,34,34s34-15.2,34-34c0-12.1-6.5-23.4-17-29.4C97.8,36.6,92,35,86,35z"/>
+		<rect x="62.9" y="98.1" transform="matrix(0.5 -0.866 0.866 0.5 -53.2048 109.7193)" fill="#E5E5E5" width="11.1" height="5.6"/>
+		<path fill="#E65C38" d="M67.1,100.3l2.7,1.6c1.9,1.1,2.6,3.6,1.5,5.5l-5.8,10c-1.1,1.9-3.6,2.6-5.5,1.5l-2.7-1.6
+			c-1.9-1.1-2.6-3.6-1.5-5.5l5.8-10C62.7,99.8,65.1,99.2,67.1,100.3z"/>
+	</g>
+</g>
+</svg>

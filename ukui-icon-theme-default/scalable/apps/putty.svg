@@ -1,1 +1,11 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs><style>.cls-1{fill:#455a64;}.cls-2{fill:#212121;}.cls-3{fill:#f5f5f5;}</style></defs><title>putty-112</title><rect class="cls-1" x="8" y="8" width="112" height="112" rx="12" ry="12"/><polygon class="cls-2" points="46.32 78.74 46.32 73.14 26.41 84.57 46.32 96 46.32 90.41 84.02 90.41 84.02 78.74 46.32 78.74"/><polygon class="cls-2" points="84.09 52.34 84.09 46.75 104 58.18 84.09 69.61 84.09 64.01 46.38 64.01 46.38 52.34 84.09 52.34"/><polygon class="cls-3" points="24 32 24 34.64 34.76 39.38 24 44.11 24 46.75 37.33 40.89 37.33 37.86 24 32"/><rect class="cls-3" x="38.33" y="44.43" width="13.29" height="2.32"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>putty-112</title>
+<path fill="#455A64" d="M20,8h88c6.6,0,12,5.4,12,12v88c0,6.6-5.4,12-12,12H20c-6.6,0-12-5.4-12-12V20C8,13.4,13.4,8,20,8z"/>
+<polygon fill="#212121" points="46.3,78.7 46.3,73.1 26.4,84.6 46.3,96 46.3,90.4 84,90.4 84,78.7 "/>
+<polygon fill="#212121" points="84.1,52.3 84.1,46.8 104,58.2 84.1,69.6 84.1,64 46.4,64 46.4,52.3 "/>
+<polygon fill="#F5F5F5" points="24,32 24,34.6 34.8,39.4 24,44.1 24,46.8 37.3,40.9 37.3,37.9 "/>
+<rect x="38.3" y="44.4" fill="#F5F5F5" width="13.3" height="2.3"/>
+</svg>

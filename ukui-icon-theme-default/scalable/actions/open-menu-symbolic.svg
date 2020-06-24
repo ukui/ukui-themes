@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="设置" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#808080;}
-</style>
-<title>16</title>
-<path class="st0" d="M3,3v1h10V3H3z M3,7v1h10V7H3z M3,11v1h10v-1H3z"/>
-</svg>
+<svg id="设置" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{fill:#1f2022;opacity:0.75;}</style></defs><title>open-menu-symbolic</title><path class="cls-1" d="M3,3V4H13V3ZM3,7V8H13V7Zm0,4v1H13V11Z"/></svg>

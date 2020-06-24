@@ -1,1 +1,19 @@
-<svg id="Rhythmbox" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128"><defs><style>.cls-1{fill:url(#未命名的渐变_55);}.cls-2{fill:#a09d90;}.cls-3{fill:#241f31;}.cls-4{fill:#f6d736;}.cls-5{fill:#4e4b55;}</style><linearGradient id="未命名的渐变_55" x1="64" y1="8" x2="64" y2="120" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#d1cfc5"/><stop offset="1" stop-color="#c9c3ad"/></linearGradient></defs><title>128</title><g id="_128" data-name="128"><rect class="cls-1" x="8" y="8" width="112" height="112" rx="12" ry="12"/><circle class="cls-2" cx="64" cy="64" r="43"/><circle class="cls-3" cx="64" cy="64" r="35"/><circle class="cls-4" cx="64" cy="64" r="27"/><circle class="cls-5" cx="64" cy="64" r="10"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Rhythmbox" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>128</title>
+<g id="_128">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="64" y1="120" x2="64" y2="8" gradientTransform="matrix(1 0 0 -1 0 128)">
+		<stop  offset="0" style="stop-color:#D1CFC5"/>
+		<stop  offset="1" style="stop-color:#C9C3AD"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M20,8h88c6.6,0,12,5.4,12,12v88c0,6.6-5.4,12-12,12H20c-6.6,0-12-5.4-12-12V20C8,13.4,13.4,8,20,8z"
+		/>
+	<circle fill="#A09D90" cx="64" cy="64" r="43"/>
+	<circle fill="#241F31" cx="64" cy="64" r="35"/>
+	<circle fill="#F6D736" cx="64" cy="64" r="27"/>
+	<circle fill="#4E4B55" cx="64" cy="64" r="10"/>
+</g>
+</svg>

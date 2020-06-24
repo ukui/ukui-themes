@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="视频播放器" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>128</title>
+<g id="_128">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="64" y1="67.76" x2="64" y2="-32.24" gradientTransform="matrix(1 0 0 -1 0 128)">
+		<stop  offset="0" style="stop-color:#8C1E8E"/>
+		<stop  offset="0.2" style="stop-color:#9A2780"/>
+		<stop  offset="1" style="stop-color:#D44E44"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M108,14H20c-6.6,0-12,5.4-12,12v76c0,6.6,5.4,12,12,12h88c6.6,0,12-5.4,12-12V26
+		C120,19.4,114.6,14,108,14z"/>
+	<polygon fill="#FFFFFF" points="47,39 47,89 81,64 	"/>
+	<rect x="16" y="37.5" fill="#FFFFFF" width="8" height="8"/>
+	<rect x="16" y="97.5" fill="#FFFFFF" width="8" height="8"/>
+	<rect x="16" y="52.5" fill="#FFFFFF" width="8" height="8"/>
+	<rect x="16" y="67.5" fill="#FFFFFF" width="8" height="8"/>
+	<rect x="16" y="82.5" fill="#FFFFFF" width="8" height="8"/>
+	<rect x="16" y="22.5" fill="#FFFFFF" width="8" height="8"/>
+	<rect x="104" y="37.5" fill="#FFFFFF" width="8" height="8"/>
+	<rect x="104" y="97.5" fill="#FFFFFF" width="8" height="8"/>
+	<rect x="104" y="52.5" fill="#FFFFFF" width="8" height="8"/>
+	<rect x="104" y="67.5" fill="#FFFFFF" width="8" height="8"/>
+	<rect x="104" y="82.5" fill="#FFFFFF" width="8" height="8"/>
+	<rect x="104" y="22.5" fill="#FFFFFF" width="8" height="8"/>
+</g>
+</svg>

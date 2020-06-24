@@ -1,1 +1,15 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs><style>.cls-1{fill:#212121;}.cls-2{fill:#e0e0e0;}.cls-3{fill:#bf360c;}.cls-4{fill:#9e9e9e;}.cls-5{fill:#616161;}</style></defs><title>parole-112</title><rect class="cls-1" x="8" y="8" width="112" height="112" rx="12.22" ry="12.22"/><path class="cls-2" d="M120,88.18v19.6A12.26,12.26,0,0,1,107.78,120H20.22A12.26,12.26,0,0,1,8,107.78V88.18Z"/><path class="cls-2" d="M64,22.51A27.49,27.49,0,1,0,91.49,50,27.49,27.49,0,0,0,64,22.51Zm0,53.2A25.71,25.71,0,1,1,89.71,50,25.71,25.71,0,0,1,64,75.71Z"/><polygon class="cls-2" points="78.82 50 55.7 36.65 55.7 63.35 78.82 50"/><rect class="cls-3" x="17.99" y="100.27" width="37.71" height="7.64"/><rect class="cls-4" x="55.7" y="100.27" width="12.96" height="7.64"/><rect class="cls-5" x="68.67" y="100.27" width="41.34" height="7.64"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>parole-112</title>
+<path fill="#212121" d="M20.2,8h87.6c6.7,0,12.2,5.5,12.2,12.2v87.6c0,6.7-5.5,12.2-12.2,12.2H20.2C13.5,120,8,114.5,8,107.8V20.2
+	C8,13.5,13.5,8,20.2,8z"/>
+<path fill="#E0E0E0" d="M120,88.2v19.6c0,6.7-5.5,12.2-12.2,12.2H20.2C13.5,120,8,114.5,8,107.8V88.2H120z"/>
+<path fill="#E0E0E0" d="M64,22.5c-15.2,0-27.5,12.3-27.5,27.5S48.8,77.5,64,77.5S91.5,65.2,91.5,50l0,0C91.5,34.8,79.2,22.5,64,22.5
+	z M64,75.7c-14.2,0-25.7-11.5-25.7-25.7S49.8,24.3,64,24.3S89.7,35.8,89.7,50S78.2,75.7,64,75.7L64,75.7z"/>
+<polygon fill="#E0E0E0" points="78.8,50 55.7,36.7 55.7,63.3 "/>
+<rect x="18" y="100.3" fill="#BF360C" width="37.7" height="7.6"/>
+<rect x="55.7" y="100.3" fill="#9E9E9E" width="13" height="7.6"/>
+<rect x="68.7" y="100.3" fill="#616161" width="41.3" height="7.6"/>
+</svg>

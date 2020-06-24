@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 96" enable-background="new 0 0 96 96" xml:space="preserve">
+<title>96</title>
+<g id="白色">
+	<g id="_96">
+		<g id="_48">
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="48" y1="6.5" x2="48" y2="89.5" gradientTransform="matrix(1 0 0 -1 0 96)">
+				<stop  offset="0" style="stop-color:#D6D9E6"/>
+				<stop  offset="1" style="stop-color:#F5F5F5"/>
+			</linearGradient>
+			<path fill="url(#SVGID_1_)" d="M23,89.5c-4.7,0-8.5-3.8-8.5-8.5V15c0-4.7,3.8-8.5,8.5-8.5h50c4.7,0,8.5,3.8,8.5,8.5v53.8
+				L60.8,89.5H23z"/>
+			<path fill="#C4C6CC" d="M73,7c4.4,0,8,3.6,8,8v53.6L60.6,89H23c-4.4,0-8-3.6-8-8V15c0-4.4,3.6-8,8-8H73 M73,6H23c-5,0-9,4-9,9v66
+				c0,5,4,9,9,9h38l21-21V15C82,10,78,6,73,6z"/>
+		</g>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="63.6598" y1="46.9703" x2="70.4798" y2="52.6503" gradientTransform="matrix(1 0 0 1 0 26)">
+			<stop  offset="0" style="stop-color:#000000;stop-opacity:0.1"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:5.000000e-02"/>
+		</linearGradient>
+		<path fill="url(#SVGID_2_)" d="M67,69h15L61,90V75C61,71.7,63.7,69,67,69z"/>
+		<line fill="none" stroke="#F3A64D" stroke-width="3" stroke-miterlimit="10" x1="66.5" y1="55" x2="66.5" y2="68"/>
+		<line fill="none" stroke="#F3A64D" stroke-width="3" stroke-miterlimit="10" x1="61.5" y1="55" x2="61.5" y2="68"/>
+		<line fill="none" stroke="#F3A64D" stroke-width="3" stroke-miterlimit="10" x1="51.5" y1="55" x2="51.5" y2="68"/>
+		<line fill="none" stroke="#F3A64D" stroke-width="3" stroke-miterlimit="10" x1="46.5" y1="55" x2="46.5" y2="68"/>
+		<polygon fill="#F3A64D" points="65.6,68 65.6,65 73.4,65 76,68 		"/>
+		<polygon fill="#F3A64D" points="37,68 33.5,68 44.5,55 48,55 		"/>
+		<polygon fill="#F3A64D" points="27.5,68 24,68 37,55 40.5,55 		"/>
+		<polygon fill="#F3A64D" points="33.5,62 30,62 22,55 25.5,55 		"/>
+		<polygon fill="#F3A64D" points="59.5,55 56.5,59 53.5,55 50,55 55.5,62 57.5,62 63,55 		"/>
+		<path fill="none" stroke="#8E8E8E" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" d="M48.5,17.5
+			c-12.8,0-18.7,4.7-19,5.6v18c0.3,0.6,6.2,6.4,19,6.4s18.7-6,19-6.6v-18C67.2,22.2,61.3,17.5,48.5,17.5z"/>
+		<path fill="none" stroke="#8E8E8E" stroke-width="3" stroke-miterlimit="10" d="M29.5,31.7c0.3,0.7,6.2,6.8,19,6.8s18.7-6.3,19-7"
+			/>
+		<path fill="none" stroke="#8E8E8E" stroke-width="3" stroke-miterlimit="10" d="M29.5,22.7c0.3,0.7,6.2,6.8,19,6.8s18.7-6.3,19-7"
+			/>
+	</g>
+</g>
+</svg>

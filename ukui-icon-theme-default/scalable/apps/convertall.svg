@@ -1,1 +1,22 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128"><defs><style>.cls-1{fill:url(#未命名的渐变_106);}.cls-2{fill:#212121;}.cls-3{fill:#fffe00;}</style><linearGradient id="未命名的渐变_106" x1="8" y1="64" x2="120" y2="64" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fd0039"/><stop offset="0.5" stop-color="#f200ba"/><stop offset="0.99" stop-color="#2a35ea"/></linearGradient></defs><title>convertall-112</title><rect class="cls-1" x="8" y="8" width="112" height="112" rx="12" ry="12"/><rect class="cls-2" x="59.04" y="8" width="9.92" height="112"/><path class="cls-2" d="M101.57,47.41a2.38,2.38,0,0,1-.59-.07L25.84,29.4a2.55,2.55,0,0,1,1.18-5l75.14,18a2.55,2.55,0,0,1-.59,5Z"/><polygon class="cls-2" points="29.29 32.73 46.42 82.55 48.58 82.55 29.29 26.47 10 82.55 12.15 82.55 29.29 32.73"/><path class="cls-2" d="M10,82.55c.4,6.73,8.87,12.1,19.27,12.1s18.87-5.37,19.27-12.1Z"/><path class="cls-3" d="M27.63,76.4l-6.86,6.15h17L31,76.4A2.48,2.48,0,0,0,27.63,76.4Z"/><polygon class="cls-2" points="98.71 49.78 115.85 99.6 118 99.6 98.71 43.53 79.42 99.6 81.58 99.6 98.71 49.78"/><path class="cls-2" d="M79.44,99.6c.4,6.73,8.87,12.11,19.27,12.11S117.58,106.33,118,99.6Z"/><path class="cls-3" d="M96.43,87.45,86.19,99.6h25L101,87.45A3,3,0,0,0,96.43,87.45Z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>convertall-112</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="8" y1="32" x2="120" y2="32" gradientTransform="matrix(1 0 0 1 0 32)">
+	<stop  offset="0" style="stop-color:#FD0039"/>
+	<stop  offset="0.5" style="stop-color:#F200BA"/>
+	<stop  offset="0.99" style="stop-color:#2A35EA"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M20,8h88c6.6,0,12,5.4,12,12v88c0,6.6-5.4,12-12,12H20c-6.6,0-12-5.4-12-12V20C8,13.4,13.4,8,20,8z"
+	/>
+<rect x="59" y="8" fill="#212121" width="9.9" height="112"/>
+<path fill="#212121" d="M101.6,47.4c-0.2,0-0.4,0-0.6-0.1L25.8,29.4c-1.4-0.3-2.2-1.7-1.9-3.1s1.7-2.2,3.1-1.9l0,0l75.1,18
+	c1.4,0.4,2.1,1.8,1.8,3.2C103.6,46.6,102.7,47.4,101.6,47.4L101.6,47.4z"/>
+<polygon fill="#212121" points="29.3,32.7 46.4,82.6 48.6,82.6 29.3,26.5 10,82.6 12.1,82.6 "/>
+<path fill="#212121" d="M10,82.6c0.4,6.7,8.9,12.1,19.3,12.1s18.9-5.4,19.3-12.1H10z"/>
+<path fill="#FFFE00" d="M27.6,76.4l-6.9,6.2h17L31,76.4C30,75.5,28.6,75.5,27.6,76.4z"/>
+<polygon fill="#212121" points="98.7,49.8 115.8,99.6 118,99.6 98.7,43.5 79.4,99.6 81.6,99.6 "/>
+<path fill="#212121" d="M79.4,99.6c0.4,6.7,8.9,12.1,19.3,12.1s18.9-5.4,19.3-12.1H79.4z"/>
+<path fill="#FFFE00" d="M96.4,87.4L86.2,99.6h25L101,87.4c-1.1-1.3-3-1.4-4.2-0.3C96.6,87.2,96.5,87.3,96.4,87.4z"/>
+</svg>

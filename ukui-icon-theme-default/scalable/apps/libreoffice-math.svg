@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="libreoffice" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>128</title>
+<g id="_128">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="64" y1="116" x2="64" y2="12" gradientTransform="matrix(1 0 0 -1 0 128)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#E5E5E5"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M20,116c-4.4,0-8-3.6-8-8V20c0-4.4,3.6-8,8-8h84c6.6,0,12,5.4,12,12v84c0,4.4-3.6,8-8,8H20z"/>
+	<path fill="#606060" d="M104,16c4.4,0,8,3.6,8,8v84c0,2.2-1.8,4-4,4H20c-2.2,0-4-1.8-4-4V20c0-2.2,1.8-4,4-4H104 M104,8H20
+		C13.4,8,8,13.4,8,20v88c0,6.6,5.4,12,12,12h88c6.6,0,12-5.4,12-12V24C120,15.2,112.8,8,104,8z"/>
+	<rect x="28" y="28" fill="#F8D7B6" width="72" height="50"/>
+	<rect x="82" y="84" fill="#606060" width="8" height="8"/>
+	<rect x="67" y="84" fill="#606060" width="8" height="8"/>
+	<rect x="52" y="84" fill="#606060" width="8" height="8"/>
+	<rect x="37" y="84" fill="#606060" width="8" height="8"/>
+	<line fill="none" stroke="#B3B3B3" stroke-width="4" stroke-miterlimit="10" x1="30.4" y1="78" x2="97.6" y2="78"/>
+	<path fill="#606060" d="M96,32v64H32V32H96 M100,28H28v72h72V28z"/>
+	<polyline fill="none" stroke="#606060" stroke-width="4" stroke-miterlimit="10" points="36,55 44,55 50,66.3 62.4,39 92,39 	"/>
+	<line fill="none" stroke="#606060" stroke-width="4" stroke-miterlimit="10" x1="66.4" y1="44.4" x2="88" y2="69.2"/>
+	<line fill="none" stroke="#606060" stroke-width="4" stroke-miterlimit="10" x1="87.6" y1="44.4" x2="66" y2="69.2"/>
+</g>
+</svg>

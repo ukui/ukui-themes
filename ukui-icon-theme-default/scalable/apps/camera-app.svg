@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Screenshot" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>128</title>
+<g id="_128">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="64" y1="-14.35" x2="64" y2="78.12" gradientTransform="matrix(1 0 0 1 0 32)">
+		<stop  offset="0" style="stop-color:#E6DDBE"/>
+		<stop  offset="1" style="stop-color:#E0CFB1"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M108,30.7h-8.7c-2.1,0-4.2-0.8-5.7-2.4l-10-10C82.2,16.8,80.1,16,78,16H50c-2.1,0-4.2,0.8-5.7,2.3
+		l-10,10c-1.5,1.5-3.5,2.3-5.6,2.4H20c-6.6,0-12,5.4-12,12l0,0V100c0,6.6,5.4,12,12,12h88c6.6,0,12-5.4,12-12V42.7
+		C120,36,114.6,30.7,108,30.7z"/>
+	<g opacity="0.2">
+		<polygon points="26,106 15,106 15,95 18,95 18,103 26,103 		"/>
+		<polygon points="26,38 15,38 15,49 18,49 18,41 26,41 		"/>
+		<polygon points="103,106 114,106 114,95 111,95 111,103 103,103 		"/>
+		<polygon points="103,38 114,38 114,49 111,49 111,41 103,41 		"/>
+	</g>
+	<path fill="#4A697D" d="M64,43c-16,0-29,13-29,29s13,29,29,29s29-13,29-29S80,43,64,43z"/>
+	<circle fill="#41C9D0" cx="64" cy="72" r="21"/>
+	<circle opacity="0.7" fill="#FFFFFF" enable-background="new    " cx="56" cy="67" r="9"/>
+	<circle fill="#ED3E40" cx="102" cy="51" r="5"/>
+</g>
+</svg>

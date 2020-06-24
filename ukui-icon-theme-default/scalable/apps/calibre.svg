@@ -1,1 +1,11 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs><style>.cls-1{fill:#a41818;}.cls-2{fill:#781a1a;}.cls-3{fill:#fff;}</style></defs><title>calibre-112</title><rect class="cls-1" x="8" y="8" width="112" height="112" rx="12" ry="12"/><path class="cls-2" d="M62.39,95,51,89.9a45,45,0,0,0-21-3.7l-.48,0V34l8.32,1.1a64.49,64.49,0,0,1,15.54,4l9,3.63Z"/><path class="cls-2" d="M65.61,95,77,89.9a45,45,0,0,1,21-3.7l.48,0V34l-8.32,1.1a64.49,64.49,0,0,0-15.54,4l-9,3.63Z"/><path class="cls-3" d="M62.39,94,51,88.87a45,45,0,0,0-21-3.7l-.48,0V33l8.32,1.1a64.49,64.49,0,0,1,15.54,4l9,3.63Z"/><path class="cls-3" d="M65.61,94,77,88.87a45,45,0,0,1,21-3.7l.48,0V33l-8.32,1.1a64.49,64.49,0,0,0-15.54,4l-9,3.63Z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>calibre-112</title>
+<path fill="#A41818" d="M20,8h88c6.6,0,12,5.4,12,12v88c0,6.6-5.4,12-12,12H20c-6.6,0-12-5.4-12-12V20C8,13.4,13.4,8,20,8z"/>
+<path fill="#781A1A" d="M62.4,95L51,89.9c-6.6-2.9-13.8-4.2-21-3.7h-0.5V34l8.3,1.1c5.3,0.7,10.5,2,15.5,4l9,3.6L62.4,95z"/>
+<path fill="#781A1A" d="M65.6,95L77,89.9c6.6-2.9,13.8-4.2,21-3.7h0.5V34l-8.3,1.1c-5.3,0.7-10.5,2-15.5,4l-9,3.6L65.6,95z"/>
+<path fill="#FFFFFF" d="M62.4,94L51,88.9c-6.6-2.9-13.8-4.2-21-3.7h-0.5V33l8.3,1.1c5.3,0.7,10.5,2,15.5,4l9,3.6L62.4,94z"/>
+<path fill="#FFFFFF" d="M65.6,94L77,88.9c6.6-2.9,13.8-4.2,21-3.7h0.5V33l-8.3,1.1c-5.3,0.7-10.5,2-15.5,4l-9,3.6L65.6,94z"/>
+</svg>

@@ -1,1 +1,19 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128"><defs><style>.cls-1{fill:#e0e0e0;}.cls-2{fill:#cfd8dc;}.cls-3{fill:url(#未命名的渐变_5);}</style><linearGradient id="未命名的渐变_5" x1="59.33" y1="20.06" x2="70.47" y2="83.21" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#cce0f4"/><stop offset="0.07" stop-color="#c3dcf2"/><stop offset="0.18" stop-color="#a9d2ee"/><stop offset="0.32" stop-color="#80c2e7"/><stop offset="0.48" stop-color="#47acde"/><stop offset="0.59" stop-color="#1e9cd7"/><stop offset="0.99" stop-color="#002097"/></linearGradient></defs><title>me-tv-112</title><ellipse class="cls-1" cx="64.9" cy="105.74" rx="26.79" ry="12.23" transform="translate(-3.89 2.49) rotate(-2.13)"/><polygon class="cls-2" points="70.31 85.72 70.31 97.23 50.15 101 50.15 88.72 70.31 85.72"/><polygon class="cls-1" points="117 80.8 22.15 101 11 21.19 105.39 10 117 80.8"/><polygon class="cls-3" points="108.92 76.01 29.61 90.42 19.53 27.08 100.75 16.07 108.92 76.01"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>me-tv-112</title>
+<ellipse transform="matrix(0.9993 -3.716695e-02 3.716695e-02 0.9993 -3.8854 2.485)" fill="#E0E0E0" cx="64.9" cy="105.7" rx="26.8" ry="12.2"/>
+<polygon fill="#CFD8DC" points="70.3,85.7 70.3,97.2 50.2,101 50.2,88.7 "/>
+<polygon fill="#E0E0E0" points="117,80.8 22.1,101 11,21.2 105.4,10 "/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="59.326" y1="107.9402" x2="70.4665" y2="44.7873" gradientTransform="matrix(1 0 0 -1 0 128)">
+	<stop  offset="0" style="stop-color:#CCE0F4"/>
+	<stop  offset="7.000000e-02" style="stop-color:#C3DCF2"/>
+	<stop  offset="0.18" style="stop-color:#A9D2EE"/>
+	<stop  offset="0.32" style="stop-color:#80C2E7"/>
+	<stop  offset="0.48" style="stop-color:#47ACDE"/>
+	<stop  offset="0.59" style="stop-color:#1E9CD7"/>
+	<stop  offset="0.99" style="stop-color:#002097"/>
+</linearGradient>
+<polygon fill="url(#SVGID_1_)" points="108.9,76 29.6,90.4 19.5,27.1 100.8,16.1 "/>
+</svg>

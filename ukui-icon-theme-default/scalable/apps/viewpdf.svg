@@ -1,1 +1,26 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs><style>.cls-1{fill:gray;}.cls-2{fill:#c1272d;}.cls-3{font-size:32.6px;font-family:HelveticaObl-Heavy;font-weight:800;}.cls-3,.cls-5{fill:#fff;}.cls-4{fill:#e6e6e6;}.cls-6{fill:#0071bc;}</style></defs><title>viewpdf128</title><path class="cls-1" d="M108.41,8H19.59A11.59,11.59,0,0,0,8,19.59v88.82a11.45,11.45,0,0,0,.38,2.89c54.41-.12,100-27.73,111.62-64.57V19.59A11.59,11.59,0,0,0,108.41,8Z"/><path class="cls-1" d="M10.16,115.13A11.56,11.56,0,0,0,19.59,120h88.82A11.59,11.59,0,0,0,120,108.41V57.13C103.93,90.43,60.88,114.46,10.16,115.13Z"/><polygon class="cls-2" points="25.38 15.72 25.38 112.28 102.62 112.28 102.62 30.12 87.27 15.72 25.38 15.72"/><text class="cls-3" transform="translate(27.31 58.35)">PDF</text><path class="cls-4" d="M120,57.13V46.73C108.38,83.57,62.79,111.18,8.38,111.3a11.39,11.39,0,0,0,1.78,3.83C60.88,114.46,103.93,90.43,120,57.13Z"/><path class="cls-5" d="M97.27,79.52l0,0v0Z"/><path class="cls-4" d="M97.27,79.52h0v0a19.26,19.26,0,0,0-31.51,21.09c.08.09.16.19.25.28s0,.26,0,.39A19.3,19.3,0,1,0,97.27,79.52Z"/><polygon class="cls-6" points="96.97 106.62 76.68 99.59 69.66 79.31 89.94 86.34 96.97 106.62"/><circle class="cls-4" cx="83.31" cy="92.97" r="4.83"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>viewpdf128</title>
+<path fill="#808080" d="M20,8h88c6.6,0,12,5.4,12,12v88c0,6.6-5.4,12-12,12H20c-6.6,0-12-5.4-12-12V20C8,13.4,13.4,8,20,8z"/>
+<polygon fill="#C1272D" points="26,16 26,112 102,112 102,30.3 86.9,16 "/>
+<text transform="matrix(0.99 0 0 1 27.8999 58.3799)" fill="#FFFFFF" font-family="'HelveticaObl-Heavy'" font-size="32.42px">PDF</text>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M20,8h88c6.6,0,12,5.4,12,12v88c0,6.6-5.4,12-12,12H20c-6.6,0-12-5.4-12-12V20C8,13.4,13.4,8,20,8z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		<path fill="#E6E6E6" d="M120,57.1V46.7c-11.6,36.8-57.2,64.4-111.6,64.6c0.3,1.4,1,2.7,1.8,3.8C60.9,114.5,103.9,90.4,120,57.1z"
+			/>
+	</g>
+</g>
+<path fill="#FFFFFF" d="M97.3,79.5L97.3,79.5L97.3,79.5z"/>
+<path fill="#E6E6E6" d="M97.3,79.5L97.3,79.5L97.3,79.5C89.9,71.9,77.7,71.6,70,79c-5.8,5.6-7.5,14.2-4.3,21.6
+	c0.1,0.1,0.2,0.2,0.3,0.3s0,0.3,0,0.4c4.6,9.6,16.1,13.7,25.7,9.1s13.7-16.1,9.1-25.7C99.9,82.8,98.7,81,97.3,79.5z"/>
+<polygon fill="#0071BC" points="97,106.6 76.7,99.6 69.7,79.3 89.9,86.3 "/>
+<circle fill="#E6E6E6" cx="83.3" cy="93" r="4.8"/>
+</svg>

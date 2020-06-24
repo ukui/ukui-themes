@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="文字编辑" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#808080;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#2196F3;stroke-miterlimit:10;}
-</style>
-<title>14</title>
-<g id="_14">
-	<line class="st0" x1="5.5" y1="0.5" x2="5.5" y2="9"/>
-	<line class="st0" x1="2" y1="0.5" x2="9" y2="0.5"/>
-	<line class="st1" x1="12" y1="10.5" x2="1" y2="10.5"/>
-	<polyline class="st1" points="9,8 12,10.5 9,13 	"/>
-</g>
-</svg>
+format-text-direction-symbolic-rtl.svg

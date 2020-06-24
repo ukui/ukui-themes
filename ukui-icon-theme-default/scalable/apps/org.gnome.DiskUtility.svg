@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="磁盘" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>128</title>
+<g id="_128">
+	<path fill="#A2C4ED" d="M20,117c-5,0-9-4-9-9V20c0-5,4-9,9-9h82.8L117,25.2V108c0,5-4,9-9,9H20z"/>
+	<path fill="#3568B6" d="M101.5,14L114,26.5V108c0,3.3-2.7,6-6,6H20c-3.3,0-6-2.7-6-6V20c0-3.3,2.7-6,6-6H101.5 M104,8H20
+		C13.4,8,8,13.4,8,20v88c0,6.6,5.4,12,12,12h88c6.6,0,12-5.4,12-12V24L104,8z"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="64" y1="108" x2="64" y2="20" gradientTransform="matrix(1 0 0 -1 0 128)">
+		<stop  offset="0" style="stop-color:#77A0DE"/>
+		<stop  offset="1" style="stop-color:#5D8CD1"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M105,108H23c-1.7,0-3-1.3-3-3V23c0-1.7,1.3-3,3-3h75l10,10v75C108,106.7,106.7,108,105,108z"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="32" y1="32" x2="96" y2="32" gradientTransform="matrix(1 0 0 -1 0 128)">
+		<stop  offset="0" style="stop-color:#F4F8FD"/>
+		<stop  offset="1" style="stop-color:#E4E8ED"/>
+	</linearGradient>
+	<path fill="url(#SVGID_2_)" d="M96,78v36H32V78H96z"/>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="32" y1="96" x2="96" y2="96" gradientTransform="matrix(1 0 0 -1 0 128)">
+		<stop  offset="0" style="stop-color:#F4F8FD"/>
+		<stop  offset="1" style="stop-color:#E4E8ED"/>
+	</linearGradient>
+	<path fill="url(#SVGID_3_)" d="M32,14h64v36H32V14z"/>
+	<rect x="38" y="85" fill="#688FCB" width="52" height="8"/>
+	<rect x="38" y="100" fill="#688FCB" width="52" height="8"/>
+	<rect x="43" y="22" fill="#688FCB" width="8" height="18"/>
+</g>
+</svg>
