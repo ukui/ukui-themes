@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="外观" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>128</title>
+<g id="_128">
+	<g id="_4">
+		<path fill="#FFFFFF" d="M21.6,118.5c-6.6-0.7-11.8-6.6-12.1-13.8C9.2,96.8,15,89.8,22.2,89.5h96.3v29H21.6z"/>
+		<path fill="#B3B3B3" d="M117,91v26H21.7c-5.8-0.7-10.4-6-10.7-12.4c-0.3-7.1,4.9-13.3,11.2-13.6H117 M120,88H22.2
+			C13.9,88.4,7.7,96.2,8,104.7c0.3,8.2,6.3,14.6,13.5,15.3H120V88z"/>
+		<rect x="101" y="95" fill="#BBDEFB" width="12" height="18"/>
+		<rect x="85" y="95" fill="#64B5F6" width="12" height="18"/>
+		<rect x="69" y="95" fill="#2196F3" width="12" height="18"/>
+		<rect x="53" y="95" fill="#1976D2" width="12" height="18"/>
+		<rect x="37" y="95" fill="#0D47A1" width="12" height="18"/>
+	</g>
+	<g id="_3">
+		<path fill="#FFFFFF" d="M24,118.5c-5.2,0-10-2.9-12.4-7.5c-3.9-6.8-2.3-15.1,3.8-19l83.4-48.2L113.2,69l-83.4,48.1
+			C28,118,26,118.5,24,118.5z"/>
+		<path fill="#B3B3B3" d="M98.2,45.9l13,22.5l-82.1,47.4c-1.6,0.8-3.3,1.2-5.1,1.2c-4.7,0-8.9-2.6-11.1-6.8l0,0l0,0
+			c-3.4-5.9-2-13.5,3.2-16.9L98.2,45.9 M99.3,41.8L14.6,90.7C7.9,95,6,104.3,10.3,111.7c2.7,5.1,7.9,8.3,13.7,8.3
+			c2.3,0,4.5-0.5,6.5-1.6l84.7-48.9L99.3,41.8L99.3,41.8z"/>
+		<rect x="90" y="53.2" transform="matrix(0.866 -0.5 0.5 0.866 -18.2161 56.331)" fill="#C8E6C9" width="12" height="18"/>
+		<rect x="76.2" y="61.2" transform="matrix(0.866 -0.5 0.5 0.866 -24.0725 50.481)" fill="#81C784" width="12" height="18"/>
+		<rect x="62.3" y="69.2" transform="matrix(0.866 -0.5 0.5 0.866 -29.9289 44.621)" fill="#4CAF50" width="12" height="18"/>
+		<rect x="48.4" y="77.2" transform="matrix(0.866 -0.5 0.5 0.866 -35.7853 38.761)" fill="#388E3C" width="12" height="18"/>
+		<rect x="34.6" y="85.2" transform="matrix(0.866 -0.5 0.5 0.866 -41.6417 32.911)" fill="#1B5E20" width="12" height="18"/>
+	</g>
+	<g id="_2">
+		<path fill="#FFFFFF" d="M24.7,118.5c-2.7,0-5.3-0.8-7.5-2.2c-6.8-3.9-9.5-12-6.2-18.3L59,14.6l25.1,14.5L36,112.6
+			C33.5,116.3,29.2,118.5,24.7,118.5L24.7,118.5z"/>
+		<path fill="#B3B3B3" d="M59.5,16.7l22.5,13l-47.4,82.1c-2.3,3.3-6,5.3-10,5.2c-2.4,0-4.7-0.7-6.7-2h0h0c-6-3.4-8.5-10.7-5.6-16.2
+			L59.5,16.7 M58.5,12.6L9.5,97.3c-3.6,7-0.6,16,6.8,20.3c2.5,1.6,5.4,2.4,8.3,2.4c5.1,0.1,9.8-2.5,12.6-6.7l48.9-84.7L58.5,12.6z"
+			/>
+		<rect x="59.8" y="22.9" transform="matrix(0.5 -0.866 0.866 0.5 5.3058 72.9236)" fill="#FFF9C4" width="12" height="18"/>
+		<rect x="51.8" y="36.7" transform="matrix(0.5 -0.866 0.866 0.5 -10.6942 72.9272)" fill="#FFF176" width="12" height="18"/>
+		<rect x="43.8" y="50.6" transform="matrix(0.5 -0.866 0.866 0.5 -26.6942 72.9208)" fill="#FFEB3B" width="12" height="18"/>
+		<rect x="35.8" y="64.4" transform="matrix(0.5 -0.866 0.866 0.5 -42.6942 72.9244)" fill="#FBC02D" width="12" height="18"/>
+		<rect x="27.8" y="78.3" transform="matrix(0.5 -0.866 0.866 0.5 -58.6942 72.928)" fill="#F57F17" width="12" height="18"/>
+	</g>
+	<g id="_1">
+		<path fill="#FFFFFF" d="M24.6,118.5h-0.5c-7.9,0-14.2-5.6-14.6-12.7V9.5h29v96.3C38.2,112.8,32,118.5,24.6,118.5z"/>
+		<path fill="#B3B3B3" d="M37,11v94.8C36.7,112,31.1,117,24.6,117H24c-6.9,0-12.7-5-13-11.2V11H37 M40,8H8v97.8
+			c0.4,7.9,7.5,14.2,16,14.2h0.6c8.3,0,15-6.5,15.4-14.2V8z"/>
+		<rect x="15" y="15" fill="#FFCDD2" width="18" height="12"/>
+		<rect x="15" y="31" fill="#E57373" width="18" height="12"/>
+		<rect x="15" y="47" fill="#F44336" width="18" height="12"/>
+		<rect x="15" y="63" fill="#D32F2F" width="18" height="12"/>
+		<rect x="15" y="79" fill="#B71C1C" width="18" height="12"/>
+	</g>
+</g>
+</svg>

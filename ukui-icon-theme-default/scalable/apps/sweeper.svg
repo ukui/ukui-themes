@@ -1,1 +1,12 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs><style>.cls-1{fill:#f9ce1d;}.cls-2{fill:#f57c00;}.cls-3{fill:#f44336;}.cls-4{fill:#cddc39;}.cls-5{fill:#689f38;}.cls-6{fill:#388e3c;}</style></defs><title>sweeper-112</title><polygon class="cls-1" points="64 120 17.5 90.48 17.5 69.69 64 99.2 64 120"/><polygon class="cls-2" points="64 120 110.5 90.48 110.5 69.69 64 99.2 64 120"/><polygon class="cls-3" points="110.5 90.69 64 61.17 64 40.37 110.5 69.89 110.5 90.69"/><polygon class="cls-4" points="64 8 110.5 37.52 110.5 58.31 64 28.8 64 8"/><polygon class="cls-5" points="64 8 17.5 37.52 17.5 58.31 64 28.8 64 8"/><polygon class="cls-6" points="17.5 37.31 64 66.83 64 87.63 17.5 58.11 17.5 37.31"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>sweeper-112</title>
+<polygon fill="#F9CE1D" points="64,120 17.5,90.5 17.5,69.7 64,99.2 "/>
+<polygon fill="#F57C00" points="64,120 110.5,90.5 110.5,69.7 64,99.2 "/>
+<polygon fill="#F44336" points="110.5,90.7 64,61.2 64,40.4 110.5,69.9 "/>
+<polygon fill="#CDDC39" points="64,8 110.5,37.5 110.5,58.3 64,28.8 "/>
+<polygon fill="#689F38" points="64,8 17.5,37.5 17.5,58.3 64,28.8 "/>
+<polygon fill="#388E3C" points="17.5,37.3 64,66.8 64,87.6 17.5,58.1 "/>
+</svg>

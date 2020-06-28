@@ -1,1 +1,51 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128"><defs><style>.cls-1{fill:#fff176;}.cls-2{fill:url(#未命名的渐变_40);}.cls-3{fill:url(#未命名的渐变_40-2);}.cls-4{fill:url(#未命名的渐变_31);}.cls-5{fill:url(#未命名的渐变_40-3);}.cls-6{fill:url(#未命名的渐变_40-4);}.cls-7{fill:#cfd8dc;}.cls-8{fill:#d32f2f;}.cls-9{fill:#e57373;}</style><linearGradient id="未命名的渐变_40" x1="87.75" y1="65.48" x2="120.57" y2="65.48" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f5a816"/><stop offset="0.64" stop-color="#fcc335"/><stop offset="1" stop-color="#ffcd40"/></linearGradient><linearGradient id="未命名的渐变_40-2" x1="62.19" y1="106.44" x2="62.19" y2="89.62" xlink:href="#未命名的渐变_40"/><linearGradient id="未命名的渐变_31" x1="54.09" y1="39.34" x2="54.09" y2="101.21" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f9ce1d"/><stop offset="0.58" stop-color="#fdcd35"/><stop offset="1" stop-color="#ffcd40"/></linearGradient><linearGradient id="未命名的渐变_40-3" x1="61.68" y1="62" x2="61.68" y2="39.92" xlink:href="#未命名的渐变_40"/><linearGradient id="未命名的渐变_40-4" x1="61.68" y1="47.18" x2="61.68" y2="31.21" xlink:href="#未命名的渐变_40"/></defs><title>geany128</title><ellipse class="cls-1" cx="60.44" cy="104.26" rx="48.51" ry="18.74"/><path class="cls-2" d="M108.23,39.05h0c-6.82,0-12.35,6-12.35,13.49l-2,26.71c-15.65,11.31,2.79,12.67,9.61,12.67h0c6.82,0,17.08-4.41,17.08-11.86V52.54C120.57,45.09,115.05,39.05,108.23,39.05Zm8.18,39.87c-1.4,6.64-7,8.09-13.13,9h-.65c-11.35.7-21.39-1.11-6.38-8.68l3.12-23.1c1.06-4.91,2.44-10.32,6.1-11.17,0,0,0,0,0,0l.68-.09c6.14-.52,10.18,2.89,10.26,10.63Z"/><ellipse class="cls-3" cx="62.19" cy="98.03" rx="20.62" ry="8.41"/><path class="cls-4" d="M61.68,39.34c-20.38,0-36.89,5.33-36.89,11.91V68c0,.31,0,.62,0,.93h-.23A3.63,3.63,0,0,1,21,65.55a1.48,1.48,0,0,1,0-.21V53.28c0-.64-2.54-1.16-5.67-1.16s-5.66.52-5.66,1.16V63a5.86,5.86,0,0,0,.29,1.84h0v0A55.11,55.11,0,0,0,77.8,98.81,33.19,33.19,0,0,0,98.57,68V51.25C98.57,44.67,82.05,39.34,61.68,39.34Z"/><ellipse class="cls-5" cx="61.68" cy="50.96" rx="34.19" ry="11.04"/><ellipse class="cls-6" cx="61.68" cy="39.2" rx="7.7" ry="7.99"/><path class="cls-7" d="M29.86,25.11a8.45,8.45,0,0,0-1.67-3.91A10.31,10.31,0,1,0,9.53,16.84a9.92,9.92,0,0,0,1,3A8.43,8.43,0,0,0,12.74,34.1a8.37,8.37,0,0,0-1.85,6.62,8.71,8.71,0,0,0,.71,2.34,7,7,0,1,0,9.69,5.36,6.22,6.22,0,0,0-.15-.75,8.42,8.42,0,0,0,5.66-4.51,8.43,8.43,0,0,0,2.59-7.41A8.34,8.34,0,0,0,27.81,32,8.41,8.41,0,0,0,29.86,25.11Z"/><polygon class="cls-8" points="62.62 91.05 56.13 80.7 62.62 70.35 69.12 80.7 62.62 91.05"/><polygon class="cls-9" points="62.62 86.47 59 80.7 62.62 74.92 66.25 80.7 62.62 86.47"/><polygon class="cls-8" points="36.04 81.17 31.55 74.02 36.04 66.86 40.54 74.02 36.04 81.17"/><polygon class="cls-9" points="36.04 78.01 33.54 74.02 36.04 70.03 38.55 74.02 36.04 78.01"/><polygon class="cls-8" points="89.2 81.17 84.71 74.02 89.2 66.86 93.69 74.02 89.2 81.17"/><polygon class="cls-9" points="89.2 78.01 86.7 74.02 89.2 70.03 91.71 74.02 89.2 78.01"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>geany128</title>
+<ellipse fill="#FFF176" cx="60.4" cy="104.3" rx="48.5" ry="18.7"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="87.7475" y1="33.45" x2="120.6" y2="33.45" gradientTransform="matrix(1 0 0 1 0 32)">
+	<stop  offset="0" style="stop-color:#F5A816"/>
+	<stop  offset="0.64" style="stop-color:#FCC335"/>
+	<stop  offset="1" style="stop-color:#FFCD40"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M108.2,39L108.2,39c-6.8,0-12.3,6-12.3,13.5l-2,26.7c-15.7,11.3,2.8,12.7,9.6,12.7l0,0
+	c6.8,0,17.1-4.4,17.1-11.9V52.5C120.6,45.1,115.1,39,108.2,39z M116.4,78.9c-1.4,6.6-7,8.1-13.1,9h-0.7c-11.3,0.7-21.4-1.1-6.4-8.7
+	l3.1-23.1c1.1-4.9,2.4-10.3,6.1-11.2l0,0l0.7-0.1c6.1-0.5,10.2,2.9,10.3,10.6V78.9z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="62.2" y1="74.44" x2="62.2" y2="57.62" gradientTransform="matrix(1 0 0 1 0 32)">
+	<stop  offset="0" style="stop-color:#F5A816"/>
+	<stop  offset="0.64" style="stop-color:#FCC335"/>
+	<stop  offset="1" style="stop-color:#FFCD40"/>
+</linearGradient>
+<ellipse fill="url(#SVGID_2_)" cx="62.2" cy="98" rx="20.6" ry="8.4"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="54.1" y1="7.3" x2="54.1" y2="69.1842" gradientTransform="matrix(1 0 0 1 0 32)">
+	<stop  offset="0" style="stop-color:#F9CE1D"/>
+	<stop  offset="0.58" style="stop-color:#FDCD35"/>
+	<stop  offset="1" style="stop-color:#FFCD40"/>
+</linearGradient>
+<path fill="url(#SVGID_3_)" d="M61.7,39.3c-20.4,0-36.9,5.3-36.9,11.9V68c0,0.3,0,0.6,0,0.9h-0.2c-1.9,0-3.4-1.5-3.6-3.4
+	c0-0.1,0-0.1,0-0.2v-12c0-0.6-2.5-1.2-5.7-1.2s-5.7,0.5-5.7,1.2V63c0,0.6,0.1,1.2,0.3,1.8l0,0l0,0c10,27.6,39.8,42.5,67.8,34
+	C90.4,93.7,98.6,81.5,98.6,68V51.3C98.6,44.7,82.1,39.3,61.7,39.3z"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="61.7" y1="30" x2="61.7" y2="7.92" gradientTransform="matrix(1 0 0 1 0 32)">
+	<stop  offset="0" style="stop-color:#F5A816"/>
+	<stop  offset="0.64" style="stop-color:#FCC335"/>
+	<stop  offset="1" style="stop-color:#FFCD40"/>
+</linearGradient>
+<ellipse fill="url(#SVGID_4_)" cx="61.7" cy="51" rx="34.2" ry="11"/>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="61.7" y1="15.2" x2="61.7" y2="-0.78" gradientTransform="matrix(1 0 0 1 0 32)">
+	<stop  offset="0" style="stop-color:#F5A816"/>
+	<stop  offset="0.64" style="stop-color:#FCC335"/>
+	<stop  offset="1" style="stop-color:#FFCD40"/>
+</linearGradient>
+<ellipse fill="url(#SVGID_5_)" cx="61.7" cy="39.2" rx="7.7" ry="8"/>
+<path fill="#CFD8DC" d="M29.9,25.1c-0.2-1.4-0.8-2.8-1.7-3.9c3.3-4.7,2.1-11.1-2.6-14.4s-11.1-2-14.3,2.6c-1.5,2.2-2.1,4.8-1.7,7.4
+	c0.2,1,0.5,2.1,1,3c-3.6,3-4,8.3-1,11.9c0.9,1,2,1.9,3.3,2.4c-1.5,1.8-2.2,4.3-1.9,6.6c0.1,0.8,0.4,1.6,0.7,2.3
+	c-3.5,1.5-5.2,5.6-3.7,9.2s5.6,5.2,9.2,3.7c2.9-1.3,4.6-4.3,4.1-7.5c0-0.3-0.1-0.5-0.1-0.8c2.5-0.6,4.5-2.2,5.7-4.5
+	c2-1.9,3-4.7,2.6-7.4c-0.2-1.4-0.8-2.6-1.6-3.7C29.5,30.1,30.2,27.6,29.9,25.1z"/>
+<polygon fill="#D32F2F" points="62.6,91.1 56.1,80.7 62.6,70.3 69.1,80.7 "/>
+<polygon fill="#E57373" points="62.6,86.5 59,80.7 62.6,74.9 66.3,80.7 "/>
+<polygon fill="#D32F2F" points="36,81.2 31.5,74 36,66.9 40.5,74 "/>
+<polygon fill="#E57373" points="36,78 33.5,74 36,70 38.5,74 "/>
+<polygon fill="#D32F2F" points="89.2,81.2 84.7,74 89.2,66.9 93.7,74 "/>
+<polygon fill="#E57373" points="89.2,78 86.7,74 89.2,70 91.7,74 "/>
+</svg>

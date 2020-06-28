@@ -1,1 +1,55 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 96 96"><defs><style>.cls-1{fill:#fff;}.cls-2{fill:url(#未命名的渐变_38);}.cls-3{fill:url(#未命名的渐变_21);}.cls-4{fill:#348a63;}.cls-5{fill:none;}.cls-6{fill:url(#未命名的渐变_27);}.cls-7{fill:#266647;}.cls-8{fill:url(#未命名的渐变_12);}.cls-9{fill:url(#未命名的渐变_37);}</style><linearGradient id="未命名的渐变_38" x1="27.65" y1="53" x2="27.65" y2="35.37" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#b3b3b3"/></linearGradient><linearGradient id="未命名的渐变_21" x1="38.15" y1="58.55" x2="73.27" y2="38.27" gradientUnits="userSpaceOnUse"><stop offset="0.68" stop-color="#fff"/><stop offset="1" stop-color="#b3b3b3"/></linearGradient><linearGradient id="未命名的渐变_27" x1="20.97" y1="44.28" x2="82.09" y2="44.28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#266647"/><stop offset="1" stop-color="#348a63"/></linearGradient><linearGradient id="未命名的渐变_12" x1="59.09" y1="41.95" x2="75.67" y2="25.38" xlink:href="#未命名的渐变_38"/><linearGradient id="未命名的渐变_37" x1="45.55" y1="28.96" x2="45.55" y2="51.77" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#2196f3"/><stop offset="0.96" stop-color="#01579b"/><stop offset="1" stop-color="#0288d1"/></linearGradient></defs><title>kchmviewer22</title><rect class="cls-1" x="6" y="6" width="84" height="84" rx="9"/><polygon class="cls-2" points="21.62 35.37 22.07 43.05 33.68 53 21.62 35.37"/><polygon class="cls-3" points="26.25 37.94 54.19 76.77 81.04 59.65 80.8 51.32 26.25 37.94"/><path class="cls-4" d="M82.06,50.29,22.17,41.82,53.82,78.67,82.36,60.33Zm-1.26,1L81,59.65,54.19,76.77,24.64,41.85Z"/><polygon class="cls-1" points="51.15 20.98 44.46 24.37 56.94 26.09 51.15 20.98"/><polygon class="cls-5" points="80 50.18 80 50.18 80 50.18 80 50.18"/><polygon class="cls-5" points="68.39 38.42 51.15 20.98 22.02 35.74 52.36 67.41 80 50.18 56.95 63.93 68.39 38.42"/><polygon class="cls-1" points="69.1 36.84 68.99 37.08 70.75 38.85 69.1 36.84"/><polygon class="cls-1" points="56.95 63.93 80 50.18 80 50.18 80 50.18 68.39 38.42 56.95 63.93"/><polygon class="cls-1" points="80 50.18 80 50.18 80 50.18 80 50.18"/><path class="cls-6" d="M70.75,38.85,69,37.08,51.68,19.67l-.33-.29L21,35.51,51.83,68.76l.4.42L82.09,50.26ZM52.36,67.41,22,35.74,51.15,21,68.39,38.42,80,50.18h0Z"/><polygon class="cls-7" points="22.02 35.74 24.84 38.67 28.66 32.37 22.02 35.74"/><polygon class="cls-1" points="72.93 28.29 56.94 26.09 69.1 36.84 72.93 28.29"/><polygon class="cls-1" points="34.37 22.98 28.66 32.37 44.46 24.37 34.37 22.98"/><path class="cls-4" d="M34,22.06,13.7,55.41l-.06.11.67,9.19L53.8,73,74.14,27.6ZM53.33,72l-38.2-8-.68-8.23L34.37,23l38.56,5.31Z"/><polygon class="cls-1" points="56.94 26.09 44.46 24.37 28.66 32.37 24.84 38.67 14.45 55.77 15.13 64 53.34 72.01 56.95 63.93 69.1 36.84 56.94 26.09"/><polyline class="cls-8" points="70.95 20.66 73.13 28.52 65.25 45.22 60.22 43.08 70.95 20.8"/><polygon class="cls-1" points="69.78 22.06 45.42 47.93 15.37 55.21 51.3 61.59 69.78 22.06"/><polygon class="cls-4" points="69.78 22.06 70.19 21.18 37.22 18.23 15.11 55.17 15.37 55.21 45.42 47.93 69.78 22.06"/><ellipse class="cls-9" cx="45.55" cy="40.37" rx="10.84" ry="11.41"/><path class="cls-1" d="M45.55,28.36c-6.3,0-11.44,5.38-11.44,12s5.14,12,11.44,12S57,47,57,40.37,51.86,28.36,45.55,28.36Zm0,23.41c-6,0-10.83-5.11-10.83-11.4S39.58,29,45.55,29s10.84,5.12,10.84,11.41S51.53,51.77,45.55,51.77Z"/><path class="cls-4" d="M36.79,17.33l-23,38.47,36.49,6.9L71.45,20.43ZM15.11,55.17,37.22,18.23l33,2.95L49.79,61.74Z"/><path class="cls-1" d="M46.44,32.44H44.07V34h2.37c1.91,0,3.47,1.29,3.47,2.87v1.82c0,1.58-1.56,2.87-3.47,2.87H39.51v5.21h4.56V45.21H41.33V43h5.11c2.92,0,5.29-2,5.29-4.38V36.82C51.73,34.41,49.36,32.44,46.44,32.44Z"/><rect class="cls-1" x="45.17" y="45.21" width="4.56" height="1.51"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 96" enable-background="new 0 0 96 96" xml:space="preserve">
+<title>kchmviewer22</title>
+<path fill="#FFFFFF" d="M15,6h66c5,0,9,4,9,9v66c0,5-4,9-9,9H15c-5,0-9-4-9-9V15C6,10,10,6,15,6z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="27.65" y1="43" x2="27.65" y2="60.63" gradientTransform="matrix(1 0 0 -1 0 96)">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#B3B3B3"/>
+</linearGradient>
+<polygon fill="url(#SVGID_1_)" points="21.6,35.4 22.1,43 33.7,53 "/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="38.1511" y1="37.4503" x2="73.2659" y2="57.7273" gradientTransform="matrix(1 0 0 -1 0 96)">
+	<stop  offset="0.68" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#B3B3B3"/>
+</linearGradient>
+<polygon fill="url(#SVGID_2_)" points="26.3,37.9 54.2,76.8 81,59.7 80.8,51.3 "/>
+<path fill="#348A63" d="M82.1,50.3l-59.9-8.5l31.6,36.8l28.5-18.3L82.1,50.3z M80.8,51.3l0.2,8.4L54.2,76.8L24.6,41.8L80.8,51.3z"/>
+<polygon fill="#FFFFFF" points="51.2,21 44.5,24.4 56.9,26.1 "/>
+<polygon fill="none" points="80,50.2 80,50.2 80,50.2 "/>
+<polygon fill="none" points="68.4,38.4 51.2,21 22,35.7 52.4,67.4 80,50.2 57,63.9 "/>
+<polygon fill="#FFFFFF" points="69.1,36.8 69,37.1 70.8,38.8 "/>
+<polygon fill="#FFFFFF" points="57,63.9 80,50.2 80,50.2 80,50.2 68.4,38.4 "/>
+<polygon fill="#FFFFFF" points="80,50.2 80,50.2 80,50.2 "/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="21" y1="51.72" x2="82.09" y2="51.72" gradientTransform="matrix(1 0 0 -1 0 96)">
+	<stop  offset="0" style="stop-color:#266647"/>
+	<stop  offset="1" style="stop-color:#348A63"/>
+</linearGradient>
+<path fill="url(#SVGID_3_)" d="M70.8,38.8L69,37.1L51.7,19.7l-0.3-0.3L21,35.5l30.8,33.3l0.4,0.4l29.9-18.9L70.8,38.8z M52.4,67.4
+	L22,35.7L51.2,21l17.2,17.4L80,50.2l0,0L52.4,67.4z"/>
+<polygon fill="#266647" points="22,35.7 24.8,38.7 28.7,32.4 "/>
+<polygon fill="#FFFFFF" points="72.9,28.3 56.9,26.1 69.1,36.8 "/>
+<polygon fill="#FFFFFF" points="34.4,23 28.7,32.4 44.5,24.4 "/>
+<path fill="#348A63" d="M34,22.1L13.7,55.4l-0.1,0.1l0.7,9.2L53.8,73l20.3-45.4L34,22.1z M53.3,72l-38.2-8l-0.7-8.2L34.4,23
+	l38.6,5.3L53.3,72z"/>
+<polygon fill="#FFFFFF" points="56.9,26.1 44.5,24.4 28.7,32.4 24.8,38.7 14.4,55.8 15.1,64 53.3,72 57,63.9 69.1,36.8 "/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="59.0876" y1="54.0531" x2="75.6659" y2="70.6213" gradientTransform="matrix(1 0 0 -1 0 96)">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#B3B3B3"/>
+</linearGradient>
+<polyline fill="url(#SVGID_4_)" points="70.9,20.7 73.1,28.5 65.3,45.2 60.2,43.1 70.9,20.8 "/>
+<polygon fill="#FFFFFF" points="69.8,22.1 45.4,47.9 15.4,55.2 51.3,61.6 "/>
+<polygon fill="#348A63" points="69.8,22.1 70.2,21.2 37.2,18.2 15.1,55.2 15.4,55.2 45.4,47.9 "/>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="45.55" y1="67.04" x2="45.55" y2="44.22" gradientTransform="matrix(1 0 0 -1 0 96)">
+	<stop  offset="0" style="stop-color:#2196F3"/>
+	<stop  offset="0.96" style="stop-color:#01579B"/>
+	<stop  offset="1" style="stop-color:#0288D1"/>
+</linearGradient>
+<ellipse fill="url(#SVGID_5_)" cx="45.5" cy="40.4" rx="10.8" ry="11.4"/>
+<path fill="#FFFFFF" d="M45.5,28.4c-6.3,0-11.4,5.4-11.4,12s5.1,12,11.4,12S57,47,57,40.4S51.9,28.4,45.5,28.4z M45.5,51.8
+	c-6,0-10.8-5.1-10.8-11.4S39.6,29,45.5,29s10.8,5.1,10.8,11.4S51.5,51.8,45.5,51.8z"/>
+<path fill="#348A63" d="M36.8,17.3l-23,38.5l36.5,6.9l21.2-42.3L36.8,17.3z M15.1,55.2l22.1-36.9l33,3L49.8,61.7L15.1,55.2z"/>
+<path fill="#FFFFFF" d="M46.4,32.4h-2.4V34h2.4c1.9,0,3.5,1.3,3.5,2.9v1.8c0,1.6-1.6,2.9-3.5,2.9h-6.9v5.2h4.6v-1.6h-2.7V43h5.1
+	c2.9,0,5.3-2,5.3-4.4v-1.8C51.7,34.4,49.4,32.4,46.4,32.4z"/>
+<rect x="45.2" y="45.2" fill="#FFFFFF" width="4.6" height="1.5"/>
+</svg>

@@ -1,1 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 96 96"><defs><style>.cls-1{fill:url(#未命名的渐变_65);}.cls-2{fill:url(#未命名的渐变_39);}.cls-3{fill:url(#未命名的渐变_69);}.cls-4{fill:#f8d7b6;}.cls-5{fill:#606060;}.cls-6,.cls-8{fill:none;stroke-miterlimit:10;stroke-width:3px;}.cls-6{stroke:#b3b3b3;}.cls-7{fill:#b3b3b3;}.cls-8{stroke:#606060;}</style><linearGradient id="未命名的渐变_65" x1="48" y1="6" x2="48" y2="90" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#e5e5e5"/></linearGradient><linearGradient id="未命名的渐变_39" x1="48" y1="6" x2="48" y2="90" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#727272"/><stop offset="1" stop-color="#606060"/></linearGradient><linearGradient id="未命名的渐变_69" x1="63.66" y1="774.97" x2="70.48" y2="780.65" gradientTransform="translate(0 -702)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#727272" stop-opacity="0.5"/><stop offset="1" stop-color="#606060" stop-opacity="0.7"/></linearGradient></defs><title>96</title><g id="libreoffice"><g id="libreoffice-math"><g id="_96" data-name="96"><g id="_48" data-name=" 48"><path class="cls-1" d="M82,69V15a9,9,0,0,0-9-9H23a9,9,0,0,0-9,9V81a9,9,0,0,0,9,9H61.16Z"/><path class="cls-2" d="M73,10a5,5,0,0,1,5,5V67.35L59.49,86H23a5,5,0,0,1-5-5V15a5,5,0,0,1,5-5H73m0-4H23a9,9,0,0,0-9,9V81a9,9,0,0,0,9,9H61.16L82,69V15a9,9,0,0,0-9-9Z"/></g><path class="cls-3" d="M67,69H82L61,90V75A6,6,0,0,1,67,69Z"/><rect class="cls-4" x="25" y="21" width="45" height="30"/><rect class="cls-5" x="58" y="56" width="5" height="5"/><rect class="cls-5" x="49" y="56" width="5" height="5"/><rect class="cls-5" x="40" y="56" width="5" height="5"/><rect class="cls-5" x="31" y="56" width="5" height="5"/><line class="cls-6" x1="26.5" y1="52.5" x2="67" y2="52.5"/><path class="cls-7" d="M67,24V63H28V24H67m3-3H25V66H70V21Z"/><polyline class="cls-8" points="31 39 35 39 40 46.5 46 28.5 64 28.5"/><line class="cls-8" x1="49" y1="32.25" x2="62.5" y2="47.75"/><line class="cls-8" x1="62.25" y1="32.25" x2="48.75" y2="47.75"/></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 96" enable-background="new 0 0 96 96" xml:space="preserve">
+<title>96</title>
+<g id="libreoffice">
+	<g id="libreoffice-math">
+		<g id="_96">
+			<g id="_48">
+				
+					<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="48" y1="90" x2="48" y2="6" gradientTransform="matrix(1 0 0 -1 0 96)">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#E5E5E5"/>
+				</linearGradient>
+				<path fill="url(#SVGID_1_)" d="M82,69V15c0-5-4-9-9-9H23c-5,0-9,4-9,9v66c0,5,4,9,9,9h38.2L82,69z"/>
+				
+					<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="48" y1="90" x2="48" y2="6" gradientTransform="matrix(1 0 0 -1 0 96)">
+					<stop  offset="0" style="stop-color:#727272"/>
+					<stop  offset="1" style="stop-color:#606060"/>
+				</linearGradient>
+				<path fill="url(#SVGID_2_)" d="M73,10c2.8,0,5,2.2,5,5v52.3L59.5,86H23c-2.8,0-5-2.2-5-5V15c0-2.8,2.2-5,5-5H73 M73,6H23
+					c-5,0-9,4-9,9v66c0,5,4,9,9,9h38.2L82,69V15C82,10,78,6,73,6z"/>
+			</g>
+			
+				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="63.6598" y1="-678.9703" x2="70.4798" y2="-684.6503" gradientTransform="matrix(1 0 0 -1 0 -606)">
+				<stop  offset="0" style="stop-color:#727272;stop-opacity:0.5"/>
+				<stop  offset="1" style="stop-color:#606060;stop-opacity:0.7"/>
+			</linearGradient>
+			<path fill="url(#SVGID_3_)" d="M67,69h15L61,90V75C61,71.7,63.7,69,67,69z"/>
+			<rect x="25" y="21" fill="#F8D7B6" width="45" height="30"/>
+			<rect x="58" y="56" fill="#606060" width="5" height="5"/>
+			<rect x="49" y="56" fill="#606060" width="5" height="5"/>
+			<rect x="40" y="56" fill="#606060" width="5" height="5"/>
+			<rect x="31" y="56" fill="#606060" width="5" height="5"/>
+			<line fill="none" stroke="#B3B3B3" stroke-width="3" stroke-miterlimit="10" x1="26.5" y1="52.5" x2="67" y2="52.5"/>
+			<path fill="#B3B3B3" d="M67,24v39H28V24H67 M70,21H25v45h45V21z"/>
+			<polyline fill="none" stroke="#606060" stroke-width="3" stroke-miterlimit="10" points="31,39 35,39 40,46.5 46,28.5 64,28.5 
+							"/>
+			<line fill="none" stroke="#606060" stroke-width="3" stroke-miterlimit="10" x1="49" y1="32.3" x2="62.5" y2="47.8"/>
+			<line fill="none" stroke="#606060" stroke-width="3" stroke-miterlimit="10" x1="62.3" y1="32.3" x2="48.8" y2="47.8"/>
+		</g>
+	</g>
+</g>
+</svg>

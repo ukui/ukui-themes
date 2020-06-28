@@ -1,1 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 96 96"><defs><style>.cls-1{fill:url(#未命名的渐变_15);}.cls-2{fill:url(#未命名的渐变_189);}.cls-3{fill:#f2d5a5;}.cls-4{fill:#935b34;}.cls-5{fill:#f9f9f9;}.cls-6{fill:#5d5d5d;}</style><linearGradient id="未命名的渐变_15" x1="48" y1="708" x2="48" y2="792" gradientTransform="translate(0 -702)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#edb281"/><stop offset="1" stop-color="#eaa065"/></linearGradient><linearGradient id="未命名的渐变_189" x1="63.92" y1="775.19" x2="70.54" y2="780.7" gradientTransform="translate(0 -702)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" stop-opacity="0.4"/><stop offset="1" stop-color="#fff" stop-opacity="0.2"/></linearGradient></defs><title>96</title><g id="压缩文件_复制"><g id="_96" data-name="96"><g id="底色-浅橙"><path id="_48" data-name=" 48" class="cls-1" d="M82,69V15a9,9,0,0,0-9-9H23a9,9,0,0,0-9,9V81a9,9,0,0,0,9,9H61.16Z"/><path class="cls-2" d="M68,69H82L61,90V76A7,7,0,0,1,68,69Z"/></g><rect class="cls-3" x="44" y="6" width="8" height="84"/><rect class="cls-4" x="56" y="19" width="20" height="2"/><rect class="cls-4" x="56" y="23" width="20" height="2"/><rect class="cls-4" x="56" y="27" width="20" height="2"/><rect class="cls-4" x="56" y="31" width="10" height="2"/><rect class="cls-5" x="21" y="62" width="18" height="12"/><rect class="cls-6" x="35" y="64" width="2" height="8"/><rect class="cls-6" x="31" y="64" width="2" height="8"/><rect class="cls-6" x="27" y="64" width="2" height="8"/><rect class="cls-6" x="23" y="64" width="2" height="8"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 96" enable-background="new 0 0 96 96" xml:space="preserve">
+<title>96</title>
+<g id="压缩文件_复制">
+	<g id="_96">
+		<g id="底色-浅橙">
+			
+				<linearGradient id="_48_1_" gradientUnits="userSpaceOnUse" x1="48" y1="-612" x2="48" y2="-696" gradientTransform="matrix(1 0 0 -1 0 -606)">
+				<stop  offset="0" style="stop-color:#EDB281"/>
+				<stop  offset="1" style="stop-color:#EAA065"/>
+			</linearGradient>
+			<path id="_48" fill="url(#_48_1_)" d="M82,69V15c0-5-4-9-9-9H23c-5,0-9,4-9,9v66c0,5,4,9,9,9h38.2L82,69z"/>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="63.9195" y1="-679.1906" x2="70.5395" y2="-684.7006" gradientTransform="matrix(1 0 0 -1 0 -606)">
+				<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.4"/>
+				<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+			</linearGradient>
+			<path fill="url(#SVGID_1_)" d="M68,69h14L61,90V76C61,72.1,64.1,69,68,69z"/>
+		</g>
+		<rect x="44" y="6" fill="#F2D5A5" width="8" height="84"/>
+		<rect x="56" y="19" fill="#935B34" width="20" height="2"/>
+		<rect x="56" y="23" fill="#935B34" width="20" height="2"/>
+		<rect x="56" y="27" fill="#935B34" width="20" height="2"/>
+		<rect x="56" y="31" fill="#935B34" width="10" height="2"/>
+		<rect x="21" y="62" fill="#F9F9F9" width="18" height="12"/>
+		<rect x="35" y="64" fill="#5D5D5D" width="2" height="8"/>
+		<rect x="31" y="64" fill="#5D5D5D" width="2" height="8"/>
+		<rect x="27" y="64" fill="#5D5D5D" width="2" height="8"/>
+		<rect x="23" y="64" fill="#5D5D5D" width="2" height="8"/>
+	</g>
+</g>
+</svg>

@@ -1,1 +1,21 @@
-<svg id="文件管理器" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 96 96"><defs><style>.cls-1{fill:url(#未命名的渐变_38);}.cls-2{fill:url(#未命名的渐变_32);}.cls-3{fill:#458ffd;}</style><linearGradient id="未命名的渐变_38" x1="48" y1="19.07" x2="48" y2="37.06" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f6af1f"/><stop offset="0.92" stop-color="#ea9e18"/></linearGradient><linearGradient id="未命名的渐变_32" x1="48" y1="39.14" x2="48" y2="85.68" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f7d33c"/><stop offset="1" stop-color="#edbb1b"/></linearGradient></defs><title>96</title><g id="_96" data-name="96"><polygon class="cls-1" points="85 49.5 11 49.77 11 18 33 18 37 22 85 22 85 49.5"/><path class="cls-2" d="M6,35H90a0,0,0,0,1,0,0V81a9,9,0,0,1-9,9H15a9,9,0,0,1-9-9V35A0,0,0,0,1,6,35Z"/><path class="cls-3" d="M72,54H24a6,6,0,0,0-6,6V90H30V66H66V90H78V60A6,6,0,0,0,72,54Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="文件管理器" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 96 96" enable-background="new 0 0 96 96" xml:space="preserve">
+<title>96</title>
+<g id="_96">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="48" y1="76.93" x2="48" y2="58.94" gradientTransform="matrix(1 0 0 -1 0 96)">
+		<stop  offset="0" style="stop-color:#F6AF1F"/>
+		<stop  offset="0.92" style="stop-color:#EA9E18"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_1_)" points="85,49.5 11,49.8 11,18 33,18 37,22 85,22 	"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="48" y1="56.86" x2="48" y2="10.32" gradientTransform="matrix(1 0 0 -1 0 96)">
+		<stop  offset="0" style="stop-color:#F7D33C"/>
+		<stop  offset="1" style="stop-color:#EDBB1B"/>
+	</linearGradient>
+	<path fill="url(#SVGID_2_)" d="M6,35h84l0,0v46c0,5-4,9-9,9H15c-5,0-9-4-9-9V35L6,35z"/>
+	<path fill="#458FFD" d="M72,54H24c-3.3,0-6,2.7-6,6v30h12V66h36v24h12V60C78,56.7,75.3,54,72,54z"/>
+</g>
+</svg>

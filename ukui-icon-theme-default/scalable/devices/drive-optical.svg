@@ -1,1 +1,39 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128"><defs><style>.cls-1{fill:url(#未命名的渐变_221);}.cls-2{fill:#5f6d77;}.cls-3{fill:#1a1a1a;}.cls-4{fill:lime;}.cls-5{fill:#333;}.cls-6{fill:url(#未命名的渐变_9);}.cls-7{fill:gray;}.cls-8{fill:#b3b3b3;}.cls-9{fill:#fff;stroke:#ccc;stroke-miterlimit:10;}</style><linearGradient id="未命名的渐变_221" x1="-9612.39" y1="-8947.89" x2="-9573.08" y2="-8947.89" gradientTransform="translate(27396.72 25559.85) scale(2.85)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ccc"/><stop offset="0.15" stop-color="#e8e8e8"/><stop offset="0.31" stop-color="#ccc"/><stop offset="0.72" stop-color="#afafaf"/><stop offset="1" stop-color="#ccc"/></linearGradient><linearGradient id="未命名的渐变_9" x1="55" y1="41" x2="119" y2="41" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#e1f7f9"/><stop offset="1" stop-color="#eee4fa"/></linearGradient></defs><title>drive-cdrom128</title><g id="_128" data-name="128"><g id="_128-2" data-name="128"><path class="cls-1" d="M109.46,27.59A15.63,15.63,0,0,0,93.88,13H34.39A15.63,15.63,0,0,0,18.81,27.51L8,103.06A12.93,12.93,0,0,0,20.92,116h86.16A12.93,12.93,0,0,0,120,103.06Z"/><rect class="cls-2" x="8" y="90" width="112" height="30" rx="15"/><rect class="cls-3" x="11" y="93" width="106" height="24" rx="12"/><circle class="cls-4" cx="102.5" cy="105.5" r="4.5"/><rect class="cls-5" x="21" y="103" width="70" height="7" rx="3.5"/><rect x="21" y="103" width="70" height="5" rx="2.5"/></g><circle class="cls-6" cx="87" cy="41" r="32"/><path class="cls-7" d="M87,10A31,31,0,1,1,56,41,31,31,0,0,1,87,10m0-2a33,33,0,1,0,33,33A33,33,0,0,0,87,8Z"/><circle class="cls-8" cx="87" cy="41" r="8.5"/><circle class="cls-9" cx="87" cy="41" r="3.5"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>drive-cdrom128</title>
+<g id="_128">
+	<g id="_128-2">
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-9578.6357" y1="9039.9824" x2="-9539.3369" y2="9039.9824" gradientTransform="matrix(2.85 0 0 -2.85 27300.5215 25828.4492)">
+			<stop  offset="0" style="stop-color:#CCCCCC"/>
+			<stop  offset="0.15" style="stop-color:#E8E8E8"/>
+			<stop  offset="0.31" style="stop-color:#CCCCCC"/>
+			<stop  offset="0.72" style="stop-color:#AFAFAF"/>
+			<stop  offset="1" style="stop-color:#CCCCCC"/>
+		</linearGradient>
+		<path fill="url(#SVGID_1_)" d="M109.5,27.6c-0.5-8.2-7.4-14.6-15.6-14.6H34.4c-8.2,0-15,6.3-15.6,14.5L8,103.1
+			c0,7.1,5.8,12.9,12.9,12.9c0,0,0,0,0,0h86.2c7.1,0,12.9-5.8,12.9-12.9v0L109.5,27.6z"/>
+		<path fill="#5F6D77" d="M23,90h82c8.3,0,15,6.7,15,15l0,0c0,8.3-6.7,15-15,15H23c-8.3,0-15-6.7-15-15l0,0C8,96.7,14.7,90,23,90z"
+			/>
+		<path fill="#1A1A1A" d="M23,93h82c6.6,0,12,5.4,12,12l0,0c0,6.6-5.4,12-12,12H23c-6.6,0-12-5.4-12-12l0,0C11,98.4,16.4,93,23,93z"
+			/>
+		<circle fill="#00FF00" cx="102.5" cy="105.5" r="4.5"/>
+		<path fill="#333333" d="M24.5,103h63c1.9,0,3.5,1.6,3.5,3.5l0,0c0,1.9-1.6,3.5-3.5,3.5h-63c-1.9,0-3.5-1.6-3.5-3.5l0,0
+			C21,104.6,22.6,103,24.5,103z"/>
+		<path d="M23.5,103h65c1.4,0,2.5,1.1,2.5,2.5l0,0c0,1.4-1.1,2.5-2.5,2.5h-65c-1.4,0-2.5-1.1-2.5-2.5l0,0
+			C21,104.1,22.1,103,23.5,103z"/>
+	</g>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="55" y1="87" x2="119" y2="87" gradientTransform="matrix(1 0 0 -1 0 128)">
+		<stop  offset="0" style="stop-color:#E1F7F9"/>
+		<stop  offset="1" style="stop-color:#EEE4FA"/>
+	</linearGradient>
+	<circle fill="url(#SVGID_2_)" cx="87" cy="41" r="32"/>
+	<path fill="#808080" d="M87,10c17.1,0,31,13.9,31,31s-13.9,31-31,31S56,58.1,56,41S69.9,10,87,10 M87,8C68.8,8,54,22.8,54,41
+		s14.8,33,33,33s33-14.8,33-33S105.2,8,87,8z"/>
+	<circle fill="#B3B3B3" cx="87" cy="41" r="8.5"/>
+	<circle fill="#FFFFFF" stroke="#CCCCCC" stroke-miterlimit="10" cx="87" cy="41" r="3.5"/>
+</g>
+</svg>

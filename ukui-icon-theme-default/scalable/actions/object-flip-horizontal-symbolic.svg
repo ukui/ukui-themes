@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="object-flip-horizontal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#808080;}
-</style>
-<title>16</title>
-<g id="_16">
-	<path class="st0" d="M6,4.7V12H1.7L6,4.7 M7,1L0,13h7V1z"/>
-	<path class="st0" d="M10,4.7l4.3,7.3H10V4.7 M9,1v12h7L9,1z"/>
-	<rect y="14" class="st0" width="7" height="1"/>
-	<rect x="9" y="14" class="st0" width="7" height="1"/>
-</g>
-</svg>
+<svg id="object-flip-horizontal" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{opacity:0.75;}.cls-2{fill:#1f2022;}</style></defs><title>object-flip-horizontal-symbolic</title><g id="_16" data-name=" 16" class="cls-1"><path class="cls-2" d="M6,4.7V12H1.7L6,4.7M7,1,0,13H7Z"/><path class="cls-2" d="M10,4.7,14.3,12H10V4.7M9,1V13h7Z"/><rect class="cls-2" y="14" width="7" height="1"/><rect class="cls-2" x="9" y="14" width="7" height="1"/></g></svg>

@@ -1,1 +1,45 @@
-application-archive-zip.svg
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 96" enable-background="new 0 0 96 96" xml:space="preserve">
+<title>96</title>
+<g id="压缩文件">
+	<g id="_96">
+		<g id="底色-浅橙">
+			
+				<linearGradient id="_48_1_" gradientUnits="userSpaceOnUse" x1="48" y1="-612" x2="48" y2="-696" gradientTransform="matrix(1 0 0 -1 0 -606)">
+				<stop  offset="0" style="stop-color:#FEDA3E"/>
+				<stop  offset="1" style="stop-color:#E5B104"/>
+			</linearGradient>
+			<path id="_48" fill="url(#_48_1_)" d="M82,69V15c0-5-4-9-9-9H23c-5,0-9,4-9,9v66c0,5,4,9,9,9h38.2L82,69z"/>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="63.9195" y1="-679.1906" x2="70.5395" y2="-684.7006" gradientTransform="matrix(1 0 0 -1 0 -606)">
+				<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.4"/>
+				<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+			</linearGradient>
+			<path fill="url(#SVGID_1_)" d="M68,69h14L61,90V76C61,72.1,64.1,69,68,69z"/>
+		</g>
+		<path fill="#907C3B" d="M28,50v8c0,2.8,2.2,5,5,5h1c2.8,0,5-2.2,5-5v-8H28z M36,60h-5v-4h5V60z"/>
+		<rect x="28" y="6" fill="#EAEAEA" width="11" height="44"/>
+		<rect x="32" y="9" fill="#907C3B" width="7" height="3"/>
+		<rect x="32" y="15" fill="#907C3B" width="7" height="3"/>
+		<rect x="32" y="21" fill="#907C3B" width="7" height="3"/>
+		<rect x="32" y="27" fill="#907C3B" width="7" height="3"/>
+		<rect x="32" y="33" fill="#907C3B" width="7" height="3"/>
+		<rect x="32" y="39" fill="#907C3B" width="7" height="3"/>
+		<rect x="32" y="45" fill="#907C3B" width="7" height="3"/>
+		<rect x="28" y="24" fill="#907C3B" width="7" height="3"/>
+		<rect x="28" y="18" fill="#907C3B" width="7" height="3"/>
+		<rect x="28" y="12" fill="#907C3B" width="7" height="3"/>
+		<rect x="28" y="6" fill="#907C3B" width="7" height="3"/>
+		<rect x="28" y="30" fill="#907C3B" width="7" height="3"/>
+		<rect x="28" y="42" fill="#907C3B" width="7" height="3"/>
+		<rect x="28" y="36" fill="#907C3B" width="7" height="3"/>
+		<polyline fill="none" stroke="#A08C53" stroke-width="2" stroke-miterlimit="10" points="43,49 51.5,49 44.5,61 53,61 		"/>
+		<line fill="none" stroke="#A08C53" stroke-width="2" stroke-miterlimit="10" x1="56" y1="48" x2="56" y2="62"/>
+		<line fill="none" stroke="#A08C53" stroke-width="2" stroke-miterlimit="10" x1="61" y1="48" x2="61" y2="62"/>
+		<path fill="none" stroke="#A08C53" stroke-width="2" stroke-miterlimit="10" d="M66,55h-5v-6h5c1.7,0,3,1.3,3,3l0,0
+			C69,53.7,67.7,55,66,55z"/>
+	</g>
+</g>
+</svg>

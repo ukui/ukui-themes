@@ -1,1 +1,16 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs><style>.cls-1{fill:#1c174c;}.cls-2{fill:#271e5b;}.cls-3{fill:#5e44ad;}.cls-4{fill:#4f471f;}.cls-5{fill:#eacf5e;}.cls-6{fill:#665f34;}.cls-7{fill:#1b5e20;}.cls-8{fill:#4caf50;}.cls-9{fill:#e24949;}.cls-10{fill:#9b1b1b;}</style></defs><title>codeblocks128</title><polygon class="cls-1" points="76.12 65.21 118.56 58.34 102.8 52.69 59.96 56.73 76.12 65.21"/><polygon class="cls-2" points="60.36 96.73 77.34 109.26 76.12 65.21 57.94 55.51 60.36 96.73"/><polygon class="cls-3" points="118.56 101.99 77.34 109.26 76.12 65.21 118.56 58.34 118.56 101.99"/><polygon class="cls-4" points="16.72 68.44 9.45 62.38 54.3 58.75 70.06 63.19 16.72 68.44"/><polygon class="cls-5" points="70.06 112.93 16.72 123 16.72 68.44 70.06 63.29 70.06 112.93"/><polygon class="cls-6" points="16.72 123 10.25 104.41 9.45 62.38 16.72 68.44 16.72 123"/><polygon class="cls-7" points="64.4 10.25 74.91 5 74.91 59.96 65.62 56.73 64.4 10.25"/><polygon class="cls-8" points="118.56 53.09 74.91 59.96 74.91 6.67 74.91 5 117.75 8.23 118.56 53.09"/><polygon class="cls-9" points="68.85 59.15 14.7 63.19 14.7 5 68.85 7.02 68.85 59.15"/><polygon class="cls-10" points="14.7 5 9.45 10.66 9.45 59.15 14.7 63.19 14.7 5"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>codeblocks128</title>
+<polygon fill="#1C174C" points="76.1,65.2 118.6,58.3 102.8,52.7 60,56.7 "/>
+<polygon fill="#271E5B" points="60.4,96.7 77.3,109.3 76.1,65.2 57.9,55.5 "/>
+<polygon fill="#5E44AD" points="118.6,102 77.3,109.3 76.1,65.2 118.6,58.3 "/>
+<polygon fill="#4F471F" points="16.7,68.4 9.4,62.4 54.3,58.8 70.1,63.2 "/>
+<polygon fill="#EACF5E" points="70.1,112.9 16.7,123 16.7,68.4 70.1,63.3 "/>
+<polygon fill="#665F34" points="16.7,123 10.3,104.4 9.4,62.4 16.7,68.4 "/>
+<polygon fill="#1B5E20" points="64.4,10.3 74.9,5 74.9,60 65.6,56.7 "/>
+<polygon fill="#4CAF50" points="118.6,53.1 74.9,60 74.9,6.7 74.9,5 117.8,8.2 "/>
+<polygon fill="#E24949" points="68.8,59.2 14.7,63.2 14.7,5 68.8,7 "/>
+<polygon fill="#9B1B1B" points="14.7,5 9.4,10.7 9.4,59.2 14.7,63.2 "/>
+</svg>

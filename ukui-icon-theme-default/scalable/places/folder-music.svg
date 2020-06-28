@@ -1,1 +1,93 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128"><defs><style>.cls-1{isolation:isolate;}.cls-2{fill:url(#未命名的渐变_3);}.cls-3{fill:#fff;}.cls-4{fill:url(#未命名的渐变_2);}.cls-5{opacity:0.45;mix-blend-mode:overlay;}.cls-6{fill:url(#未命名的渐变_11);}.cls-7{mask:url(#mask);}.cls-8{fill:url(#未命名的渐变_248);}.cls-9{fill:url(#未命名的渐变_40);}.cls-10{filter:url(#luminosity-invert-noclip);}</style><linearGradient id="未命名的渐变_3" x1="55.5" y1="18.94" x2="55.5" y2="65" gradientUnits="userSpaceOnUse"><stop offset="0.07" stop-color="#f6af1f"/><stop offset="1" stop-color="#f7d33c"/></linearGradient><linearGradient id="未命名的渐变_2" x1="64" y1="106.32" x2="64" y2="42.07" gradientUnits="userSpaceOnUse"><stop offset="0.03" stop-color="#f1c528"/><stop offset="1" stop-color="#f7d33c"/></linearGradient><linearGradient id="未命名的渐变_11" x1="57.5" y1="102.21" x2="57.5" y2="83.74" gradientUnits="userSpaceOnUse"><stop offset="0.23" stop-color="#fff"/><stop offset="0.41" stop-color="#fcf0c2"/><stop offset="0.61" stop-color="#f9e286"/><stop offset="0.78" stop-color="#f7d85b"/><stop offset="0.91" stop-color="#f5d141"/><stop offset="0.99" stop-color="#f5cf37"/></linearGradient><filter id="luminosity-invert-noclip" x="63" y="-8252" width="4" height="32766" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feColorMatrix values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0" result="invert"/><feFlood flood-color="#fff" result="bg"/><feBlend in="invert" in2="bg"/></filter><mask id="mask" x="63" y="-8252" width="4" height="32766" maskUnits="userSpaceOnUse"><g class="cls-10"/></mask><linearGradient id="未命名的渐变_248" x1="65" y1="103.49" x2="65" y2="62.75" gradientUnits="userSpaceOnUse"><stop offset="0.19" stop-color="#fff"/><stop offset="0.96" stop-color="#f5cf37"/></linearGradient><linearGradient id="未命名的渐变_40" x1="71.23" y1="78.49" x2="71.23" y2="48.94" gradientUnits="userSpaceOnUse"><stop offset="0.05" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0.25"/></linearGradient></defs><title>128</title><g class="cls-1"><g id="文件夹"><g id="白面"><g id="_128" data-name="128"><path class="cls-2" d="M97,23H44.11l-4.25-5.3a2,2,0,0,0-1.6-.7H12.77C10.14,17,8,18.62,8,20.61V72a6,6,0,0,0,6,6H97a6,6,0,0,0,6-6V29A6,6,0,0,0,97,23Z"/><path class="cls-3" d="M19,29H91.92A4.08,4.08,0,0,1,96,33.08V69.92A4.08,4.08,0,0,1,91.92,74H19.08A4.08,4.08,0,0,1,15,69.92V33A4,4,0,0,1,19,29Z"/><path class="cls-4" d="M15,37h98a7,7,0,0,1,7,7v57a10,10,0,0,1-10,10H18A10,10,0,0,1,8,101V44a7,7,0,0,1,7-7Z"/></g></g><g id="Music"><g id="_128-2" data-name="128"><image class="cls-5" width="44" height="65" transform="translate(43.24 45.24)" xlink:href="data:image/png;base64,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"/><path class="cls-6" d="M63.25,88.21a10.77,10.77,0,0,0-5.75-1.64c-5.25,0-9.5,3.52-9.5,7.86s4.25,7.86,9.5,7.86a10.77,10.77,0,0,0,5.75-1.64,7,7,0,0,0,0-12.44Z"/><g class="cls-7"><path class="cls-8" d="M63,65.89v34.76a7.41,7.41,0,0,0,4-6.22V66.57A12,12,0,0,0,63,65.89Z"/></g><path class="cls-9" d="M78.3,63.58c-1.36-2.64-3.68-4.12-5.92-5.55A16.57,16.57,0,0,1,68,54.51l-.2-.26a6.82,6.82,0,0,1-1.53-2.61,1.65,1.65,0,0,0-1.74-1.35A1.6,1.6,0,0,0,63,51.85v14.2a24.33,24.33,0,0,1,3.29.44h0c.31.12.65.25,1,.42h0A11.24,11.24,0,0,1,74,75.42a1.54,1.54,0,0,0-.56,2.67A1.69,1.69,0,0,0,75.75,78,11.87,11.87,0,0,0,77,76.34l.11-.15a16.3,16.3,0,0,0,2.38-7.44A10,10,0,0,0,78.3,63.58Z"/></g></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<g>
+	<g id="文件夹">
+		<g id="白面">
+			<g id="_128">
+				
+					<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="55.5" y1="109.06" x2="55.5" y2="63" gradientTransform="matrix(1 0 0 -1 0 128)">
+					<stop  offset="7.000000e-02" style="stop-color:#F6AF1F"/>
+					<stop  offset="1" style="stop-color:#F7D33C"/>
+				</linearGradient>
+				<path fill="url(#SVGID_1_)" d="M97,23H44.1l-4.3-5.3c-0.4-0.5-1-0.7-1.6-0.7H12.8C10.1,17,8,18.6,8,20.6V72c0,3.3,2.7,6,6,6h83
+					c3.3,0,6-2.7,6-6V29C103,25.7,100.3,23,97,23z"/>
+				<path fill="#FFFFFF" d="M19,29h72.9c2.3,0,4.1,1.8,4.1,4.1v0v36.8c0,2.3-1.8,4.1-4.1,4.1c0,0,0,0,0,0H19.1
+					c-2.3,0-4.1-1.8-4.1-4.1l0,0V33C15,30.8,16.8,29,19,29z"/>
+				
+					<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="64" y1="21.68" x2="64" y2="85.93" gradientTransform="matrix(1 0 0 -1 0 128)">
+					<stop  offset="3.000000e-02" style="stop-color:#F1C528"/>
+					<stop  offset="1" style="stop-color:#F7D33C"/>
+				</linearGradient>
+				<path fill="url(#SVGID_2_)" d="M15,37h98c3.9,0,7,3.1,7,7v57c0,5.5-4.5,10-10,10H18c-5.5,0-10-4.5-10-10V44
+					C8,40.1,11.1,37,15,37z"/>
+			</g>
+		</g>
+		<g id="Music">
+			<g id="_128-2">
+				
+					<image overflow="visible" opacity="0.1" enable-background="new    " width="44" height="65" xlink:href="data:image/png;base64,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" transform="matrix(1 0 0 1 43.24 45.24)">
+				</image>
+				
+					<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="57.5201" y1="25.79" x2="57.5201" y2="44.26" gradientTransform="matrix(1 0 0 -1 0 128)">
+					<stop  offset="0.23" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.41" style="stop-color:#FCF0C2"/>
+					<stop  offset="0.61" style="stop-color:#F9E286"/>
+					<stop  offset="0.78" style="stop-color:#F7D85B"/>
+					<stop  offset="0.91" style="stop-color:#F5D141"/>
+					<stop  offset="0.99" style="stop-color:#F5CF37"/>
+				</linearGradient>
+				<path fill="url(#SVGID_3_)" d="M63.3,88.2c-1.7-1.1-3.7-1.6-5.8-1.6c-5.3,0-9.5,3.5-9.5,7.9s4.3,7.9,9.5,7.9c2,0,4-0.6,5.8-1.6
+					c3.4-1.8,4.8-6,3-9.4C65.6,89.9,64.5,88.9,63.3,88.2z"/>
+				<g>
+					
+						<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="65" y1="24.51" x2="65" y2="65.25" gradientTransform="matrix(1 0 0 -1 0 128)">
+						<stop  offset="0.19" style="stop-color:#FFFFFF"/>
+						<stop  offset="0.96" style="stop-color:#F5CF37"/>
+					</linearGradient>
+					<path fill="url(#SVGID_4_)" d="M63,65.9v34.8c2.3-1.2,3.9-3.6,4-6.2V66.6C65.7,66.1,64.4,65.9,63,65.9z"/>
+				</g>
+				
+					<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="71.2495" y1="49.497" x2="71.2495" y2="79.047" gradientTransform="matrix(1 0 0 -1 0 128)">
+					<stop  offset="5.000000e-02" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.25"/>
+				</linearGradient>
+				<path fill="url(#SVGID_5_)" d="M78.3,63.6c-1.4-2.6-3.7-4.1-5.9-5.5c-1.6-0.9-3.1-2.1-4.4-3.5l-0.2-0.3
+					c-0.7-0.7-1.2-1.6-1.5-2.6c-0.2-0.8-0.9-1.4-1.7-1.3c-0.8,0-1.5,0.7-1.5,1.6V66c1.1,0.1,2.2,0.2,3.3,0.4l0,0
+					c0.3,0.1,0.7,0.3,1,0.4l0,0c3.5,1.5,6.1,4.7,6.7,8.5c-0.8,0.2-1.3,1.1-1.1,1.9c0.1,0.3,0.3,0.6,0.5,0.8c0.7,0.6,1.7,0.5,2.3-0.1
+					c0.5-0.5,0.9-1.1,1.3-1.7l0.1-0.2c1.4-2.3,2.2-4.8,2.4-7.4C79.6,67,79.2,65.2,78.3,63.6z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
