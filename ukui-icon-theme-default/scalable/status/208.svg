@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="图层_2" opacity="0.8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#1F2022;stroke-linecap:round;stroke-miterlimit:10;}
-</style>
-<line class="st0" x1="6.5" y1="14.5" x2="9.5" y2="14.5"/>
-<line class="st0" x1="6.5" y1="12.5" x2="12.5" y2="12.5"/>
-<line class="st0" x1="6.5" y1="10.5" x2="14.5" y2="10.5"/>
-<line class="st0" x1="3.5" y1="8.5" x2="15.5" y2="8.5"/>
-<line class="st0" x1="1.5" y1="6.5" x2="13.5" y2="6.5"/>
-<line class="st0" x1="3.5" y1="4.5" x2="14.5" y2="4.5"/>
-<line class="st0" x1="0.5" y1="2.5" x2="14.5" y2="2.5"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>208-烈风Strong Gale</title>
+    <desc>Created with Sketch.</desc>
+    <g id="208-烈风Strong-Gale" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(5.000000, 6.000000)" id="路径">
+            <path d="M36,3 C36,4.65685425 37.3431458,6 39,6 C40.6568542,6 42,4.65685425 42,3 C42,1.34314575 40.6568542,-8.8817842e-16 39,-8.8817842e-16 C37.3431458,-8.8817842e-16 36,1.34314575 36,3 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M16.29,4.9 C18.219638,2.23055683 21.7492704,1.26752985 24.7672619,2.58705891 C27.7852534,3.90658797 29.4750227,7.15164666 28.8256496,10.3808484 C28.1762765,13.6100502 25.3634626,15.9496665 22.07,16 L2,16" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+            <path d="M41.78,14.9 C43.0170833,13.0944057 45.0612943,12.0106375 47.25,12 C51.1159932,11.9751472 54.2701471,15.0890068 54.2951476,18.955 C54.3198527,22.8209932 51.2059932,25.9751471 47.34,26 L0,26" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+            <path d="M29.28,47.1 C31.2089589,49.7683433 34.7367559,50.7316925 37.7541763,49.4140763 C40.7715966,48.09646 42.4628849,44.8540939 41.8168462,41.6255381 C41.1708074,38.3969824 38.3620974,36.0550726 35.07,36 L2,36" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+            <line x1="7" y1="46" x2="18" y2="46" stroke="#FFFFFF" stroke-width="4" opacity="0.68" stroke-linecap="round"></line>
+        </g>
+    </g>
 </svg>

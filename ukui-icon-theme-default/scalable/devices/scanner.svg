@@ -1,1 +1,37 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 96 96"><defs><style>.cls-1{fill:url(#未命名的渐变_251);}.cls-2{fill:#ccc;}.cls-3{fill:url(#未命名的渐变_16);}.cls-4{fill:#1ee2a6;}.cls-5{fill:#ffd357;}.cls-6{fill:#ccfeff;}.cls-7{fill:#fff;}.cls-8{fill:url(#未命名的渐变_255);}.cls-9{fill:#206366;}</style><linearGradient id="未命名的渐变_251" x1="48" y1="56" x2="48" y2="88" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#255f6d"/><stop offset="1" stop-color="#448d99"/></linearGradient><linearGradient id="未命名的渐变_16" x1="21.92" y1="8.83" x2="21.92" y2="8.82" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#e6e6e6"/><stop offset="1" stop-color="#ccc"/></linearGradient><linearGradient id="未命名的渐变_255" x1="48" y1="8" x2="48" y2="54" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1db8bc"/><stop offset="1" stop-color="#62d7dd"/></linearGradient></defs><title>scanner96</title><g id="_96" data-name="96"><path class="cls-1" d="M90,80.37a8.25,8.25,0,0,0-.27-2.06L86.32,56H9.5L6.27,78.31A8.25,8.25,0,0,0,6,80.37H6v.08H6A7.5,7.5,0,0,0,13.37,88H82.63A7.5,7.5,0,0,0,90,80.46h0v-.08Z"/><path class="cls-2" d="M48.24,15a3,3,0,0,0-.1-.45l.13,1A4.36,4.36,0,0,0,48.24,15Z"/><path class="cls-2" d="M16.11,11.16a3.25,3.25,0,0,0-.06.45Z"/><path class="cls-2" d="M70.93,12a3.26,3.26,0,0,0-.09-.45l.12,1A3,3,0,0,0,70.93,12Z"/><path class="cls-3" d="M21.91,8.82h0Z"/><circle class="cls-4" cx="80.5" cy="81.5" r="2.5"/><circle class="cls-5" cx="72.5" cy="81.5" r="2.5"/><polygon class="cls-6" points="86.18 76 77.81 12 77.31 12 12.23 76 86.18 76"/><polygon class="cls-7" points="18.19 12 9.82 76 12.23 76 77.31 12 76.72 12 18.19 12"/><path class="cls-8" d="M81.19,10.71A4.72,4.72,0,0,0,77.36,8H18.85a4.61,4.61,0,0,0-4.06,2.89,5.06,5.06,0,0,0-.36,1.18h0L6,54H90S82.17,13.66,81.19,10.71Z"/><rect class="cls-9" x="6" y="54" width="84" height="2" rx="0.95"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 96" enable-background="new 0 0 96 96" xml:space="preserve">
+<title>scanner96</title>
+<g id="_96">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="48" y1="40" x2="48" y2="8" gradientTransform="matrix(1 0 0 -1 0 96)">
+		<stop  offset="0" style="stop-color:#255F6D"/>
+		<stop  offset="1" style="stop-color:#448D99"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M90,80.4c0-0.7-0.1-1.4-0.3-2.1L86.3,56H9.5L6.3,78.3C6.1,79,6,79.7,6,80.4l0,0v0.1l0,0
+		c0,4.1,3.3,7.5,7.4,7.5h69.3C86.7,87.9,90,84.6,90,80.4L90,80.4L90,80.4L90,80.4z"/>
+	<path fill="#CCCCCC" d="M48.2,15c0-0.2-0.1-0.3-0.1-0.4l0.1,1C48.3,15.4,48.3,15.2,48.2,15z"/>
+	<path fill="#CCCCCC" d="M16.1,11.2c0,0.1-0.1,0.3-0.1,0.4L16.1,11.2z"/>
+	<path fill="#CCCCCC" d="M70.9,12c0-0.2,0-0.3-0.1-0.4l0.1,1C71,12.4,71,12.2,70.9,12z"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="21.91" y1="87.18" x2="21.91" y2="87.18" gradientTransform="matrix(1 0 0 -1 0 96)">
+		<stop  offset="0" style="stop-color:#E6E6E6"/>
+		<stop  offset="1" style="stop-color:#CCCCCC"/>
+	</linearGradient>
+	<path fill="url(#SVGID_2_)" d="M21.9,8.8L21.9,8.8z"/>
+	<circle fill="#1EE2A6" cx="80.5" cy="81.5" r="2.5"/>
+	<circle fill="#FFD357" cx="72.5" cy="81.5" r="2.5"/>
+	<polygon fill="#CCFEFF" points="86.2,76 77.8,12 77.3,12 12.2,76 	"/>
+	<polygon fill="#FFFFFF" points="18.2,12 9.8,76 12.2,76 77.3,12 76.7,12 	"/>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="48" y1="88" x2="48" y2="42" gradientTransform="matrix(1 0 0 -1 0 96)">
+		<stop  offset="0" style="stop-color:#1DB8BC"/>
+		<stop  offset="1" style="stop-color:#62D7DD"/>
+	</linearGradient>
+	<path fill="url(#SVGID_3_)" d="M81.2,10.7C80.5,9.2,79,8.2,77.4,8H18.9c-1.8,0.1-3.4,1.2-4.1,2.9c-0.2,0.4-0.3,0.8-0.4,1.2l0,0
+		L6,54h84C90,54,82.2,13.7,81.2,10.7z"/>
+	<path fill="#206366" d="M6.9,54h82.1c0.5,0,0.9,0.4,0.9,1V55c0,0.5-0.4,1-0.9,1H6.9C6.4,56,6,55.6,6,55V55C6,54.4,6.4,54,6.9,54z"
+		/>
+</g>
+</svg>

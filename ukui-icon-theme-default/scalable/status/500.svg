@@ -1,24 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="图层_1" opacity="0.8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#1F2022;}
-	.st1{fill:none;stroke:#1F2022;stroke-linecap:round;stroke-miterlimit:10;}
-</style>
-<g id="图层_5_x5F_复制_x5F_2">
-	<g>
-		<path class="st0" d="M8,3c2.8,0,5,2.2,5,5s-2.2,5-5,5s-5-2.2-5-5S5.2,3,8,3 M8,2C4.7,2,2,4.7,2,8s2.7,6,6,6s6-2.7,6-6S11.3,2,8,2
-			L8,2z"/>
-	</g>
-	<g>
-		<line class="st1" x1="0.5" y1="10.5" x2="14" y2="10.5"/>
-	</g>
-	<g>
-		<line class="st1" x1="2" y1="7.5" x2="15.5" y2="7.5"/>
-	</g>
-	<g>
-		<line class="st1" x1="0.5" y1="5.5" x2="8" y2="5.5"/>
-	</g>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="64px" viewBox="0 0 65 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>500-薄雾-Mist </title>
+    <desc>Created with Sketch.</desc>
+    <g id="500-薄雾-Mist-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1.000000, 0.000000)">
+        <g transform="translate(4.000000, 9.000000)" fill-rule="nonzero">
+            <path d="M9.84,35 C4.50291472,35.0947508 0.0985206038,30.847017 0,25.51 C0.0420686109,22.9434804 1.10283505,20.4989924 2.94856816,18.7151589 C4.79430128,16.9313253 7.27353839,15.9545294 9.84,16 L9.84,16 C9.84,15.83 9.84,15.65 9.84,15.48 C9.84,6.94 17,1.77635684e-15 25.92,1.77635684e-15 C31.7641997,-0.0449928159 37.1778656,3.06710041 40.08,8.14 C40.7163707,8.05254254 41.3576737,8.00578087 42,8 C49.5922265,7.8662234 55.8576985,13.9079285 56,21.5 C55.9342953,25.1469225 54.4222375,28.6183033 51.7965951,31.1501727 C49.1709528,33.6820421 45.6469005,35.0669103 42,35 L9.84,35 Z" id="路径" fill="#FFFFFF"></path>
+            <g id="编组" opacity="0.9" transform="translate(8.000000, 42.000000)" fill="#3DD0FF">
+                <path d="M37.53,3 L2.47,3 C1.64157288,3 0.97,2.32842712 0.97,1.5 C0.97,0.671572875 1.64157288,0 2.47,0 L37.53,0 C38.3584271,0 39.03,0.671572875 39.03,1.5 C39.03,2.32842712 38.3584271,3 37.53,3 Z" id="路径"></path>
+            </g>
+        </g>
+    </g>
 </svg>
