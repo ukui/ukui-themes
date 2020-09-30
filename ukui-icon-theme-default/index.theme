@@ -441,9 +441,7 @@ Type=Fixed
 [96x96/mimetypes]
 Context=MimeTypes
 Size=96
-MinSize=65
-MaxSize=96
-Type=Scalable
+Type=Fixed
 
 [128x128/mimetypes]
 Context=MimeTypes

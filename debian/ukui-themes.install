@@ -1,6 +1,5 @@
 debian/25_ukui-themes.gschema.override usr/share/glib-2.0/schemas/
 ukui-custom.xml usr/share/mime/packages/
-ukui-icon-theme-basic usr/share/icons/
 ukui-icon-theme-classical usr/share/icons/
 ukui-icon-theme-default usr/share/icons/
 ukui-black usr/share/themes/

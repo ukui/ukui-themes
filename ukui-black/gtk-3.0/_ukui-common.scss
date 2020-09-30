@@ -49,12 +49,16 @@
 	color: $button_fg_color;
     background-image: image($button_bg_color);
 	border-style:none;
+    &:focus {
+		color: $bt_hover_fg_color;
+        background-image: image($bt_hover_bg_color);
+    }
     &:hover {
 		color: $bt_hover_fg_color;
         background-image: image($bt_hover_bg_color);
     }
 
-    &:active {		
+    &:active {
 		color: $bt_active_fg_color;
         background-image:image( $bt_active_bg_color);
     }
@@ -103,9 +107,9 @@ menubar,
 	@extend %menuitem_base_class;
 	border-radius:0px;
 	color: $headerbar_normal_fg_color;
-	background-color: $change_bg_color; 
+	background-color: $change_bg_color;
     &:backdrop {
-        background-color: $change_bg_color;  
+        background-color: $change_bg_color;
     }
     > menuitem {
 		margin-bottom:3px;
@@ -133,7 +137,7 @@ menubar,
 			margin-left:5px;
 			margin-right:5px;
 			&:disabled{
-				background-color:$menuitem_insensitive_bg_color;			
+				background-color:$menuitem_insensitive_bg_color;
 			}
         }
     }
@@ -242,6 +246,10 @@ combobox {
 			border-radius: 4px;
             min-height: 23px;
             background-color: $combobox_dropdown_menuitem_normal_bg_color;
+            &:focus {
+                color: $active_fg_color;
+                background-color: $active_bg_color;
+            }
             &:hover {
                 color: $active_fg_color;
                 background-color: $active_bg_color;
@@ -323,7 +331,7 @@ entry {
 		button{
 			border-radius: 10px;
 			border-width:0;
-			background-image: $notebook_tab_closebutton_active_bg_image;		
+			background-image: $notebook_tab_closebutton_active_bg_image;
 		}
 	}
 
@@ -385,7 +393,7 @@ check,
 radio {
 	border-radius: 4px;
 	color:$crb_fg_color;
-    margin: 2px 6px 0 -6px;
+    margin: 2px 6px 0 0px;
     &:only-child {
         margin: 0;
     }
@@ -409,44 +417,49 @@ radio {
     -gtk-icon-source: none;
 	background-image: image($crb_bg_color);
 	border-color:$crb_bd_color;
+	&:focus{
+		border-color:$crb_hover_bd_color;
+		background-image: image($crb_hover_bg_color);
+		color:$crb_hover_fg_color;
+	}
 	&:hover{
-		border-color:$crb_hover_bd_color;	
-		background-image: image($crb_hover_bg_color);	
+		border-color:$crb_hover_bd_color;
+		background-image: image($crb_hover_bg_color);
 		color:$crb_hover_fg_color;
 	}
 	&:checked{
         background-image: image($crb_active_bg_color);
-		border-color:$crb_active_bd_color;        
+		border-color:$crb_active_bd_color;
         color: $crb_active_fg_color;
         &:disabled {
 		    background-image: image($crb_disable_bg_color);
 			border-color:$crb_disable_bd_color;
-        	color: $crb_disable_fg_color;	
-        }	
+        	color: $crb_disable_fg_color;
+        }
 	}
     &:selected {
         background-image: image($crb_active_bg_color);
-		border-color:$crb_active_bd_color;        
-        color: $crb_active_fg_color;	
+		border-color:$crb_active_bd_color;
+        color: $crb_active_fg_color;
         &:disabled {
 		    background-image: image($crb_disable_bg_color);
 			border-color:$crb_disable_bd_color;
-        	color: $crb_disable_fg_color;	
+        	color: $crb_disable_fg_color;
         }
 	}
     &:disabled {
         background-image: image($crb_disable_bg_color);
 		border-color:$crb_disable_bd_color;
-        color: $crb_disable_fg_color;	
+        color: $crb_disable_fg_color;
     }
     &:backdrop {
         background-image: image($crb_backdrop_bg_color);
 		border-color:$crb_backdrop_bd_color;
-        color: $crb_backdrop_fg_color;	
+        color: $crb_backdrop_fg_color;
         &:disabled {
 		    background-image: image($crb_disable_bg_color);
 			border-color:$crb_disable_bd_color;
-        	color: $crb_disable_fg_color;	
+        	color: $crb_disable_fg_color;
         }
     }
 
@@ -523,7 +536,7 @@ menu menuitem {
 		@extend %check;
 	}
 	radio{
-		@extend %radio;	
+		@extend %radio;
 	}
 }
 
@@ -532,37 +545,37 @@ treeview.view check {
 		background-image: image($bg_color);
 		&:checked{
 				background-image: image($crb_active_bg_color);
-				border-color:$crb_active_bd_color;        
+				border-color:$crb_active_bd_color;
 				color: $crb_active_fg_color;
 			&:disabled {
 					background-image: image($crb_active_bg_color);
-					border-color:$crb_active_bd_color;        
+					border-color:$crb_active_bd_color;
 					color: $crb_active_fg_color;
 				&:hover{
 						background-image: image($crb_active_bg_color);
-						border-color:$crb_active_bd_color;        
-						color: $crb_active_fg_color;				
+						border-color:$crb_active_bd_color;
+						color: $crb_active_fg_color;
 				}
-			}	
+			}
 		}
 		&:disabled {
 				background-image: image($bg_color);
 				border-color:$crb_disable_bd_color;
 				color: $crb_disable_fg_color;
 				&:hover{
-					border-color:$crb_hover_bd_color;	
-					background-image: image($crb_hover_bg_color);	
+					border-color:$crb_hover_bd_color;
+					background-image: image($crb_hover_bg_color);
 					color:$crb_hover_fg_color;
 				}
 		}
 		&:backdrop {
 				background-image: image($crb_backdrop_bg_color);
 				border-color:$crb_backdrop_bd_color;
-				color: $crb_backdrop_fg_color;	
+				color: $crb_backdrop_fg_color;
 			&:disabled {
 					background-image: image($crb_disable_bg_color);
 					border-color:$crb_disable_bd_color;
-					color: $crb_disable_fg_color;	
+					color: $crb_disable_fg_color;
 			}
 		}
 }
@@ -627,7 +640,7 @@ spinbutton {
 scale {
     trough {
         @include trough_colors(highlight);
-		
+
         slider {
             /* scale slider */
 
@@ -970,7 +983,7 @@ scrolledwindow {
 toolbar {
     @extend %toolbar;
     padding: 4px 3px 3px 4px;
-	
+
     // on OSD
     .osd & {
         background-color: transparent;
@@ -1120,7 +1133,7 @@ button:visited {
  * Emoji *
  ********/
 
-popover.emoji-picker { 
+popover.emoji-picker {
 	padding-left: 0;
     padding-right: 0;
 }

@@ -1,22 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="图层_32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#808080;}
-</style>
-<g>
-	<g>
-		<path class="st0" d="M10,2v8H2V2H10 M11,1H1v10h10V1L11,1z"/>
-	</g>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="d" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<title>16</title>
+<g id="_16">
+	<path style="fill:#808080;" d="M7,4c1.618-0.039,2.961,1.241,3,2.858C10.001,6.906,10.001,6.953,10,7
+		c0.039,1.618-1.241,2.961-2.858,3C7.094,10.001,7.047,10.001,7,10c-1.657,0-3-1.343-3-3S5.343,4,7,4 M7,3C4.791,3,3,4.791,3,7
+		s1.791,4,4,4c2.164,0.045,3.955-1.674,4-3.838C11.001,7.108,11.001,7.054,11,7c0.045-2.164-1.674-3.955-3.838-4
+		C7.108,2.999,7.054,2.999,7,3z"/>
+	<circle style="fill:#808080;" cx="7" cy="7" r="1"/>
+	<path style="fill:none;stroke:#808080;stroke-linecap:round;stroke-linejoin:round;" d="M14.5,2.5v9c0,1.657-1.343,3-3,3h-9"/>
+	<path style="fill:#808080;" d="M11,2c0.552,0,1,0.448,1,1v8c0,0.552-0.448,1-1,1H3c-0.552,0-1-0.448-1-1V3c0-0.552,0.448-1,1-1H11
+		 M11,1H3C1.895,1,1,1.895,1,3v8c0,1.105,0.895,2,2,2h8c1.105,0,2-0.895,2-2V3C13,1.895,12.105,1,11,1z"/>
 </g>
-<rect x="12" y="2" class="st0" width="1" height="11"/>
-<rect x="2" y="12" class="st0" width="11" height="1"/>
-<g>
-	<g>
-		<path class="st0" d="M6,4c1.1,0,2,0.9,2,2S7.1,8,6,8S4,7.1,4,6S4.9,4,6,4 M6,3C4.3,3,3,4.4,3,6s1.3,3,3,3s3-1.3,3-3S7.7,3,6,3L6,3
-			z"/>
-	</g>
-</g>
-<circle class="st0" cx="6" cy="6" r="1"/>
 </svg>

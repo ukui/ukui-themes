@@ -1,1 +1,16 @@
-<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{opacity:0.75;}.cls-2{fill:#1f2022;}</style></defs><title>b-视频</title><g class="cls-1"><path class="cls-2" d="M13.5,2A1.5,1.5,0,0,1,15,3.5v9A1.5,1.5,0,0,1,13.5,14H2.5A1.5,1.5,0,0,1,1,12.5v-9A1.5,1.5,0,0,1,2.5,2h11m0-1H2.5A2.5,2.5,0,0,0,0,3.5v9A2.5,2.5,0,0,0,2.5,15h11A2.5,2.5,0,0,0,16,12.5v-9A2.5,2.5,0,0,0,13.5,1Z"/><path class="cls-2" d="M10.82,7.6,6.73,5A.48.48,0,0,0,6,5.4v5.2a.48.48,0,0,0,.73.4l4.09-2.6A.47.47,0,0,0,10.82,7.6Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#808080;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M13.5,2C14.3,2,15,2.7,15,3.5v9c0,0.8-0.7,1.5-1.5,1.5h-11C1.7,14,1,13.3,1,12.5v-9C1,2.7,1.7,2,2.5,2H13.5
+			 M13.5,1h-11C1.1,1,0,2.1,0,3.5v9C0,13.9,1.1,15,2.5,15h11c1.4,0,2.5-1.1,2.5-2.5v-9C16,2.1,14.9,1,13.5,1L13.5,1z"/>
+	</g>
+	<path class="st0" d="M10.8,7.6L6.7,5C6.5,4.9,6.2,4.9,6.1,5.2C6,5.2,6,5.3,6,5.4v5.2c0,0.3,0.2,0.5,0.5,0.5c0.1,0,0.2,0,0.2-0.1
+		l4.1-2.6C11,8.3,11.1,8,11,7.8C10.9,7.7,10.9,7.6,10.8,7.6z"/>
+</g>
+</svg>

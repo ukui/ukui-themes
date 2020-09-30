@@ -1,1 +1,16 @@
-<svg id="连接" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{opacity:0.75;}.cls-2{fill:#1f2022;}</style></defs><title>insert-link-symbolic</title><g class="cls-1"><path class="cls-2" d="M9,2.9l.07-.07a2.89,2.89,0,0,1,4.09.08A3,3,0,0,1,14.06,5a3,3,0,0,1-.86,2.08L11,9.27l.67.73,2.19-2.21A4,4,0,0,0,15.05,5a4,4,0,0,0-1.19-2.8,1.59,1.59,0,0,0-.13-.13,3.87,3.87,0,0,0-5.46.13L6.07,4.49l.72.69Z"/><rect class="cls-2" x="5.08" y="7.53" width="5.92" height="1" transform="translate(-3.32 8.03) rotate(-45)"/><path class="cls-2" d="M16,11H9l.11.16-2,2L7,13.27a2.89,2.89,0,0,1-4.09-.09l-.09-.09A2.89,2.89,0,0,1,2.9,9L5.1,6.78l-.7-.7L2.2,8.27l-.12.12a3.87,3.87,0,0,0,.12,5.47A4,4,0,0,0,5,15.06a3.9,3.9,0,0,0,2.78-1.2L9.69,12l2.81,4Z"/></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="i" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<title>16</title>
+<g id="_16">
+	<path style="fill:#808080;" d="M10.35,11h4.39c0.237-0.006,0.434,0.182,0.44,0.42c0.002,0.093-0.026,0.185-0.08,0.26l-2.2,3.14
+		c-0.144,0.196-0.419,0.239-0.615,0.095c-0.036-0.027-0.068-0.059-0.095-0.095L10,11.68c-0.138-0.193-0.093-0.462,0.1-0.6
+		C10.173,11.028,10.26,11,10.35,11z"/>
+	<path style="fill:none;stroke:#808080;stroke-linecap:round;stroke-miterlimit:10;" d="M9.09,12l-1.45,1.45
+		c-1.408,1.4-3.682,1.4-5.09,0l0,0c-1.4-1.408-1.4-3.682,0-5.09L4,6.91"/>
+	<path style="fill:none;stroke:#808080;stroke-linecap:round;stroke-miterlimit:10;" d="M6.91,4l1.45-1.45
+		c1.408-1.4,3.682-1.4,5.09,0l0,0c1.4,1.408,1.4,3.682,0,5.09L12,9.09"/>
+	<line style="fill:none;stroke:#808080;stroke-linecap:round;stroke-miterlimit:10;" x1="9.82" y1="6.18" x2="6.18" y2="9.82"/>
+</g>
+</svg>

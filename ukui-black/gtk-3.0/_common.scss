@@ -21,7 +21,7 @@ $button_transition: all 200ms $ease-out-quad;
     -GtkWidget-text-handle-height: 20;
     -GtkDialog-button-spacing: 5;
     -GtkDialog-action-area-border: 0;
-	
+
     // We use the outline properties to signal the focus properties
     // to the adwaita engine: using real CSS properties is faster,
     // and we don't use any outlines for now.
@@ -42,7 +42,7 @@ $button_transition: all 200ms $ease-out-quad;
 
     &:backdrop {
         color: $backdrop_fg_color;
-        -gtk-icon-shadow: none;		
+        -gtk-icon-shadow: none;
 	}
 }
 .background.rubberband {
@@ -131,7 +131,7 @@ rubberband {
                                   transparentize($base_selected_bg_color, 0.65));
 }
 
-flowbox {	
+flowbox {
     rubberband {
         @extend rubberband;
     }
@@ -159,7 +159,7 @@ flowbox {
     }
 }
 
-label {	
+label {
     caret-color: currentColor;
     &.separator {
         @extend .dim-label;
@@ -303,7 +303,7 @@ entry {
             }
         }
 		&:hover{
-			border-color:	$active_bd_color;		
+			border-color:	$active_bd_color;
 		}
         &:focus {
             @include entry(focus);
@@ -435,7 +435,7 @@ entry {
             border-top-color: $drop_target_color;
         }
 
-        // this takes care of coloring the top border of the focused entry subsequent widget.     
+        // this takes care of coloring the top border of the focused entry subsequent widget.
 		// :not(:only-child) is a specificity bump hack.
         &:focus:not(:only-child) {
             + %entry,
@@ -571,7 +571,7 @@ button {
 
         &:hover {
             @include button(hover);
-			
+
             -gtk-icon-effect: highlight;
         }
 
@@ -1455,14 +1455,14 @@ headerbar {
     @include headerbar_fill;
 	border-style:none;
 	box-shadow:none;
-    &:backdrop {		
+    &:backdrop {
 		border-style:none;
         background-image: none;
         box-shadow: inset 0 1px $top_hilight;
         transition: $backdrop_transition;
     }
 
-    .title {		
+    .title {
 		border-style:none;
         padding-left: 12px;
         padding-right: 12px;
@@ -1473,7 +1473,7 @@ headerbar {
         font-size: smaller;
         padding-left: 12px;
         padding-right: 12px;
-        @extend .dim-label;		
+        @extend .dim-label;
 		border-style:none;
     }
     &.selection-mode {
@@ -2005,7 +2005,7 @@ notebook {
             color: $base_normal_fg_color;
             background-color:  $notebook_tab_normal_bg_color ;
 
-            // for reorderable 
+            // for reorderable
             border-color: $base_normal_border_color;
             &:hover {
                 color: $base_normal_fg_color;
@@ -2171,8 +2171,8 @@ scrollbar {
 
     // slider
     slider {
-        min-width: 4px;
-		min-height: 4px;
+        min-width: 8px;
+		min-height: 8px;
         margin: -1px;
         border-style:none;
         border-radius: 6px;
@@ -2330,7 +2330,7 @@ switch {
     border: 1px solid $bg_color;
     border-radius: 0px;
     background-color: $dark_fill;
-	
+
     &:disabled {
         background-color: $disable_bg_color;
     }
@@ -2356,7 +2356,7 @@ switch {
     .osd & {
         border-color: $osd_borders_color;
         background-color: transparentize($osd_borders_color, 0.2);
-		
+
         &:disabled {
             background-color: $disable_bg_color;
         }
@@ -3690,7 +3690,7 @@ infobar {
 				background-image: image($bt_hover_bg_color);
 			}
 
-			&:active {		
+			&:active {
 				color: $bt_active_fg_color;
 				background-image:image( $bt_active_bg_color);
 			}

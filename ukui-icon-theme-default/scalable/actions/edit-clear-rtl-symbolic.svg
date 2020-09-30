@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="edit-clear-rtl-symbolic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#808080;}
-</style>
-<title>14</title>
-<g id="_14">
-	<path class="st0" d="M10,11H0V2h9.9L14,6.5L10,11z M1,10h8.5l3-3.5L9.4,3H1V10z"/>
-	<polygon class="st0" points="8,4 7.4,4 5.5,5.9 3.6,4 3,4 3,4.6 4.9,6.5 3,8.4 3,9 3.6,9 5.5,7.1 7.4,9 8,9 8,8.4 6.1,6.5 8,4.6 	
-		"/>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<title>16</title>
+<g id="_16">
+	<path style="fill:#808080;" d="M10.08,4c0.317-0.003,0.618,0.136,0.82,0.38l3,3.61l-3,3.63c-0.202,0.244-0.503,0.383-0.82,0.38H2.9
+		c-0.552,0-1-0.448-1-1V5c0-0.552,0.448-1,1-1H10.08 M10.08,3H2.9c-1.105,0-2,0.895-2,2v6c0,1.105,0.895,2,2,2h7.18
+		c0.618-0.001,1.204-0.276,1.6-0.75l3-3.63c0.287-0.363,0.287-0.877,0-1.24l-3-3.63C11.284,3.276,10.698,3.001,10.08,3z"/>
+	<line style="fill:none;stroke:#808080;stroke-linecap:round;stroke-miterlimit:10;" x1="4.5" y1="6" x2="8.5" y2="10"/>
+	<line style="fill:none;stroke:#808080;stroke-linecap:round;stroke-miterlimit:10;" x1="8.5" y1="6" x2="4.5" y2="10"/>
 </g>
 </svg>

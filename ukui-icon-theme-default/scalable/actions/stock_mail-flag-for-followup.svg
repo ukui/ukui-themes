@@ -1,15 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="旗帜" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#808080;}
-</style>
-<title>14</title>
-<g id="_14">
-	<g>
-		<path class="st0" d="M10.6,2L8.9,3.8L8.2,4.5l0.7,0.7L10.6,7H2V2H10.6 M13,1H1v7h12L9.6,4.5L13,1L13,1z"/>
-	</g>
-	<rect x="1" y="1" class="st0" width="1" height="12"/>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="s" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<title>16</title>
+<g id="_16">
+	<path style="fill:#808080;" d="M11.63,3l-1.42,1.46c-0.547,0.581-0.547,1.489,0,2.07L11.57,8H3V3H11.63 M12.82,2H2v7h10.72
+		c0.276-0.004,0.497-0.23,0.493-0.507C13.212,8.37,13.164,8.251,13.08,8.16l-2.15-2.31c-0.184-0.193-0.184-0.497,0-0.69l2.25-2.31
+		c0.193-0.197,0.19-0.514-0.007-0.707C13.079,2.051,12.952,1.999,12.82,2z"/>
+	<line style="fill:none;stroke:#808080;stroke-linecap:round;stroke-miterlimit:10;" x1="2.5" y1="14.5" x2="2.5" y2="2.5"/>
 </g>
 </svg>

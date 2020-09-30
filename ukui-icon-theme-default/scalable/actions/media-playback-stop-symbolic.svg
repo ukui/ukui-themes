@@ -1,1 +1,10 @@
-<svg id="gtk-media-stop" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{opacity:0.75;}.cls-2{fill:#1f2022;}</style></defs><title>media-playback-stop-symbolic</title><g class="cls-1"><path class="cls-2" d="M10.5,13h-5A2.5,2.5,0,0,1,3,10.5v-5A2.5,2.5,0,0,1,5.5,3h5A2.5,2.5,0,0,1,13,5.5v5A2.5,2.5,0,0,1,10.5,13Zm-5-9A1.5,1.5,0,0,0,4,5.5v5A1.5,1.5,0,0,0,5.5,12h5A1.5,1.5,0,0,0,12,10.5v-5A1.5,1.5,0,0,0,10.5,4Z"/></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<title>16</title>
+<g id="m">
+	<path id="_16" style="fill:none;stroke:#808080;stroke-miterlimit:10;" d="M11.5,13.5h-7c-1.105,0-2-0.895-2-2v-7
+		c0-1.105,0.895-2,2-2h7c1.105,0,2,0.895,2,2v7C13.5,12.605,12.605,13.5,11.5,13.5z"/>
+</g>
+</svg>

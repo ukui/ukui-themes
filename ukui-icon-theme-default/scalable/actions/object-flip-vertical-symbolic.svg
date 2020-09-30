@@ -1,1 +1,16 @@
-<svg id="object-flip-horizontal" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{opacity:0.75;}.cls-2{fill:#1f2022;}</style></defs><title>object-flip-vertical-symbolic</title><g id="_16" data-name=" 16" class="cls-1"><path class="cls-2" d="M4,1.7,11.3,6H4V1.7M3,0V7H15Z"/><path class="cls-2" d="M11.3,10,4,14.3V10h7.3M15,9H3v7Z"/><rect class="cls-2" x="1" width="1" height="7"/><rect class="cls-2" x="1" y="9" width="1" height="7"/></g></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="O" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<title>16</title>
+<g id="_16">
+	<g id="&#x53F3;">
+		<path style="fill:#808080;" d="M5,1.74L12.3,6H5V1.74 M4.5,0.37C4.224,0.37,4,0.594,4,0.87V6.5C4,6.776,4.224,7,4.5,7h9.65
+			c0.276-0.003,0.498-0.229,0.495-0.505C14.643,6.32,14.55,6.159,14.4,6.07L4.75,0.44C4.675,0.394,4.588,0.369,4.5,0.37z"/>
+		<path style="fill:#808080;" d="M12.3,10L5,14.26V10H12.3 M14.15,9H4.5C4.224,9,4,9.224,4,9.5v5.63c0,0.276,0.224,0.5,0.5,0.5
+			c0.088,0.001,0.175-0.024,0.25-0.07l9.65-5.63c0.237-0.141,0.316-0.448,0.175-0.685C14.486,9.095,14.325,9.002,14.15,9z"/>
+		<line style="fill:none;stroke:#808080;stroke-linecap:round;stroke-miterlimit:10;" x1="2.5" y1="1.5" x2="2.5" y2="6.5"/>
+		<line style="fill:none;stroke:#808080;stroke-linecap:round;stroke-miterlimit:10;" x1="2.5" y1="9.5" x2="2.5" y2="14.5"/>
+	</g>
+</g>
+</svg>
