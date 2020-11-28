@@ -1,19 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="65px" height="64px" viewBox="0 0 65 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
-    <title>507-沙尘暴-Duststorm</title>
-    <desc>Created with Sketch.</desc>
-    <g id="507-沙尘暴-Duststorm" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1.000000, 0.000000)">
-        <g transform="translate(5.000000, 10.000000)">
-            <circle id="椭圆形" fill="#D6C8B1" fill-rule="nonzero" cx="51" cy="10" r="2"></circle>
-            <circle id="椭圆形" fill="#D6C8B1" fill-rule="nonzero" cx="51" cy="22" r="2"></circle>
-            <circle id="椭圆形" fill="#D6C8B1" fill-rule="nonzero" cx="51" cy="35" r="2"></circle>
-            <path d="M40.5,0 C39.1192881,0 38,1.11928813 38,2.5 C38,3.88071187 39.1192881,5 40.5,5 C41.8807119,5 43,3.88071187 43,2.5 C43,1.83695878 42.7366079,1.20107399 42.267767,0.732233047 C41.798926,0.263392101 41.1630412,0 40.5,0 Z" id="路径" fill="#D6C8B1" fill-rule="nonzero"></path>
-            <path d="M40.5,13 C39.1192881,13 38,14.1192881 38,15.5 C38,16.8807119 39.1192881,18 40.5,18 C41.8807119,18 43,16.8807119 43,15.5 C43,14.8369588 42.7366079,14.201074 42.267767,13.732233 C41.798926,13.2633921 41.1630412,13 40.5,13 L40.5,13 Z" id="路径" fill="#D6C8B1" fill-rule="nonzero"></path>
-            <path d="M40.5,26 C39.1192881,26 38,27.1192881 38,28.5 C38,29.8807119 39.1192881,31 40.5,31 C41.8807119,31 43,29.8807119 43,28.5 C43,27.8369588 42.7366079,27.201074 42.267767,26.732233 C41.798926,26.2633921 41.1630412,26 40.5,26 Z" id="路径" fill="#D6C8B1" fill-rule="nonzero"></path>
-            <path d="M40.5,39 C39.1192881,39 38,40.1192881 38,41.5 C38,42.8807119 39.1192881,44 40.5,44 C41.8807119,44 43,42.8807119 43,41.5 C43,40.8369588 42.7366079,40.201074 42.267767,39.732233 C41.798926,39.2633921 41.1630412,39 40.5,39 Z" id="路径" fill="#D6C8B1" fill-rule="nonzero"></path>
-            <path d="M18.82,5.11 C20.1566575,3.16739424 22.3619614,2.00493747 24.72,2 C26.6800196,2.02895767 28.548233,2.8354558 29.9135442,4.24202641 C31.2788554,5.64859702 32.0293919,7.53998682 32,9.5 C32.0618125,13.5433938 28.8622465,16.8855588 24.82,17 L0,17" id="路径" stroke="#F2F2F2" stroke-width="4" stroke-linecap="round"></path>
-            <path d="M17.82,39.89 C19.1566575,41.8326058 21.3619614,42.9950625 23.72,43 C27.7143812,42.8220824 30.8689992,39.5457571 30.8958242,35.5475044 C30.9223092,31.5492516 27.811654,28.2311579 23.82,28 L7,28" id="路径" stroke="#F2F2F2" stroke-width="4" stroke-linecap="round"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.75;}
+	.st1{fill:#1F2022;}
+</style>
+<g class="st0">
+	<path class="st1" d="M14,5c-1.1,0-2,0.9-2,2c0,0.4,0.1,0.7,0.3,1H0.5C0.2,8,0,8.2,0,8.5S0.2,9,0.5,9H14c1.1,0,2-0.9,2-2
+		S15.1,5,14,5z"/>
+	<path class="st1" d="M11,11H0.5C0.2,11,0,11.2,0,11.5S0.2,12,0.5,12h8.8C9.1,12.3,9,12.6,9,13c0,1.1,0.9,2,2,2s2-0.9,2-2
+		S12.1,11,11,11z"/>
+	<path class="st1" d="M0.5,6H8c1.1,0,2-0.9,2-2S9.1,2,8,2S6,2.9,6,4c0,0.4,0.1,0.7,0.3,1H0.5C0.2,5,0,5.2,0,5.5S0.2,6,0.5,6z"/>
+</g>
 </svg>

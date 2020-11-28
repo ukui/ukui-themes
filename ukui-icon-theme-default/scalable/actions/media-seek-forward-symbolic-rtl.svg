@@ -1,1 +1,12 @@
-media-seek-backward-symbolic.svg
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_2_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.75;fill:#1F2022;}
+</style>
+<path class="st0" d="M13.7,2.1c-0.2-0.1-0.4-0.1-0.5,0L10,4.5v-2c0-0.2-0.1-0.4-0.3-0.4C9.6,2,9.4,2,9.2,2.1L1.7,7.6
+	C1.6,7.7,1.5,7.8,1.5,8s0.1,0.3,0.2,0.4l7.5,5.5C9.3,14,9.4,14,9.5,14c0.1,0,0.2,0,0.2-0.1c0.2-0.1,0.3-0.3,0.3-0.4v-1.9l3.2,2.3
+	c0.1,0.1,0.2,0.1,0.3,0.1c0.1,0,0.2,0,0.2-0.1c0.2-0.1,0.3-0.3,0.3-0.4v-11C14,2.3,13.9,2.1,13.7,2.1z M9,12.5L2.8,8L9,3.5V12.5z
+	 M13,12.5l-3-2.2V5.7l3-2.2V12.5z"/>
+</svg>

@@ -1,17 +1,15 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="f" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<title>16</title>
-<g id="_16">
-	<path style="fill:#808080;" d="M2.5,7C3.328,7,4,7.672,4,8.5S3.328,10,2.5,10S1,9.328,1,8.5S1.672,7,2.5,7 M2.5,6
-		C1.119,6,0,7.119,0,8.5S1.119,11,2.5,11S5,9.881,5,8.5S3.881,6,2.5,6z"/>
-	<path style="fill:#808080;" d="M8.5,7C9.328,7,10,7.672,10,8.5S9.328,10,8.5,10S7,9.328,7,8.5C7.021,7.68,7.68,7.021,8.5,7 M8.5,6
-		C7.119,6,6,7.119,6,8.5S7.119,11,8.5,11S11,9.881,11,8.5C11.011,7.13,9.91,6.011,8.54,6C8.527,6,8.513,6,8.5,6z"/>
-	<path style="fill:none;stroke:#808080;stroke-linecap:round;stroke-miterlimit:10;" d="M15.1,9.7c-0.371,0.511-0.968,0.81-1.6,0.8
-		c-1.105,0-2-0.895-2-2s0.895-2,2-2c0.632-0.01,1.229,0.289,1.6,0.8"/>
-	<line style="fill:none;stroke:#808080;stroke-miterlimit:10;" x1="4.5" y1="6" x2="4.5" y2="11"/>
-	<line style="fill:none;stroke:#808080;stroke-miterlimit:10;" x1="6.5" y1="4" x2="6.5" y2="11"/>
-	<line style="fill:none;stroke:#808080;stroke-miterlimit:10;" x1="0" y1="8.5" x2="16" y2="8.5"/>
-</g>
+<svg version="1.1" id="文字编辑" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.75;fill:#1F2022;}
+</style>
+<path class="st0" d="M16,8h-3.9c0.2-0.6,0.8-1,1.4-1c0.5,0,0.9,0.2,1.2,0.6c0.2,0.2,0.5,0.3,0.7,0.1c0.2-0.2,0.3-0.5,0.1-0.7
+	c-0.5-0.7-1.2-1-2-1c-1.2,0-2.2,0.9-2.4,2H11c-0.2-1.2-1.2-2-2.5-2C7.9,6,7.4,6.2,7,6.5V4H6v4H5V6H4v0.5C3.6,6.2,3.1,6,2.5,6
+	C1.3,6,0.3,6.8,0,8h0v1h0c0.2,1.2,1.2,2,2.5,2c0.6,0,1.1-0.2,1.5-0.5V11h1V9h1v2h1v-0.5C7.4,10.8,7.9,11,8.5,11c1.2,0,2.2-0.8,2.5-2
+	h0.1c0.2,1.1,1.2,2,2.4,2c0.8,0,1.5-0.3,2-1c0.2-0.2,0.1-0.5-0.1-0.7c-0.2-0.2-0.5-0.1-0.7,0.1C14.4,9.8,14,10,13.5,10
+	c-0.7,0-1.2-0.4-1.4-1H16V8z M8.5,7c0.6,0,1.2,0.4,1.4,1H7.1C7.3,7.4,7.9,7,8.5,7z M2.5,7c0.6,0,1.2,0.4,1.4,1H1.1
+	C1.3,7.4,1.9,7,2.5,7z M2.5,10c-0.6,0-1.2-0.4-1.4-1h2.8C3.7,9.6,3.1,10,2.5,10z M8.5,10c-0.6,0-1.2-0.4-1.4-1h2.8
+	C9.7,9.6,9.1,10,8.5,10z"/>
 </svg>

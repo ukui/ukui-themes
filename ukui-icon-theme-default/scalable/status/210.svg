@@ -1,14 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="65px" height="64px" viewBox="0 0 65 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
-    <title>210-狂爆风-Violent Storm</title>
-    <desc>Created with Sketch.</desc>
-    <g id="210-狂爆风-Violent-Storm" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1.000000, 0.000000)" stroke-linecap="round" stroke-linejoin="round">
-        <g transform="translate(10.000000, 4.000000)" stroke="#FFFFFF" stroke-width="4">
-            <ellipse id="椭圆形" cx="21.88" cy="27.93" rx="13.62" ry="13.49"></ellipse>
-            <ellipse id="椭圆形" opacity="0.7" cx="21.71" cy="27.98" rx="6.4" ry="6.34"></ellipse>
-            <path d="M28.33,16.06 C35.2642791,19.7185557 40.4465369,25.9994137 42.7214617,33.5023447 C44.9963864,41.0052758 44.1748491,49.1065133 40.44,56" id="路径"></path>
-            <path d="M15.67,39.94 C8.73572088,36.2814443 3.55346307,30.0005863 1.27853832,22.4976553 C-0.996386444,14.9947242 -0.174849141,6.89348669 3.56,0" id="路径"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_2_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.75;}
+	.st1{fill:#1F2022;}
+</style>
+<g class="st0">
+	<path class="st1" d="M9.5,14h-3C6.2,14,6,14.2,6,14.5S6.2,15,6.5,15h3c0.3,0,0.5-0.2,0.5-0.5S9.8,14,9.5,14z"/>
+	<path class="st1" d="M12.5,12h-6C6.2,12,6,12.2,6,12.5S6.2,13,6.5,13h6c0.3,0,0.5-0.2,0.5-0.5S12.8,12,12.5,12z"/>
+	<path class="st1" d="M14.5,10h-8C6.2,10,6,10.2,6,10.5S6.2,11,6.5,11h8c0.3,0,0.5-0.2,0.5-0.5S14.8,10,14.5,10z"/>
+	<path class="st1" d="M15.5,8h-12C3.2,8,3,8.2,3,8.5S3.2,9,3.5,9h12C15.8,9,16,8.8,16,8.5S15.8,8,15.5,8z"/>
+	<path class="st1" d="M14,6.5C14,6.2,13.8,6,13.5,6h-12C1.2,6,1,6.2,1,6.5S1.2,7,1.5,7h12C13.8,7,14,6.8,14,6.5z"/>
+	<path class="st1" d="M14.5,4h-11C3.2,4,3,4.2,3,4.5S3.2,5,3.5,5h11C14.8,5,15,4.8,15,4.5S14.8,4,14.5,4z"/>
+	<path class="st1" d="M15,2.5C15,2.2,14.8,2,14.5,2h-14C0.2,2,0,2.2,0,2.5S0.2,3,0.5,3h14C14.8,3,15,2.8,15,2.5z"/>
+</g>
 </svg>

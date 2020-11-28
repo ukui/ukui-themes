@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="v" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<title>16</title>
-<g id="_16">
-	<path style="fill:#808080;" d="M7,9v3.37C6.981,13.271,7.148,14.166,7.49,15l0,0c0.348-0.833,0.522-1.728,0.51-2.63V9H7z"/>
-	<path style="fill:#808080;" d="M5,1h5L9.15,1.85C9.052,1.944,8.998,2.074,9,2.21v3.58C8.998,5.926,9.052,6.056,9.15,6.15l1,1
-		c0.193,0.197,0.19,0.514-0.007,0.707C10.049,7.949,9.922,8.001,9.79,8H5.21C4.934,8.002,4.709,7.779,4.707,7.503
-		C4.706,7.371,4.758,7.244,4.85,7.15l1-1C5.948,6.056,6.002,5.926,6,5.79V2.21c0.002-0.136-0.052-0.266-0.15-0.36L5,1z"/>
-</g>
-</svg>
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{fill:#1f2022;opacity:0.75;isolation:isolate;}</style></defs><title>view-pin-symbolic</title><path class="cls-1" d="M5,1,6,2V6L4,8h7L9,6V2l1-1ZM7,9v3.37A6.49,6.49,0,0,0,7.49,15h0A6.49,6.49,0,0,0,8,12.37V9Z"/></svg>

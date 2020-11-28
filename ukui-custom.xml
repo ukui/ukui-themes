@@ -59,5 +59,20 @@
 		<glob pattern="*.elf" weight="60" />
 		<generic-icon name="ukui-shared-lib"/>
 	</mime-type>
+	<mime-type type="application/x-war">
+		<comment>war Document</comment>
+		<comment xml:lang="zh_CN">war 文档</comment>
+		<comment xml:lang="zh_TW">war 文件</comment>
+		<generic-icon name="application-x-archive"/>
+		<icon name="application-x-archive"/>
+		<glob pattern="*.war" weight="60"/>
+	</mime-type>
+	<mime-type type="application/x-ear">
+		<comment>war Document</comment>
+		<comment xml:lang="zh_CN">ear 文档</comment>
+		<comment xml:lang="zh_TW">ear 文件</comment>
+		<generic-icon name="application-x-archive"/>
+		<icon name="application-x-archive"/>
+		<glob pattern="*.ear" weight="60"/>
+	</mime-type>
 </mime-info>
-

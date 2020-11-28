@@ -3,14 +3,8 @@
 <svg version="1.1" id="图层_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.75;}
-	.st1{fill:#1F2022;}
+	.st0{opacity:0.75;fill:#1F2022;}
 </style>
-<g id="图层_2_2_" class="st0">
-	<path class="st1" d="M6,8.8l-4.6,4.8C1,14,2.7,15,3.1,15L6,14.9V8.8z"/>
-	<g>
-		<path class="st1" d="M14,1.9L14,1.9L14,1.9 M14,1.9V14H1.9L14,1.9 M14,0.9c-0.2,0-0.5,0.1-0.7,0.3L1.2,13.3C0.6,13.9,1,15,1.9,15
-			H14c0.6,0,1-0.4,1-1V1.9C15,1.3,14.5,0.9,14,0.9L14,0.9z"/>
-	</g>
-</g>
+<path class="st0" d="M14,0.9c-0.2,0-0.5,0.1-0.7,0.3L1.2,13.3C0.6,13.9,1,15,1.9,15H14c0.6,0,1-0.4,1-1V1.9C15,1.3,14.5,0.9,14,0.9z
+	 M14,14H6V9.9l8-8V14z"/>
 </svg>

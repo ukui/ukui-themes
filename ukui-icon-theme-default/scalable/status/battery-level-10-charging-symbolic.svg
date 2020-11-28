@@ -5,7 +5,7 @@
 <style type="text/css">
 	.st0{opacity:0.75;}
 	.st1{fill:#1F2022;}
-	.st2{opacity:0.75;fill:#E40000;}
+	.st2{fill:#E40000;enable-background:new    ;}
 </style>
 <g class="st0">
 	<path class="st1" d="M5.2,12H2c-0.6,0-1-0.4-1-1V5c0-0.6,0.4-1,1-1h4.3l0.8-1H2C0.9,3,0,3.9,0,5v6c0,1.1,0.9,2,2,2h2.8L5.2,12z"/>

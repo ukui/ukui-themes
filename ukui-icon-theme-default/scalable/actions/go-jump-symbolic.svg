@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="g" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<title>16</title>
-<g id="_16">
-	<path style="fill:none;stroke:#808080;stroke-linecap:round;stroke-miterlimit:10;" d="M11.5,11.5V6
-		c0.011-2.474-1.986-4.489-4.46-4.5c-0.013,0-0.027,0-0.04,0l0,0C4.526,1.489,2.511,3.486,2.5,5.96c0,0.013,0,0.027,0,0.04v8.5"/>
-	<polyline style="fill:none;stroke:#808080;stroke-linecap:round;stroke-linejoin:round;" points="14,8.5 11.5,12.5 9,8.5 	"/>
-</g>
+<svg version="1.1" id="图层_2_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.75;fill:#1F2022;enable-background:new    ;}
+</style>
+<path class="st0" d="M14.3,8.1C14,7.9,13.7,8,13.6,8.2L12,10.8V6c0-2.8-2.2-5-5-5S2,3.2,2,6v8.5C2,14.8,2.2,15,2.5,15S3,14.8,3,14.5
+	V6c0-2.2,1.8-4,4-4s4,1.8,4,4v4.8L9.4,8.2C9.3,8,9,7.9,8.7,8.1C8.5,8.2,8.4,8.5,8.6,8.8l2.5,4c0.1,0.1,0.3,0.2,0.4,0.2
+	s0.3-0.1,0.4-0.2l2.5-4C14.6,8.5,14.5,8.2,14.3,8.1z"/>
 </svg>
