@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ukui-dark
+_Comment=ukui-dark is an awesome GTK+ theme. It's another name is Genisys.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ukui-dark
+MetacityTheme=ukui-dark
+IconTheme=ukui

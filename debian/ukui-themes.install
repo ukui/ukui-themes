@@ -1,6 +1,18 @@
+
 debian/25_ukui-themes.gschema.override usr/share/glib-2.0/schemas/
 ukui-custom.xml usr/share/mime/packages/
-ukui-icon-theme-classical usr/share/icons/
-ukui-icon-theme-default usr/share/icons/
-ukui-black usr/share/themes/
-ukui-white usr/share/themes/
+
+icons/ukui-classical icons/ukui icons/ukui-icon-theme-default usr/share/icons/
+
+dark-sense/*.theme /usr/share/icons/dark-sense
+dark-sense/cursors /usr/share/icons/dark-sense/
+blue-crystal/*.theme /usr/share/icons/blue-crystal
+blue-crystal/cursors /usr/share/icons/blue-crystal/
+
+
+themes/ukui-dark themes/ukui-light themes/ukui-white themes/ukui-black themes/ukui usr/share/themes/
+themes/ukui-light/gtk-3.0/ usr/share/themes/ukui/
+themes/ukui-light/gtk-3.0/ usr/share/themes/ukui-white/
+themes/ukui-dark/gtk-3.0/ usr/share/themes/ukui-black/
+
+

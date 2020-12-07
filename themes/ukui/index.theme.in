@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ukui
+_Comment=ukui-white is an awesome GTK+ theme. 
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ukui
+MetacityTheme=ukui
+IconTheme=ukui

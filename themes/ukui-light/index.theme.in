@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ukui-light
+_Comment=ukui-light is an awesome GTK+ theme. 
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ukui-light
+MetacityTheme=ukui-light
+IconTheme=ukui-icon-theme-default
