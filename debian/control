@@ -6,7 +6,8 @@ Uploaders: Aron Xu <aron@debian.org>,
            handsome_feng <jianfengli@ubuntukylin.com>
 Build-Depends: debhelper-compat (= 13),
                sass,
-Standards-Version: 4.5.0
+               x11-apps
+Standards-Version: 4.5.1
 Rules-Requires-Root: no
 Homepage: https://www.ukui.org
 Vcs-Git: https://github.com/ukui/ukui-themes.git
