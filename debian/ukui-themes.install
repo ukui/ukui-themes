@@ -15,4 +15,8 @@ themes/ukui-light/gtk-3.0/ usr/share/themes/ukui/
 themes/ukui-light/gtk-3.0/ usr/share/themes/ukui-white/
 themes/ukui-dark/gtk-3.0/ usr/share/themes/ukui-black/
 
+themes/ukui-light/gtk-2.0/ usr/share/themes/ukui/
+themes/ukui-light/gtk-2.0/ usr/share/themes/ukui-white/
+themes/ukui-dark/gtk-2.0/ usr/share/themes/ukui-black/
+
 
