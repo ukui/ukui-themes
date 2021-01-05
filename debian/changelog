@@ -1,3 +1,10 @@
+ukui-themes (1.4.1-1) unstable; urgency=medium
+
+  * New upstream release.
+    - Define @text_view_bg. (Closes: #970982)
+
+ -- handsome_feng <jianfengli@ubuntukylin.com>  Tue, 05 Jan 2021 03:07:22 +0000
+
 ukui-themes (1.4.0-1) unstable; urgency=medium
 
   * New upstream release.
