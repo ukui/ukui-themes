@@ -1,9 +1,0 @@
-
-debian/25_ukui-themes.gschema.override usr/share/glib-2.0/schemas/
-ukui-custom.xml usr/share/mime/packages/
-
-
-
-
-
-
