@@ -1,6 +1,6 @@
 project(
   'ukui-themes',
-  version: '2.0.7'
+  version: '1.4.1'
 )
 
 install_subdir(
