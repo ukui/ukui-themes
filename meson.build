@@ -2,6 +2,11 @@ project(
   'ukui-themes',
   version: '1.4.1'
 )
+install_subdir(
+  'themes/ukui-dark/gtk-2.0',
+  install_dir: '/usr/share/themes/ukui-black',
+
+)
 
 install_subdir(
   'themes',
@@ -9,11 +14,7 @@ install_subdir(
 
 )
 
-install_subdir(
-  'themes/ukui-dark/gtk-2.0',
-  install_dir: '/usr/share/themes/ukui-black',
 
-)
 
 install_subdir(
   'themes/ukui-dark/gtk-3.0',
@@ -48,7 +49,7 @@ install_data(
 )
 
 install_data(
-  'debian/25_ukui-theme.gschema.override',
+  'debian/25_ukui-themes.gschema.override',
   install_dir : '/usr/share/glib-2.0/schemas/',
 )
 
@@ -67,3 +68,4 @@ install_subdir(
   install_dir: '/usr/share/icons',
 )
 
+subdir('themes')
