@@ -5,6 +5,12 @@ project(
 install_subdir(
   'themes/ukui-dark/gtk-2.0',
   install_dir: '/usr/share/themes/ukui-black',
+)
+
+install_subdir(
+  'themes',
+  install_dir: get_option('datadir'),
+>>>>>>> upstream/master
 
 )
 
@@ -15,6 +21,11 @@ install_subdir(
 )
 
 
+install_subdir(
+  'themes/ukui-dark/gtk-2.0',
+  install_dir: '/usr/share/themes/ukui-black',
+
+)
 
 install_subdir(
   'themes/ukui-dark/gtk-3.0',
