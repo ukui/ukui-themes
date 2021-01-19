@@ -10,13 +10,6 @@ install_subdir(
 install_subdir(
   'themes',
   install_dir: get_option('datadir'),
->>>>>>> upstream/master
-
-)
-
-install_subdir(
-  'themes',
-  install_dir: get_option('datadir'),
 
 )
 
