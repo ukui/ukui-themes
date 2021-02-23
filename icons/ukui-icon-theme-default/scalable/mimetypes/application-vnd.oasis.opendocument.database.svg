@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 96" enable-background="new 0 0 96 96" xml:space="preserve">
+<title>96</title>
+<g id="libreoffice">
+	<g id="libreoffice-bse">
+		<g id="_96">
+			<g id="_48">
+				
+					<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="48" y1="90" x2="48" y2="6" gradientTransform="matrix(1 0 0 -1 0 96)">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.99" style="stop-color:#F2DFF7"/>
+				</linearGradient>
+				<path fill="url(#SVGID_1_)" d="M82,69V15c0-5-4-9-9-9H23c-5,0-9,4-9,9v66c0,5,4,9,9,9h38.2L82,69z"/>
+				
+					<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="14" y1="48" x2="82" y2="48" gradientTransform="matrix(1 0 0 -1 0 96)">
+					<stop  offset="0" style="stop-color:#A727C1"/>
+					<stop  offset="1" style="stop-color:#9323B5"/>
+				</linearGradient>
+				<path fill="url(#SVGID_2_)" d="M73,10c2.8,0,5,2.2,5,5v52.3L59.5,86H23c-2.8,0-5-2.2-5-5V15c0-2.8,2.2-5,5-5H73 M73,6H23
+					c-5,0-9,4-9,9v66c0,5,4,9,9,9h38.2L82,69V15C82,10,78,6,73,6z"/>
+			</g>
+			
+				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="63.6598" y1="-678.9703" x2="70.4798" y2="-684.6503" gradientTransform="matrix(1 0 0 -1 0 -606)">
+				<stop  offset="0" style="stop-color:#A727C1;stop-opacity:0.5"/>
+				<stop  offset="1" style="stop-color:#9323B5;stop-opacity:0.7"/>
+			</linearGradient>
+			<path fill="url(#SVGID_3_)" d="M67,69h15L61,90V75C61,71.7,63.7,69,67,69z"/>
+			<rect x="61" y="23" fill="#C07CCA" width="9" height="3"/>
+			<rect x="61" y="29" fill="#C07CCA" width="9" height="3"/>
+			<rect x="61" y="35" fill="#C07CCA" width="9" height="3"/>
+			<rect x="61" y="41" fill="#C07CCA" width="9" height="3"/>
+			<rect x="61" y="41" fill="#C07CCA" width="9" height="3"/>
+			<rect x="61" y="47" fill="#C07CCA" width="9" height="3"/>
+			<rect x="61" y="53" fill="#C07CCA" width="9" height="3"/>
+			<rect x="61" y="53" fill="#C07CCA" width="9" height="3"/>
+			<rect x="61" y="59" fill="#C07CCA" width="9" height="3"/>
+			<rect x="61" y="65" fill="#C07CCA" width="9" height="3"/>
+			<rect x="44" y="23" fill="#C07CCA" width="9" height="3"/>
+			<rect x="44" y="29" fill="#C07CCA" width="9" height="3"/>
+			<rect x="44" y="35" fill="#C07CCA" width="9" height="3"/>
+			<rect x="44" y="41" fill="#C07CCA" width="9" height="3"/>
+			<rect x="44" y="41" fill="#C07CCA" width="9" height="3"/>
+			<rect x="44" y="47" fill="#C07CCA" width="9" height="3"/>
+			<rect x="44" y="53" fill="#C07CCA" width="9" height="3"/>
+			<rect x="44" y="53" fill="#C07CCA" width="9" height="3"/>
+			<rect x="44" y="59" fill="#C07CCA" width="9" height="3"/>
+			<rect x="44" y="65" fill="#C07CCA" width="9" height="3"/>
+			<rect x="26" y="23" fill="#C07CCA" width="9" height="3"/>
+			<rect x="26" y="29" fill="#C07CCA" width="9" height="3"/>
+			<rect x="26" y="35" fill="#C07CCA" width="9" height="3"/>
+			<rect x="26" y="41" fill="#C07CCA" width="9" height="3"/>
+			<rect x="26" y="41" fill="#C07CCA" width="9" height="3"/>
+			<rect x="26" y="47" fill="#C07CCA" width="9" height="3"/>
+			<rect x="26" y="53" fill="#C07CCA" width="9" height="3"/>
+			<rect x="26" y="53" fill="#C07CCA" width="9" height="3"/>
+			<rect x="26" y="59" fill="#C07CCA" width="9" height="3"/>
+			<rect x="26" y="65" fill="#C07CCA" width="9" height="3"/>
+			
+				<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="33.18" y1="17.5" x2="63.82" y2="17.5" gradientTransform="matrix(1 0 0 1 0 26)">
+				<stop  offset="0" style="stop-color:#E699F2"/>
+				<stop  offset="0.51" style="stop-color:#D766E9"/>
+				<stop  offset="1" style="stop-color:#F1C1FA"/>
+			</linearGradient>
+			<path fill="url(#SVGID_4_)" d="M48.5,58.8c-10.1,0-14.6-5.4-15.3-6.1V33.4c0.7-0.9,5.7-5.2,15.3-5.2s14.4,4,15.3,5.2v19.1
+				C63.3,53.2,58.6,58.8,48.5,58.8z"/>
+			<path fill="#A223B5" d="M48.5,29c8.5,0,13.2,3.3,14.5,4.6v18.5c-1,1.2-5.5,5.9-14.5,5.9S35,53.5,34,52.3V33.7
+				C35,32.5,39.6,29,48.5,29 M48.5,27c-11.1,0-16.3,5.2-16.5,6.1v19.8c0.2,0.7,5.4,7.1,16.5,7.1s16.3-6.6,16.5-7.3V32.9
+				C64.8,32.2,59.6,27,48.5,27z"/>
+			<path fill="none" stroke="#A223B5" stroke-width="2" stroke-miterlimit="10" d="M64,34c0,4-7,7-15.5,7S33,38,33,34"/>
+			<path fill="none" stroke="#A223B5" stroke-width="2" stroke-miterlimit="10" d="M64,43c0,4-7,7-15.5,7S33,47,33,43"/>
+		</g>
+	</g>
+</g>
+</svg>

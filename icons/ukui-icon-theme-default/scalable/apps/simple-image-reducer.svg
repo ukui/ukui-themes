@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>simple-image-reducer-112</title>
+<polygon fill="#F5F5F5" points="115.4,40.7 69.4,120 12.6,87.3 58.6,8 "/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-94.4636" y1="344.3291" x2="-94.4636" y2="403.208" gradientTransform="matrix(0.5 -0.866 -0.866 -0.5 434.9248 169.0764)">
+	<stop  offset="0" style="stop-color:#CCE0F4"/>
+	<stop  offset="0" style="stop-color:#CADBEB"/>
+	<stop  offset="0" style="stop-color:#C5CCD1"/>
+	<stop  offset="0" style="stop-color:#BDB5A8"/>
+	<stop  offset="0" style="stop-color:#B2956F"/>
+	<stop  offset="0" style="stop-color:#AA7D45"/>
+	<stop  offset="0.55" style="stop-color:#A69693"/>
+	<stop  offset="0.89" style="stop-color:#4264A1"/>
+</linearGradient>
+<polygon fill="url(#SVGID_1_)" points="110.6,42.2 68.3,115.1 17.4,85.8 59.7,12.9 "/>
+<polygon fill="#F5F5F5" points="120.5,64.5 45.2,117 7.5,63.5 82.8,11 "/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="81.7199" y1="-57.8011" x2="81.7199" y2="0.9953" gradientTransform="matrix(0.82 -0.57 -0.57 -0.82 -19.2 87.29)">
+	<stop  offset="0" style="stop-color:#CCE0F4"/>
+	<stop  offset="0" style="stop-color:#CAD9EB"/>
+	<stop  offset="0" style="stop-color:#C5C5D1"/>
+	<stop  offset="0" style="stop-color:#BCA4A8"/>
+	<stop  offset="0" style="stop-color:#B1786F"/>
+	<stop  offset="0" style="stop-color:#AA5F4F"/>
+	<stop  offset="0.48" style="stop-color:#B26945"/>
+	<stop  offset="0.89" style="stop-color:#B98D50"/>
+</linearGradient>
+<polygon fill="url(#SVGID_2_)" points="115.5,63.8 46.2,112.1 12.5,64.2 81.8,15.9 "/>
+<polygon fill="#F5F5F5" points="115,88.2 24.4,104.1 13,39.8 103.6,23.9 "/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="219.53" y1="-533.6235" x2="219.53" y2="-475.0082" gradientTransform="matrix(0.9848 -0.1736 -0.1736 -0.9848 -239.7683 -394.5331)">
+	<stop  offset="0" style="stop-color:#CCE0F4"/>
+	<stop  offset="0" style="stop-color:#CDDDEB"/>
+	<stop  offset="0" style="stop-color:#D0D5D1"/>
+	<stop  offset="0" style="stop-color:#D5C8A7"/>
+	<stop  offset="0" style="stop-color:#DCB66E"/>
+	<stop  offset="0" style="stop-color:#E59F25"/>
+	<stop  offset="0" style="stop-color:#E99300"/>
+	<stop  offset="0.1" style="stop-color:#E29E1B"/>
+	<stop  offset="0.48" style="stop-color:#C9C57F"/>
+	<stop  offset="0.89" style="stop-color:#3F88DA"/>
+</linearGradient>
+<polygon fill="url(#SVGID_3_)" points="110.7,85.5 27.5,100.1 17.3,42.5 100.5,27.9 "/>
+</svg>

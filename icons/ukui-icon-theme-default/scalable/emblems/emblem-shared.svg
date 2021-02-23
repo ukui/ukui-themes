@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 96" enable-background="new 0 0 96 96" xml:space="preserve">
+<title>96</title>
+<g id="_96">
+	<circle fill="#FFFFFF" cx="48" cy="48" r="43.5"/>
+	<path fill="#DDDDDD" d="M48,5c23.7,0,43,19.3,43,43S71.7,91,48,91S5,71.7,5,48S24.3,5,48,5 M48,4C23.7,4,4,23.7,4,48s19.7,44,44,44
+		s44-19.7,44-44S72.3,4,48,4z"/>
+	<path fill="#999999" d="M27,42.5c3,0,5.5,2.5,5.5,5.5S30,53.5,27,53.5S21.5,51,21.5,48C21.5,45,24,42.5,27,42.5 M27,39.5
+		c-4.7,0-8.5,3.8-8.5,8.5s3.8,8.5,8.5,8.5s8.5-3.8,8.5-8.5C35.5,43.3,31.7,39.5,27,39.5z"/>
+	<path fill="#999999" d="M60,58.5c3,0,5.5,2.5,5.5,5.5S63,69.5,60,69.5S54.5,67,54.5,64C54.5,61,57,58.5,60,58.5 M60,55.5
+		c-4.7,0-8.5,3.8-8.5,8.5s3.8,8.5,8.5,8.5s8.5-3.8,8.5-8.5C68.5,59.3,64.7,55.5,60,55.5z"/>
+	<path fill="#999999" d="M60,26.5c3,0,5.5,2.5,5.5,5.5S63,37.5,60,37.5S54.5,35,54.5,32C54.5,29,57,26.5,60,26.5 M60,23.5
+		c-4.7,0-8.5,3.8-8.5,8.5s3.8,8.5,8.5,8.5s8.5-3.8,8.5-8.5C68.5,27.3,64.7,23.5,60,23.5z"/>
+	
+		<line fill="none" stroke="#999999" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" x1="48.5" y1="37.5" x2="34.5" y2="44.5"/>
+	
+		<line fill="none" stroke="#999999" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" x1="48.5" y1="57.5" x2="35.5" y2="50.5"/>
+</g>
+</svg>

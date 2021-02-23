@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_44" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 96" style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<title>96</title>
+<g id="_96">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="48" y1="91.5" x2="48" y2="4.5" gradientTransform="matrix(1 0 0 -1 0 96)">
+		<stop  offset="0" style="stop-color:#EAEAEA"/>
+		<stop  offset="1" style="stop-color:#DDDDDD"/>
+	</linearGradient>
+	<circle style="fill:url(#SVGID_1_);" cx="48" cy="48" r="43.5"/>
+	<path style="fill:#CECECE;" d="M48,5c23.7,0,43,19.3,43,43S71.7,91,48,91S5,71.7,5,48S24.3,5,48,5 M48,4C23.7,4,4,23.7,4,48
+		s19.7,44,44,44s44-19.7,44-44S72.3,4,48,4z"/>
+	
+		<line style="fill:none;stroke:#3B3B3B;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;" x1="26" y1="35" x2="48" y2="48"/>
+	
+		<line style="fill:none;stroke:#3B3B3B;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;" x1="79.5" y1="29.5" x2="48" y2="48"/>
+	
+		<line style="fill:none;stroke:#F3364B;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;" x1="48" y1="39" x2="48" y2="81"/>
+	<circle style="fill:#F3364B;" cx="48" cy="48" r="6"/>
+</g>
+</svg>

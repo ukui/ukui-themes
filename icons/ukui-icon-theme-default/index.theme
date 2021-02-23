@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=ukui-icon-theme-default
+Name=ukui
 Comment=Icon theme for UKUI ,from moka.
 Inherits=gnome,hicolor
 Example=folder
