@@ -6,7 +6,12 @@ Uploaders: Aron Xu <aron@debian.org>,
            handsome_feng <jianfengli@ubuntukylin.com>
 Build-Depends: debhelper-compat (= 12),
                sass,
-               x11-apps
+               x11-apps,
+	       python3,
+	       python3-pip,
+	       python3-setuptools,
+	       python3-wheel,
+	       ninja-build
 Standards-Version: 4.5.1
 Rules-Requires-Root: no
 Homepage: https://www.ukui.org
