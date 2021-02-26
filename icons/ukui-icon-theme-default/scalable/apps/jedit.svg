@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>jedit128</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="37" y1="122.95" x2="37" y2="4.9949" gradientTransform="matrix(1 0 0 -1 0 128)">
+	<stop  offset="0" style="stop-color:#F5A816"/>
+	<stop  offset="1" style="stop-color:#E57700"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M59,27h-8.4c4.9-1.4,8.2-5.9,8.2-11c0-6.1-4.9-11-11-11C41.8,5.1,37,10,37,16c0,0,0,0.1,0,0.1
+	c-0.1,5.1,3.2,9.6,8,11h-8v74H15c0,12.2,9.9,22,22,22s22-9.9,22-22l0,0V27z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="86.011" y1="123" x2="86.011" y2="5" gradientTransform="matrix(1 0 0 -1 0 128)">
+	<stop  offset="0" style="stop-color:#F5A816"/>
+	<stop  offset="0.99" style="stop-color:#E57700"/>
+</linearGradient>
+<path fill="url(#SVGID_2_)" d="M113,23.5V5c-13.3,1.9-25.7,7.8-35.5,17c-23.2,21.2-24.8,57.2-3.6,80.4c1.1,1.3,2.3,2.5,3.6,3.6
+	c9.8,9.2,22.2,15.1,35.5,17v-18.5C97.2,100.9,84.6,89.1,80.8,74H113V54H80.8C84.6,38.9,97.2,27.1,113,23.5z"/>
+</svg>

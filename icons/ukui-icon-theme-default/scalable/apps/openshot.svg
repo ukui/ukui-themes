@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<title>openshot128</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="63.85" y1="123.0165" x2="63.85" y2="73.91" gradientTransform="matrix(1 0 0 -1 0 128)">
+	<stop  offset="0.25" style="stop-color:#31A8F7"/>
+	<stop  offset="0.99" style="stop-color:#1976D2"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M121.8,52.3C115.4,20.4,84.3-0.3,52.4,6.2C28.4,11,9.9,30,5.8,54.1c17.1-6.6,38-10.5,60.4-10.5
+	C86.6,43.6,105.7,46.8,121.8,52.3z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="64" y1="5" x2="64" y2="84.41" gradientTransform="matrix(1 0 0 -1 0 128)">
+	<stop  offset="0.42" style="stop-color:#37A7F4"/>
+	<stop  offset="0.99" style="stop-color:#1976D2"/>
+</linearGradient>
+<path fill="url(#SVGID_2_)" d="M64,123c32.6,0,59-26.4,59-59c0-3.9-0.4-7.8-1.2-11.7c-16.2-5.5-35.2-8.8-55.6-8.8
+	c-22.5,0-43.3,3.9-60.4,10.5C5.3,57.4,5,60.7,5,64C5,96.6,31.4,123,64,123z"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="63.8735" y1="32.934" x2="63.8735" y2="95.0467" gradientTransform="matrix(1 0 0 -1 0 128)">
+	<stop  offset="0.25" style="stop-color:#CCCCCC"/>
+	<stop  offset="0.99" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path fill="url(#SVGID_3_)" d="M87.1,59.2L44.2,33.5c-1.9-1.2-4.4-0.5-5.6,1.4C38.2,35.6,38,36.3,38,37v54c0,2.3,1.8,4.1,4.1,4.1
+	c0.7,0,1.4-0.2,2.1-0.6l42.9-25.7c2.6-1.6,3.5-5,1.9-7.6C88.5,60.4,87.8,59.7,87.1,59.2z"/>
+</svg>

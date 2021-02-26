@@ -9,10 +9,9 @@ install_subdir(
 
 install_subdir(
   'themes',
-  install_dir: get_option('datadir'),
+  install_dir: '/usr/share',
 
 )
-
 
 install_subdir(
   'themes/ukui-dark/gtk-2.0',
@@ -59,7 +58,7 @@ install_data(
 
 install_subdir(
   'icons',
-  install_dir: get_option('datadir'),
+  install_dir: '/usr/share',
 )
 
 install_subdir(

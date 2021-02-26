@@ -6,7 +6,8 @@ Uploaders: Aron Xu <aron@debian.org>,
            handsome_feng <jianfengli@ubuntukylin.com>
 Build-Depends: debhelper-compat (= 12),
                sass,
-               x11-apps
+               x11-apps,
+               meson,
 Standards-Version: 4.5.1
 Rules-Requires-Root: no
 Homepage: https://www.ukui.org
