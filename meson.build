@@ -13,12 +13,6 @@ install_subdir(
 
 )
 
-
-install_subdir(
-  'icons/ukui/*',
-  install_dir: '/usr/share/icons/ukui-icon-theme-default',
-
-)
 install_subdir(
   'themes/ukui-dark/gtk-2.0',
   install_dir: '/usr/share/themes/ukui-black',
