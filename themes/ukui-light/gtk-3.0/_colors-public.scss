@@ -115,7 +115,7 @@ read if you used those and something break with a version upgrade you're on your
 
 //@define-color wm_shadow alpha(black, 0.35);
 
-@define-color wm_border alpha(black, 0.18);
+@define-color wm_border alpha(white, 0.18);
 
 @define-color wm_button_hover_color_a shade(#{$active_bg_color}, 1.3);
 

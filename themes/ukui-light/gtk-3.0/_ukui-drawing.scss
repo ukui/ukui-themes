@@ -213,7 +213,7 @@
 
         $button_fill: linear-gradient(to bottom, $c, lighten($c, 4%) 60%, lighten($c, 10%)) !global;
 
-        background-image: image($bg_color);
+        // background-image: image($bg_color);
 
         //@include _button_text_shadow($tc, $c);
     }
@@ -229,7 +229,7 @@
 
        // @include _button_text_shadow($tc, lighten($c, 6%));
 
-        background-image: image($bg_color);
+        // background-image: image($bg_color);
     }
 
     @if $t == normal-alt {
@@ -242,7 +242,7 @@
 
         //@include _button_text_shadow($tc, $c);
 
-        background-image: linear-gradient(to bottom, lighten($c, 5%) 20%, $c 90%);
+        // background-image: linear-gradient(to bottom, lighten($c, 5%) 20%, $c 90%);
     }
     @else if $t == hover-alt {
         //
@@ -254,7 +254,7 @@
 
         $button_fill: linear-gradient(to bottom, lighten($c, 9%) 10%, lighten($c, 4%) 90%) !global;
 
-        background-image: $button_fill;
+        // background-image: $button_fill;
     }
     @else if $t == active {
         //
@@ -264,7 +264,7 @@
         outline-color: transparentize($tc, 0.7);
         border-color: $bg_color;
 
-        background-image: image($bg_color);
+        // background-image: image($bg_color);
         text-shadow: none;
         -gtk-icon-shadow: none;
     }
@@ -280,9 +280,9 @@
 
         border-color: $disable_bd_color;
 
-        $button_fill: image($_bg) !global;
+        // $button_fill: image($_bg) !global;
 
-        background-image: $button_fill;
+        // background-image: $button_fill;
         text-shadow: none;
         -gtk-icon-shadow: none;
 
@@ -302,9 +302,9 @@
 
         border-color: $_bc;
 
-        $button_fill: image($_bg) !global;
+        // $button_fill: image($_bg) !global;
 
-        background-image: $button_fill;
+        // background-image: $button_fill;
 
         // white with 0 alpha to avoid an ugly transition, since no color means
         // white with 0 alpha
@@ -322,9 +322,9 @@
 
         border-color: $base_backdrop_border_color;
 
-        $button_fill: image($_bg) !global;
+        // $button_fill: image($_bg) !global;
 
-        background-image: $button_fill;
+        // background-image: $button_fill;
         text-shadow: none;
         -gtk-icon-shadow: none;
     }
@@ -341,9 +341,9 @@
 
         border-color: if($c != $bg_color, $_bc, $backdrop_borders_color);
 
-        $button_fill: image($_bg) !global;
+        // $button_fill: image($_bg) !global;
 
-        background-image: $button_fill;
+        // background-image: $button_fill;
     }
     @else if $t == backdrop-insensitive {
         //
@@ -359,9 +359,9 @@
 
         border-color: if($c != $bg_color, $_bc, $backdrop_borders_color);
 
-        $button_fill: image($_bg) !global;
+        // $button_fill: image($_bg) !global;
 
-        background-image: $button_fill;
+        // background-image: $button_fill;
         text-shadow: none;
         -gtk-icon-shadow: none;
 
@@ -382,9 +382,9 @@
 
         border-color: if($c != $bg_color, $_bc, $backdrop_borders_color);
 
-        $button_fill: image($_bg) !global;
+        // $button_fill: image($_bg) !global;
 
-        background-image: $button_fill;
+        // background-image: $button_fill;
     }
     @else if $t == osd {
         //
@@ -396,9 +396,9 @@
         border-color: $osd_borders_color;
         background-color: transparent;
 
-        $button_fill: image($_bg) !global;
+        // $button_fill: image($_bg) !global;
 
-        background-image: $button_fill;
+        // background-image: $button_fill;
         background-clip: padding-box;
         box-shadow: inset 0 1px transparentize(white, 0.9);
         text-shadow: 0 1px white;
@@ -415,9 +415,9 @@
         border-color: $osd_borders_color;
         background-color: transparent;
 
-        $button_fill: image($_bg) !global;
+        // $button_fill: image($_bg) !global;
 
-        background-image: $button_fill;
+        // background-image: $button_fill;
         background-clip: padding-box;
         box-shadow: inset 0 1px transparentize(white, 0.9);
         text-shadow: 0 1px white;
@@ -434,9 +434,9 @@
         border-color: $osd_borders_color;
         background-color: transparent;
 
-        $button_fill: image($_bg) !global;
+        // $button_fill: image($_bg) !global;
 
-        background-image: $button_fill;
+        // background-image: $button_fill;
         background-clip: padding-box;
         box-shadow: none;
         text-shadow: none;
@@ -451,9 +451,9 @@
         border-color: $osd_borders_color;
         background-color: transparent;
 
-        $button_fill: image($disable_bg_color) !global;
+        // $button_fill: image($disable_bg_color) !global;
 
-        background-image: $button_fill;
+        // background-image: $button_fill;
         background-clip: padding-box;
         box-shadow: none;
         text-shadow: none;
@@ -469,9 +469,9 @@
         border-color: $osd_borders_color;
         background-color: transparent;
 
-        $button_fill: image($_bg) !global;
+        // $button_fill: image($_bg) !global;
 
-        background-image: $button_fill;
+        // background-image: $button_fill;
         background-clip: padding-box;
         box-shadow: none;
         text-shadow: none;
@@ -568,11 +568,11 @@
     $_big_gradient: -gtk-gradient(radial, $_position, 0, $_position, 0.6, from(transparentize($_big_gradient_color, 0.93)), to(transparentize($_big_gradient_color, 1)));
 
     @if $t == normal {
-        background-image: $_small_gradient, $_big_gradient;
+        // background-image: $_small_gradient, $_big_gradient;
         background-size: $_small_gradient_size, $_big_gradient_size;
     }
     @else if $t == backdrop {
-        background-image: $_small_gradient;
+        // background-image: $_small_gradient;
         background-size: $_small_gradient_size;
     }
 
@@ -618,7 +618,7 @@
         $_bg_pos: $p center;
     }
 
-    background-image: linear-gradient(to $_gradient_dir, $_undershoot_color_light 50%, $_undershoot_color_dark 50%);
+    // background-image: linear-gradient(to $_gradient_dir, $_undershoot_color_light 50%, $_undershoot_color_dark 50%);
     padding-#{$p}: 1px;
     background-size: $_dash_bg_size;
     background-repeat: $_gradient_repeat;

@@ -7,4 +7,4 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=ukui-light
 MetacityTheme=ukui-light
-IconTheme=ukui-icon-theme-default
+IconTheme=ukui

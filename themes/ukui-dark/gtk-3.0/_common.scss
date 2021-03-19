@@ -3961,7 +3961,7 @@ colorchooser .popover.osd {
  * Window Decorations *
  *********************/
 decoration {
-	box-shadow: 0 0 5px #888;
+	/*box-shadow: 0 0 5px #888;*/
     // this needs to be transparent
     // see bug #722563
     $_wm_border: transparentize(black, 0.77);

@@ -62,7 +62,7 @@ style "default" {
 
 	GtkProgressBar::min-horizontal-bar-height = 14
 	GtkProgressBar::min-vertical-bar-width = 14
-	
+
 	GtkImage::x-ayatana-indicator-dynamic = 1
 	GtkMenuBar::window-dragging = 1
 
@@ -110,7 +110,7 @@ style "default" {
 		listviewstyle = 2
 		progressbarstyle = 0
 		colorize_scrollbar = FALSE
-		menubaritemstyle = 1
+		#menubaritemstyle = 1
 		menubarstyle = 1
 		menustyle = 0
 		focusstyle = 3
@@ -122,30 +122,30 @@ style "default" {
 	}
 }
 
-style "dark"
-{
-	color["bg_color_dark"] 	= "#3c3b37"
-	color["fg_color_dark"] 	= "#dfdbd2"
-	color["selected_fg_color_dark"] = "#ffffff"
+#style "dark"
+#{
+	#color["bg_color_dark"] 	= "#3c3b37"
+	#color["fg_color_dark"] 	= "#dfdbd2"
+	#color["selected_fg_color_dark"] = "#ffffff"
 
-	fg[NORMAL]        = @fg_color_dark
-	fg[PRELIGHT]	  = shade (1.15, @fg_color_dark)
-	fg[ACTIVE]	  = @fg_color_dark
-	fg[SELECTED]	  = @selected_fg_color_dark
-	fg[INSENSITIVE]	  = shade (0.5, @fg_color_dark)
-  
-	bg[NORMAL]        = @bg_color_dark
-	bg[ACTIVE]	  = shade (0.8, @bg_color_dark)
-	bg[SELECTED]      = @selected_bg_color
-	bg[PRELIGHT]      = shade (1.0, "#4D4C48")
-	bg[INSENSITIVE]   = shade (0.85, @bg_color_dark)
-  	
-	text[NORMAL]      = @fg_color_dark
-	text[PRELIGHT]	  = shade (1.15, @fg_color_dark)
-	text[SELECTED]	  = @selected_fg_color_dark
-	text[ACTIVE]      = @fg_color_dark
-	text[INSENSITIVE] = mix (0.5, @bg_color, @bg_color_dark)
-}
+	#fg[NORMAL]        = @fg_color_dark
+	#fg[PRELIGHT]	  = shade (1.15, @fg_color_dark)
+	#fg[ACTIVE]	  = @fg_color_dark
+	#fg[SELECTED]	  = @selected_fg_color_dark
+	#fg[INSENSITIVE]	  = shade (0.5, @fg_color_dark)
+
+	#bg[NORMAL]        = @bg_color_dark
+	#bg[ACTIVE]	  = shade (0.8, @bg_color_dark)
+	#bg[SELECTED]      = @selected_bg_color
+	#bg[PRELIGHT]      = shade (1.0, "#4D4C48")
+	#bg[INSENSITIVE]   = shade (0.85, @bg_color_dark)
+
+	#text[NORMAL]      = @fg_color_dark
+	#text[PRELIGHT]	  = shade (1.15, @fg_color_dark)
+	#text[SELECTED]	  = @selected_fg_color_dark
+	#text[ACTIVE]      = @fg_color_dark
+	#text[INSENSITIVE] = mix (0.5, @bg_color, @bg_color_dark)
+#}
 
 style "wide" {
 	xthickness = 2
@@ -234,7 +234,7 @@ style "scrollbar" = "button" {
 
 	bg[NORMAL] = @bg_color
 	bg[PRELIGHT] = shade (1.04, @bg_color)
-	
+
 	bg[ACTIVE] = shade (0.96, @bg_color)
 
 	engine "murrine"
@@ -294,7 +294,7 @@ style "notebook_bg" {
 style "notebook" {
 	xthickness = 2
 	ythickness = 2
-	
+
 	engine "murrine" {
 		roundness = 3
 		contrast = 0.8
@@ -313,7 +313,7 @@ style "statusbar" {
 style "comboboxentry" = "notebook_button" {
 	xthickness = 3
 	ythickness = 3
-	
+
 	engine "murrine" {
 		textstyle = 1
 		glowstyle = 5
@@ -323,20 +323,13 @@ style "comboboxentry" = "notebook_button" {
 
 style "menubar" = "dark" {
 	engine "murrine" {
-		textstyle = 2
+		#textstyle = 2
 		text_shade = 0.33
 		gradient_shades = {1.0, 1.0, 1.0, 1.0}
 		lightborder_shade = 1.0
 	}
 }
 
-style "toolbar" {
-	engine "murrine" {
-		textstyle = 1
-		text_shade = 1.32
-		lightborder_shade = 1.0
-	}
-}
 
 style "toolbar-button" = "notebook_button" {
 	engine "murrine" {
@@ -407,7 +400,7 @@ style "separator_menu_item" {
 	GtkWidget::wide-separators = 1
 	GtkWidget::separator-width = 1
 	GtkWidget::separator-height = 7
-	
+
 	engine "murrine" {
 		contrast = 0.6
 		separatorstyle = 0
