@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<title>éºéºä¼ ä¹¦</title>
+<g id="&#x5E95;&#x677F;_&#x590D;&#x5236;">
+	<g id="&#x7EFF;&#x84DD;&#x8272;">
+		<g id="_256">
+			<g opacity="8.000000e-02">
+				<path d="M130,254c-41.5,0-78.2-10.9-95.6-28.4S6,171.5,6,130s10.9-78.2,28.4-95.6S88.5,6,130,6s78.1,10.9,95.6,28.4
+					S254,88.5,254,130s-10.9,78.2-28.3,95.6S171.5,254,130,254z"/>
+			</g>
+			<g opacity="0.1">
+				<path d="M130,252c-41,0-77.1-10.6-94.2-27.8c-37-37-37-151.5,0-188.5C52.9,18.6,89,8,130,8s77.1,10.6,94.2,27.8
+					c37,37,37,151.5,0,188.5C207.1,241.4,171,252,130,252z"/>
+			</g>
+			<g opacity="0.2">
+				<path d="M128,250c-41,0-77.1-10.6-94.2-27.8c-37-37-37-151.5,0-188.5C50.9,16.6,87,6,128,6s77.1,10.6,94.2,27.8
+					c37,37,37,151.5,0,188.5C205.1,239.4,169,250,128,250z"/>
+			</g>
+			<g id="_256-2">
+				
+					<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="128" y1="-3986.0251" x2="128" y2="-3746.0127" gradientTransform="matrix(1 0 0 -1 0 -3738.0005)">
+					<stop  offset="0" style="stop-color:#1F98CA"/>
+					<stop  offset="1" style="stop-color:#5CB7C1"/>
+				</linearGradient>
+				<path fill="url(#SVGID_1_)" d="M220.8,220.8c-36.3,36.3-149.4,36.3-185.6,0s-36.3-149.4,0-185.6s149.4-36.3,185.6,0
+					S257.1,184.6,220.8,220.8z"/>
+			</g>
+			
+				<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="128" y1="-3978.0002" x2="128" y2="-3754.0002" gradientTransform="matrix(1 0 0 -1 0 -3738.0005)">
+				<stop  offset="0" style="stop-color:#336FD1"/>
+				<stop  offset="1" style="stop-color:#14B7B4"/>
+			</linearGradient>
+			<path fill="url(#SVGID_2_)" d="M128,240c-38.4,0-71.8-9.5-87.2-24.8S16,166.4,16,128s9.5-71.8,24.8-87.2S89.6,16,128,16
+				s71.8,9.5,87.2,24.8S240,89.6,240,128s-9.5,71.8-24.8,87.2S166.4,240,128,240z"/>
+		</g>
+	</g>
+</g>
+<g id="&#x9E92;&#x9E9F;&#x4F20;&#x4E66;">
+	<polygon fill="#1F4C8C" points="187.2,92.1 57.3,70.8 73,181.8 106.2,217.9 146.6,162.9 148.1,164.6 172,189.4 178,130.1 
+		223.4,114.1 	"/>
+	<polygon fill="#A5A5A5" points="156.9,146.3 172.1,183.5 57.3,64.9 	"/>
+	<polygon fill="#919191" points="149.9,143.8 149.3,159.9 143.4,153.9 	"/>
+	<polygon fill="#EFEFEF" points="178.5,121.1 57.3,64.9 187.3,86.3 223.4,108.2 	"/>
+	<polyline fill="#DCDDDD" points="57.3,64.9 149.9,143.8 172.1,183.5 178.5,121.1 	"/>
+	<polygon opacity="0.7" fill="#919191" enable-background="new    " points="187.3,86.3 127.6,97.5 126.7,138.2 123.4,95.8 	"/>
+	<polygon fill="#D3D3D3" points="123.4,95.8 126.8,139.3 57.3,64.9 	"/>
+	<polygon fill="#FFFFFF" points="123.5,95.8 57.3,64.9 187.3,86.3 	"/>
+	<polygon fill="#EFEFEF" points="149.9,143.8 57.3,64.9 73.1,175.9 106.3,212 	"/>
+	<polygon opacity="0.7" fill="#919191" enable-background="new    " points="110.2,110 113.3,112.6 73.1,175.9 	"/>
+	<polygon fill="#FFFFFF" points="110.3,109.7 57.3,64.9 73.1,175.9 	"/>
+</g>
+</svg>
