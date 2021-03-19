@@ -4,11 +4,11 @@
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <style type="text/css">
 	.st0{opacity:0.75;}
-	.st1{fill:none;stroke:#1F2022;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;enable-background:new    ;}
-	.st2{fill:none;stroke:#1F2022;stroke-linecap:round;stroke-miterlimit:10;enable-background:new    ;}
+	.st1{fill:#1F2022;}
 </style>
 <g id="图层_15" class="st0">
-	<polyline class="st1" points="2,3 8,9.5 14,3 	"/>
-	<line class="st2" x1="2.5" y1="12.5" x2="13.5" y2="12.5"/>
+	<path class="st1" d="M8,10c-0.1,0-0.3-0.1-0.4-0.2l-6-6.5c-0.2-0.2-0.2-0.5,0-0.7s0.5-0.2,0.7,0L8,8.8l5.6-6.1
+		c0.2-0.2,0.5-0.2,0.7,0c0.2,0.2,0.2,0.5,0,0.7l-6,6.5C8.3,9.9,8.1,10,8,10z"/>
+	<path class="st1" d="M13.5,13h-11C2.2,13,2,12.8,2,12.5S2.2,12,2.5,12h11c0.3,0,0.5,0.2,0.5,0.5S13.8,13,13.5,13z"/>
 </g>
 </svg>

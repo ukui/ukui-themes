@@ -4,12 +4,13 @@
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <style type="text/css">
 	.st0{opacity:0.75;}
-	.st1{fill:#1F2022;enable-background:new    ;}
-	.st2{fill:none;stroke:#1F2022;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#1F2022;}
 </style>
 <g id="图层_2_1_" class="st0">
 	<path class="st1" d="M11.9,12L8,3H7l-3.9,9H2v1h3v-1H4.2L5,10h5l0.9,2H10v1h3v-1H11.9z M5.5,9L7,5.5l0.5-1.1L8,5.5L9.5,9H5.5z"/>
-	<polyline class="st2" points="0.5,6.5 2.5,8.5 0.5,10.5 	"/>
-	<polyline class="st2" points="14.5,6.5 12.5,8.5 14.5,10.5 	"/>
+	<path class="st1" d="M0.5,11c-0.1,0-0.3,0-0.4-0.1c-0.2-0.2-0.2-0.5,0-0.7l1.6-1.6L0.1,6.9C0,6.7,0,6.3,0.1,6.1s0.5-0.2,0.7,0l2,2
+		C3,8.3,3,8.7,2.9,8.9l-2,2C0.8,11,0.6,11,0.5,11z"/>
+	<path class="st1" d="M14.5,11c-0.1,0-0.3,0-0.4-0.1l-2-2c-0.2-0.2-0.2-0.5,0-0.7l2-2c0.2-0.2,0.5-0.2,0.7,0s0.2,0.5,0,0.7l-1.6,1.6
+		l1.6,1.6c0.2,0.2,0.2,0.5,0,0.7C14.8,11,14.6,11,14.5,11z"/>
 </g>
 </svg>

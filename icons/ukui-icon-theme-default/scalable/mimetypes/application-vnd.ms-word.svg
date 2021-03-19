@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 96" enable-background="new 0 0 96 96" xml:space="preserve">
+<title>96</title>
+<g id="WPS">
+	<g id="W">
+		<g id="_96">
+			<g id="底色-浅橙">
+				
+					<linearGradient id="_48_1_" gradientUnits="userSpaceOnUse" x1="48" y1="-612" x2="48" y2="-696" gradientTransform="matrix(1 0 0 -1 0 -606)">
+					<stop  offset="0" style="stop-color:#558FF2"/>
+					<stop  offset="1" style="stop-color:#3F81E0"/>
+				</linearGradient>
+				<path id="_48" fill="url(#_48_1_)" d="M82,69V15c0-5-4-9-9-9H23c-5,0-9,4-9,9v66c0,5,4,9,9,9h38.2L82,69z"/>
+				
+					<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="63.9195" y1="-679.1906" x2="70.5395" y2="-684.7006" gradientTransform="matrix(1 0 0 -1 0 -606)">
+					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.4"/>
+					<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+				</linearGradient>
+				<path fill="url(#SVGID_1_)" d="M68,69h14L61,90V76C61,72.1,64.1,69,68,69z"/>
+			</g>
+			<g id="线" opacity="0.4">
+				<path fill="#FFFFFF" d="M28.5,57h39c0.8,0,1.5,0.7,1.5,1.5l0,0c0,0.8-0.7,1.5-1.5,1.5h-39c-0.8,0-1.5-0.7-1.5-1.5l0,0
+					C27,57.7,27.7,57,28.5,57z"/>
+				<path fill="#FFFFFF" d="M28.5,64h39c0.8,0,1.5,0.7,1.5,1.5l0,0c0,0.8-0.7,1.5-1.5,1.5h-39c-0.8,0-1.5-0.7-1.5-1.5l0,0
+					C27,64.7,27.7,64,28.5,64z"/>
+				<path fill="#FFFFFF" d="M28.5,71H51c0.8,0,1.5,0.7,1.5,1.5l0,0c0,0.8-0.7,1.5-1.5,1.5H28.5c-0.8,0-1.5-0.7-1.5-1.5l0,0
+					C27,71.7,27.7,71,28.5,71z"/>
+			</g>
+			<polyline id="w-2" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="
+				29,19 29,52 48,35 67,52 67,19 			"/>
+		</g>
+	</g>
+</g>
+</svg>

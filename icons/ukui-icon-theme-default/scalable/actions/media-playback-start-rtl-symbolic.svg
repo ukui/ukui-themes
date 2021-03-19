@@ -3,8 +3,8 @@
 <svg version="1.1" id="图层_2_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <style type="text/css">
-	
-		.st0{opacity:0.75;fill:none;stroke:#1F2022;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;enable-background:new    ;}
+	.st0{opacity:0.75;fill:#1F2022;enable-background:new    ;}
 </style>
-<polygon class="st0" points="11.5,2.5 4,8 11.5,13.5 "/>
+<path class="st0" d="M11.5,14c-0.1,0-0.2,0-0.3-0.1L3.7,8.4C3.6,8.3,3.5,8.2,3.5,8s0.1-0.3,0.2-0.4l7.5-5.5c0.2-0.1,0.4-0.1,0.5,0
+	C11.9,2.1,12,2.3,12,2.5v11c0,0.2-0.1,0.4-0.3,0.4C11.7,14,11.6,14,11.5,14z M4.8,8l6.2,4.5v-9L4.8,8z"/>
 </svg>
