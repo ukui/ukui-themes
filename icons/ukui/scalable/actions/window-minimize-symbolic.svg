@@ -3,8 +3,8 @@
 <svg version="1.1" id="gtk-remove" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.75;fill:none;stroke:#1F2022;stroke-linecap:round;stroke-miterlimit:10;}
+	.st0{opacity:0.75;fill:#1F2022;enable-background:new    ;}
 </style>
 <title>window-minimize-symbolic</title>
-<line class="st0" x1="3.5" y1="8.5" x2="12.5" y2="8.5"/>
+<path class="st0" d="M12.5,9h-9C3.2,9,3,8.8,3,8.5S3.2,8,3.5,8h9C12.8,8,13,8.2,13,8.5S12.8,9,12.5,9z"/>
 </svg>

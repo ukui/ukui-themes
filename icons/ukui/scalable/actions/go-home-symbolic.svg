@@ -1,1 +1,16 @@
-<svg id="房子" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1,.cls-3{fill:#1f2022;}.cls-1,.cls-2{opacity:0.75;}</style></defs><title>go-home-symbolic</title><path class="cls-1" d="M14,8.58V14a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V8.58l1-1V14a1,1,0,0,0,1,1h8a1,1,0,0,0,1-1V7.58Z"/><polygon class="cls-1" points="10 10 10 15 9 15 9 11 7 11 7 15 6 15 6 10 10 10"/><g class="cls-2"><polygon class="cls-3" points="14 3 12 3 12 5.17 14 7.17 14 3 14 3"/></g><path class="cls-1" d="M15.78,9l-.71.7L9.42,4l-.71-.71a1,1,0,0,0-1.42,0L6.58,4,.93,9.65.22,9,5.17,4,6.59,2.58a2,2,0,0,1,2.82,0L10.83,4Z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="房子" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.75;}
+	.st1{fill:#1F2022;enable-background:new    ;}
+</style>
+<title>go-home-symbolic</title>
+<g class="st0">
+	<polygon class="st1" points="14,3 12,3 12,5.2 14,7.2 	"/>
+	<path class="st1" d="M15.8,9l-5-5L9.4,2.6c-0.8-0.8-2-0.8-2.8,0L5.2,4l-5,5l0.7,0.7L2,8.6V14c0,1.1,0.9,2,2,2h8c1.1,0,2-0.9,2-2
+		V8.6l1.1,1.1L15.8,9z M7,15v-4h2v4H7z M13,14c0,0.6-0.4,1-1,1h-2v-5H6v5H4c-0.6,0-1-0.4-1-1V7.6L6.6,4l0.7-0.7c0,0,0,0,0,0
+		c0.4-0.4,1-0.4,1.4,0L9.4,4L13,7.6V14z"/>
+</g>
+</svg>

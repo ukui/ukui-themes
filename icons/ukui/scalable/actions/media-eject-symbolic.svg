@@ -4,10 +4,11 @@
 	 y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <style type="text/css">
 	.st0{opacity:0.75;}
-	.st1{fill:none;stroke:#1F2022;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#1F2022;}
 </style>
 <g class="st0">
-	<polygon class="st1" points="8,3.5 2.5,10.5 13.5,10.5 	"/>
-	<line class="st1" x1="2.5" y1="12.5" x2="13.5" y2="12.5"/>
+	<path class="st1" d="M13.5,11h-11c-0.2,0-0.4-0.1-0.4-0.3S2,10.3,2.1,10.2l5.5-7c0.2-0.2,0.6-0.2,0.8,0l5.5,7
+		c0.1,0.2,0.1,0.4,0.1,0.5C13.9,10.9,13.7,11,13.5,11z M3.5,10h8.9L8,4.3L3.5,10z"/>
+	<path class="st1" d="M13.5,13h-11C2.2,13,2,12.8,2,12.5S2.2,12,2.5,12h11c0.3,0,0.5,0.2,0.5,0.5S13.8,13,13.5,13z"/>
 </g>
 </svg>
