@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="MATE磁盘用量分析器" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
-<title>128</title>
-<circle fill="#FBD87F" cx="64" cy="64" r="60"/>
-<path fill="#0099DE" d="M64,4C30.8,4,4,30.8,4,64s26.8,60,60,60c12.1,0,23.4-3.6,32.8-9.8L64,64V4z"/>
-<path fill="#F2776C" d="M64,4v60h60C124,30.8,97.2,4,64,4z"/>
-</svg>
